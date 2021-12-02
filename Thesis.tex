@@ -1,0 +1,181 @@
+\documentclass[11pt]{report}
+\usepackage{graphicx}
+\usepackage[margin = 2.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{lscape}
+\usepackage{mdframed}
+\usepackage{xcolor}
+
+% checkmarks
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+
+% fancy chapter headers
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+% captions
+\usepackage[labelfont=bf]{caption}
+\captionsetup{skip=7pt, font=footnotesize} %,font={stretch=1}
+
+% tables
+\usepackage{multirow}
+%\usepackage{longtable} 
+\usepackage{array}
+%\usepackage{verbatim} 
+\usepackage{csvsimple}
+
+% clinkable links 
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=false, %set true if you want colored links
+    linktoc=all     %set to all if you want both sections and subsections linked
+    %linkcolor=blue,  %choose some color if you want links to stand out
+}
+
+% Bibliography
+\usepackage[backend=bibtex, natbib=true, url=false, doi=true, isbn=false, style=authoryear-comp, eprint=false, maxbibnames= 20, firstinits=true, maxcitenames=2]{biblatex}
+\addbibresource{LIBRARY.bib}
+\input{biblatex_options.tex}
+
+\setlength\bibitemsep{1.5\itemsep}
+% Numbering biblio
+\usepackage[numbib,nottoc]{tocbibind}
+
+% For tables from csv
+\usepackage{csvsimple}
+
+% line spacing
+\renewcommand{\baselinestretch}{1.5}
+
+%Line numbering
+\usepackage{lineno}
+%\linenumbers
+
+\usepackage{moreverb} % for verbatim ouput
+
+%\usepackage{lmodern}
+\usepackage{times}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\begin{document}
+
+\input{Title_page}
+
+%\maketitle
+
+% Declarations and acknowledgements here
+\chapter*{Declaration}
+%I, Adrienne Etard, confirm that the work presented in this thesis is my own. Where information has been derived from other sources, I confirm that this has been indicated in the thesis.
+The work presented in this thesis is my own. Some parts have been conducted in collaboration
+with other researchers, and this is indicated where relevant. All else is appropriately referenced.
+
+
+\vspace{3cm}
+This document was compiled with {\LaTeX}; the source code and files are available at:
+
+\chapter*{Acknowledgments}
+
+\chapter*{Impact statement}
+
+\chapter*{Abstract}
+%This report summarises the work I have achieved throughout the first year of my PhD thesis at the Center for Biodiversity and Environment Research at UCL. Many experts state we have entered a new geological epoch, the Anthropocene, characterised by increasing impacts of human activities on the Earth's systems. Since the industrial revolution in the 18$^{\text{th}}$ century, anthropogenic activities have triggered global changes of planetary climate, and have led to the destruction and alteration of the natural habitat of many species. 
+
+%The impacts on global biodiversity have been dramatic. Vertebrate populations have globally declined by 60\% since 1970. Conserving biodiversity is not just a moral obligation. Biodiversity sustain important ecological processes that participate in making the planet habitable by humans. In order to put into place efficient conservation measures, it is vital to understand how different species cope with anthropogenic disturbances. Particularly, understanding what makes species sensitive to anthropogenic threats is valuable to conservation planning.
+
+%In the first Chapter, I present how trait-based approaches can be used to understand how species respond to disturbances, and how anthropogenic changes alter the composition of vertebrate communities. After exposing the gaps in our current understanding, I briefly detail the questions I tackled in this report. The second Chapter focuses on the collection of trait data across terrestrial vertebrates. These data were used in the third Chapter, which investigates how global land-use change impacts the functional diversity of local vertebrate communities. Finally, the last Chapter presents research questions I aim to tackle in the future years of my PhD.
+
+\vspace{1cm}
+\textbf{Key words:} vertebrates; traits; land-use change; climate change; functional diversity; vulnerability.
+
+
+% CONTENTS
+\clearpage
+\tableofcontents
+
+%\cleardoublepage
+%\addcontentsline{toc}{section}{List of Tables}
+\listoftables
+%\clearpage
+
+%\addcontentsline{toc}{section}{List of Figures}
+\listoffigures
+
+% \clearpage
+%List of abbreviations
+%\addcontentsline{toc}{section}{List of abbreviations}
+
+
+%\chapter*{List of abbreviations}
+%\input{Abbreviations}
+
+\clearpage
+%\addcontentsline{toc}{chapter}{Introduction}
+\chapter{General Introduction}
+%\input{Chapters/Introduction}
+
+
+\section*{Thesis outline}
+%% include a thesis outline
+\textcolor{blue}{\textbf{The content of Chapter 2 was published in October 2020 in \textit{Global Ecology and Biogeography}, in a research article co-authored by myself, Tim Newbold and Sophie Morrill, who contributed data on XXX \citep{Etard2020}.}}
+
+\chapter{Global gaps and biases in terrestrial vertebrate trait data}
+\input{Chapters/Chapter2}
+
+\chapter{Intense human land uses negatively affect vertebrate functional diversity}
+%\input{Chapters/Chapter2}
+
+\chapter{Different traits explain sensitivity to land use}
+%\input{Chapters/Chapter3}
+
+\chapter{Traits \& sensitivity to climate change}
+%\input{Chapters/Chapter4}
+
+\chapter{General Discussion}
+
+\chapter{Conclusion}
+
+
+\clearpage
+\chapter*{Bibliography}
+\renewcommand{\baselinestretch}{1}
+\printbibliography[heading=none]
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% APPENDICES %% Structured by chapters
+
+% line spacing
+\renewcommand{\baselinestretch}{1.15}
+
+% figure and section numbering -- start with S for the appendices
+
+\clearpage
+\chapter*{Appendices}
+\clearpage
+
+\chapter*{Appendix 1: Supporting information for Chapter 1}
+
+\chapter*{Appendix 2: Supporting information for Chapter 2}
+\renewcommand{\thefigure}{S2.\arabic{figure}}
+\renewcommand{\thetable}{S2.\arabic{table}}
+\renewcommand{\thesection}{S2.\arabic{section} }
+\input{Supporting/Chapter2/SI_Chapter2}
+
+\chapter*{Appendix 3: Supporting information for Chapter 3}
+
+\chapter*{Appendix 4: Supporting information for Chapter 4}
+
+
+
+\end{document}
