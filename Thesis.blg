@@ -1,24 +1,68 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
 The style file: biblatex.bst
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'field_info' (item size: 4) to 18761 items.
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
-Warning--I didn't find a database entry for "Collen2016"
-Warning--I didn't find a database entry for "Purvis2000"
-Warning--I didn't find a database entry for "Ripple2017"
-Warning--I didn't find a database entry for "Newbold2018a"
-Warning--I didn't find a database entry for "Barlow2018"
-Warning--I didn't find a database entry for "Peugh2004"
-Warning--I didn't find a database entry for "Penone2014"
-Warning--I didn't find a database entry for "Bruggeman2009"
-Warning--I didn't find a database entry for "Stekhoven2016"
-Warning--I didn't find a database entry for "Stekhoven2012"
-Warning--I didn't find a database entry for "micepackage"
-Warning--I didn't find a database entry for "Troyanskaya2001"
-Biblatex version: 3.11
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2658 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-(There were 14 warnings)
+Reallocating 'str_pool' (item size: 1) to 130000 items.
+Reallocating 'str_pool' (item size: 1) to 195000 items.
+Biblatex version: 3.13
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 99 entries,
+            6365 wiz_defined-function locations,
+            1995 strings with 133880 characters,
+and the built_in function-call counts, 1536068 in all, are:
+= -- 131555
+> -- 17568
+< -- 3771
++ -- 42694
+- -- 8798
+* -- 132596
+:= -- 193824
+add.period$ -- 0
+call.type$ -- 99
+change.case$ -- 1183
+chr.to.int$ -- 45
+cite$ -- 196
+duplicate$ -- 141181
+empty$ -- 130035
+format.name$ -- 13741
+if$ -- 300985
+int.to.chr$ -- 0
+int.to.str$ -- 217
+missing$ -- 0
+newline$ -- 7222
+num.names$ -- 4249
+pop$ -- 43422
+preamble$ -- 1
+purify$ -- 2804
+quote$ -- 0
+skip$ -- 21775
+stack$ -- 0
+substring$ -- 273310
+swap$ -- 25552
+text.length$ -- 4321
+text.prefix$ -- 100
+top$ -- 1
+type$ -- 3353
+warning$ -- 0
+while$ -- 24346
+width$ -- 0
+write$ -- 7124

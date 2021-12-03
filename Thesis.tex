@@ -51,8 +51,6 @@
 % For tables from csv
 \usepackage{csvsimple}
 
-% line spacing
-\renewcommand{\baselinestretch}{1.5}
 
 %Line numbering
 \usepackage{lineno}
@@ -67,6 +65,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% line spacing
+\renewcommand{\baselinestretch}{1.5}
 
 
 \begin{document}
@@ -83,7 +83,7 @@ with other researchers, and this is indicated where relevant. All else is approp
 
 
 \vspace{3cm}
-This document was compiled with {\LaTeX}; the source code and files are available at:
+This document was compiled with {\LaTeX}; the source code and files are available at: \url{https://github.com/AdrienneEtard}
 
 \chapter*{Acknowledgments}
 
@@ -97,7 +97,7 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 %In the first Chapter, I present how trait-based approaches can be used to understand how species respond to disturbances, and how anthropogenic changes alter the composition of vertebrate communities. After exposing the gaps in our current understanding, I briefly detail the questions I tackled in this report. The second Chapter focuses on the collection of trait data across terrestrial vertebrates. These data were used in the third Chapter, which investigates how global land-use change impacts the functional diversity of local vertebrate communities. Finally, the last Chapter presents research questions I aim to tackle in the future years of my PhD.
 
 \vspace{1cm}
-\textbf{Key words:} vertebrates; traits; land-use change; climate change; functional diversity; vulnerability.
+\textbf{Key words:} terrestrial vertebrates; traits; land-use change; land-use type; land-use intensity; climate change; functional diversity; vulnerability; metabolic rates.
 
 
 % CONTENTS
@@ -119,6 +119,7 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 
 %\chapter*{List of abbreviations}
 %\input{Abbreviations}
+
 
 \clearpage
 %\addcontentsline{toc}{chapter}{Introduction}
@@ -148,6 +149,7 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 
 
 \clearpage
+\addcontentsline{toc}{chapter}{Bibliography}
 \chapter*{Bibliography}
 \renewcommand{\baselinestretch}{1}
 \printbibliography[heading=none]
@@ -161,19 +163,25 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 % figure and section numbering -- start with S for the appendices
 
 \clearpage
+
+\addcontentsline{toc}{chapter}{Appendices}
 \chapter*{Appendices}
 \clearpage
 
+\addcontentsline{toc}{chapter}{Appendix 1: Supporting information for Chapter 1}
 \chapter*{Appendix 1: Supporting information for Chapter 1}
 
+\addcontentsline{toc}{chapter}{Appendix 2: Supporting information for Chapter 2}
 \chapter*{Appendix 2: Supporting information for Chapter 2}
 \renewcommand{\thefigure}{S2.\arabic{figure}}
 \renewcommand{\thetable}{S2.\arabic{table}}
 \renewcommand{\thesection}{S2.\arabic{section} }
 \input{Supporting/Chapter2/SI_Chapter2}
 
+\addcontentsline{toc}{chapter}{Appendix 3: Supporting information for Chapter 3}
 \chapter*{Appendix 3: Supporting information for Chapter 3}
 
+\addcontentsline{toc}{chapter}{Appendix 4: Supporting information for Chapter 4}
 \chapter*{Appendix 4: Supporting information for Chapter 4}
 
 
