@@ -1,7 +1,7 @@
-\BOOKMARK [0][-]{chapter*.8}{List of Tables}{}% 1
-\BOOKMARK [0][-]{chapter*.9}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter*.9}{List of Tables}{}% 1
+\BOOKMARK [0][-]{chapter*.10}{List of Figures}{}% 2
 \BOOKMARK [0][-]{chapter.1}{General Introduction}{}% 3
-\BOOKMARK [0][-]{chapter.2}{Global gaps and biases in terrestrial vertebrate trait data}{}% 4
+\BOOKMARK [0][-]{chapter.2}{Global gaps and biases in trait data for terrestrial vertebrates}{}% 4
 \BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 5
 \BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 6
 \BOOKMARK [2][-]{subsection.2.2.1}{Trait data collection}{section.2.2}% 7
@@ -11,23 +11,32 @@
 \BOOKMARK [2][-]{subsection.2.3.2}{Phylogenetic biases in trait completeness}{section.2.3}% 11
 \BOOKMARK [2][-]{subsection.2.3.3}{Spatial biases in trait completeness}{section.2.3}% 12
 \BOOKMARK [1][-]{section.2.4}{Discussion}{chapter.2}% 13
-\BOOKMARK [0][-]{chapter.3}{Intense human land uses negatively affect vertebrate functional diversity}{}% 14
-\BOOKMARK [0][-]{chapter.4}{Different traits explain sensitivity to land use}{}% 15
-\BOOKMARK [0][-]{chapter.5}{Traits \046 sensitivity to climate change}{}% 16
-\BOOKMARK [0][-]{chapter.6}{General Discussion}{}% 17
-\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 18
-\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 19
-\BOOKMARK [0][-]{chapter*.25}{Appendices}{}% 20
-\BOOKMARK [0][-]{chapter*.26}{Appendix 1: Supporting information for Chapter 1}{}% 21
-\BOOKMARK [0][-]{chapter*.27}{Appendix 2: Supporting information for Chapter 2}{}% 22
-\BOOKMARK [1][-]{section.7.1}{Taxonomic corrections}{chapter*.27}% 23
-\BOOKMARK [1][-]{section.7.2}{Additional information for trait compilation}{chapter*.27}% 24
-\BOOKMARK [1][-]{section.7.3}{Cutting distribution maps by altitudinal limits}{chapter*.27}% 25
-\BOOKMARK [1][-]{section.7.4}{Impact of taxonomic corrections on trait coverage}{chapter*.27}% 26
-\BOOKMARK [1][-]{section.7.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.27}% 27
-\BOOKMARK [1][-]{section.7.6}{Phylogenetic patterns in trait completeness}{chapter*.27}% 28
-\BOOKMARK [1][-]{section.7.7}{Model coefficients for Range size against Number of sampled traits \(Poisson model\).}{chapter*.27}% 29
-\BOOKMARK [1][-]{section.7.8}{Spatial models summaries}{chapter*.27}% 30
-\BOOKMARK [1][-]{section.7.9}{Trait coverage and taxonomic matching}{chapter*.27}% 31
-\BOOKMARK [0][-]{figure.caption.51}{Appendix 3: Supporting information for Chapter 3}{}% 32
-\BOOKMARK [0][-]{chapter*.52}{Appendix 4: Supporting information for Chapter 4}{}% 33
+\BOOKMARK [0][-]{chapter.3}{Intensive human land uses negatively affect vertebrate functional diversity}{}% 14
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.2.1}{Vertebrate assemblages}{section.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.2.2}{Functional traits and diversity indices}{section.3.2}% 18
+\BOOKMARK [2][-]{subsection.3.2.3}{Effects of land use and use intensity on FRic and FDis \(Hypothesis 1\)}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.4}{Investigating functional under-dispersion \(Hypothesis 2\)}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.5}{Functional loss and functional gain \(Hypothesis 3\)}{section.3.2}% 21
+\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{Discussion}{chapter.3}% 23
+\BOOKMARK [0][-]{chapter.4}{Different traits explain sensitivity to land use}{}% 24
+\BOOKMARK [0][-]{chapter.5}{Traits \046 sensitivity to climate change}{}% 25
+\BOOKMARK [0][-]{chapter.6}{General Discussion}{}% 26
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 27
+\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 28
+\BOOKMARK [0][-]{chapter*.26}{Appendices}{}% 29
+\BOOKMARK [0][-]{chapter*.27}{Appendix 1: Supporting information for Chapter 1}{}% 30
+\BOOKMARK [0][-]{chapter*.28}{Appendix 2: Supporting information for Chapter 2}{}% 31
+\BOOKMARK [1][-]{section.7.1}{Taxonomic corrections}{chapter*.28}% 32
+\BOOKMARK [1][-]{section.7.2}{Additional information for trait compilation}{chapter*.28}% 33
+\BOOKMARK [1][-]{section.7.3}{Cutting distribution maps by altitudinal limits}{chapter*.28}% 34
+\BOOKMARK [1][-]{section.7.4}{Impact of taxonomic corrections on trait coverage}{chapter*.28}% 35
+\BOOKMARK [1][-]{section.7.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.28}% 36
+\BOOKMARK [1][-]{section.7.6}{Phylogenetic patterns in trait completeness}{chapter*.28}% 37
+\BOOKMARK [1][-]{section.7.7}{Model coefficients for Range size against Number of sampled traits \(Poisson model\).}{chapter*.28}% 38
+\BOOKMARK [1][-]{section.7.8}{Spatial models summaries}{chapter*.28}% 39
+\BOOKMARK [1][-]{section.7.9}{Trait coverage and taxonomic matching}{chapter*.28}% 40
+\BOOKMARK [0][-]{figure.caption.52}{Appendix 3: Supporting information for Chapter 3}{}% 41
+\BOOKMARK [0][-]{chapter*.53}{Appendix 4: Supporting information for Chapter 4}{}% 42

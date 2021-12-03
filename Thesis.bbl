@@ -67,6 +67,91 @@
     \field{year}{2010}
   \endentry
 
+  \entry{Barber2010}{article}{}
+    \name{author}{6}{}{%
+      {{hash=BNA}{%
+         family={Barber},
+         familyi={B\bibinitperiod},
+         given={N.\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MKA}{%
+         family={Mooney},
+         familyi={M\bibinitperiod},
+         given={K.\bibnamedelima A.},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Greenberg},
+         familyi={G\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PSM}{%
+         family={Philpott},
+         familyi={P\bibinitperiod},
+         given={S.\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VSA}{%
+         family={{Van Bael}},
+         familyi={V\bibinitperiod},
+         given={S.\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GDS}{%
+         family={Gruner},
+         familyi={G\bibinitperiod},
+         given={D.\bibnamedelima S.},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNA+1}
+    \strng{fullhash}{BNAMKAGRPSMVSAGDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Theory on trophic interactions predicts that predators increase plant
+  biomass by feeding on herbivores, an indirect interaction called a trophic
+  cascade. Theory also predicts that predators feeding on predators, or
+  intraguild predation, will weaken trophic cascades. Although past syntheses
+  have confirmed cascading effects of terrestrial arthropod predators, we lack
+  a comprehensive analysis for vertebrate insectivores-which by virtue of their
+  body size and feeding habits are often top predators in these systems-and of
+  how intraguild predation mediates trophic cascade strength. We report here on
+  a meta-analysis of 113 experiments documenting the effects of insectivorous
+  birds, bats, or lizards on predaceous arthropods, herbivorous arthropods, and
+  plants. Although vertebrate insectivores fed as intraguild predators,
+  strongly reducing predaceous arthropods (38%), they nevertheless suppressed
+  herbivores (39%), indirectly reduced plant damage (40%), and increased plant
+  biomass (14%). Furthermore, effects of vertebrate insectivores on predatory
+  and herbivorous arthropods were positively correlated. Effects were strongest
+  on arthropods and plants in communities with abundant predaceous arthropods
+  and strong intraguild predation, but weak in communities depauperate in
+  arthropod predators and intraguild predation. The naturally occurring ratio
+  of arthropod predators relative to herbivores varied tremendously among the
+  studied communities, and the skew to predators increased with site primary
+  productivity and in trees relative to shrubs. Although intraguild predation
+  among arthropod predators has been shown to weaken herbivore suppression, we
+  find this paradigm does not extend to vertebrate insectivores in these
+  communities. Instead, vertebrate intraguild preda-tion is associated with
+  strengthened trophic cascades, and insectivores function as dominant
+  predators in terrestrial plant-arthropod communities.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1001934107
+    \endverb
+    \field{issn}{0027-8424}
+    \field{title}{{Interactions among predators and the cascading effects of
+  vertebrate insectivores on arthropod communities and plants}}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2010}
+  \endentry
+
   \entry{Barlow2018}{article}{}
     \name{author}{17}{}{%
       {{hash=BJ}{%
@@ -824,6 +909,53 @@
     \field{year}{2007}
   \endentry
 
+  \entry{Cadotte2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CMW}{%
+         family={Cadotte},
+         familyi={C\bibinitperiod},
+         given={Marc\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=TCM}{%
+         family={Tucker},
+         familyi={T\bibinitperiod},
+         given={Caroline\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CMWTCM1}
+    \strng{fullhash}{CMWTCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Environmental filtering, where the environment selects against certain
+  species, is thought to be a major mechanism structuring communities. However,
+  recent criticisms cast doubt on our ability to accurately infer filtering
+  because competition can give rise to patterns identical to those caused by
+  environmental filtering. While experiments can distinguish mechanisms,
+  observational patterns are especially problematic. The environment determines
+  community composition not only directly via survival, but also by influencing
+  competition. If species population growth rates covary with environmental
+  gradients, then outcomes of competitive exclusion will also vary with the
+  environment. Here, we argue that observational studies remain valuable, but
+  inferences about the importance of the environment cannot rely on
+  compositional data alone, and that species abundances, population growth, or
+  traits must be correlated with the environment.%
+    }
+    \field{booktitle}{Trends in Ecology and Evolution}
+    \verb{doi}
+    \verb 10.1016/j.tree.2017.03.004
+    \endverb
+    \field{issn}{01695347}
+    \field{title}{{Should Environmental Filtering be Abandoned?}}
+    \field{year}{2017}
+  \endentry
+
   \entry{Cardoso2017}{article}{}
     \name{author}{44}{}{%
       {{hash=CD}{%
@@ -1229,6 +1361,80 @@
     \field{year}{2013}
   \endentry
 
+  \entry{Chapman2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CPM}{%
+         family={Chapman},
+         familyi={C\bibinitperiod},
+         given={Philip\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TJA}{%
+         family={Tobias},
+         familyi={T\bibinitperiod},
+         given={Joseph\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EDP}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={David\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DRG}{%
+         family={Davies},
+         familyi={D\bibinitperiod},
+         given={Richard\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \keyw{biodiversity indices,birds,disturbance,functional diversity,oil
+  palm,phylogenetic diversity,selective logging,species richness,tropical
+  rainforest}
+    \strng{namehash}{CPM+1}
+    \strng{fullhash}{CPMTJAEDPDRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Biodiversity conservation strategies increasingly target maintaining
+  evolutionary history and the resilience of ecosystem function, not just
+  species richness (SR). This has led to the emergence of two metrics commonly
+  proposed as tools for decision making: phylogenetic diversity (PD) and
+  functional diversity (FD). Yet, the extent to which they are interchangeable
+  remains poorly understood. We explore shifts in and relationships between FD
+  and PD of bird communities across a disturbance gradient in Borneo, from
+  old-growth tropical forest to oil palm plantation. We show a marked decline
+  in PD, and an increase in phylogenetic mean nearest taxon distance from
+  forest to oil palm, in line with declining SR across the gradient. However,
+  phylogenetic mean pairwise distance is constrained by forest logging more
+  than by conversion to oil palm, taking account of SR. The decline in FD
+  across the gradient is less severe than in PD, with all metrics indicating
+  relatively high trait diversity in oil palm despite low SR, although
+  functional redundancy is much reduced. Accounting for SR, levels of
+  functional over- or under-dispersion of bird communities are strongly coupled
+  to habitat disturbance level rather than to any equivalent phylogenetic
+  metric. Policy implications. We suggest that while phylogenetic diversity
+  (PD) is an improvement on species richness as a proxy for functional
+  diversity (FD), conservation decisions based on phylogenetic diversity alone
+  cannot reliably safeguard maximal functional diversity. Thus, phylogenetic
+  diversity and functional diversity are related but still complementary.
+  Priority setting exercises should use these metrics in combination to
+  identify conservation targets.%
+    }
+    \verb{doi}
+    \verb 10.1111/1365-2664.13073
+    \endverb
+    \field{issn}{13652664}
+    \field{title}{{Contrasting impacts of land-use change on phylogenetic and
+  functional diversity of tropical forest birds}}
+    \field{journaltitle}{Journal of Applied Ecology}
+    \field{year}{2018}
+  \endentry
+
   \entry{CHAUDHARY2016}{article}{}
     \name{author}{3}{}{%
       {{hash=CC}{%
@@ -1287,6 +1493,91 @@
     \field{volume}{31}
     \field{journaltitle}{Trends in Ecology {\&} Evolution}
     \field{year}{2016}
+  \endentry
+
+  \entry{Colin2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CN}{%
+         family={Colin},
+         familyi={C\bibinitperiod},
+         given={Nicole},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vill{\'{e}}ger},
+         familyi={V\bibinitperiod},
+         given={S{\'{e}}bastien},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wilkes},
+         familyi={W\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=dSA}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Sostoa},
+         familyi={S\bibinitperiod},
+         given={Adolfo},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MVA}{%
+         family={Maceda-Veiga},
+         familyi={M\bibinithyphendelim V\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Biomonitoring,Fish assemblages,Functional diversity,Human
+  disturbance,Mediterranean rivers,Non-native species}
+    \strng{namehash}{CN+1}
+    \strng{fullhash}{CNVSWMSAdMVA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Trait-based ecology has been developed for decades to infer ecosystem
+  responses to stressors based on the functional structure of communities, yet
+  its value in species-poor systems is largely unknown. Here, we used an
+  extensive dataset in a Spanish region highly prone to non-native fish
+  invasions (15 catchments, N = 389 sites) to assess for the first time how
+  species-poor communities respond to large-scale environmental gradients using
+  a taxonomic and functional trait-based approach in riverine fish. We examined
+  total species richness and three functional trait-based indices available
+  when many sites have ≤ 3 species (specialization, FSpe; originality, FOri
+  and entropy, FEnt). We assessed the responses of these taxonomic and
+  functional indices along gradients of altitude, water pollution, physical
+  habitat degradation and non-native fish biomass. Whilst species richness was
+  relatively sensitive to spatial effects, functional diversity indices were
+  responsive across natural and anthropogenic gradients. All four diversity
+  measures declined with altitude but this decline was modulated by physical
+  habitat degradation (richness, FSpe and FEnt) and the non-native:total fish
+  biomass ratio (FSpe and FOri) in ways that varied between indices.
+  Furthermore, FSpe and FOri were significantly correlated with Total Nitrogen.
+  Non-native fish were a major component of the taxonomic and functional
+  structure of fish communities, raising concerns about potential misdiagnosis
+  between invaded and environmentally-degraded river reaches. Such misdiagnosis
+  was evident in a regional fish index widely used in official monitoring
+  programs. We recommend the application of FSpe and FOri to extensive datasets
+  from monitoring programs in order to generate valuable cross-system
+  information about the impacts of non-native species and habitat degradation,
+  even in species-poor systems. Scoring non-native species apart from habitat
+  degradation in the indices used to determine ecosystem health is essential to
+  develop better management strategies.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.scitotenv.2017.12.316
+    \endverb
+    \field{issn}{18791026}
+    \field{title}{{Functional diversity measures revealed impacts of non-native
+  species and habitat degradation on species-poor freshwater fish assemblages}}
+    \field{journaltitle}{Science of the Total Environment}
+    \field{year}{2018}
   \endentry
 
   \entry{Collen2016}{article}{}
@@ -1620,7 +1911,7 @@
     }
     \keyw{Amphibian,Body size,Clutch size,Conservation,Extinction
   risk,Geographical range size,Independent contrasts,Spatial autocorrelation}
-    \strng{namehash}{CN+1}
+    \strng{namehash}{CN+2}
     \strng{fullhash}{CNBJTGHPA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -1636,6 +1927,144 @@
     \field{title}{{Macroecology and extinction risk correlates of frogs}}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2008}
+  \endentry
+
+  \entry{Cornwell2006}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CWK}{%
+         family={Cornwell},
+         familyi={C\bibinitperiod},
+         given={William\bibnamedelima K.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SDW}{%
+         family={Schwilk},
+         familyi={S\bibinitperiod},
+         given={Dylan\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=ADD}{%
+         family={Ackerly},
+         familyi={A\bibinitperiod},
+         given={David\bibnamedelima D.},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{Chaparral,Community assembly,Convex hull,Habitat filtering,Plant,Seed
+  mass,Specific leaf area,Trait,Wood density}
+    \strng{namehash}{CWK+1}
+    \strng{fullhash}{CWKSDWADD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Community assembly theory suggests that two processes affect the
+  distribution of trait values within communities: competition and habitat
+  filtering. Within a local community, competition leads to ecological
+  differentiation of coexisting species, while habitat filtering reduces the
+  spread of trait values, reflecting shared ecological tolerances. Many
+  statistical tests for the effects of competition exist in the literature, but
+  measures of habitat filtering are less well-developed. Here, we present
+  convex hull volume, a construct from computational geometry, which provides
+  an n-dimensional measure of the volume of trait space occupied by species in
+  a community. Combined with ecological null models, this measure offers a
+  useful test for habitat filtering. We use convex hull volume and a null model
+  to analyze California woody-plant trait and community data. Our results show
+  that observed plant communities occupy less trait space than expected from
+  random assembly, a result consistent with habitat filtering. {\textcopyright}
+  2006 by the Ecological Society of America.%
+    }
+    \verb{doi}
+    \verb 10.1890/0012-9658(2006)87[1465:ATTFHF]2.0.CO;2
+    \endverb
+    \field{issn}{00129658}
+    \field{title}{{A trait-based test for habitat filtering: Convex hull
+  volume}}
+    \field{journaltitle}{Ecology}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Davison2021}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DCW}{%
+         family={Davison},
+         familyi={D\bibinitperiod},
+         given={Charles\bibnamedelima W.},
+         giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Rahbek},
+         familyi={R\bibinitperiod},
+         given={Carsten},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MHN}{%
+         family={Morueta-Holme},
+         familyi={M\bibinithyphendelim H\bibinitperiod},
+         given={Naia},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \keyw{biodiversity,climate change,geographic bias,land-use change,land-use
+  history,named entity extraction,research priorities,taxonomic bias}
+    \strng{namehash}{DCW+1}
+    \strng{fullhash}{DCWRCMHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Land-use change is considered the greatest threat to nature, having caused
+  worldwide declines in the abundance, diversity, and health of species and
+  ecosystems. Despite increasing research on this global change driver, there
+  are still challenges to forming an effective synthesis. The estimated impact
+  of land-use change on biodiversity can depend on location, research methods,
+  and taxonomic focus, with recent global meta-analyses reaching disparate
+  conclusions. Here, we critically appraise this research body and our ability
+  to reach a reliable consensus. We employ named entity recognition to analyze
+  more than 4000 abstracts, alongside full reading of 100 randomly selected
+  papers. We highlight the broad range of study designs and methodologies used;
+  the most common being local space-for-time comparisons that classify land use
+  in situ. Species metrics including abundance, distribution, and diversity
+  were measured more frequently than complex responses such as demography,
+  vital rates, and behavior. We identified taxonomic biases, with vertebrates
+  well represented while detritivores were largely missing. Omitting this group
+  may hinder our understanding of how land-use change affects ecosystem
+  feedback. Research was heavily biased toward temperate forested biomes in
+  North America and Europe, with warmer regions being acutely underrepresented
+  despite offering potential insights into the future effects of land-use
+  change under novel climates. Various land-use histories were covered,
+  although more research in understudied regions including Africa and the
+  Middle East is required to capture regional differences in the form of
+  current and historical land-use practices. Failure to address these
+  challenges will impede our global understanding of land-use change impacts on
+  biodiversity, limit the reliability of future projections and have
+  repercussions for the conservation of threatened species. Beyond identifying
+  literature biases, we highlight the research priorities and data gaps that
+  need urgent attention and offer perspectives on how to move forward.%
+    }
+    \verb{doi}
+    \verb 10.1111/gcb.15846
+    \endverb
+    \field{issn}{13652486}
+    \field{number}{21}
+    \field{pages}{5414\bibrangedash 5429}
+    \field{title}{{Land-use change and biodiversity: Challenges for assembling
+  evidence on the greatest threat to nature}}
+    \field{volume}{27}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Davison, Rahbek, Morueta-Holme - 2021 - Land-use change and biodi
+    \verb versity Challenges for assembling evidence on the greatest threat to
+    \verb na.pdf:pdf
+    \endverb
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2021}
   \endentry
 
   \entry{DesRoches2018}{article}{}
@@ -2857,6 +3286,116 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Hooper2012}{article}{}
+    \name{author}{10}{}{%
+      {{hash=HDU}{%
+         family={Hooper},
+         familyi={H\bibinitperiod},
+         given={David\bibnamedelima U.},
+         giveni={D\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=AEC}{%
+         family={Adair},
+         familyi={A\bibinitperiod},
+         given={E.\bibnamedelima Carol},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=CBJ}{%
+         family={Cardinale},
+         familyi={C\bibinitperiod},
+         given={Bradley\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Byrnes},
+         familyi={B\bibinitperiod},
+         given={Jarrett\bibnamedelima E.K.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HBA}{%
+         family={Hungate},
+         familyi={H\bibinitperiod},
+         given={Bruce\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MKL}{%
+         family={Matulich},
+         familyi={M\bibinitperiod},
+         given={Kristin\bibnamedelima L.},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gonzalez},
+         familyi={G\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DJE}{%
+         family={Duffy},
+         familyi={D\bibinitperiod},
+         given={J.\bibnamedelima Emmett},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Gamfeldt},
+         familyi={G\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CMI}{%
+         family={Connor},
+         familyi={C\bibinitperiod},
+         given={Mary\bibnamedelima I.},
+         giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HDU+1}
+    \strng{fullhash}{HDUAECCBJBJEHBAMKLGADJEGLCMI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Evidence is mounting that extinctions are altering key processes important
+  to the productivity and sustainability of Earth's ecosystems. Further species
+  loss will accelerate change in ecosystem processes, but it is unclear how
+  these effects compare to the direct effects of other forms of environmental
+  change that are both driving diversity loss and altering ecosystem function.
+  Here we use a suite of meta-analyses of published data to show that the
+  effects of species loss on productivity and decomposition--two processes
+  important in all ecosystems--are of comparable magnitude to the effects of
+  many other global environmental changes. In experiments, intermediate levels
+  of species loss (21-40%) reduced plant production by 5-10%, comparable to
+  previously documented effects of ultraviolet radiation and climate warming.
+  Higher levels of extinction (41-60%) had effects rivalling those of ozone,
+  acidification, elevated CO(2) and nutrient pollution. At intermediate levels,
+  species loss generally had equal or greater effects on decomposition than did
+  elevated CO(2) and nitrogen addition. The identity of species lost also had a
+  large effect on changes in productivity and decomposition, generating a wide
+  range of plausible outcomes for extinction. Despite the need for more studies
+  on interactive effects of diversity loss and environmental changes, our
+  analyses clearly show that the ecosystem consequences of local species loss
+  are as quantitatively significant as the direct effects of several global
+  change stressors that have mobilized major international concern and
+  remediation efforts.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature11118
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{1476-4687}
+    \field{issn}{00280836}
+    \field{title}{{A global synthesis reveals biodiversity loss as a major
+  driver of ecosystem change}}
+    \field{journaltitle}{Nature}
+    \field{eprinttype}{arXiv}
+    \field{year}{2012}
+  \endentry
+
   \entry{Hortal2015}{article}{}
     \name{author}{6}{}{%
       {{hash=HJ}{%
@@ -2932,6 +3471,3016 @@
   Biodiversity}}
     \field{journaltitle}{Annual Review of Ecology, Evolution, and Systematics}
     \field{year}{2015}
+  \endentry
+
+  \entry{Hudson2014}{article}{}
+    \name{author}{243}{}{%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Contu},
+         familyi={C\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HSL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha\bibnamedelima L.L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LI}{%
+         family={Lysenko},
+         familyi={L\bibinitperiod},
+         given={Igor},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={{De Palma}},
+         familyi={D\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PHR}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Helen\bibnamedelima R.P.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Senior},
+         familyi={S\bibinitperiod},
+         given={Rebecca\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BDJ}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={Dominic\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Booth},
+         familyi={B\bibinitperiod},
+         given={Hollie},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Choimes},
+         familyi={C\bibinitperiod},
+         given={Argyrios},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CDL}{%
+         family={Correia},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima L.P.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Day},
+         familyi={D\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ELS}{%
+         family={Echeverr{\'{i}}a-Londo{\~{n}}o},
+         familyi={E\bibinithyphendelim L\bibinitperiod},
+         given={Susy},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Garon},
+         familyi={G\bibinitperiod},
+         given={Morgan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HML}{%
+         family={Harrison},
+         familyi={H\bibinitperiod},
+         given={Michelle\bibnamedelima L.K.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=IDJ}{%
+         family={Ingram},
+         familyi={I\bibinitperiod},
+         given={Daniel\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jung},
+         familyi={J\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kemp},
+         familyi={K\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Kirkpatrick},
+         familyi={K\bibinitperiod},
+         given={Lucinda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MCD}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Callum\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WHJ}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Hannah\bibnamedelima J.},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Aben},
+         familyi={A\bibinitperiod},
+         given={Job},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Abrahamczyk},
+         familyi={A\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AGB}{%
+         family={Adum},
+         familyi={A\bibinitperiod},
+         given={Gilbert\bibnamedelima B.},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=ABV}{%
+         family={Aguilar-Barquero},
+         familyi={A\bibinithyphendelim B\bibinitperiod},
+         given={Virginia},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=AMA}{%
+         family={Aizen},
+         familyi={A\bibinitperiod},
+         given={Marcelo\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Ancrenaz},
+         familyi={A\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ACE}{%
+         family={Arbel{\'{a}}ez-Cort{\'{e}}s},
+         familyi={A\bibinithyphendelim C\bibinitperiod},
+         given={Enrique},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Armbrecht},
+         familyi={A\bibinitperiod},
+         given={Inge},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=AB}{%
+         family={Azhar},
+         familyi={A\bibinitperiod},
+         given={Badrul},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AAB}{%
+         family={Azpiroz},
+         familyi={A\bibinitperiod},
+         given={Adri{\'{a}}n\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Baeten},
+         familyi={B\bibinitperiod},
+         given={Lander},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={B{\'{a}}ldi},
+         familyi={B\bibinitperiod},
+         given={Andr{\'{a}}s},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Banks},
+         familyi={B\bibinitperiod},
+         given={John\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Barlow},
+         familyi={B\bibinitperiod},
+         given={Jos},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Bat{\'{a}}ry},
+         familyi={B\bibinitperiod},
+         given={P{\'{e}}ter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BAJ}{%
+         family={Bates},
+         familyi={B\bibinitperiod},
+         given={Adam\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BEM}{%
+         family={Bayne},
+         familyi={B\bibinitperiod},
+         given={Erin\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Beja},
+         familyi={B\bibinitperiod},
+         given={Pedro},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Berg},
+         familyi={B\bibinitperiod},
+         given={{\AA}ke},
+         giveni={{\AA}\bibinitperiod},
+      }}%
+      {{hash=BNJ}{%
+         family={Berry},
+         familyi={B\bibinitperiod},
+         given={Nicholas\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Bicknell},
+         familyi={B\bibinitperiod},
+         given={Jake\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BJH}{%
+         family={Bihn},
+         familyi={B\bibinitperiod},
+         given={Jochen\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=BGK}{%
+         family={B{\"{o}}hning-Gaese},
+         familyi={B\bibinithyphendelim G\bibinitperiod},
+         given={Katrin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Boekhout},
+         familyi={B\bibinitperiod},
+         given={Teun},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Boutin},
+         familyi={B\bibinitperiod},
+         given={C{\'{e}}line},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bouyer},
+         familyi={B\bibinitperiod},
+         given={J{\'{e}}r{\'{e}}my},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BFQ}{%
+         family={Brearley},
+         familyi={B\bibinitperiod},
+         given={Francis\bibnamedelima Q.},
+         giveni={F\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+      {{hash=BI}{%
+         family={Brito},
+         familyi={B\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Brunet},
+         familyi={B\bibinitperiod},
+         given={J{\"{o}}rg},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Buczkowski},
+         familyi={B\bibinitperiod},
+         given={Grzegorz},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Buscardo},
+         familyi={B\bibinitperiod},
+         given={Erika},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CGJ}{%
+         family={Cabra-Garc{\'{i}}a},
+         familyi={C\bibinithyphendelim G\bibinitperiod},
+         given={Jimmy},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CCM}{%
+         family={Calvi{\~{n}}o-Cancela},
+         familyi={C\bibinithyphendelim C\bibinitperiod},
+         given={Mar{\'{i}}a},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CSA}{%
+         family={Cameron},
+         familyi={C\bibinitperiod},
+         given={Sydney\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CEM}{%
+         family={Cancello},
+         familyi={C\bibinitperiod},
+         given={Eliana\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CTF}{%
+         family={Carrijo},
+         familyi={C\bibinitperiod},
+         given={Tiago\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CAL}{%
+         family={Carvalho},
+         familyi={C\bibinitperiod},
+         given={Anelena\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Castro},
+         familyi={C\bibinitperiod},
+         given={Helena},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CLAA}{%
+         family={Castro-Luna},
+         familyi={C\bibinithyphendelim L\bibinitperiod},
+         given={Alejandro\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Cerda},
+         familyi={C\bibinitperiod},
+         given={Rolando},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cerezo},
+         familyi={C\bibinitperiod},
+         given={Alexis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Chauvat},
+         familyi={C\bibinitperiod},
+         given={Matthieu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CFM}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Frank\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CDF}{%
+         family={Cleary},
+         familyi={C\bibinitperiod},
+         given={Daniel\bibnamedelima F.R.},
+         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CSP}{%
+         family={Connop},
+         familyi={C\bibinitperiod},
+         given={Stuart\bibnamedelima P.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={D'Aniello},
+         familyi={D\bibinitperiod},
+         given={Biagio},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=dSPG}{%
+         prefix={da},
+         prefixi={d\bibinitperiod},
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Pedro\bibnamedelima Giov{\^{a}}ni},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Darvill},
+         familyi={D\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dauber},
+         familyi={D\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dejean},
+         familyi={D\bibinitperiod},
+         given={Alain},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Diek{\"{o}}tter},
+         familyi={D\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DHY}{%
+         family={Dominguez-Haydar},
+         familyi={D\bibinithyphendelim H\bibinitperiod},
+         given={Yamileth},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DCF}{%
+         family={Dormann},
+         familyi={D\bibinitperiod},
+         given={Carsten\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dumont},
+         familyi={D\bibinitperiod},
+         given={Bertrand},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DSG}{%
+         family={Dures},
+         familyi={D\bibinitperiod},
+         given={Simon\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dynesius},
+         familyi={D\bibinitperiod},
+         given={Mats},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EL}{%
+         family={Edenius},
+         familyi={E\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=EZ}{%
+         family={Elek},
+         familyi={E\bibinitperiod},
+         given={Zolt{\'{a}}n},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=EMH}{%
+         family={Entling},
+         familyi={E\bibinitperiod},
+         given={Martin\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Farwig},
+         familyi={F\bibinitperiod},
+         given={Nina},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FTM}{%
+         family={Fayle},
+         familyi={F\bibinitperiod},
+         given={Tom\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Felicioli},
+         familyi={F\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FAM}{%
+         family={Felton},
+         familyi={F\bibinitperiod},
+         given={Annika\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FGF}{%
+         family={Ficetola},
+         familyi={F\bibinitperiod},
+         given={Gentile\bibnamedelima F.},
+         giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=FBK}{%
+         family={Filgueiras},
+         familyi={F\bibinitperiod},
+         given={Bruno\bibnamedelima K.C.},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=FSJ}{%
+         family={Fonte},
+         familyi={F\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FLH}{%
+         family={Fraser},
+         familyi={F\bibinitperiod},
+         given={Lauchlan\bibnamedelima H.},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Fukuda},
+         familyi={F\bibinitperiod},
+         given={Daisuke},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Furlani},
+         familyi={F\bibinitperiod},
+         given={Dario},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GJU}{%
+         family={Ganzhorn},
+         familyi={G\bibinitperiod},
+         given={J{\"{o}}rg\bibnamedelima U.},
+         giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=GJG}{%
+         family={Garden},
+         familyi={G\bibinitperiod},
+         given={Jenni\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GCC}{%
+         family={Gheler-Costa},
+         familyi={G\bibinithyphendelim C\bibinitperiod},
+         given={Carla},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Giordani},
+         familyi={G\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Giordano},
+         familyi={G\bibinitperiod},
+         given={Simonetta},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GMS}{%
+         family={Gottschalk},
+         familyi={G\bibinitperiod},
+         given={Marco\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Goulson},
+         familyi={G\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GAD}{%
+         family={Gove},
+         familyi={G\bibinitperiod},
+         given={Aaron\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Grogan},
+         familyi={G\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HME}{%
+         family={Hanley},
+         familyi={H\bibinitperiod},
+         given={Mick\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hanson},
+         familyi={H\bibinitperiod},
+         given={Thor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HNR}{%
+         family={Hashim},
+         familyi={H\bibinitperiod},
+         given={Nor\bibnamedelima R.},
+         giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HJE}{%
+         family={Hawes},
+         familyi={H\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={H{\'{e}}bert},
+         familyi={H\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HAJ}{%
+         family={Helden},
+         familyi={H\bibinitperiod},
+         given={Alvin\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HJA}{%
+         family={Henden},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima Andr{\'{e}}},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hern{\'{a}}ndez},
+         familyi={H\bibinitperiod},
+         given={Lionel},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Herzog},
+         familyi={H\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HDD}{%
+         family={Higuera-Diaz},
+         familyi={H\bibinithyphendelim D\bibinitperiod},
+         given={Diego},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hilje},
+         familyi={H\bibinitperiod},
+         given={Branko},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HFG}{%
+         family={Horgan},
+         familyi={H\bibinitperiod},
+         given={Finbarr\bibnamedelima G.},
+         giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Horv{\'{a}}th},
+         familyi={H\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hylander},
+         familyi={H\bibinitperiod},
+         given={Kristoffer},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ICP}{%
+         family={Isaacs-Cubides},
+         familyi={I\bibinithyphendelim C\bibinitperiod},
+         given={Paola},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Ishitani},
+         familyi={I\bibinitperiod},
+         given={Masahiro},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JCT}{%
+         family={Jacobs},
+         familyi={J\bibinitperiod},
+         given={Carmen\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=JVJ}{%
+         family={Jaramillo},
+         familyi={J\bibinitperiod},
+         given={V{\'{i}}ctor\bibnamedelima J.},
+         giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JB}{%
+         family={Jauker},
+         familyi={J\bibinitperiod},
+         given={Birgit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jonsell},
+         familyi={J\bibinitperiod},
+         given={Mats},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JTS}{%
+         family={Jung},
+         familyi={J\bibinitperiod},
+         given={Thomas\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kapoor},
+         familyi={K\bibinitperiod},
+         given={Vena},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kati},
+         familyi={K\bibinitperiod},
+         given={Vassiliki},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Katovai},
+         familyi={K\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kessler},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Knop},
+         familyi={K\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kolb},
+         familyi={K\bibinitperiod},
+         given={Annette},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kor{\"{o}}si},
+         familyi={K\bibinitperiod},
+         given={{\'{A}}d{\'{a}}m},
+         giveni={{\'{A}}\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lachat},
+         familyi={L\bibinitperiod},
+         given={Thibault},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Lantschner},
+         familyi={L\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={{Le F{\'{e}}on}},
+         familyi={L\bibinitperiod},
+         given={Violette},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Lebuhn},
+         familyi={L\bibinitperiod},
+         given={Gretchen},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LJP}{%
+         family={L{\'{e}}gar{\'{e}}},
+         familyi={L\bibinitperiod},
+         given={Jean\bibnamedelima Philippe},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LSG}{%
+         family={Letcher},
+         familyi={L\bibinitperiod},
+         given={Susan\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LNA}{%
+         family={Littlewood},
+         familyi={L\bibinitperiod},
+         given={Nick\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LQCA}{%
+         family={L{\'{o}}pez-Quintero},
+         familyi={L\bibinithyphendelim Q\bibinitperiod},
+         given={Carlos\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Louhaichi},
+         familyi={L\bibinitperiod},
+         given={Mounir},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LGL}{%
+         family={L{\"{o}}vei},
+         familyi={L\bibinitperiod},
+         given={Gabor\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LBME}{%
+         family={Lucas-Borja},
+         familyi={L\bibinithyphendelim B\bibinitperiod},
+         given={Manuel\bibnamedelima Esteban},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LVH}{%
+         family={Luja},
+         familyi={L\bibinitperiod},
+         given={Victor\bibnamedelima H.},
+         giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Maeto},
+         familyi={M\bibinitperiod},
+         given={Kaoru},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Magura},
+         familyi={M\bibinitperiod},
+         given={Tibor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MNA}{%
+         family={Mallari},
+         familyi={M\bibinitperiod},
+         given={Neil\bibnamedelima Aldrin},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MSE}{%
+         family={Marin-Spiotta},
+         familyi={M\bibinithyphendelim S\bibinitperiod},
+         given={Erika},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MEJ}{%
+         family={Marshall},
+         familyi={M\bibinitperiod},
+         given={E.\bibnamedelima J.P.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Mart{\'{i}}nez},
+         familyi={M\bibinitperiod},
+         given={Eliana},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Mikusinski},
+         familyi={M\bibinitperiod},
+         given={Grzegorz},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Milder},
+         familyi={M\bibinitperiod},
+         given={Jeffrey\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MJR}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MCL}{%
+         family={Morales},
+         familyi={M\bibinitperiod},
+         given={Carolina\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MMN}{%
+         family={Muchane},
+         familyi={M\bibinitperiod},
+         given={Mary\bibnamedelima N.},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Muchane},
+         familyi={M\bibinitperiod},
+         given={Muchai},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Naidoo},
+         familyi={N\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         given={Akihiro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Naoe},
+         familyi={N\bibinitperiod},
+         given={Shoji},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NPG}{%
+         family={Nates-Parra},
+         familyi={N\bibinithyphendelim P\bibinitperiod},
+         given={Guiomar},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=NDA}{%
+         family={{Navarrete Gutierrez}},
+         familyi={N\bibinitperiod},
+         given={Dario\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NEL}{%
+         family={Neuschulz},
+         familyi={N\bibinitperiod},
+         given={Eike\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NN}{%
+         family={Noreika},
+         familyi={N\bibinitperiod},
+         given={Norbertas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=NO}{%
+         family={Norfolk},
+         familyi={N\bibinitperiod},
+         given={Olivia},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=NJA}{%
+         family={Noriega},
+         familyi={N\bibinitperiod},
+         given={Jorge\bibnamedelima Ari},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NNM}{%
+         family={N{\"{o}}ske},
+         familyi={N\bibinitperiod},
+         given={Nicole\bibnamedelima M.},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ON}{%
+         family={O'Dea},
+         familyi={O\bibinitperiod},
+         given={Niall},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=OW}{%
+         family={Oduro},
+         familyi={O\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=OBC}{%
+         family={Ofori-Boateng},
+         familyi={O\bibinithyphendelim B\bibinitperiod},
+         given={Caleb},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OCO}{%
+         family={Oke},
+         familyi={O\bibinitperiod},
+         given={Chris\bibnamedelima O.},
+         giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=OLM}{%
+         family={Osgathorpe},
+         familyi={O\bibinitperiod},
+         given={Lynne\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Paritsis},
+         familyi={P\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PHA}{%
+         family={Parra-H},
+         familyi={P\bibinithyphendelim H\bibinitperiod},
+         given={Alejandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Pelegrin},
+         familyi={P\bibinitperiod},
+         given={Nicol{\'{a}}s},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=PCA}{%
+         family={Peres},
+         familyi={P\bibinitperiod},
+         given={Carlos\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PAS}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Anna\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Petanidou},
+         familyi={P\bibinitperiod},
+         given={Theodora},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Phalan},
+         familyi={P\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PTK}{%
+         family={Philips},
+         familyi={P\bibinitperiod},
+         given={T.\bibnamedelima Keith},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PK}{%
+         family={Poveda},
+         familyi={P\bibinitperiod},
+         given={Katja},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PEF}{%
+         family={Power},
+         familyi={P\bibinitperiod},
+         given={Eileen\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=PSJ}{%
+         family={Presley},
+         familyi={P\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Proen{\c{c}}a},
+         familyi={P\bibinitperiod},
+         given={V{\^{a}}nia},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=QM}{%
+         family={Quaranta},
+         familyi={Q\bibinitperiod},
+         given={Marino},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=QC}{%
+         family={Quintero},
+         familyi={Q\bibinitperiod},
+         given={Carolina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RDNA}{%
+         family={Redpath-Downing},
+         familyi={R\bibinithyphendelim D\bibinitperiod},
+         given={Nicola\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJL}{%
+         family={Reid},
+         familyi={R\bibinitperiod},
+         given={J.\bibnamedelima Leighton},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RYT}{%
+         family={Reis},
+         familyi={R\bibinitperiod},
+         given={Yana\bibnamedelima T.},
+         giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=RDB}{%
+         family={Ribeiro},
+         familyi={R\bibinitperiod},
+         given={Danilo\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RBA}{%
+         family={Richardson},
+         familyi={R\bibinitperiod},
+         given={Barbara\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RMJ}{%
+         family={Richardson},
+         familyi={R\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RCA}{%
+         family={Robles},
+         familyi={R\bibinitperiod},
+         given={Carolina\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={R{\"{o}}mbke},
+         familyi={R\bibinitperiod},
+         given={J{\"{o}}rg},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RDLP}{%
+         family={Romero-Duque},
+         familyi={R\bibinithyphendelim D\bibinitperiod},
+         given={Luz\bibnamedelima Piedad},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rosselli},
+         familyi={R\bibinitperiod},
+         given={Loreta},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RSJ}{%
+         family={Rossiter},
+         familyi={R\bibinitperiod},
+         given={Stephen\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RTH}{%
+         family={Roulston},
+         familyi={R\bibinitperiod},
+         given={T'ai\bibnamedelima H.},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rousseau},
+         familyi={R\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Sadler},
+         familyi={S\bibinitperiod},
+         given={Jonathan\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={S{\'{a}}fi{\'{a}}n},
+         familyi={S\bibinitperiod},
+         given={Szabolcs},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SVRA}{%
+         family={Salda{\~{n}}a-V{\'{a}}zquez},
+         familyi={S\bibinithyphendelim V\bibinitperiod},
+         given={Romeo\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SU}{%
+         family={Samneg{\aa}rd},
+         familyi={S\bibinitperiod},
+         given={Ulrika},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Sch{\"{u}}epp},
+         familyi={S\bibinitperiod},
+         given={Christof},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Schweiger},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SJL}{%
+         family={Sedlock},
+         familyi={S\bibinitperiod},
+         given={Jodi\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Shahabuddin},
+         familyi={S\bibinitperiod},
+         given={Ghazala},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sheil},
+         familyi={S\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SFA}{%
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Fernando\bibnamedelima A.B.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SEM}{%
+         family={Slade},
+         familyi={S\bibinitperiod},
+         given={Eleanor\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SPAH}{%
+         family={Smith-Pardo},
+         familyi={S\bibinithyphendelim P\bibinitperiod},
+         given={Allan\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SNS}{%
+         family={Sodhi},
+         familyi={S\bibinitperiod},
+         given={Navjot\bibnamedelima S.},
+         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SEJ}{%
+         family={Somarriba},
+         familyi={S\bibinitperiod},
+         given={Eduardo\bibnamedelima J.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Sosa},
+         familyi={S\bibinitperiod},
+         given={Ram{\'{o}}n\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SJC}{%
+         family={Stout},
+         familyi={S\bibinitperiod},
+         given={Jane\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SMJ}{%
+         family={Struebig},
+         familyi={S\bibinitperiod},
+         given={Matthew\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SYH}{%
+         family={Sung},
+         familyi={S\bibinitperiod},
+         given={Yik\bibnamedelima Hei},
+         giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TCG}{%
+         family={Threlfall},
+         familyi={T\bibinitperiod},
+         given={Caragh\bibnamedelima G.},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Tonietto},
+         familyi={T\bibinitperiod},
+         given={Rebecca},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={T{\'{o}}thm{\'{e}}r{\'{e}}sz},
+         familyi={T\bibinitperiod},
+         given={B{\'{e}}la},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Tscharntke},
+         familyi={T\bibinitperiod},
+         given={Teja},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TEC}{%
+         family={Turner},
+         familyi={T\bibinitperiod},
+         given={Edgar\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=TJM}{%
+         family={Tylianakis},
+         familyi={T\bibinitperiod},
+         given={Jason\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VAJ}{%
+         family={Vanbergen},
+         familyi={V\bibinitperiod},
+         given={Adam\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Vassilev},
+         familyi={V\bibinitperiod},
+         given={Kiril},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VHA}{%
+         family={Verboven},
+         familyi={V\bibinitperiod},
+         given={Hans\bibnamedelima A.F.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VCH}{%
+         family={Vergara},
+         familyi={V\bibinitperiod},
+         given={Carlos\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=VPM}{%
+         family={Vergara},
+         familyi={V\bibinitperiod},
+         given={Pablo\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Verhulst},
+         familyi={V\bibinitperiod},
+         given={Jort},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WTR}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Tony\bibnamedelima R.},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yanping},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WJI}{%
+         family={Watling},
+         familyi={W\bibinitperiod},
+         given={James\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wells},
+         familyi={W\bibinitperiod},
+         given={Konstans},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WCD}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Christopher\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=WMR}{%
+         family={Willig},
+         familyi={W\bibinitperiod},
+         given={Michael\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WJC}{%
+         family={Woinarski},
+         familyi={W\bibinitperiod},
+         given={John\bibnamedelima C.Z.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WJH}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={Jan\bibnamedelima H.D.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WBA}{%
+         family={Woodcock},
+         familyi={W\bibinitperiod},
+         given={Ben\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=YDW}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Douglas\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=ZAS}{%
+         family={Zaitsev},
+         familyi={Z\bibinitperiod},
+         given={Andrey\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ERM}{%
+         family={Ewers},
+         familyi={E\bibinitperiod},
+         given={Rob\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PDW}{%
+         family={Purves},
+         familyi={P\bibinitperiod},
+         given={Drew\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Scharlemann},
+         familyi={S\bibinitperiod},
+         given={J{\"{o}}rn\bibnamedelima P.W.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Data sharing,Global change,Habitat destruction,Land use}
+    \strng{namehash}{HLN+1}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Biodiversity continues to decline in the face of increasing anthropogenic
+  pressures such as habitat destruction, exploitation, pollution and
+  introduction of alien species. Existing global databases of species' threat
+  status or population time series are dominated by charismatic species. The
+  collation of datasets with broad taxonomic and biogeographic extents, and
+  that support computation of a range of biodiversity indicators, is necessary
+  to enable better understanding of historical declines and to project – and
+  avert – future declines. We describe and assess a new database of more than
+  1.6 million samples from 78 countries representing over 28,000 species,
+  collated from existing spatial comparisons of local-scale biodiversity
+  exposed to different intensities and types of anthropogenic pressures, from
+  terrestrial sites around the world. The database contains measurements taken
+  in 208 (of 814) ecoregions, 13 (of 14) biomes, 25 (of 35) biodiversity
+  hotspots and 16 (of 17) megadiverse countries. The database contains more
+  than 1% of the total number of all species described, and more than 1% of the
+  described species within many taxonomic groups – including flowering
+  plants, gymnosperms, birds, mammals, reptiles, amphibians, beetles,
+  lepidopterans and hymenopterans. The dataset, which is still being added to,
+  is therefore already considerably larger and more representative than those
+  used by previous quantitative models of biodiversity trends and responses.
+  The database is being assembled as part of the PREDICTS project (Projecting
+  Responses of Ecological Diversity In Changing Terrestrial Systems –
+  www.predicts.org.uk). We make site-level summary data available alongside
+  this article. The full database will be publicly available in 2015.%
+    }
+    \verb{doi}
+    \verb 10.1002/ece3.1303
+    \endverb
+    \field{isbn}{2045-7758}
+    \field{issn}{20457758}
+    \field{title}{{The PREDICTS database: A global database of how local
+  terrestrial biodiversity responds to human impacts}}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Hudson2017}{article}{}
+    \name{author}{243}{}{%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Contu},
+         familyi={C\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HSL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha\bibnamedelima L.L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LI}{%
+         family={Lysenko},
+         familyi={L\bibinitperiod},
+         given={Igor},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={{De Palma}},
+         familyi={D\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PHR}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Helen\bibnamedelima R.P.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Senior},
+         familyi={S\bibinitperiod},
+         given={Rebecca\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BDJ}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={Dominic\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Booth},
+         familyi={B\bibinitperiod},
+         given={Hollie},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Choimes},
+         familyi={C\bibinitperiod},
+         given={Argyrios},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CDL}{%
+         family={Correia},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima L.P.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Day},
+         familyi={D\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ELS}{%
+         family={Echeverr{\'{i}}a-Londo{\~{n}}o},
+         familyi={E\bibinithyphendelim L\bibinitperiod},
+         given={Susy},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Garon},
+         familyi={G\bibinitperiod},
+         given={Morgan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HML}{%
+         family={Harrison},
+         familyi={H\bibinitperiod},
+         given={Michelle\bibnamedelima L.K.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=IDJ}{%
+         family={Ingram},
+         familyi={I\bibinitperiod},
+         given={Daniel\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jung},
+         familyi={J\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kemp},
+         familyi={K\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Kirkpatrick},
+         familyi={K\bibinitperiod},
+         given={Lucinda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MCD}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Callum\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WHJ}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Hannah\bibnamedelima J.},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Aben},
+         familyi={A\bibinitperiod},
+         given={Job},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Abrahamczyk},
+         familyi={A\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AGB}{%
+         family={Adum},
+         familyi={A\bibinitperiod},
+         given={Gilbert\bibnamedelima B.},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=ABV}{%
+         family={Aguilar-Barquero},
+         familyi={A\bibinithyphendelim B\bibinitperiod},
+         given={Virginia},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=AMA}{%
+         family={Aizen},
+         familyi={A\bibinitperiod},
+         given={Marcelo\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Ancrenaz},
+         familyi={A\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ACE}{%
+         family={Arbel{\'{a}}ez-Cort{\'{e}}s},
+         familyi={A\bibinithyphendelim C\bibinitperiod},
+         given={Enrique},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Armbrecht},
+         familyi={A\bibinitperiod},
+         given={Inge},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=AB}{%
+         family={Azhar},
+         familyi={A\bibinitperiod},
+         given={Badrul},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AAB}{%
+         family={Azpiroz},
+         familyi={A\bibinitperiod},
+         given={Adri{\'{a}}n\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Baeten},
+         familyi={B\bibinitperiod},
+         given={Lander},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={B{\'{a}}ldi},
+         familyi={B\bibinitperiod},
+         given={Andr{\'{a}}s},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Banks},
+         familyi={B\bibinitperiod},
+         given={John\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Barlow},
+         familyi={B\bibinitperiod},
+         given={Jos},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Bat{\'{a}}ry},
+         familyi={B\bibinitperiod},
+         given={P{\'{e}}ter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BAJ}{%
+         family={Bates},
+         familyi={B\bibinitperiod},
+         given={Adam\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BEM}{%
+         family={Bayne},
+         familyi={B\bibinitperiod},
+         given={Erin\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Beja},
+         familyi={B\bibinitperiod},
+         given={Pedro},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Berg},
+         familyi={B\bibinitperiod},
+         given={{\AA}ke},
+         giveni={{\AA}\bibinitperiod},
+      }}%
+      {{hash=BNJ}{%
+         family={Berry},
+         familyi={B\bibinitperiod},
+         given={Nicholas\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Bicknell},
+         familyi={B\bibinitperiod},
+         given={Jake\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BJH}{%
+         family={Bihn},
+         familyi={B\bibinitperiod},
+         given={Jochen\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=BGK}{%
+         family={B{\"{o}}hning-Gaese},
+         familyi={B\bibinithyphendelim G\bibinitperiod},
+         given={Katrin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Boekhout},
+         familyi={B\bibinitperiod},
+         given={Teun},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Boutin},
+         familyi={B\bibinitperiod},
+         given={C{\'{e}}line},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bouyer},
+         familyi={B\bibinitperiod},
+         given={J{\'{e}}r{\'{e}}my},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BFQ}{%
+         family={Brearley},
+         familyi={B\bibinitperiod},
+         given={Francis\bibnamedelima Q.},
+         giveni={F\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+      {{hash=BI}{%
+         family={Brito},
+         familyi={B\bibinitperiod},
+         given={Isabel},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Brunet},
+         familyi={B\bibinitperiod},
+         given={J{\"{o}}rg},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Buczkowski},
+         familyi={B\bibinitperiod},
+         given={Grzegorz},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Buscardo},
+         familyi={B\bibinitperiod},
+         given={Erika},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CGJ}{%
+         family={Cabra-Garc{\'{i}}a},
+         familyi={C\bibinithyphendelim G\bibinitperiod},
+         given={Jimmy},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CCM}{%
+         family={Calvi{\~{n}}o-Cancela},
+         familyi={C\bibinithyphendelim C\bibinitperiod},
+         given={Mar{\'{i}}a},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CSA}{%
+         family={Cameron},
+         familyi={C\bibinitperiod},
+         given={Sydney\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CEM}{%
+         family={Cancello},
+         familyi={C\bibinitperiod},
+         given={Eliana\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CTF}{%
+         family={Carrijo},
+         familyi={C\bibinitperiod},
+         given={Tiago\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CAL}{%
+         family={Carvalho},
+         familyi={C\bibinitperiod},
+         given={Anelena\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Castro},
+         familyi={C\bibinitperiod},
+         given={Helena},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CLAA}{%
+         family={Castro-Luna},
+         familyi={C\bibinithyphendelim L\bibinitperiod},
+         given={Alejandro\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Cerda},
+         familyi={C\bibinitperiod},
+         given={Rolando},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Cerezo},
+         familyi={C\bibinitperiod},
+         given={Alexis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Chauvat},
+         familyi={C\bibinitperiod},
+         given={Matthieu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CFM}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={Frank\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CDF}{%
+         family={Cleary},
+         familyi={C\bibinitperiod},
+         given={Daniel\bibnamedelima F.R.},
+         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CSP}{%
+         family={Connop},
+         familyi={C\bibinitperiod},
+         given={Stuart\bibnamedelima P.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={D'Aniello},
+         familyi={D\bibinitperiod},
+         given={Biagio},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=dSPG}{%
+         prefix={da},
+         prefixi={d\bibinitperiod},
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Pedro\bibnamedelima Giov{\^{a}}ni},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Darvill},
+         familyi={D\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dauber},
+         familyi={D\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dejean},
+         familyi={D\bibinitperiod},
+         given={Alain},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Diek{\"{o}}tter},
+         familyi={D\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DHY}{%
+         family={Dominguez-Haydar},
+         familyi={D\bibinithyphendelim H\bibinitperiod},
+         given={Yamileth},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DCF}{%
+         family={Dormann},
+         familyi={D\bibinitperiod},
+         given={Carsten\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dumont},
+         familyi={D\bibinitperiod},
+         given={Bertrand},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DSG}{%
+         family={Dures},
+         familyi={D\bibinitperiod},
+         given={Simon\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dynesius},
+         familyi={D\bibinitperiod},
+         given={Mats},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EL}{%
+         family={Edenius},
+         familyi={E\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=EZ}{%
+         family={Elek},
+         familyi={E\bibinitperiod},
+         given={Zolt{\'{a}}n},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=EMH}{%
+         family={Entling},
+         familyi={E\bibinitperiod},
+         given={Martin\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Farwig},
+         familyi={F\bibinitperiod},
+         given={Nina},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FTM}{%
+         family={Fayle},
+         familyi={F\bibinitperiod},
+         given={Tom\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Felicioli},
+         familyi={F\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FAM}{%
+         family={Felton},
+         familyi={F\bibinitperiod},
+         given={Annika\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FGF}{%
+         family={Ficetola},
+         familyi={F\bibinitperiod},
+         given={Gentile\bibnamedelima F.},
+         giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=FBK}{%
+         family={Filgueiras},
+         familyi={F\bibinitperiod},
+         given={Bruno\bibnamedelima K.C.},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=FSJ}{%
+         family={Fonte},
+         familyi={F\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FLH}{%
+         family={Fraser},
+         familyi={F\bibinitperiod},
+         given={Lauchlan\bibnamedelima H.},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Fukuda},
+         familyi={F\bibinitperiod},
+         given={Daisuke},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Furlani},
+         familyi={F\bibinitperiod},
+         given={Dario},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GJU}{%
+         family={Ganzhorn},
+         familyi={G\bibinitperiod},
+         given={J{\"{o}}rg\bibnamedelima U.},
+         giveni={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=GJG}{%
+         family={Garden},
+         familyi={G\bibinitperiod},
+         given={Jenni\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GCC}{%
+         family={Gheler-Costa},
+         familyi={G\bibinithyphendelim C\bibinitperiod},
+         given={Carla},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Giordani},
+         familyi={G\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Giordano},
+         familyi={G\bibinitperiod},
+         given={Simonetta},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GMS}{%
+         family={Gottschalk},
+         familyi={G\bibinitperiod},
+         given={Marco\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Goulson},
+         familyi={G\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GAD}{%
+         family={Gove},
+         familyi={G\bibinitperiod},
+         given={Aaron\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Grogan},
+         familyi={G\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HME}{%
+         family={Hanley},
+         familyi={H\bibinitperiod},
+         given={Mick\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hanson},
+         familyi={H\bibinitperiod},
+         given={Thor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HNR}{%
+         family={Hashim},
+         familyi={H\bibinitperiod},
+         given={Nor\bibnamedelima R.},
+         giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HJE}{%
+         family={Hawes},
+         familyi={H\bibinitperiod},
+         given={Joseph\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={H{\'{e}}bert},
+         familyi={H\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HAJ}{%
+         family={Helden},
+         familyi={H\bibinitperiod},
+         given={Alvin\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HJA}{%
+         family={Henden},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima Andr{\'{e}}},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hern{\'{a}}ndez},
+         familyi={H\bibinitperiod},
+         given={Lionel},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Herzog},
+         familyi={H\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HDD}{%
+         family={Higuera-Diaz},
+         familyi={H\bibinithyphendelim D\bibinitperiod},
+         given={Diego},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HB}{%
+         family={Hilje},
+         familyi={H\bibinitperiod},
+         given={Branko},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HFG}{%
+         family={Horgan},
+         familyi={H\bibinitperiod},
+         given={Finbarr\bibnamedelima G.},
+         giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Horv{\'{a}}th},
+         familyi={H\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Hylander},
+         familyi={H\bibinitperiod},
+         given={Kristoffer},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ICP}{%
+         family={Isaacs-Cubides},
+         familyi={I\bibinithyphendelim C\bibinitperiod},
+         given={Paola},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Ishitani},
+         familyi={I\bibinitperiod},
+         given={Masahiro},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JCT}{%
+         family={Jacobs},
+         familyi={J\bibinitperiod},
+         given={Carmen\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=JVJ}{%
+         family={Jaramillo},
+         familyi={J\bibinitperiod},
+         given={V{\'{i}}ctor\bibnamedelima J.},
+         giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JB}{%
+         family={Jauker},
+         familyi={J\bibinitperiod},
+         given={Birgit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jonsell},
+         familyi={J\bibinitperiod},
+         given={Mats},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JTS}{%
+         family={Jung},
+         familyi={J\bibinitperiod},
+         given={Thomas\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kapoor},
+         familyi={K\bibinitperiod},
+         given={Vena},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kati},
+         familyi={K\bibinitperiod},
+         given={Vassiliki},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Katovai},
+         familyi={K\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kessler},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Knop},
+         familyi={K\bibinitperiod},
+         given={Eva},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kolb},
+         familyi={K\bibinitperiod},
+         given={Annette},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kor{\"{o}}si},
+         familyi={K\bibinitperiod},
+         given={{\'{A}}d{\'{a}}m},
+         giveni={{\'{A}}\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lachat},
+         familyi={L\bibinitperiod},
+         given={Thibault},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Lantschner},
+         familyi={L\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={{Le F{\'{e}}on}},
+         familyi={L\bibinitperiod},
+         given={Violette},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Lebuhn},
+         familyi={L\bibinitperiod},
+         given={Gretchen},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LJP}{%
+         family={L{\'{e}}gar{\'{e}}},
+         familyi={L\bibinitperiod},
+         given={Jean\bibnamedelima Philippe},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LSG}{%
+         family={Letcher},
+         familyi={L\bibinitperiod},
+         given={Susan\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LNA}{%
+         family={Littlewood},
+         familyi={L\bibinitperiod},
+         given={Nick\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LQCA}{%
+         family={L{\'{o}}pez-Quintero},
+         familyi={L\bibinithyphendelim Q\bibinitperiod},
+         given={Carlos\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Louhaichi},
+         familyi={L\bibinitperiod},
+         given={Mounir},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LGL}{%
+         family={L{\"{o}}vei},
+         familyi={L\bibinitperiod},
+         given={Gabor\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=LBME}{%
+         family={Lucas-Borja},
+         familyi={L\bibinithyphendelim B\bibinitperiod},
+         given={Manuel\bibnamedelima Esteban},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LVH}{%
+         family={Luja},
+         familyi={L\bibinitperiod},
+         given={Victor\bibnamedelima H.},
+         giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Maeto},
+         familyi={M\bibinitperiod},
+         given={Kaoru},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Magura},
+         familyi={M\bibinitperiod},
+         given={Tibor},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MNA}{%
+         family={Mallari},
+         familyi={M\bibinitperiod},
+         given={Neil\bibnamedelima Aldrin},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MSE}{%
+         family={Marin-Spiotta},
+         familyi={M\bibinithyphendelim S\bibinitperiod},
+         given={Erika},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MEJ}{%
+         family={Marshall},
+         familyi={M\bibinitperiod},
+         given={E.\bibnamedelima J.P.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Mart{\'{i}}nez},
+         familyi={M\bibinitperiod},
+         given={Eliana},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Mikusinski},
+         familyi={M\bibinitperiod},
+         given={Grzegorz},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Milder},
+         familyi={M\bibinitperiod},
+         given={Jeffrey\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MJR}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MCL}{%
+         family={Morales},
+         familyi={M\bibinitperiod},
+         given={Carolina\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MMN}{%
+         family={Muchane},
+         familyi={M\bibinitperiod},
+         given={Mary\bibnamedelima N.},
+         giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Muchane},
+         familyi={M\bibinitperiod},
+         given={Muchai},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Naidoo},
+         familyi={N\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Nakamura},
+         familyi={N\bibinitperiod},
+         given={Akihiro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Naoe},
+         familyi={N\bibinitperiod},
+         given={Shoji},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NPG}{%
+         family={Nates-Parra},
+         familyi={N\bibinithyphendelim P\bibinitperiod},
+         given={Guiomar},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=NDA}{%
+         family={{Navarrete Gutierrez}},
+         familyi={N\bibinitperiod},
+         given={Dario\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NEL}{%
+         family={Neuschulz},
+         familyi={N\bibinitperiod},
+         given={Eike\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NN}{%
+         family={Noreika},
+         familyi={N\bibinitperiod},
+         given={Norbertas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=NO}{%
+         family={Norfolk},
+         familyi={N\bibinitperiod},
+         given={Olivia},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=NJA}{%
+         family={Noriega},
+         familyi={N\bibinitperiod},
+         given={Jorge\bibnamedelima Ari},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NNM}{%
+         family={N{\"{o}}ske},
+         familyi={N\bibinitperiod},
+         given={Nicole\bibnamedelima M.},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ON}{%
+         family={O'Dea},
+         familyi={O\bibinitperiod},
+         given={Niall},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=OW}{%
+         family={Oduro},
+         familyi={O\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=OBC}{%
+         family={Ofori-Boateng},
+         familyi={O\bibinithyphendelim B\bibinitperiod},
+         given={Caleb},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OCO}{%
+         family={Oke},
+         familyi={O\bibinitperiod},
+         given={Chris\bibnamedelima O.},
+         giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=OLM}{%
+         family={Osgathorpe},
+         familyi={O\bibinitperiod},
+         given={Lynne\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Paritsis},
+         familyi={P\bibinitperiod},
+         given={Juan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PHA}{%
+         family={Parra-H},
+         familyi={P\bibinithyphendelim H\bibinitperiod},
+         given={Alejandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Pelegrin},
+         familyi={P\bibinitperiod},
+         given={Nicol{\'{a}}s},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=PCA}{%
+         family={Peres},
+         familyi={P\bibinitperiod},
+         given={Carlos\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PAS}{%
+         family={Persson},
+         familyi={P\bibinitperiod},
+         given={Anna\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Petanidou},
+         familyi={P\bibinitperiod},
+         given={Theodora},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Phalan},
+         familyi={P\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PTK}{%
+         family={Philips},
+         familyi={P\bibinitperiod},
+         given={T.\bibnamedelima Keith},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PK}{%
+         family={Poveda},
+         familyi={P\bibinitperiod},
+         given={Katja},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PEF}{%
+         family={Power},
+         familyi={P\bibinitperiod},
+         given={Eileen\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=PSJ}{%
+         family={Presley},
+         familyi={P\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Proen{\c{c}}a},
+         familyi={P\bibinitperiod},
+         given={V{\^{a}}nia},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=QM}{%
+         family={Quaranta},
+         familyi={Q\bibinitperiod},
+         given={Marino},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=QC}{%
+         family={Quintero},
+         familyi={Q\bibinitperiod},
+         given={Carolina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RDNA}{%
+         family={Redpath-Downing},
+         familyi={R\bibinithyphendelim D\bibinitperiod},
+         given={Nicola\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJL}{%
+         family={Reid},
+         familyi={R\bibinitperiod},
+         given={J.\bibnamedelima Leighton},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RYT}{%
+         family={Reis},
+         familyi={R\bibinitperiod},
+         given={Yana\bibnamedelima T.},
+         giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=RDB}{%
+         family={Ribeiro},
+         familyi={R\bibinitperiod},
+         given={Danilo\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RBA}{%
+         family={Richardson},
+         familyi={R\bibinitperiod},
+         given={Barbara\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RMJ}{%
+         family={Richardson},
+         familyi={R\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RCA}{%
+         family={Robles},
+         familyi={R\bibinitperiod},
+         given={Carolina\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={R{\"{o}}mbke},
+         familyi={R\bibinitperiod},
+         given={J{\"{o}}rg},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RDLP}{%
+         family={Romero-Duque},
+         familyi={R\bibinithyphendelim D\bibinitperiod},
+         given={Luz\bibnamedelima Piedad},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rosselli},
+         familyi={R\bibinitperiod},
+         given={Loreta},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RSJ}{%
+         family={Rossiter},
+         familyi={R\bibinitperiod},
+         given={Stephen\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RTH}{%
+         family={Roulston},
+         familyi={R\bibinitperiod},
+         given={T'ai\bibnamedelima H.},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rousseau},
+         familyi={R\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Sadler},
+         familyi={S\bibinitperiod},
+         given={Jonathan\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={S{\'{a}}fi{\'{a}}n},
+         familyi={S\bibinitperiod},
+         given={Szabolcs},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SVRA}{%
+         family={Salda{\~{n}}a-V{\'{a}}zquez},
+         familyi={S\bibinithyphendelim V\bibinitperiod},
+         given={Romeo\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SU}{%
+         family={Samneg{\aa}rd},
+         familyi={S\bibinitperiod},
+         given={Ulrika},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Sch{\"{u}}epp},
+         familyi={S\bibinitperiod},
+         given={Christof},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Schweiger},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SJL}{%
+         family={Sedlock},
+         familyi={S\bibinitperiod},
+         given={Jodi\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Shahabuddin},
+         familyi={S\bibinitperiod},
+         given={Ghazala},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sheil},
+         familyi={S\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SFA}{%
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Fernando\bibnamedelima A.B.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SEM}{%
+         family={Slade},
+         familyi={S\bibinitperiod},
+         given={Eleanor\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SPAH}{%
+         family={Smith-Pardo},
+         familyi={S\bibinithyphendelim P\bibinitperiod},
+         given={Allan\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SNS}{%
+         family={Sodhi},
+         familyi={S\bibinitperiod},
+         given={Navjot\bibnamedelima S.},
+         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SEJ}{%
+         family={Somarriba},
+         familyi={S\bibinitperiod},
+         given={Eduardo\bibnamedelima J.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Sosa},
+         familyi={S\bibinitperiod},
+         given={Ram{\'{o}}n\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SJC}{%
+         family={Stout},
+         familyi={S\bibinitperiod},
+         given={Jane\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SMJ}{%
+         family={Struebig},
+         familyi={S\bibinitperiod},
+         given={Matthew\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SYH}{%
+         family={Sung},
+         familyi={S\bibinitperiod},
+         given={Yik\bibnamedelima Hei},
+         giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TCG}{%
+         family={Threlfall},
+         familyi={T\bibinitperiod},
+         given={Caragh\bibnamedelima G.},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Tonietto},
+         familyi={T\bibinitperiod},
+         given={Rebecca},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={T{\'{o}}thm{\'{e}}r{\'{e}}sz},
+         familyi={T\bibinitperiod},
+         given={B{\'{e}}la},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Tscharntke},
+         familyi={T\bibinitperiod},
+         given={Teja},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TEC}{%
+         family={Turner},
+         familyi={T\bibinitperiod},
+         given={Edgar\bibnamedelima C.},
+         giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=TJM}{%
+         family={Tylianakis},
+         familyi={T\bibinitperiod},
+         given={Jason\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VAJ}{%
+         family={Vanbergen},
+         familyi={V\bibinitperiod},
+         given={Adam\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Vassilev},
+         familyi={V\bibinitperiod},
+         given={Kiril},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VHA}{%
+         family={Verboven},
+         familyi={V\bibinitperiod},
+         given={Hans\bibnamedelima A.F.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VCH}{%
+         family={Vergara},
+         familyi={V\bibinitperiod},
+         given={Carlos\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=VPM}{%
+         family={Vergara},
+         familyi={V\bibinitperiod},
+         given={Pablo\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Verhulst},
+         familyi={V\bibinitperiod},
+         given={Jort},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WTR}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Tony\bibnamedelima R.},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yanping},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WJI}{%
+         family={Watling},
+         familyi={W\bibinitperiod},
+         given={James\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wells},
+         familyi={W\bibinitperiod},
+         given={Konstans},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WCD}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Christopher\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=WMR}{%
+         family={Willig},
+         familyi={W\bibinitperiod},
+         given={Michael\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WJC}{%
+         family={Woinarski},
+         familyi={W\bibinitperiod},
+         given={John\bibnamedelima C.Z.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WJH}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={Jan\bibnamedelima H.D.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WBA}{%
+         family={Woodcock},
+         familyi={W\bibinitperiod},
+         given={Ben\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=YDW}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Douglas\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=ZAS}{%
+         family={Zaitsev},
+         familyi={Z\bibinitperiod},
+         given={Andrey\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ERM}{%
+         family={Ewers},
+         familyi={E\bibinitperiod},
+         given={Rob\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PDW}{%
+         family={Purves},
+         familyi={P\bibinitperiod},
+         given={Drew\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Scharlemann},
+         familyi={S\bibinitperiod},
+         given={J{\"{o}}rn\bibnamedelima P.W.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{data sharing,global biodiversity modeling,global change,habitat
+  destruction,land use}
+    \strng{namehash}{HLN+1}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    The PREDICTS project—Projecting Responses of Ecological Diversity In
+  Changing Terrestrial Systems (www.predicts.org.uk)—has collated from
+  published studies a large, reasonably representative database of comparable
+  samples of biodiversity from multiple sites that differ in the nature or
+  intensity of human impacts relating to land use. We have used this evidence
+  base to develop global and regional statistical models of how local
+  biodiversity responds to these measures. We describe and make freely
+  available this 2016 release of the database, containing more than 3.2 million
+  records sampled at over 26,000 locations and representing over 47,000
+  species. We outline how the database can help in answering a range of
+  questions in ecology and conservation biology. To our knowledge, this is the
+  largest and most geographically and taxonomically representative database of
+  spatial comparisons of biodiversity that has been collated to date; it will
+  be useful to researchers and international efforts wishing to model and
+  understand the global status of biodiversity.%
+    }
+    \verb{doi}
+    \verb 10.1002/ece3.2579
+    \endverb
+    \field{isbn}{20457758}
+    \field{issn}{20457758}
+    \field{title}{{The database of the PREDICTS (Projecting Responses of
+  Ecological Diversity In Changing Terrestrial Systems) project}}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2017}
   \endentry
 
   \entry{Isaac2004}{article}{}
@@ -4512,6 +8061,198 @@
     \field{year}{2014}
   \endentry
 
+  \entry{LaSorte2018}{article}{}
+    \name{author}{12}{}{%
+      {{hash=LFA}{%
+         family={{La Sorte}},
+         familyi={L\bibinitperiod},
+         given={Frank\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LCA}{%
+         family={Lepczyk},
+         familyi={L\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AMF}{%
+         family={Aronson},
+         familyi={A\bibinitperiod},
+         given={Myla\bibnamedelima F.J.},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=GMA}{%
+         family={Goddard},
+         familyi={G\bibinitperiod},
+         given={Mark\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hedblom},
+         familyi={H\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Katti},
+         familyi={K\bibinitperiod},
+         given={Madhusudan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MFI}{%
+         family={MacGregor-Fors},
+         familyi={M\bibinithyphendelim F\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=MU}{%
+         family={M{\"{o}}rtberg},
+         familyi={M\bibinitperiod},
+         given={Ulla},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=NCH}{%
+         family={Nilon},
+         familyi={N\bibinitperiod},
+         given={Charles\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WPS}{%
+         family={Warren},
+         familyi={W\bibinitperiod},
+         given={Paige\bibnamedelima S.},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WNS}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Nicholas\bibnamedelima S.G.},
+         giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{breeding bird assemblages,evolutionary distinctiveness,functional
+  diversity,phylogenetic diversity,traits,urbanization}
+    \strng{namehash}{LFA+1}
+    \strng{fullhash}{LFALCAAMFGMAHMKMMFIMUNCHWPSWNSYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Aim Urbanization broadly affects the phylogenetic and functional diversity
+  of natural communities through a variety of processes including habitat loss
+  and the introduction of non-native species. Due to the challenge of acquiring
+  direct measurements, these effects have been studied primarily using
+  “space-for-time” substitution where spatial urbanization gradients are
+  used to infer the consequences of urbanization occurring across time. The
+  ability of alternative sampling designs to replicate the findings derived
+  using space-for-time substitution has not been tested. Location Global.
+  Methods We contrasted the phylogenetic and functional diversity of breeding
+  bird assemblages in 58 cities worldwide with the corresponding regional
+  breeding bird assemblages estimated using geographic range maps. Results
+  Compared to regional assemblages, urban assemblages contained lower
+  phylogenetic diversity, lower phylogenetic beta diversity, a reduction in the
+  least evolutionary distinct species and the loss of the most evolutionarily
+  distinct species. We found no evidence that these effects were related to the
+  presence of non-native species. Urban assemblages contained fewer aquatic
+  species and fewer aquatic foraging species. The distribution of body size and
+  range size narrowed for urban assemblages with the loss of species at both
+  tails of the distribution, especially large bodied and broadly distributed
+  species. Urban assemblages contained a greater proportion of species
+  classified as passerines, doves or pigeons; species identified as granivores;
+  species that forage within vegetation or in the air; and species with more
+  generalized associations with foraging strata. Main conclusions Urbanization
+  is associated with the overall reduction and constriction of phylogenetic and
+  functional diversity, results that largely replicate those generated using
+  space-for-time substitution, increasing our confidence in the quality of the
+  combined inferences. When direct measurements are unavailable, our findings
+  emphasize the value of developing independent sampling methods that broaden
+  and reinforce our understanding of the ecological implications of
+  urbanization.%
+    }
+    \verb{doi}
+    \verb 10.1111/ddi.12738
+    \endverb
+    \verb{eprint}
+    \verb /onlinelibrary.wiley.com/doi/pdf/10.1111/ddi.12738
+    \endverb
+    \field{issn}{14724642}
+    \field{title}{{The phylogenetic and functional diversity of regional
+  breeding bird assemblages is reduced and constricted through urbanization}}
+    \field{journaltitle}{Diversity and Distributions}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{https:}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Laliberte2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LE}{%
+         family={Laliberte},
+         familyi={L\bibinitperiod},
+         given={Etienne},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Legendre},
+         familyi={L\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \keyw{Functional composition,Functional dispersion,Functional
+  divergence,Functional diversity,Functional evenness,Functional
+  identity,Functional richness,Functional trait,Multivariate dispersion}
+    \strng{namehash}{LELP1}
+    \strng{fullhash}{LELP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    A new framework for measuring functional diversity (FD) from multiple
+  traits has recently been proposed. This framework was mostly limited to
+  quantitative traits without missing values and to situations in which there
+  are more species than traits, although the authors had suggested a way to
+  extend their framework to other trait types. The main purpose of this note is
+  to further develop this suggestion. We describe a highly flexible
+  distance-based framework to measure different facets of FD in
+  multidimensional trait space from any distance or dissimilarity measure, any
+  number of traits, and from different trait types (i.e., quantitative,
+  semi-quantitative, and qualitative). This new approach allows for missing
+  trait values and the weighting of individual traits. We also present a new
+  multidimensional FD index, called functional dispersion (FDis), which is
+  closely related to Rao's quadratic entropy. FDis is the multivariate analogue
+  of the weighted mean absolute deviation (MAD), in which the weights are
+  species relative abundances. For unweighted presence–absence data, FDis can
+  be used for a formal statistical test of differences in FD. We provide the
+  ‘‘FD'' R language package to easily implement our distance-based FD
+  framework.%
+    }
+    \verb{doi}
+    \verb 10.1890/08-2244.1
+    \endverb
+    \field{isbn}{0012-9658}
+    \field{issn}{00129658}
+    \field{number}{1}
+    \field{pages}{299\bibrangedash 305}
+    \field{title}{{A distance-based framework for measuring functional
+  diversity from multiple traits}}
+    \field{volume}{91}
+    \field{journaltitle}{Ecology}
+    \field{year}{2010}
+  \endentry
+
   \entry{Lavorel2002a}{article}{}
     \name{author}{2}{}{%
       {{hash=LS}{%
@@ -4581,6 +8322,147 @@
     \field{title}{{Predicting changes in community composition and ecosystem
   functioning from plant traits: Revisiting the Holy Grail}}
     \field{year}{2002}
+  \endentry
+
+  \entry{Legras2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LG}{%
+         family={Legras},
+         familyi={L\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LN}{%
+         family={Loiseau},
+         familyi={L\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=GJC}{%
+         family={Gaertner},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Functional richness indices,Guidelines,Index properties,Limitations}
+    \strng{namehash}{LG+1}
+    \strng{fullhash}{LGLNGJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Functional richness, currently defined as the amount of niche space
+  occupied by the species within a community, is one of the three major
+  components of functional diversity. Different indices have been developed in
+  order to quantify this component. However, the range of indices available for
+  assessing functional richness, often mathematically complex and based on
+  different rationales, can cause confusion for field ecologists and lead to
+  misinterpretation of the results obtained. In this context, we have provided
+  the first study exclusively focused on the comparison of the definitions,
+  advantages and drawbacks of a large set of functional richness indices. The
+  first part of this work is focused on four indices (FDP&G, FRic, TOP and
+  N-hypervolumes indices) that are currently the most commonly used for
+  assessing functional richness. We have completed our study by including
+  recently developed indices that enable us to take into account the
+  intraspecific trait variability (i.e. FRim index and TDP framework), because
+  there is currently a growing scientific consensus regarding the necessity of
+  including this aspect in the assessment of the functional diversity of
+  communities. We demonstrate that although authors have argued that their
+  index describes the functional richness, each of them describes only part of
+  it, and this part may strongly differ from one index to another. Rather than
+  advocating the general use of a single index and/or systematically avoiding
+  others, our study highlights the need for selecting indices in close relation
+  with the context, the available data and the aims of each study. Such a
+  strategy is an essential preliminary step for preventing misunderstanding and
+  artefactual controversies. Along these lines, we propose some guidelines to
+  help users in selecting the most appropriate indices according both to the
+  facet of functional richness on which they wish to focus and to the
+  characteristics of the available data.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.actao.2018.02.007
+    \endverb
+    \field{issn}{1146609X}
+    \field{title}{{Functional richness: Overview of indices and underlying
+  concepts}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Legras, Loiseau, Gaertner - 2018 - Functional richness Overview o
+    \verb f indices and underlying concepts.pdf:pdf
+    \endverb
+    \field{journaltitle}{Acta Oecologica}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Letnic2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LM}{%
+         family={Letnic},
+         familyi={L\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=REG}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Euan\bibnamedelima G.},
+         giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DCR}{%
+         family={Dickman},
+         familyi={D\bibinitperiod},
+         given={Christopher\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Biodiversity,Canis lupus
+  dingo,Competition,Conservation,Dingo,Intra-guild predation,Mesopredator,Red
+  fox,Top predator,Trophic cascade,Vulpes vulpes}
+    \strng{namehash}{LM+1}
+    \strng{fullhash}{LMREGDCR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Top-order predators often have positive effects on biological diversity
+  owing to their key functional roles in regulating trophic cascades and other
+  ecological processes. Their loss has been identified as a major factor
+  contributing to the decline of biodiversity in both aquatic and terrestrial
+  systems. Consequently, restoring and maintaining the ecological function of
+  top predators is a critical global imperative. Here we review studies of the
+  ecological effects of the dingo Canis lupus dingo, Australia's largest land
+  predator, using this as a case study to explore the influence of a top
+  predator on biodiversity at a continental scale. The dingo was introduced to
+  Australia by people at least 3500 years ago and has an ambiguous status owing
+  to its brief history on the continent, its adverse impacts on livestock
+  production and its role as an ecosystem architect. A large body of research
+  now indicates that dingoes regulate ecological cascades, particularly in arid
+  Australia, and that the removal of dingoes results in an increase in the
+  abundances and impacts of herbivores and invasive mesopredators, most notably
+  the red fox Vulpes vulpes. The loss of dingoes has been linked to widespread
+  losses of small and medium-sized native mammals, the depletion of plant
+  biomass due to the effects of irrupting herbivore populations and increased
+  predation rates by red foxes. We outline a suite of conceptual models to
+  describe the effects of dingoes on vertebrate populations across different
+  Australian environments. Finally, we discuss key issues that require
+  consideration or warrant research before the ecological effects of dingoes
+  can be incorporated formally into biodiversity conservation programs.%
+    }
+    \verb{doi}
+    \verb 10.1111/j.1469-185X.2011.00203.x
+    \endverb
+    \field{issn}{14647931}
+    \field{title}{{Top predators as biodiversity regulators: The dingo Canis
+  lupus dingo as a case study}}
+    \field{journaltitle}{Biological Reviews}
+    \field{year}{2012}
   \endentry
 
   \entry{Luck2012}{article}{}
@@ -4653,6 +8535,128 @@
   frameworks to the study of ecosystem services}}
     \field{journaltitle}{Journal of Animal Ecology}
     \field{year}{2012}
+  \endentry
+
+  \entry{Magioli2021}{article}{}
+    \name{author}{9}{}{%
+      {{hash=MM}{%
+         family={Magioli},
+         familyi={M\bibinitperiod},
+         given={Marcelo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FKMPMdB}{%
+         family={Ferraz},
+         familyi={F\bibinitperiod},
+         given={Katia Maria Paschoaletto Micchi de\bibnamedelima Barros},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  d\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CAG}{%
+         family={Chiarello},
+         familyi={C\bibinitperiod},
+         given={Adriano\bibnamedelima Garcia},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Galetti},
+         familyi={G\bibinitperiod},
+         given={Mauro},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SEZF}{%
+         family={Setz},
+         familyi={S\bibinitperiod},
+         given={Eleonore Zulnara\bibnamedelima Freire},
+         giveni={E\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=PAP}{%
+         family={Paglia},
+         familyi={P\bibinitperiod},
+         given={Adriano\bibnamedelima Pereira},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Abrego},
+         familyi={A\bibinitperiod},
+         given={Nerea},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=RMC}{%
+         family={Ribeiro},
+         familyi={R\bibinitperiod},
+         given={Milton\bibnamedelima Cezar},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=OO}{%
+         family={Ovaskainen},
+         familyi={O\bibinitperiod},
+         given={Otso},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Associa&ccedil;&atilde;o Brasileira de Ci&ecirc;ncia Ecol&oacute;gica e
+  Conserva&ccedil;&atilde;o}%
+    }
+    \keyw{Atlantic Forest,Diet,Ecological functions,Forest
+  fragmentation,Habitat loss,Hierarchical modeling,Human-modified landscapes}
+    \strng{namehash}{MM+1}
+    \strng{fullhash}{MMFKMPMdBCAGGMSEZFPAPANRMCOO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Land-use changes are a main driver of modifications in tropical ecosystems,
+  leading to the loss of species and ecological traits and affecting key
+  ecological functions. Although much attention has been given to predict the
+  effects of species loss on ecological processes, information on the
+  large-scale effects of land-use changes over ecological functions is scarce.
+  Here, we detected erosion in the prevalence of ecological functions performed
+  by mammals in response to land-use changes in the Atlantic Forest of Brazil.
+  By analyzing the loss of different ecological functions (vertebrate and
+  invertebrate predation, seed dispersal, seed depredation, herbivory)
+  performed by mammal assemblages in a deforestation gradient, we observed that
+  vulnerable functions (performed by sensitive species, such as browsing, seed
+  depredation, medium and large vertebrate predation) were positively related
+  to patch size and forest cover and negatively related to anthropogenic cover.
+  These relationships were reversed for persistent functions (performed by
+  resilient species, such as grazing, small seed dispersal, small vertebrate
+  and invertebrate predation). Vulnerable functions were virtually restricted
+  to large forest remnants, while persistent functions were prevalent in
+  human-modified landscapes. Disturbed forests are not necessarily empty of
+  mammal species, but there is a substantial loss of ecological functions
+  across most of the Atlantic Forest. Five out of ten ecological functions lose
+  prevalence in small forest remnants. Nonetheless, these small remnants serve
+  as refuges for the remaining biodiversity and are on the verge of the
+  functional extinction of important processes. The erosion of ecological
+  functions provided by mammals compromise the persistence of Atlantic Forest's
+  biodiversity.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.pecon.2021.02.006
+    \endverb
+    \field{issn}{25300644}
+    \field{number}{2}
+    \field{pages}{161\bibrangedash 170}
+    \field{title}{{Land-use changes lead to functional loss of terrestrial
+  mammals in a Neotropical rainforest}}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.pecon.2021.02.006
+    \endverb
+    \field{volume}{19}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Magioli et al. - 2021 - Land-use changes lead to functional loss
+    \verb of terrestrial mammals in a Neotropical rainforest.pdf:pdf
+    \endverb
+    \field{journaltitle}{Perspectives in Ecology and Conservation}
+    \field{year}{2021}
   \endentry
 
   \entry{Majekova2016}{article}{}
@@ -4742,7 +8746,7 @@
          giveni={F\bibinitperiod},
       }}%
     }
-    \strng{namehash}{MM+1}
+    \strng{namehash}{MM+2}
     \strng{fullhash}{MMPTPNSBMKLNAWMBTRLSHSKLYLJGLDF1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -4844,6 +8848,146 @@
     \field{volume}{10}
     \field{journaltitle}{Frontiers in Ecology and the Environment}
     \field{year}{2012}
+  \endentry
+
+  \entry{Matuoka2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MMA}{%
+         family={Matuoka},
+         familyi={M\bibinitperiod},
+         given={Ma{\'{i}}sa\bibnamedelima Assano},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Benchimol},
+         familyi={B\bibinitperiod},
+         given={Ma{\'{i}}ra},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=dARJM}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Almeida-Rocha},
+         familyi={A\bibinithyphendelim R\bibinitperiod},
+         given={Juliana\bibnamedelima Monteiro},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MFJC}{%
+         family={Morante-Filho},
+         familyi={M\bibinithyphendelim F\bibinitperiod},
+         given={Jos{\'{e}}\bibnamedelima Carlos},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Avian,Biodiversity,Ecological traits,Ecosystem functioning,Human
+  perturbations}
+    \strng{namehash}{MMA+1}
+    \strng{fullhash}{MMABMARJMdMFJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Anthropogenic disturbances represent the main threat to biodiversity around
+  the globe, yet effects are not restricted to species loss. Assessing the
+  functional diversity, which measures the range and value of ecological traits
+  of organisms, can provide a more direct link between biodiversity and
+  ecosystem functioning. Therefore, as species' responses to disturbances
+  depend on their ecological traits, ecosystem functions are likely to be also
+  imperiled by human perturbations. Although the literature on the effects of
+  disturbances on functional diversity has been increasing, results are highly
+  varied. Here, we provided the first comprehensive global meta-analysis on the
+  effects of human disturbances on functional diversity of birds. We also
+  performed subgroup analyses by region, habitat specialization, functional
+  trait, functional diversity index and disturbance type. Our results indicate
+  a consistent negative effect of disturbances on bird functional diversity,
+  regardless of the variability caused by the different predictor variables
+  considered. Specifically, we revealed that studies that were conducted in the
+  tropics, focused on feeding traits and calculated functional diversity and
+  richness indices presented negative responses to disturbances. Additionally,
+  the functional diversity of birds, regardless of habitat specialization, was
+  also negatively affected by anthropogenic disturbances. Lastly, habitat
+  isolation, logging and urbanization exhibited a consistent negative effect on
+  the functional diversity of birds, whereas agriculture, habitat loss and
+  multiple disturbances had no detectable influence. These results indicate
+  that anthropogenic disturbances can be detrimental to birds, possibly
+  jeopardizing their ecological functions and threatening ecosystem resilience.
+  We therefore suggest that conservation efforts should particularly focus on
+  reducing or mitigating the effects of these three disturbances to at least
+  diminish their effects on avian functional diversity. Additionally, we
+  highlight the need for novel studies to simultaneously investigate the direct
+  relationship between disturbance, functional diversity and especially
+  ecosystem function, through the employment of multiple complementary indices,
+  in order to effectively assist conservation decisions.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.ecolind.2020.106471
+    \endverb
+    \field{issn}{1470160X}
+    \field{title}{{Effects of anthropogenic disturbances on bird functional
+  diversity: A global meta-analysis}}
+    \field{journaltitle}{Ecological Indicators}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Maxwell2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MSL}{%
+         family={Maxwell},
+         familyi={M\bibinitperiod},
+         given={Sean\bibnamedelima L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=FRA}{%
+         family={Fuller},
+         familyi={F\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BTM}{%
+         family={Brooks},
+         familyi={B\bibinitperiod},
+         given={Thomas\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WJEM}{%
+         family={Watson},
+         familyi={W\bibinitperiod},
+         given={James E.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MSL+1}
+    \strng{fullhash}{MSLFRABTMWJEM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Whilst agreeing with the analysis of the article, I would urge a word of
+  caution about any putting actions to slow climate change onto the back
+  burner. Firstly, climate change due to CO2 emissions is the ultimate
+  "supertanker" impact - it takes almost forever to reverse its impact once
+  released. Secondly, climate change is placing unprecedented ecological, and
+  evolutionary stress on the thermal niche dimension of almost every species on
+  the planet, with unknown and essentially unpredictable secondary impacts
+  arising from differential ecological responses of previously inter-linked
+  species - aka plants and pollinators. Time to knuckle down at the coal face
+  again - but may this is not the most appropriate of metaphors! Best wishes --
+  David Duthie%
+    }
+    \verb{doi}
+    \verb 10.1038/536143a
+    \endverb
+    \field{issn}{0028-0836}
+    \field{title}{{Biodiversity: The ravages of guns, nets and bulldozers}}
+    \field{journaltitle}{Nature}
+    \field{year}{2016}
   \endentry
 
   \entry{May2011}{article}{}
@@ -5013,6 +9157,110 @@
   latitudinal gradient of missing species richness}}
     \field{journaltitle}{Nature Communications}
     \field{year}{2018}
+  \endentry
+
+  \entry{Millard2021}{article}{}
+    \name{author}{12}{}{%
+      {{hash=MJ}{%
+         family={Millard},
+         familyi={M\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OCL}{%
+         family={Outhwaite},
+         familyi={O\bibinitperiod},
+         given={Charlotte\bibnamedelima L},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kinnersley},
+         familyi={K\bibinitperiod},
+         given={Robyn},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GRD}{%
+         family={Gregory},
+         familyi={G\bibinitperiod},
+         given={Richard\bibnamedelima D},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=AO}{%
+         family={Adedoja},
+         familyi={A\bibinitperiod},
+         given={Opeyemi},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gavini},
+         familyi={G\bibinitperiod},
+         given={Sabrina},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Kioko},
+         familyi={K\bibinitperiod},
+         given={Esther},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kuhlmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=OJ}{%
+         family={Ollerton},
+         familyi={O\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RZx}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Zong-xin},
+         giveni={Z\bibinithyphendelim x\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{MJ+1}
+    \strng{fullhash}{MJOCLKRFRGRDAOGSKEKMOJRZxNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1038/s41467-021-23228-3
+    \endverb
+    \field{issn}{2041-1723}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Global effects of land-use intensity on local pollinator
+  biodiversity}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41467-021-23228-3
+    \endverb
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Millard et al. - 2021 - pollinator biodiversity.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2021}
   \endentry
 
   \entry{Myhrvold2015}{article}{}
@@ -5233,6 +9481,85 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Newbold2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=OP}{%
+         family={Oppenheimer},
+         familyi={O\bibinitperiod},
+         given={Philippa},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Etard},
+         familyi={E\bibinitperiod},
+         given={Adrienne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WJJ}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Jessica\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTOPEAWJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Global biodiversity is undergoing rapid declines, driven in large part by
+  changes to land use and climate. Global models help us to understand the
+  consequences of environmental changes for biodiversity, but tend to neglect
+  important geographical variation in the sensitivity of biodiversity to these
+  changes. Here we test whether biodiversity responses to climate change and
+  land-use change differ among biomes (geographical units that have marked
+  differences in environment and species composition). We find the strongest
+  negative responses to both pressures in tropical biomes and in the
+  Mediterranean. A further analysis points towards similar underlying drivers
+  for the sensitivity to each pressure: we find both greater reductions in
+  species richness in the types of land use most disturbed by humans and more
+  negative predicted responses to climate change in areas of lower climatic
+  seasonality, and in areas where a greater proportion of species are near
+  their upper temperature limit. Within the land most modified by humans,
+  reductions in biodiversity were particularly large in regions where humans
+  have come to dominate the land more recently. Our results will help to
+  improve predictions of how biodiversity is likely to change with ongoing
+  climatic and land-use changes, pointing toward particularly large declines in
+  the tropics where much future agricultural expansion is expected to occur.
+  This finding could help to inform the development of the post-2020
+  biodiversity framework, by highlighting the under-studied regions where
+  biodiversity losses are likely to be greatest.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41559-020-01303-0
+    \endverb
+    \field{isbn}{4155902001}
+    \field{issn}{2397334X}
+    \field{title}{{Tropical and Mediterranean biodiversity is
+  disproportionately sensitive to land-use and climate change}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Newbold et al. - 2020 - Tropical and Mediterranean biodiversity i
+    \verb s disproportionately sensitive to land-use and climate change(2).pdf:
+    \verb pdf;:C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Dow
+    \verb nloaded/Newbold et al. - 2020 - Tropical and Mediterranean biodiversi
+    \verb ty is disproportionately sensitive to land-use and climate change.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Nature Ecology and Evolution}
+    \field{year}{2020}
+  \endentry
+
   \entry{Newbold2013}{article}{}
     \name{author}{7}{}{%
       {{hash=NT}{%
@@ -5322,6 +9649,295 @@
   bird species to land-use intensity.}}
     \field{journaltitle}{Proceedings. Biological sciences / The Royal Society}
     \field{year}{2013}
+  \endentry
+
+  \entry{Newbold2015}{article}{}
+    \name{author}{41}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Laurence\bibnamedelima N},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HSL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha\bibnamedelima Ll},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Contu},
+         familyi={C\bibinitperiod},
+         given={Sar},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LI}{%
+         family={Lysenko},
+         familyi={L\bibinitperiod},
+         given={Igor},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SRa}{%
+         family={Senior},
+         familyi={S\bibinitperiod},
+         given={Rebecca\bibnamedelima a},
+         giveni={R\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={B{\"{o}}rger},
+         familyi={B\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BDJ}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={Dominic\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Choimes},
+         familyi={C\bibinitperiod},
+         given={Argyrios},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Day},
+         familyi={D\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={{De Palma}},
+         familyi={D\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dı{\'{a}}z},
+         familyi={D\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ELS}{%
+         family={Echeverria-Londo{\~{n}}o},
+         familyi={E\bibinithyphendelim L\bibinitperiod},
+         given={Susy},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EMJ}{%
+         family={Edgar},
+         familyi={E\bibinitperiod},
+         given={Melanie\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Anat},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Garon},
+         familyi={G\bibinitperiod},
+         given={Morgan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HMLK}{%
+         family={Harrison},
+         familyi={H\bibinitperiod},
+         given={Michelle L\bibnamedelima K},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Alhusseini},
+         familyi={A\bibinitperiod},
+         given={Tamera},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=IDJ}{%
+         family={Ingram},
+         familyi={I\bibinitperiod},
+         given={Daniel\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=IY}{%
+         family={Itescu},
+         familyi={I\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kattge},
+         familyi={K\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kemp},
+         familyi={K\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Kirkpatrick},
+         familyi={K\bibinitperiod},
+         given={Lucinda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kleyer},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={{Laginha Pinto Correia}},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MCD}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Callum\bibnamedelima D},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Meiri},
+         familyi={M\bibinitperiod},
+         given={Shai},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Novosolov},
+         familyi={N\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PHRP}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Helen R\bibnamedelima P},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=PDW}{%
+         family={Purves},
+         familyi={P\bibinitperiod},
+         given={Drew\bibnamedelima W},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Alexandra},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Simpson},
+         familyi={S\bibinitperiod},
+         given={Jake},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TSL}{%
+         family={Tuck},
+         familyi={T\bibinitperiod},
+         given={Sean\bibnamedelima L},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Weiher},
+         familyi={W\bibinitperiod},
+         given={Evan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WHJ}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Hannah\bibnamedelima J},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ERM}{%
+         family={Ewers},
+         familyi={E\bibinitperiod},
+         given={Robert\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Scharlemann},
+         familyi={S\bibinitperiod},
+         given={J{\"{o}}rn\bibnamedelima Pw},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+  \strng{fullhash}{NTHLNHSLCSLISRaBLBDJCACBDJDADSELSEMJFAGMHMLKATIDJIYKJKVKLKMLDMCDMSNMPYPHRPPDWRASJTSLWEWHJERMMGMSJPPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Human activities, especially conversion and degradation of habitats, are
+  causing global biodiversity declines. How local ecological assemblages are
+  responding is less clear—a concern given their importance for many
+  ecosystem functions and services.We analysed a terrestrial assemblage
+  database of unprecedented geographic and taxonomic coverage to quantify local
+  biodiversity responses to land use and related changes. Here we show that in
+  the worst-affected habitats, these pressures reducewithin-sample species
+  richness by anaverage of 76.5%,total abundance by 39.5%andrarefaction-based
+  richness by 40.3%. We estimate that, globally, these pressures have already
+  slightly reduced average within-sample richness (by 13.6%), total abundance
+  (10.7%) and rarefaction-based richness (8.1%), with changes showing marked
+  spatial variation. Rapid further losses are predicted under a
+  business-as-usual land-use scenario; within-sample richness is projected to
+  fall by a further 3.4% globally by 2100, with losses concentrated in
+  biodiverse but economically poor countries. Strongmitigationcan
+  delivermuchmore positive biodiversity changes (up to a 1.9%average increase)
+  that are less strongly related to countries' socioeconomic status.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature14324
+    \endverb
+    \field{isbn}{0028-0836}
+    \field{issn}{0028-0836}
+    \field{title}{{Global effects of land use on local terrestrial
+  biodiversity}}
+    \field{journaltitle}{Nature}
+    \field{year}{2015}
   \endentry
 
   \entry{Novosolov2013}{article}{}
@@ -5577,6 +10193,146 @@
   traits}}
     \field{journaltitle}{Scientific Data}
     \field{year}{2017}
+  \endentry
+
+  \entry{Oliver2015}{article}{}
+    \name{author}{17}{}{%
+      {{hash=OTH}{%
+         family={Oliver},
+         familyi={O\bibinitperiod},
+         given={Tom\bibnamedelima H.},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=HMS}{%
+         family={Heard},
+         familyi={H\bibinitperiod},
+         given={Matthew\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=INJ}{%
+         family={Isaac},
+         familyi={I\bibinitperiod},
+         given={Nick\bibnamedelima J.B.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RDB}{%
+         family={Roy},
+         familyi={R\bibinitperiod},
+         given={David\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Procter},
+         familyi={P\bibinitperiod},
+         given={Deborah},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=EF}{%
+         family={Eigenbrod},
+         familyi={E\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Freckleton},
+         familyi={F\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hector},
+         familyi={H\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OCDL}{%
+         family={Orme},
+         familyi={O\bibinitperiod},
+         given={C.\bibnamedelima David\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=POL}{%
+         family={Petchey},
+         familyi={P\bibinitperiod},
+         given={Owen\bibnamedelima L.},
+         giveni={O\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Proen{\c{c}}a},
+         familyi={P\bibinitperiod},
+         given={V{\^{a}}nia},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Raffaelli},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SKB}{%
+         family={Suttle},
+         familyi={S\bibinitperiod},
+         given={K.\bibnamedelima Blake},
+         giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MLB}{%
+         family={Mart{\'{i}}n-L{\'{o}}pez},
+         familyi={M\bibinithyphendelim L\bibinitperiod},
+         given={Berta},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WBA}{%
+         family={Woodcock},
+         familyi={W\bibinitperiod},
+         given={Ben\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BJM}{%
+         family={Bullock},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{Ecosystem services,Functional
+  diversity,Recovery,Redundancy,Resistance,Risk}
+    \strng{namehash}{OTH+1}
+    \strng{fullhash}{OTHHMSINJRDBPDEFFRHAOCDLPOLPVRDSKBMGMMLBWBABJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{abstract}{%
+    Accelerating rates of environmental change and the continued loss of global
+  biodiversity threaten functions and services delivered by ecosystems. Much
+  ecosystem monitoring and management is focused on the provision of ecosystem
+  functions and services under current environmental conditions, yet this could
+  lead to inappropriate management guidance and undervaluation of the
+  importance of biodiversity. The maintenance of ecosystem functions and
+  services under substantial predicted future environmental change (i.e., their
+  'resilience') is crucial. Here we identify a range of mechanisms underpinning
+  the resilience of ecosystem functions across three ecological scales.
+  Although potentially less important in the short term, biodiversity,
+  encompassing variation from within species to across landscapes, may be
+  crucial for the longer-term resilience of ecosystem functions and the
+  services that they underpin.%
+    }
+    \field{booktitle}{Trends in Ecology and Evolution}
+    \verb{doi}
+    \verb 10.1016/j.tree.2015.08.009
+    \endverb
+    \field{issn}{01695347}
+    \field{title}{{Biodiversity and Resilience of Ecosystem Functions}}
+    \field{year}{2015}
   \endentry
 
   \entry{Pacifici2015}{article}{}
@@ -6253,6 +11009,65 @@
     \field{year}{2000}
   \endentry
 
+  \entry{Quesnelle2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=QPE}{%
+         family={Quesnelle},
+         familyi={Q\bibinitperiod},
+         given={Pauline\bibnamedelima E},
+         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LKE}{%
+         family={Lindsay},
+         familyi={L\bibinitperiod},
+         given={Kathryn\bibnamedelima E},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={Fahrig},
+         familyi={F\bibinitperiod},
+         given={Lenore},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QPE+1}
+    \strng{fullhash}{QPELKEFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \field{abstract}{%
+    We tested the hypotheses that species with greater mobility and/or higher
+  reproductive rates are less sensitive to habitat loss than species with lower
+  mobility and/or reproductive rates by conducting a meta-analysis of wetland
+  vertebrate responses to wetland habitat loss. We combined data from 90
+  studies conducted worldwide that quantified the relationship between wetland
+  amount in a landscape and population abundance of at least one wetland
+  species to determine if mobility (indexed as home range size and body length)
+  and annual reproductive rate influence species responses to wetland loss.
+  When analyzed across all taxa, animals with higher reproductive rates were
+  less sensitive to wetland loss. Surprisingly, we did not find an effect of
+  mobility on response to wetland loss. Overall, wetland mammals and birds were
+  more sensitive to wetland loss than were reptiles and amphibians. Our results
+  suggest that dispersal between habitat patches is less important than
+  species' reproductive rates for population persistence in fragmented
+  landscapes. This implies that immigration and colonization rate is most
+  strongly related to reproduction, which determines the total number of
+  potential colonists.%
+    }
+    \verb{doi}
+    \verb 10.1371/journal.pone.0090926
+    \endverb
+    \field{isbn}{1932-6203 (Electronic)$\$n1932-6203 (Linking)}
+    \field{issn}{19326203}
+    \field{title}{{Low reproductive rate predicts species sensitivity to
+  habitat loss: A meta-analysis of wetland vertebrates}}
+    \field{journaltitle}{PLoS ONE}
+    \field{year}{2014}
+  \endentry
+
   \entry{R_citation}{manual}{}
     \name{author}{1}{}{%
       {{hash=R}{%
@@ -6355,6 +11170,109 @@
   southwestern Mexico}}
     \field{journaltitle}{Ecology and Evolution}
     \field{year}{2020}
+  \endentry
+
+  \entry{Ratto2018}{article}{}
+    \name{author}{10}{}{%
+      {{hash=RF}{%
+         family={Ratto},
+         familyi={R\bibinitperiod},
+         given={Fabrizia},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SBI}{%
+         family={Simmons},
+         familyi={S\bibinitperiod},
+         given={Benno\bibnamedelima I.},
+         giveni={B\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Spake},
+         familyi={S\bibinitperiod},
+         given={Rebecca},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZGV}{%
+         family={Zamora-Gutierrez},
+         familyi={Z\bibinithyphendelim G\bibinitperiod},
+         given={Veronica},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MMA}{%
+         family={MacDonald},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MJC}{%
+         family={Merriman},
+         familyi={M\bibinitperiod},
+         given={Jennifer\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=TCJ}{%
+         family={Tremlett},
+         familyi={T\bibinitperiod},
+         given={Constance\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PGM}{%
+         family={Poppy},
+         familyi={P\bibinitperiod},
+         given={Guy\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PKS}{%
+         family={Peh},
+         familyi={P\bibinitperiod},
+         given={Kelvin\bibnamedelima S.H.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DLV}{%
+         family={Dicks},
+         familyi={D\bibinitperiod},
+         given={Lynn\bibnamedelima V.},
+         giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RF+1}
+    \strng{fullhash}{RFSBISRZGVMMAMJCTCJPGMPKSDLV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Vertebrate pollinators are increasingly threatened worldwide, but little is
+  known about the potential consequences of declining pollinator populations on
+  plants and ecosystems. Here, we present the first global assessment of the
+  importance of vertebrate pollinators in the reproductive success of selected
+  flowering plants. Our meta-analysis of 126 experiments on animal-pollinated
+  plants revealed that excluding vertebrate pollinators – but not insect
+  pollinators – reduced fruit and/or seed production by 63% on average. We
+  found bat-pollinated plants to be more dependent on their respective
+  vertebrate pollinators than bird-pollinated plants (an average 83% reduction
+  in fruit/seed production when bats were excluded, as compared to a 46%
+  reduction when birds were excluded). Plant dependence on vertebrate
+  pollinators for fruit/seed production was greater in the tropics than at
+  higher latitudes. Given the potential for substantial negative impacts
+  associated with the loss of vertebrate pollinators, there is a clear need for
+  prompt, effective conservation action for threatened flower-visiting
+  vertebrate species. Additional research on how such changes might affect
+  wider ecosystems is also required.%
+    }
+    \field{booktitle}{Frontiers in Ecology and the Environment}
+    \verb{doi}
+    \verb 10.1002/fee.1763
+    \endverb
+    \field{isbn}{9789622099845 (pbk.)\r962209984X
+  (pbk.)\r9789622099838\r9622099831\rNLGGC 320458679\rAU@ 000046124107\rHEBIS
+  228638607\r080474792X (alk. paper)}
+    \field{issn}{15409309}
+    \field{title}{{Global importance of vertebrate pollinators for plant
+  reproductive success: a meta-analysis}}
+    \field{year}{2018}
   \endentry
 
   \entry{Revell2012}{article}{}
@@ -6708,6 +11626,79 @@
   targeted reptile conservation}}
     \field{journaltitle}{Nature Ecology and Evolution}
     \field{year}{2017}
+  \endentry
+
+  \entry{Salo2010}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SP}{%
+         family={Salo},
+         familyi={S\bibinitperiod},
+         given={P{\"{a}}lvi},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BPB}{%
+         family={Banks},
+         familyi={B\bibinitperiod},
+         given={Peter\bibnamedelima B.},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DCR}{%
+         family={Dickman},
+         familyi={D\bibinitperiod},
+         given={Chris\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Korpim{\"{a}}ki},
+         familyi={K\bibinitperiod},
+         given={Erkki},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \keyw{Meta-analysis,Population limitation,Predator removal,Predator-prey
+  dynamics,Species interactions,Wildlife management}
+    \strng{namehash}{SP+1}
+    \strng{fullhash}{SPBPBDCRKE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Quantifying the relative impacts of top-down vs. bottom-up control of
+  ecosystems remains a controversial issue, with debate often focusing on the
+  perennial question of how predators affect prey densities. To assess predator
+  impacts, we performed a worldwide meta-analysis of field experiments in which
+  the densities of terrestrial vertebrate predators were manipulated and the
+  responses of their terrestrial vertebrate prey were measured. Our results
+  show that predation indeed limits prey populations, as prey densities change
+  substantially after predator manipulations. The main determinant of the
+  result of an experiment was the efficiency of predator manipulation. Positive
+  impacts of predator manipulation appeared to increase with duration of the
+  experiment for non-cyclic prey, while the opposite was true for cyclic prey.
+  In addition, predator manipulation showed a large positive impact on cyclic
+  prey at low prey densities, but had no obvious impact at peak prey densities.
+  As prey population densities generally respond predictably to predator
+  manipula- tions, we suggest that control of introduced vertebrate predators
+  can be used to effectively conserve and manage native wildlife. However, care
+  should be taken when controlling native predators, especially apex species,
+  owing to their importance as strong interactors and the biodiversity value of
+  their habitats. We discuss gaps in our knowledge of predator–prey
+  relationships and methodological issues related to manipulation experiments.
+  An important guideline for future studies is that adequate monitoring of
+  predator numbers before and during the experiment is the only way to ensure
+  that observed responses in prey populations are actually caused by changes in
+  predation impacts.%
+    }
+    \verb{doi}
+    \verb 10.1890/09-1260.1
+    \endverb
+    \field{issn}{00129615}
+    \field{title}{{Predator manipulation experiments: Impacts on populations of
+  terrestrial vertebrate prey}}
+    \field{journaltitle}{Ecological Monographs}
+    \field{year}{2010}
   \endentry
 
   \entry{Santini2018}{article}{}
@@ -7696,6 +12687,112 @@
     \field{year}{2012}
   \endentry
 
+  \entry{Tilman1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TD}{%
+         family={Tilman},
+         familyi={T\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DJA}{%
+         family={Downing},
+         familyi={D\bibinitperiod},
+         given={John\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TDDJA1}
+    \strng{fullhash}{TDDJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    ONE of the ecological tenets justifying conservation of biodiversity is
+  that diversity begets stability. Impacts of biodiversity on population
+  dynamics and ecosystem functioning have long been debated1-7, however, with
+  many theoretical explorations2-6,8-11 but few field studies12-15. Here we
+  describe a long-term study of grasslands16,17 which shows that primary
+  productivity in more diverse plant communities is more resistant to, and
+  recovers more fully from, a major drought. The curvilinear relationship we
+  observe suggests that each additional species lost from our grasslands had a
+  progressively greater impact on drought resistance. Our results support the
+  diversity-stability hypothesis5,6,18,19, but not the alternative hypothesis
+  that most species are functionally redundant19-21. This study implies that
+  the preservation of biodiversity is essential for the maintenance of stable
+  productivity in ecosystems.%
+    }
+    \verb{doi}
+    \verb 10.1038/367363a0
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{0387946675}
+    \field{issn}{00280836}
+    \field{title}{{Biodiversity and stability in grasslands}}
+    \field{journaltitle}{Nature}
+    \field{eprinttype}{arXiv}
+    \field{year}{1994}
+  \endentry
+
+  \entry{Tinoco2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TBA}{%
+         family={Tinoco},
+         familyi={T\bibinitperiod},
+         given={Boris\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SVE}{%
+         family={Santill{\'{a}}n},
+         familyi={S\bibinitperiod},
+         given={Vinicio\bibnamedelima E.},
+         giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GCH}{%
+         family={Graham},
+         familyi={G\bibinitperiod},
+         given={Catherine\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Ecuador,deforestation,disturbance,functional traits,montane
+  forest,pollination services}
+    \strng{namehash}{TBA+1}
+    \strng{fullhash}{TBASVEGCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    1,3 This , which, distribution, provided . {\textcopyright} . Ecology and
+  Evolution . 1 Department , Stony Brook , Stony, NY, USA 2 Escuela ,
+  Ecolog{\'{i}}a Gesti{\'{o}}n, Universidad, Cuenca, Ecuador 3 Swiss ,
+  Birmensdorf, Switzerland Correspondence Boris . Tinoco, Escuela,
+  Ecolog{\'{i}}a y , Universidad, Cuenca, Ecuador. Funding information
+  Secretar{\'{i}}a , Ciencia, Tecnolog{\'{i}}a ; National and , Grant / Award
+  Number : NNX11AO28G ; Parque Cajas ; Decanato Universidad Abstract Land use
+  change modifies the environment at multiple spatial scales , and is a main
+  driver . However , most the, while, an, is - glected . We explored how local
+  and landscape scale characteristics influence func - tional Ecuador . Data,
+  from-most.Wesample(i.e.,vegeta-tion,flowering,nectar)and(i.e.,landscapeheterogeneity,nativevegetationcover)influencedtaxonomicandfunc-tional.Then,we–trait(RLQ)to-plorehowdifferenthummingbirdfunctionaltraitsinfluencedspeciesresponsestothesefactors.Taxonomicandfunctionaldiversityofhummingbirdswerepositivelyassociatedrelated.Wefunctional.Environment-trait-tionsland.In,landscapecan;however,areduction.Givenfunctional,the-etationcovercouldplayakeyroleinthemaintenanceofhummingbirdpollinationservices.Moreover,there,suchbody,that.%
+    }
+    \verb{doi}
+    \verb 10.1002/ece3.3813
+    \endverb
+    \field{issn}{20457758}
+    \field{title}{{Land use change has stronger effects on functional diversity
+  than taxonomic diversity in tropical Andean hummingbirds}}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2018}
+  \endentry
+
   \entry{Titley2017}{article}{}
     \name{author}{3}{}{%
       {{hash=TMA}{%
@@ -7773,6 +12870,76 @@
     \field{title}{{Scientific research on animal biodiversity is systematically
   biased towards vertebrates and temperate regions}}
     \field{journaltitle}{PLoS ONE}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Todd2017}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TBD}{%
+         family={Todd},
+         familyi={T\bibinitperiod},
+         given={Brian\bibnamedelima D.},
+         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=NAJ}{%
+         family={Nowakowski},
+         familyi={N\bibinitperiod},
+         given={A.\bibnamedelima Justin},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RJP}{%
+         family={Rose},
+         familyi={R\bibinitperiod},
+         given={Jonathan\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PSJ}{%
+         family={Price},
+         familyi={P\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Biodiversity,Citizen science,Extinction risk,Habitat loss,Reptile}
+    \strng{namehash}{TBD+1}
+    \strng{fullhash}{TBDNAJRJPPSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    Understanding how traits affect species responses to threats like habitat
+  loss may help prevent extinctions. This may be especially true for
+  understudied taxa for which we have little data to identify declines before
+  it is too late to intervene. We used a metric derived from citizen science
+  data on snake occurrences to determine which traits were most correlated with
+  species' sensitivity to human land use. We found that snake species that feed
+  primarily on vertebrates, that use a high proportion of aquatic habitats, and
+  that have small geographic ranges occurred in more natural and less
+  human-dominated landscapes. In contrast, body size, clutch (or litter) size,
+  the degree of exposure to human-dominated landscapes, reproductive mode,
+  habitat specialization, and whether a species was venomous or not had less
+  effect on their sensitivity to human land use. Our results extend previous
+  findings that higher trophic position is correlated with extinction risk in
+  many vertebrates by showing that snake species that feed primarily on
+  vertebrates are more sensitive to human land use – a primary driver of
+  extinction. It is likely that conversion of natural landscapes for human land
+  use alters biotic communities, causing losses of important trophic groups,
+  especially in aquatic and riparian communities. Practitioners should
+  therefore prioritize preserving aquatic habitat and natural landscapes with
+  intact biotic communities that can support species at higher trophic levels,
+  as well as focus monitoring on populations of range-restricted species.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.biocon.2016.12.013
+    \endverb
+    \field{isbn}{00063207}
+    \field{issn}{00063207}
+    \field{title}{{Species traits explaining sensitivity of snakes to human
+  land use estimated from citizen science data}}
+    \field{journaltitle}{Biological Conservation}
     \field{year}{2017}
   \endentry
 
@@ -8502,6 +13669,94 @@
     \field{volume}{113}
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
     \field{year}{2016}
+  \endentry
+
+  \entry{Zhang2018}{article}{}
+    \name{author}{6}{}{%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=QH}{%
+         family={Qian},
+         familyi={Q\bibinitperiod},
+         given={Hong},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Girardello},
+         familyi={G\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Pellissier},
+         familyi={P\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=NSE}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Scott\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SJC}{%
+         family={Svenning},
+         familyi={S\bibinitperiod},
+         given={Jens\bibnamedelima Christian},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Biotic interaction,Bottom-up control,Historical contingency,Species
+  coexistence,Structural equation model,Topdown control}
+    \strng{namehash}{ZJ+1}
+    \strng{fullhash}{ZJQHGMPVNSESJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{abstract}{%
+    Trophic interactions play critical roles in structuring biotic communities.
+  Understanding variation in trophic interactions among systems provides
+  important insights into biodiversity maintenance and conservation. However,
+  the relative importance of bottom-up versus top-down trophic processes for
+  broad-scale patterns in biodiversity is poorly understood. Here, we used
+  global datasets on species richness of vascular plants, mammals and breeding
+  birds to evaluate the role of trophic interactions in shaping large-scale
+  diversity patterns. Specifically, we used non-recursive structural equation
+  models to test for top-down and bottom-up forcing of global species diversity
+  patterns among plants and trophic guilds of mammals and birds (carnivores,
+  invertivores and herbivores), while accounting for extrinsic environmental
+  drivers. The results show that trophic linkages emerged as being more
+  important to explaining species richness than extrinsic environmental
+  drivers. In particular, there were strong, positive top-down interactions
+  between mammal herbivores and plants, and moderate to strong bottom-up and/or
+  top-down interactions between herbivores/invertivores and carnivores.
+  Estimated trophic interactions for separate biogeographical regions were
+  consistent with global patterns. Our findings demonstrate that, after
+  accounting for environmental drivers, large-scale species richness patterns
+  in plant and vertebrate taxa consistently support trophic interactions
+  playing a major role in shaping global patterns in biodiversity. Furthermore,
+  these results suggest that top-down forces often play strong complementary
+  roles relative to bottom-up drivers in structuring biodiversity patterns
+  across trophic levels. These findings underscore the importance of
+  integrating trophic forcing mechanisms into studies of biodiversity
+  patterns.%
+    }
+    \verb{doi}
+    \verb 10.1098/rspb.2018.0949
+    \endverb
+    \field{issn}{14712954}
+    \field{title}{{Trophic interactions among vertebrate guilds and plants
+  shape global patterns in species diversity}}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2018}
   \endentry
 \enddatalist
 \endinput
