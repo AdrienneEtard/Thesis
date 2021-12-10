@@ -70,19 +70,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Bibliography}{43}{chapter.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendices}{52}{chapter*.26}% 
+\contentsline {chapter}{Appendices}{52}{chapter*.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 1: Supporting information for Chapter 1}{53}{chapter*.27}% 
+\contentsline {chapter}{Appendix 1: Supporting information for Chapter 1}{53}{chapter*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 2: Supporting information for Chapter 2}{53}{chapter*.28}% 
+\contentsline {chapter}{Appendix 2: Supporting information for Chapter 2}{53}{chapter*.29}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {S2.1 }Taxonomic corrections}{54}{section.7.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}{54}{paragraph*.30}% 
+\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}{54}{paragraph*.31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Output.}{55}{paragraph*.31}% 
+\contentsline {paragraph}{Output.}{55}{paragraph*.32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{55}{paragraph*.32}% 
+\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{55}{paragraph*.33}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {S2.2 }Additional information for trait compilation}{57}{section.7.2}% 
 \defcounter {refsection}{0}\relax 
@@ -100,6 +100,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {S2.9 }Trait coverage and taxonomic matching}{73}{section.7.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 3: Supporting information for Chapter 3}{73}{figure.caption.52}% 
+\contentsline {chapter}{Appendix 3: Supporting information for Chapter 3}{73}{figure.caption.53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 4: Supporting information for Chapter 4}{74}{chapter*.53}% 
+\contentsline {chapter}{Appendix 4: Supporting information for Chapter 4}{74}{chapter*.54}% 
