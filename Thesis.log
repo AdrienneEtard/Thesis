@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.12)  20 DEC 2021 14:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.12)  20 DEC 2021 17:13
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1358,13 +1358,13 @@ l.98 \chapter
 
  [8
 
-] (Thesis.lof)
+] (Thesis.lof [9
+
+])
 \tf@lof=\write9
 \openout9 = `Thesis.lof'.
 
- [9
-
-]
+ [10]
 Chapter 1.
 
 Overfull \hbox (7.74728pt too wide) in paragraph at lines 154--155
@@ -1372,14 +1372,14 @@ Overfull \hbox (7.74728pt too wide) in paragraph at lines 154--155
  the im-pacts of land-use dis-tur-bance on assemblage-
  []
 
-[10
+[11
 
 
-] [11]
+] [12]
 Chapter 2.
-(Chapters/Chapter2.tex [12
+(Chapters/Chapter2.tex [13
 
-] [13] [14] [15]
+] [14] [15] [16]
 Package mdframed Info: Not enough space on this page on input line 41.
 
 Overfull \hbox (11.63577pt too wide) in paragraph at lines 46--49
@@ -1387,10 +1387,10 @@ Overfull \hbox (11.63577pt too wide) in paragraph at lines 46--49
 l-able on figshare (DOI: []$\T1/pcr/m/n/10.95 10 . 6084 / m9 . figshare .
  []
 
-[16
+[17
 
 ]
-<figures/Chapter1/Taxonomic_corrections_chart.pdf, id=544, 337.31247pt x 149.18
+<figures/Chapter1/Taxonomic_corrections_chart.pdf, id=567, 337.31247pt x 149.18
 341pt>
 File: figures/Chapter1/Taxonomic_corrections_chart.pdf Graphic file (type pdf)
 <use figures/Chapter1/Taxonomic_corrections_chart.pdf>
@@ -1401,27 +1401,27 @@ Package pdftex.def Info: figures/Chapter1/Taxonomic_corrections_chart.pdf  used
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17 <./figures/Chapter1/Taxonomic_corrections_chart.pdf>] [18]
+[18 <./figures/Chapter1/Taxonomic_corrections_chart.pdf>] [19]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [19]
+) [20]
 Overfull \hbox (13.90405pt too wide) in paragraph at lines 152--153
 \T1/pcr/m/n/10.95 .Xyc5wyhKhPZ$[]\T1/ptm/m/n/10.95 . For am-phib-ians, birds an
 d squa-mates, I ob-tained trees from []$\T1/pcr/m/n/10.95 https : / / data . ve
 rtlife .
  []
 
-[20]
+[21]
 Overfull \hbox (3.74501pt too wide) in paragraph at lines 155--156
 \T1/pcr/m/n/10.95 / / datadryad . org / stash / dataset / doi : 10 . 5061 / dry
 ad . 83s7k$[] \T1/ptm/m/n/10.95 (down-loaded 13 April 2020).
  []
 
-[21] [22] [23]
-<figures/Chapter1/Figure1_revised.pdf, id=716, 722.7pt x 289.08pt>
+[22] [23] [24]
+<figures/Chapter1/Figure1_revised.pdf, id=740, 722.7pt x 289.08pt>
 File: figures/Chapter1/Figure1_revised.pdf Graphic file (type pdf)
 <use figures/Chapter1/Figure1_revised.pdf>
 Package pdftex.def Info: figures/Chapter1/Figure1_revised.pdf  used on input li
@@ -1435,8 +1435,8 @@ Overfull \hbox (33.85532pt too wide) in paragraph at lines 222--223
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24] [25 <./figures/Chapter1/Figure1_revised.pdf>]
-<figures/Chapter1/Figure_3.pdf, id=742, 758.83513pt x 1245.73878pt>
+[25] [26 <./figures/Chapter1/Figure1_revised.pdf>]
+<figures/Chapter1/Figure_3.pdf, id=765, 758.83513pt x 1245.73878pt>
 File: figures/Chapter1/Figure_3.pdf Graphic file (type pdf)
 <use figures/Chapter1/Figure_3.pdf>
 Package pdftex.def Info: figures/Chapter1/Figure_3.pdf  used on input line 239.
@@ -1446,14 +1446,14 @@ Package pdftex.def Info: figures/Chapter1/Figure_3.pdf  used on input line 239.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[26 <./figures/Chapter1/Figure_3.pdf>]
-<figures/Chapter1/Figure_4.pdf, id=793, 433.62pt x 289.08pt>
+[27 <./figures/Chapter1/Figure_3.pdf>]
+<figures/Chapter1/Figure_4.pdf, id=816, 433.62pt x 289.08pt>
 File: figures/Chapter1/Figure_4.pdf Graphic file (type pdf)
 <use figures/Chapter1/Figure_4.pdf>
 Package pdftex.def Info: figures/Chapter1/Figure_4.pdf  used on input line 251.
 
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-<figures/Chapter1/Figure_5.pdf, id=795, 722.7pt x 505.89pt>
+<figures/Chapter1/Figure_5.pdf, id=818, 722.7pt x 505.89pt>
 File: figures/Chapter1/Figure_5.pdf Graphic file (type pdf)
 <use figures/Chapter1/Figure_5.pdf>
 Package pdftex.def Info: figures/Chapter1/Figure_5.pdf  used on input line 260.
@@ -1467,11 +1467,11 @@ Overfull \hbox (33.85532pt too wide) in paragraph at lines 260--261
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[27
+[28
 
 
- <./figures/Chapter1/Figure_4.pdf>] [28 <./figures/Chapter1/Figure_5.pdf>]
-<figures/Chapter1/Figure_6.pdf, id=823, 650.43pt x 361.35pt>
+ <./figures/Chapter1/Figure_4.pdf>] [29 <./figures/Chapter1/Figure_5.pdf>]
+<figures/Chapter1/Figure_6.pdf, id=846, 650.43pt x 361.35pt>
 File: figures/Chapter1/Figure_6.pdf Graphic file (type pdf)
 <use figures/Chapter1/Figure_6.pdf>
 Package pdftex.def Info: figures/Chapter1/Figure_6.pdf  used on input line 271.
@@ -1482,19 +1482,19 @@ Overfull \hbox (15.79007pt too wide) in paragraph at lines 271--272
  [][] 
  []
 
-[29
+[30
 
- <./figures/Chapter1/Figure_6.pdf>] [30] [31] [32]) [33]
+ <./figures/Chapter1/Figure_6.pdf>] [31] [32] [33]) [34]
 Chapter 3.
 
 Overfull \hbox (8.01714pt too wide) in paragraph at lines 163--163
 |[]\T1/ptm/b/n/24.88 Intensive hu-man land uses neg-a-tively af-
  []
 
-(Chapters/Chapter3.tex [34
+(Chapters/Chapter3.tex [35
 
-] [35]
-<figures/Chapter_FD/Figure1.pdf, id=999, 824.76387pt x 580.41844pt>
+] [36]
+<figures/Chapter_FD/Figure1.pdf, id=1023, 824.76387pt x 580.41844pt>
 File: figures/Chapter_FD/Figure1.pdf Graphic file (type pdf)
 <use figures/Chapter_FD/Figure1.pdf>
 Package pdftex.def Info: figures/Chapter_FD/Figure1.pdf  used on input line 31.
@@ -1508,33 +1508,96 @@ Overfull \hbox (64.05893pt too wide) in paragraph at lines 31--32
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[36] [37 <./figures/Chapter_FD/Figure1.pdf>] [38] [39] [40] [41]
+[37] [38 <./figures/Chapter_FD/Figure1.pdf>] [39] [40] [41] [42]
 Overfull \hbox (1.50963pt too wide) in paragraph at lines 119--120
 \T1/pcr/m/n/10.95 org / 10 . 6084 / m9 . figshare . 15163926$[]\T1/ptm/m/n/10.9
 5 ), as well as the main re-sult datasets ([]$\T1/pcr/m/n/10.95 https : / / doi
  . org /
  []
 
-[42] [43] [44]) [45] [46]
+[43]
+<figures/Chapter_FD/Figure2.pdf, id=1204, 650.43pt x 433.62pt>
+File: figures/Chapter_FD/Figure2.pdf Graphic file (type pdf)
+<use figures/Chapter_FD/Figure2.pdf>
+Package pdftex.def Info: figures/Chapter_FD/Figure2.pdf  used on input line 130
+.
+(pdftex.def)             Requested size: 487.8213pt x 325.2142pt.
+
+Overfull \hbox (15.79007pt too wide) in paragraph at lines 130--131
+ [][] 
+ []
+
+[44 <./figures/Chapter_FD/Figure2.pdf>]
+<figures/Chapter_FD/Figure3.pdf, id=1215, 650.43pt x 505.89pt>
+File: figures/Chapter_FD/Figure3.pdf Graphic file (type pdf)
+<use figures/Chapter_FD/Figure3.pdf>
+Package pdftex.def Info: figures/Chapter_FD/Figure3.pdf  used on input line 142
+.
+(pdftex.def)             Requested size: 487.8213pt x 379.41655pt.
+
+Overfull \hbox (15.79007pt too wide) in paragraph at lines 142--143
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45] [46 <./figures/Chapter_FD/Figure3.pdf>]
+<figures/Chapter_FD/Figure4.pdf, id=1230, 867.24pt x 252.945pt>
+File: figures/Chapter_FD/Figure4.pdf Graphic file (type pdf)
+<use figures/Chapter_FD/Figure4.pdf>
+Package pdftex.def Info: figures/Chapter_FD/Figure4.pdf  used on input line 158
+.
+(pdftex.def)             Requested size: 650.42842pt x 189.70828pt.
+
+Overfull \hbox (178.39719pt too wide) in paragraph at lines 158--159
+ [][] 
+ []
+
+[47
+
+ <./figures/Chapter_FD/Figure4.pdf>]
+<figures/Chapter_FD/Figure5.pdf, id=1241, 578.16pt x 361.35pt>
+File: figures/Chapter_FD/Figure5.pdf Graphic file (type pdf)
+<use figures/Chapter_FD/Figure5.pdf>
+Package pdftex.def Info: figures/Chapter_FD/Figure5.pdf  used on input line 170
+.
+(pdftex.def)             Requested size: 433.61893pt x 271.01184pt.
+<figures/Chapter_FD/Figure6.pdf, id=1243, 650.43pt x 505.89pt>
+File: figures/Chapter_FD/Figure6.pdf Graphic file (type pdf)
+<use figures/Chapter_FD/Figure6.pdf>
+Package pdftex.def Info: figures/Chapter_FD/Figure6.pdf  used on input line 182
+.
+(pdftex.def)             Requested size: 487.8213pt x 379.41655pt.
+
+Overfull \hbox (15.79007pt too wide) in paragraph at lines 182--183
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48 <./figures/Chapter_FD/Figure5.pdf>] [49 <./figures/Chapter_FD/Figure6.pdf>]
+[50] [51]) [52] [53]
 Chapter 4.
 
 Overfull \hbox (13.78854pt too wide) in paragraph at lines 166--166
 |[]\T1/ptm/b/n/24.88 Different traits ex-plain sen-si-tiv-ity to land
  []
 
-[47
+[54
 
 ]
 Chapter 5.
-[48
+[55
 
 ]
 Chapter 6.
-[49
+[56
 
 ]
 Chapter 7.
-[50
+[57
 
 ]
 
@@ -1542,10 +1605,10 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
 (biblatex)                Using 'family-given' now.
 
-[51
+[58
 
 
-] [52]
+] [59]
 Overfull \hbox (14.36156pt too wide) in paragraph at lines 181--181
 [][]\T1/ptm/m/n/10.95 Díaz, S. et al. (2016). The global spec-trum of plant for
 m and func-tion. \T1/ptm/m/it/10.95 Na-ture\T1/ptm/m/n/10.95 . \T1/ptm/m/sc/10.
@@ -1553,13 +1616,13 @@ m and func-tion. \T1/ptm/m/it/10.95 Na-ture\T1/ptm/m/n/10.95 . \T1/ptm/m/sc/10.
 m/m/n/10.95 . 
  []
 
-[53] [54]
+[60] [61]
 Overfull \hbox (0.91306pt too wide) in paragraph at lines 181--181
 [][]\T1/ptm/m/n/10.95 Krauss, J., Bom-marco, R., Guardi-ola, M., Heikki-nen, R.
  K., Helm, A., Ku-us-saari, M., Lind-borg, R., Öckinger,
  []
 
-[55] [56] [57] [58] [59] [60] [61] [62
+[62] [63] [64] [65] [66] [67] [68] [69
 
 
 ]
@@ -1567,7 +1630,7 @@ Overfull \hbox (21.98198pt too wide) in paragraph at lines 198--198
 |\T1/ptm/b/n/24.88 Appendix 1: Sup-port-ing in-for-ma-tion for Chap-
  []
 
-[63
+[70
 
 
 ]
@@ -1579,13 +1642,13 @@ Overfull \hbox (21.98198pt too wide) in paragraph at lines 201--201
 
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 7.
 
-[64
+[71
 
 ]
 
-LaTeX Warning: Reference `taxcor' on page 65 undefined on input line 13.
+LaTeX Warning: Reference `taxcor' on page 72 undefined on input line 13.
 
-<Supporting/Chapter2/Figures/tax_corrections.pdf, id=1528, 1011.78pt x 433.62pt
+<Supporting/Chapter2/Figures/tax_corrections.pdf, id=1614, 1011.78pt x 433.62pt
 >
 File: Supporting/Chapter2/Figures/tax_corrections.pdf Graphic file (type pdf)
 <use Supporting/Chapter2/Figures/tax_corrections.pdf>
@@ -1595,8 +1658,8 @@ on input line 18.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[65] [66 <./Supporting/Chapter2/Figures/tax_corrections.pdf>]
-<Supporting/Chapter2/Figures/Correlations/MatLong_BMBL_amphibians.pdf, id=1551,
+[72] [73 <./Supporting/Chapter2/Figures/tax_corrections.pdf>]
+<Supporting/Chapter2/Figures/Correlations/MatLong_BMBL_amphibians.pdf, id=1637,
  578.16pt x 252.945pt>
 File: Supporting/Chapter2/Figures/Correlations/MatLong_BMBL_amphibians.pdf Grap
 hic file (type pdf)
@@ -1609,7 +1672,7 @@ Overfull \hbox (19.40709pt too wide) in paragraph at lines 89--90
  [][] 
  []
 
-<Supporting/Chapter2/Figures/Correlations/GL_Longe_birds_mammals.pdf, id=1552, 
+<Supporting/Chapter2/Figures/Correlations/GL_Longe_birds_mammals.pdf, id=1638, 
 578.16pt x 252.945pt>
 File: Supporting/Chapter2/Figures/Correlations/GL_Longe_birds_mammals.pdf Graph
 ic file (type pdf)
@@ -1622,11 +1685,11 @@ Overfull \hbox (19.40709pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
-[67
+[74
 
  <./Supporting/Chapter2/Figures/Correlations/MatLong_BMBL_amphibians.pdf> <./Su
 pporting/Chapter2/Figures/Correlations/GL_Longe_birds_mammals.pdf>]
-<Supporting/Chapter2/Figures/Rangesizes/Elevation_data_amount.pdf, id=1569, 578
+<Supporting/Chapter2/Figures/Rangesizes/Elevation_data_amount.pdf, id=1655, 578
 .16pt x 361.35pt>
 File: Supporting/Chapter2/Figures/Rangesizes/Elevation_data_amount.pdf Graphic 
 file (type pdf)
@@ -1634,19 +1697,19 @@ file (type pdf)
 Package pdftex.def Info: Supporting/Chapter2/Figures/Rangesizes/Elevation_data_
 amount.pdf  used on input line 138.
 (pdftex.def)             Requested size: 404.70924pt x 252.94327pt.
-<Supporting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts.pdf, id=157
-0, 433.62pt x 361.35pt>
+<Supporting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts.pdf, id=165
+6, 433.62pt x 361.35pt>
 File: Supporting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts.pdf Gr
 aphic file (type pdf)
 <use Supporting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts.pdf>
 Package pdftex.def Info: Supporting/Chapter2/Figures/Rangesizes/RangeSizes_befo
 re_aftercuts.pdf  used on input line 145.
 (pdftex.def)             Requested size: 303.53192pt x 252.94327pt.
- [68
+ [75
 
  <./Supporting/Chapter2/Figures/Rangesizes/Elevation_data_amount.pdf> <./Suppor
 ting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts.pdf>]
-<Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf, id=1588, 578.16pt x 50
+<Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf, id=1674, 578.16pt x 50
 5.89pt>
 File: Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf Graphic file (type
  pdf)
@@ -1654,8 +1717,8 @@ File: Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf Graphic file (type
 Package pdftex.def Info: Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf
   used on input line 156.
 (pdftex.def)             Requested size: 404.70924pt x 354.12057pt.
- [69 <./Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf>]
-<Supporting/Chapter2/Figures/Maps/Median_map.pdf, id=1600, 433.62pt x 722.7pt>
+ [76 <./Supporting/Chapter2/Figures/Coverage/DeltaCoverage.pdf>]
+<Supporting/Chapter2/Figures/Maps/Median_map.pdf, id=1686, 433.62pt x 722.7pt>
 File: Supporting/Chapter2/Figures/Maps/Median_map.pdf Graphic file (type pdf)
 <use Supporting/Chapter2/Figures/Maps/Median_map.pdf>
 Package pdftex.def Info: Supporting/Chapter2/Figures/Maps/Median_map.pdf  used 
@@ -1668,8 +1731,8 @@ LaTeX Warning: Float too large for page by 5.94937pt on input line 173.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[70]
-<Supporting/Chapter2/Figures/Maps/Mean_map_50k.pdf, id=1605, 433.62pt x 722.7pt
+[77]
+<Supporting/Chapter2/Figures/Maps/Mean_map_50k.pdf, id=1691, 433.62pt x 722.7pt
 >
 File: Supporting/Chapter2/Figures/Maps/Mean_map_50k.pdf Graphic file (type pdf)
 
@@ -1684,7 +1747,7 @@ LaTeX Warning: Float too large for page by 5.94937pt on input line 183.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Supporting/Chapter2/Figures/Maps/sd_map.pdf, id=1606, 433.62pt x 722.7pt>
+<Supporting/Chapter2/Figures/Maps/sd_map.pdf, id=1692, 433.62pt x 722.7pt>
 File: Supporting/Chapter2/Figures/Maps/sd_map.pdf Graphic file (type pdf)
 <use Supporting/Chapter2/Figures/Maps/sd_map.pdf>
 Package pdftex.def Info: Supporting/Chapter2/Figures/Maps/sd_map.pdf  used on i
@@ -1696,7 +1759,7 @@ LaTeX Warning: Float too large for page by 5.94937pt on input line 193.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Supporting/Chapter2/Figures/Maps/sd_SR.png, id=1607, 501.875pt x 401.5pt>
+<Supporting/Chapter2/Figures/Maps/sd_SR.png, id=1693, 501.875pt x 401.5pt>
 File: Supporting/Chapter2/Figures/Maps/sd_SR.png Graphic file (type png)
 <use Supporting/Chapter2/Figures/Maps/sd_SR.png>
 Package pdftex.def Info: Supporting/Chapter2/Figures/Maps/sd_SR.png  used on in
@@ -1705,10 +1768,10 @@ put line 199.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[71 <./Supporting/Chapter2/Figures/Maps/Median_map.pdf>] [72 <./Supporting/Chap
-ter2/Figures/Maps/Mean_map_50k.pdf>] [73 <./Supporting/Chapter2/Figures/Maps/sd
-_map.pdf>] [74 <./Supporting/Chapter2/Figures/Maps/sd_SR.png>]
-<Supporting/Chapter2/Figures/Phylogenies/Circular_mammals_V2.pdf, id=1672, 1084
+[78 <./Supporting/Chapter2/Figures/Maps/Median_map.pdf>] [79 <./Supporting/Chap
+ter2/Figures/Maps/Mean_map_50k.pdf>] [80 <./Supporting/Chapter2/Figures/Maps/sd
+_map.pdf>] [81 <./Supporting/Chapter2/Figures/Maps/sd_SR.png>]
+<Supporting/Chapter2/Figures/Phylogenies/Circular_mammals_V2.pdf, id=1758, 1084
 .05pt x 934.42097pt>
 File: Supporting/Chapter2/Figures/Phylogenies/Circular_mammals_V2.pdf Graphic f
 ile (type pdf)
@@ -1723,12 +1786,12 @@ LaTeX Warning: Float too large for page by 58.77301pt on input line 224.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[75
+[82
 
 
 
 ]
-<Supporting/Chapter2/Figures/Phylogenies/Circular_birds_V2.pdf, id=1678, 1228.5
+<Supporting/Chapter2/Figures/Phylogenies/Circular_birds_V2.pdf, id=1764, 1228.5
 9pt x 1228.59pt>
 File: Supporting/Chapter2/Figures/Phylogenies/Circular_birds_V2.pdf Graphic fil
 e (type pdf)
@@ -1743,13 +1806,13 @@ LaTeX Warning: Float too large for page by 29.77477pt on input line 235.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[76 <./Supporting/Chapter2/Figures/Phylogenies/Circular_mammals_V2.pdf>]
-[77 <./Supporting/Chapter2/Figures/Phylogenies/Circular_birds_V2.pdf>]
+[83 <./Supporting/Chapter2/Figures/Phylogenies/Circular_mammals_V2.pdf>]
+[84 <./Supporting/Chapter2/Figures/Phylogenies/Circular_birds_V2.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 243.
 
-<Supporting/Chapter2/Figures/Phylogenies/Circular_herptiles_SD.pdf, id=1736, 75
+<Supporting/Chapter2/Figures/Phylogenies/Circular_herptiles_SD.pdf, id=1823, 75
 5.1602pt x 1304.53474pt>
 File: Supporting/Chapter2/Figures/Phylogenies/Circular_herptiles_SD.pdf Graphic
  file (type pdf)
@@ -1760,7 +1823,7 @@ iles_SD.pdf  used on input line 245.
 
 LaTeX Warning: Float too large for page by 17.55956pt on input line 248.
 
-<Supporting/Chapter2/Figures/Phylogenies/SD_VS_SR.pdf, id=1738, 578.16pt x 505.
+<Supporting/Chapter2/Figures/Phylogenies/SD_VS_SR.pdf, id=1825, 578.16pt x 505.
 89pt>
 File: Supporting/Chapter2/Figures/Phylogenies/SD_VS_SR.pdf Graphic file (type p
 df)
@@ -1771,9 +1834,9 @@ used on input line 255.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[78 <./Supporting/Chapter2/Figures/Phylogenies/Circular_herptiles_SD.pdf>]
-[79 <./Supporting/Chapter2/Figures/Phylogenies/SD_VS_SR.pdf>]
-<Supporting/Chapter2/Figures/Plot_BeforeCuttingRS.pdf, id=1799, 433.62pt x 289.
+[85 <./Supporting/Chapter2/Figures/Phylogenies/Circular_herptiles_SD.pdf>]
+[86 <./Supporting/Chapter2/Figures/Phylogenies/SD_VS_SR.pdf>]
+<Supporting/Chapter2/Figures/Plot_BeforeCuttingRS.pdf, id=1885, 433.62pt x 289.
 08pt>
 File: Supporting/Chapter2/Figures/Plot_BeforeCuttingRS.pdf Graphic file (type p
 df)
@@ -1785,13 +1848,13 @@ used on input line 309.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80
+[87
 
 
-] [81 <./Supporting/Chapter2/Figures/Plot_BeforeCuttingRS.pdf>] [82
+] [88 <./Supporting/Chapter2/Figures/Plot_BeforeCuttingRS.pdf>] [89
 
 ]
-<Supporting/Chapter2/Figures/Coverage/DeltaCov_F3.pdf, id=1820, 867.24pt x 578.
+<Supporting/Chapter2/Figures/Coverage/DeltaCov_F3.pdf, id=1906, 867.24pt x 578.
 16pt>
 File: Supporting/Chapter2/Figures/Coverage/DeltaCov_F3.pdf Graphic file (type p
 df)
@@ -1804,19 +1867,19 @@ Overfull \hbox (48.31679pt too wide) in paragraph at lines 382--383
  [][] 
  []
 
-) [83 <./Supporting/Chapter2/Figures/Coverage/DeltaCov_F3.pdf>]
+) [90 <./Supporting/Chapter2/Figures/Coverage/DeltaCov_F3.pdf>]
 Overfull \hbox (21.98198pt too wide) in paragraph at lines 208--208
 |\T1/ptm/b/n/24.88 Appendix 3: Sup-port-ing in-for-ma-tion for Chap-
  []
 
-[84
+[91
 
 ]
 Overfull \hbox (21.98198pt too wide) in paragraph at lines 211--211
 |\T1/ptm/b/n/24.88 Appendix 4: Sup-port-ing in-for-ma-tion for Chap-
  []
 
-[85
+[92
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
@@ -1825,7 +1888,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: EAE4B247FDCAA0F7316D11A7F02556AF;3644.
+(rerunfilecheck)             Checksum: 2D3F6461D51E0A17276BD9C908643719;3644.
 
 
 LaTeX Warning: There were undefined references.
@@ -1838,10 +1901,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30074 strings out of 480930
- 582314 string characters out of 2909547
- 1480771 words of memory out of 3000000
- 45036 multiletter control sequences out of 15000+200000
+ 30138 strings out of 480930
+ 584061 string characters out of 2909547
+ 1487019 words of memory out of 3000000
+ 45082 multiletter control sequences out of 15000+200000
  596474 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,10n,71p,2424b,1798s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1856,9 +1919,9 @@ Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Thesis.pdf (86 pages, 3231868 bytes).
+Output written on Thesis.pdf (93 pages, 3315336 bytes).
 PDF statistics:
- 1954 PDF objects out of 2073 (max. 8388607)
- 341 named destinations out of 1000 (max. 500000)
- 516 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2042 PDF objects out of 2073 (max. 8388607)
+ 354 named destinations out of 1000 (max. 500000)
+ 541 words of extra memory for PDF output out of 10000 (max. 10000000)
 

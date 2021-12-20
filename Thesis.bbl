@@ -14294,6 +14294,133 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Schielzeth2020}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SH}{%
+         family={Schielzeth},
+         familyi={S\bibinitperiod},
+         given={Holger},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DNJ}{%
+         family={Dingemanse},
+         familyi={D\bibinitperiod},
+         given={Niels\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nakagawa},
+         familyi={N\bibinitperiod},
+         given={Shinichi},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WDF}{%
+         family={Westneat},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima F.},
+         giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=AH}{%
+         family={Allegue},
+         familyi={A\bibinitperiod},
+         given={Hassen},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Teplitsky},
+         familyi={T\bibinitperiod},
+         given={C{\'{e}}line},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={R{\'{e}}ale},
+         familyi={R\bibinitperiod},
+         given={Denis},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DNA}{%
+         family={Dochtermann},
+         familyi={D\bibinitperiod},
+         given={Ned\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GLZ}{%
+         family={Garamszegi},
+         familyi={G\bibinitperiod},
+         given={L{\'{a}}szl{\'{o}}\bibnamedelima Zsolt},
+         giveni={L\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=AAYG}{%
+         family={Araya-Ajoy},
+         familyi={A\bibinithyphendelim A\bibinitperiod},
+         given={Yimen\bibnamedelima G.},
+         giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \keyw{biostatistics,correlated predictors,distributional assumptions,linear
+  mixed-effects models,missing random effects,statistical quantification of
+  individual differenc}
+    \strng{namehash}{SH+1}
+    \strng{fullhash}{SHDNJNSWDFAHTCRDDNAGLZAAYG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Linear mixed-effects models are powerful tools for analysing complex
+  datasets with repeated or clustered observations, a common data structure in
+  ecology and evolution. Mixed-effects models involve complex fitting
+  procedures and make several assumptions, in particular about the distribution
+  of residual and random effects. Violations of these assumptions are common in
+  real datasets, yet it is not always clear how much these violations matter to
+  accurate and unbiased estimation. Here we address the consequences of
+  violations in distributional assumptions and the impact of missing random
+  effect components on model estimates. In particular, we evaluate the effects
+  of skewed, bimodal and heteroscedastic random effect and residual variances,
+  of missing random effect terms and of correlated fixed effect predictors. We
+  focus on bias and prediction error on estimates of fixed and random effects.
+  Model estimates were usually robust to violations of assumptions, with the
+  exception of slight upward biases in estimates of random effect variance if
+  the generating distribution was bimodal but was modelled by Gaussian error
+  distributions. Further, estimates for (random effect) components that
+  violated distributional assumptions became less precise but remained
+  unbiased. However, this particular problem did not affect other parameters of
+  the model. The same pattern was found for strongly correlated fixed effects,
+  which led to imprecise, but unbiased estimates, with uncertainty estimates
+  reflecting imprecision. Unmodelled sources of random effect variance had
+  predictable effects on variance component estimates. The pattern is best
+  viewed as a cascade of hierarchical grouping factors. Variances trickle down
+  the hierarchy such that missing higher-level random effect variances pool at
+  lower levels and missing lower-level and crossed random effect variances
+  manifest as residual variance. Overall, our results show remarkable
+  robustness of mixed-effects models that should allow researchers to use
+  mixed-effects models even if the distributional assumptions are objectively
+  violated. However, this does not free researchers from careful evaluation of
+  the model. Estimates that are based on data that show clear violations of key
+  assumptions should be treated with caution because individual datasets might
+  give highly imprecise estimates, even if they will be unbiased on average
+  across datasets.%
+    }
+    \verb{doi}
+    \verb 10.1111/2041-210X.13434
+    \endverb
+    \field{issn}{2041210X}
+    \field{number}{9}
+    \field{pages}{1141\bibrangedash 1152}
+    \field{title}{{Robustness of linear mixed-effects models to violations of
+  distributional assumptions}}
+    \field{volume}{11}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Schielzeth et al. - 2020 - Robustness of linear mixed-effects mod
+    \verb els to violations of distributional assumptions.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2020}
+  \endentry
+
   \entry{Schloss2012b}{article}{}
     \name{author}{3}{}{%
       {{hash=SCA}{%
