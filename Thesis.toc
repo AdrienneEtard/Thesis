@@ -24,7 +24,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Investigating gaps and biases in trait data}{23}{subsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Taxonomic biases}{23}{subsubsection*.19}%
+\contentsline {subsubsection}{Taxonomic biases}{24}{subsubsection*.19}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Phylogenetic biases}{24}{subsubsection*.20}%
 \defcounter {refsection}{0}\relax 

@@ -144,7 +144,7 @@ I used IUCN habitat data \citep{IUCN2020}, which describe species habitat prefer
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{figures/Chapter1/Fig_HB_main}
-\caption[]{\textbf{Number of natural and artificial habitats used by a species against number of strictly natural habitats used by a species}. Pearson's correlation coefficients show a high positive correlation between these two metrics of habitat breadth in all terrestrial vertebrate classes: 0.92 for amphibians (a), 0.95 for birds (b), 0.94 for mammals (c), and 0.90 for reptiles (d).}
+\caption[]{\textbf{Number of natural and artificial habitats used by a species against number of strictly natural habitats used by a species}. Pearson's correlation coefficients show a high positive correlation between these two metrics of habitat breadth in all terrestrial vertebrate classes: 0.92 for amphibians \textbf{(a)}, 0.95 for birds \textbf{(b)}, 0.94 for mammals \textbf{(c)}, and 0.90 for reptiles \textbf{(d)}.}
 \label{Fig_HB_main}
 \end{figure}
 
@@ -172,26 +172,29 @@ I used trait coverage and completeness to investigate taxonomic, phylogenetic an
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vskip 0.5cm
+
 %  Table 2 sample sizes
-\begin{table}[h!]
+\begin{table}[!htbp] 
 \renewcommand{\baselinestretch}{1}
 \renewcommand{\arraystretch}{1.5}
+\begin{center}\fontsize{9}{11}\selectfont
 \caption[Number of species for each analysis.]{\textbf{Number of species for each analysis.} All species represented in the trait datasets were included in (1). All species from the class-specific phylogenetic trees or from the distribution maps that matched with species in the trait datasets were included in (2) and (3).}
 \label{Chap1_samplesizes}
-\label{samplesizes}
-\begin{center}\fontsize{9}{11}\selectfont
-\begin{tabular}{l|c|c|c|}
-\cline{2-4}
-                                 & \textbf{(1) Taxonomic biases} & \textbf{(2) Phylogenetic biases} & \textbf{(3) Spatial biases} \\ \hline
-\multicolumn{1}{|l|}{Amphibians} & 6,990             & 6,170               & 5,650          \\ \hline
-\multicolumn{1}{|l|}{Birds}      & 11,634            & 8,315               & 10,802          \\ \hline
-\multicolumn{1}{|l|}{Mammals}    & 5,381             & 5,171               & 5,046          \\ \hline
-\multicolumn{1}{|l|}{Reptiles}   & 10,612            & 9,404               & 9,382          \\ \hline
-\end{tabular}
-\end{center}
-\end{table}
+\begin{tabular}{@{\extracolsep{5pt}} cccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex]  & \textbf{(1) Taxonomic biases} & \textbf{(2) Phylogenetic biases} & \textbf{(3) Spatial biases} \\ 
+\hline \\[-1.8ex] Amphibians & $6,990$ & $6,170$ & $5,650$ \\ 
+Birds & $11,634$ & $8,315$ & $10,802$ \\ 
+Mammals & $5,381$ & $5,171$ & $5,046$ \\ 
+Reptiles & $10,612$ & $9,404$ & $9,382$\\
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center} 
+\end{table} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \subsubsection{Taxonomic biases}
 I tested whether completeness varied across taxonomic class using pairwise Wilcoxon rank sum tests. I tested for the extent and performance of the taxonomic corrections by looking at trait coverage when taxonomic corrections are applied and when no correction is applied (Supporting Information, Appendix 2, S2.4, Figure \ref{SI_2_deltaCov_taxcor}).
@@ -207,7 +210,7 @@ I first investigated whether wider-ranging species were more likely to be better
 \begin{center}
 N\textsubscript{traits} $\sim$ log(Range size) $\ast$ Class. 
 \end{center}
-Second, I mapped assemblage-level median completeness. Assemblages were characterized at the pixel level at 50 km$^2$ resolution. I determined pixel-level composition and richness by stacking species geographical distributions. I then calculated median completeness across species in each pixel. I show the resulting maps for herptiles in the main text, and for mammals and birds in Supporting Information (Appendix 2, S2.5, Figure \ref{SI2_mediancomp_spatial}; median completeness was very high across most pixels for mammals and birds). In addition, I provide maps of assemblage-level mean completeness and standard deviation for all classes in the Supporting Information (Appendix 2, S2.5, Figures \ref{SI2_meancomp_spatial} and \ref{SI2_sdcomp_spatial} show corresponding maps; Figure \ref{SI2_sdcomp_sr} shows standard deviation against species richness).
+Second, I mapped assemblage-level median completeness. Assemblages were characterized at the pixel level at 50 km$^2$ resolution. I determined pixel-level composition and richness by stacking species geographical distributions. I then calculated median completeness across species in each pixel. I show the resulting maps for herptiles in the main text, and for mammals and birds in Supporting Information (Appendix 2, S2.5, Figure \ref{SI2_mediancomp_spatial}; median completeness was very high across most pixels for mammals and birds). In addition, I provide maps of assemblage-level mean completeness and standard deviation for all classes in the Supporting Information (Appendix 2, S2.5: Figures \ref{SI2_meancomp_spatial} and \ref{SI2_sdcomp_spatial} show corresponding maps; Figure \ref{SI2_sdcomp_sr} shows standard deviation against species richness).
 
 I then tested for a spatial correlation between species richness and median completeness. Given that median completeness was very high across most pixels for mammals and birds, I fitted such models for herptiles only. I fitted spatial autoregressive lag models to explain assemblage-level median completeness as a function of species richness (using the function lagsarlm of the spatialreg package \citep{spatialreg1, spatialreg2, spatialreg3}). Given that responses could vary geographically, I included the biogeographical realm as an interacting factor (using the World Wide Fund for Nature (WWF) ecoregion shapefile to characterise realms, obtained from \url{https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world}); the considered realms were Afrotropics, Australasia, Indo-Malayan, Nearctic, Neotropics and Palaearctic. To improve normality, I arc-sin square-root transformed completeness values and log-transformed species richness. The lagsarlm function allows for a consideration of spatial autocorrelation in the dependent variable by estimating the autoregressive lag coefficient, $\rho$, associated with an n-by-n matrix of spatial weights, \textit{W}. The final model was:
 \begin{center}
@@ -234,11 +237,11 @@ Trait completeness (proportion of non-missing trait values for a species) reflec
 
 
 \subsection{Phylogenetic biases in trait completeness}
-As expected from the distribution of trait completeness in mammals and birds (Figure \ref{1_Coverage}), within-family median trait completeness was high across most tips of the phylogenetic trees (Supporting Information Figure S11 and S12; I present the avian and mammalian phylogenies in the Supporting Information because there was little variation in completeness across tips). For birds, $\lambda$ was 0.71 ($\pm$ 0.0053). For mammals, $\lambda$ was 0.78 ($\pm$ 0.0035). This indicated that, despite completeness generally being high across tips, the sampling was not evenly distributed across the phylogeny.
+As expected from the distribution of trait completeness in mammals and birds (Figure \ref{1_Coverage}), within-family median trait completeness was high across most tips of the phylogenetic trees (Supporting Information, Appendix 2, Figures \ref{SI2_phymammals} and \ref{SI2_phybirds}; I present the avian and mammalian phylogenies in the Supporting Information because there was little variation in completeness across tips). For birds, $\lambda$ was 0.71 ($\pm$ 0.0053). For mammals, $\lambda$ was 0.78 ($\pm$ 0.0035). This indicated that, despite completeness generally being high across tips, the sampling was not evenly distributed across the phylogeny.
 
 In herptiles, clusters of families with similar median trait completeness appeared (Figure \ref{1_Phylo}). In amphibians, groups of families belonging to the order Anura (frogs) showed both the best and worst median completeness (Figure \ref{1_Phylo}(a)). The best-sampled families included the tailed frogs of the family Ascaphidae (two species) and species of the family Leiopelmatidae (four species endemic to New Zealand). The family Ceratobatrachidae (containing \textit{c.} 90 species occurring in Southeast Asia and in some Pacific islands), the family Ranidae (true frogs, 450 species considered here) and the family Rhacophoridae (shrub frogs, 382 species considered here) figured among the worst-sampled families. For amphibians, $\lambda$ was 0.63 ($\pm$ 0.0039). In reptiles, most snakes were poorly sampled, whereas families in other suborders appeared to be sampled better overall (Figure \ref{1_Phylo}(b)). Within snakes, the pythons, boas, the three species of the family Acrochordidae and the python-like species of the family Loxocemidae were better sampled than other snake families. In reptiles, $\lambda$ was 0.69 ($\pm$ 0.0032). The sampling in herptiles was thus also uneven with regard to the phylogeny.
 
-It is important to underline that Figure \ref{1_Phylo} shows within-family median completeness, masking the considerable variation in species richness across families, hence masking potential important variation in completeness across species within families. For example, in the amphibian family Allophrynidae (three recognized species), the within-family median completeness was 50\%; but the dataset comprised two species of completeness 14\% and 86\%, respectively. I present similar plots to those in Figure \ref{1_Phylo} showing the within-family standard deviation in completeness in the Supporting Information (Figure S13). Within-family standard deviation tended to increase with within-family species richness (Supporting Information Figure S14).
+It is important to underline that Figure \ref{1_Phylo} shows within-family median completeness, masking the considerable variation in species richness across families, hence masking potential important variation in completeness across species within families. For example, in the amphibian family Allophrynidae (three recognized species), the within-family median completeness was 50\%; but the dataset comprised two species of completeness 14\% and 86\%, respectively. I present similar plots to those in Figure \ref{1_Phylo} showing the within-family standard deviation in completeness in the Supporting Information (Appendix 2, Figure \ref{SI2_sd_phylo_herptiles}). Within-family standard deviation tended to increase with within-family species richness (Supporting Information, Appendix 2, Figure \ref{SI2_sd_sr_herptiles}).
 
 \clearpage
 
@@ -251,13 +254,15 @@ It is important to underline that Figure \ref{1_Phylo} shows within-family media
 
 \clearpage
 
+%% pick up the referencing to the SI figures here
+
 \subsection{Spatial biases in trait completeness}
-Range size was significantly correlated with the number of sampled traits. Larger range sizes were associated with a higher number of sampled traits (i.e., with higher completeness; Figure \ref{1_Range_size}; Supporting Information Table S1). Similar results were obtained when using distribution maps not cut by elevational limits (Supporting Information Table S2; Figure S15). The rate of increase was steepest for reptiles, then for amphibians, then for birds and mammals (slope estimates for birds and mammals were not significantly different from each other; Supporting Information Table S1).
+Range size was significantly correlated with the number of sampled traits. Larger range sizes were associated with a higher number of sampled traits (i.e., with higher completeness; Figure \ref{1_Range_size}; Supporting Information, Appendix 2, Table \ref{}). Similar results were obtained when using distribution maps not cut by elevational limits (Supporting Information, Appendix 2, Table \ref{}; Figure \ref{}). The rate of increase was steepest for reptiles, then for amphibians, then for birds and mammals (slope estimates for birds and mammals were not significantly different from each other; Supporting Information Table S1).
 
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{figures/Chapter1/Figure_4}
-\caption[Relationship between number of sampled traits and geographical range size]{\textbf{Relationship between number of sampled traits and geographical range size.} Models were fitted using a Poisson error distribution. Class was added as a predictor interacting with range size. Rates of increase were not significantly different for mammals and birds but differed for reptiles and amphibians, with the steepest rates of increase for reptiles.}
+\caption[Relationship between number of sampled traits and geographical range size]{\textbf{Relationship between number of sampled traits and geographical range size.} Models were fitted using a Poisson error distribution. Class was added as a predictor interacting with range size. Rates of increase in number of sampled traits with range size were not significantly different for mammals and birds but differed for reptiles and amphibians, with the steepest rates of increase for reptiles.}
 \label{1_Range_size}
 \end{figure}
 
