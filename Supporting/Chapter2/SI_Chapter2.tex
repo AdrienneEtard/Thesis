@@ -263,7 +263,7 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 %% New model coefficients:
 \begin{table}[!htbp] \centering 
   \caption{\textbf{Coefficients of the model investigating whether species range size explained the number of sampled traits.} Class was added as an interacting predictor. The reference level for class is Mammals. The model was fitted using Poisson error distribution.} 
-  \label{} 
+  \label{SI2_summary_RS} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -286,7 +286,7 @@ log Range Size:Class Reptiles & $0.026$ & $0.002$ & $11.159$ & $< 2e-16$ \\
 
 \begin{table}[!htbp] \centering 
   \caption{\textbf{Coefficients of the model investigating whether species range size explained the number of sampled traits, \textit{using range maps not cut by altitudinal limits.}} Class was added as an interacting predictor. The reference level for class is Mammals. The model was fitted using Poisson error distribution.} 
-  \label{} 
+  \label{SI2_summary_RS_notcut} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -307,8 +307,8 @@ log Range Size:Class Reptiles & $0.031$ & $0.002$ & $12.630$ & $< 2e-16$ \\
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter2/Figures/Plot_BeforeCuttingRS}
-\caption[Relationship between number of sampled traits and geographical range size using distribution maps not cut by altitudina limits.]{\textbf{Relationship between number of sampled traits and geographical range size \textit{using distribution maps not cut by altitudinal limits}.} Models were fitted using a Poisson error distribution. Class was added as a predictor interacting with range size. Rates of increase were not significantly different for mammals and birds, but differed for reptiles and amphibians, with steeper rates of increase for reptiles overall. Cutting range maps by altitudinal limits had little effects on the results (Figure 4 in Main text).} 
-\label{}
+\caption[Relationship between number of sampled traits and geographical range size using distribution maps not cut by altitudina limits.]{\textbf{Relationship between number of sampled traits and geographical range size \textit{using distribution maps not cut by altitudinal limits}.} Models were fitted using a Poisson error distribution. Class was added as a predictor interacting with range size. Rates of increase were not significantly different for mammals and birds, but differed for reptiles and amphibians, with steeper rates of increase for reptiles overall. Cutting range maps by altitudinal limits had little effects on the results (see Figure 2.5 in Main text).} 
+\label{SI2_plot_RS_notcut}
 \end{figure}
 
 
@@ -324,7 +324,7 @@ log Range Size:Class Reptiles & $0.031$ & $0.002$ & $12.630$ & $< 2e-16$ \\
 % model summaries - amphibians
   \begin{table}[!htbp] \centering 
   \caption[Spatial model summary for amphibians.]{Spatial model summary for amphibians. The spatial model was fitted to explain assemblage-level median completeness with species richness. Biogeographic realm was added as an interacting explanatory variable.} 
-  \label{} 
+  \label{SI2_summary_spatial_amphibians} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -348,7 +348,7 @@ log(Species richness):Palearctic & $0.0109$ & $0.0029$ & $3.7358$ & $0.0002$ \\
 % model summary - reptiles
 \begin{table}[!htbp] \centering 
   \caption{Spatial model summary for reptiles. The spatial model was fitted to explain assemblage-level median completeness with species richness. Biogeographic realm was added as an interacting explanatory variable.} 
-  \label{} 
+  \label{SI2_summary_spatial_reptiles} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -381,5 +381,5 @@ Here, we briefly explore the robustness of our work to taxonomic uncertainty by 
 \centering
 \includegraphics[scale=0.6]{Supporting/Chapter2/Figures/Coverage/DeltaCov_F3}
 \caption[]{\textbf{Comparison of trait coverage among datasets corrected for taxonomy using the described procedure (purple bars), datasets corrected using the rangeBuilder package (extraction of synonyms from class-specific sources, yellow bars) and datasets where no taxonomic correction was applied when matching sources (green bars).}}
-\label{}
+\label{SI2_taxcor_rangebuilder}
 \end{figure}
