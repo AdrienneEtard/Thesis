@@ -1,20 +1,17 @@
 %%%%% Notes: to do
 
-%% fix Hudson citation for PREDICTS (both)
-
-%% Chapter 2 - references to figures in the SI
+%% fix Hudson citations for PREDICTS (both)
 
 %% Chapter 3: add SI; references to figures in text and SI.
 
-%% list of tables and figures -- separated for main and SI?
-
-%% add Figure reproduced from "..." in pubished article figures
+%% add Figure reproduced from "..." in published article figures
 
 %% TODO chapter 2
 %% relecture
-%% SI: text + refs + bibliography
+%% SI: 2.1 => taxonomic corrections: check numbers; text + refs + bibliography
 %% table of contents / list of tables, figures.
 
+%% add bibliography for Supporting Information
 
 \documentclass[11pt]{report}
 \usepackage{graphicx}
@@ -79,12 +76,19 @@
 %\usepackage{lmodern}
 \usepackage{times}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 % line spacing
 \renewcommand{\baselinestretch}{1.5}
+
+% spacing for contents (between number and caption)
+\usepackage{tocloft}
+\setlength{\cftfignumwidth}{3em} % change Xem to suit
+\setlength{\cfttabnumwidth}{3em} % change Xem to suit
+\setlength{\cftsecnumwidth}{3em}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \begin{document}
@@ -125,18 +129,19 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 \clearpage
 \tableofcontents
 
+\clearpage
 %\cleardoublepage
 %\addcontentsline{toc}{section}{List of Tables}
 \listoftables
 %\clearpage
 
+\clearpage
 %\addcontentsline{toc}{section}{List of Figures}
 \listoffigures
 
 % \clearpage
 %List of abbreviations
 %\addcontentsline{toc}{section}{List of abbreviations}
-
 
 %\chapter*{List of abbreviations}
 %\input{Abbreviations}
@@ -166,9 +171,13 @@ Chapter 4: In this chapter, I collected resting metabolic rates for vertebrate s
 \textcolor{blue}{\textbf{The content of Chapter 2 was published in October 2020 in \textit{Global Ecology and Biogeography}, in a research article co-authored by myself, Tim Newbold and Sophie Morrill, who contributed data on XXX \citep{Etard2020}.}}
 
 \chapter{Global gaps and biases in trait data for terrestrial vertebrates}
+\addcontentsline{lof}{chapter}{Chapter 2}
+\addcontentsline{lot}{chapter}{Chapter 2}
+
 \input{Chapters/Chapter2}
 
 \chapter{Intensive human land uses negatively affect vertebrate functional diversity}
+\addcontentsline{lof}{chapter}{Chapter 3}
 \input{Chapters/Chapter3}
 
 \chapter{Different traits explain sensitivity to land use}
@@ -191,6 +200,7 @@ Chapter 4: In this chapter, I collected resting metabolic rates for vertebrate s
 %%%%%%%%%%%%%%%%%%%%%%%
 %% APPENDICES %% Structured by chapters
 
+
 % line spacing
 \renewcommand{\baselinestretch}{1.15}
 
@@ -202,10 +212,17 @@ Chapter 4: In this chapter, I collected resting metabolic rates for vertebrate s
 \chapter*{Appendices}
 \clearpage
 
+%% if ignoring figures and tables from there on in the list of tables and list of figures	
+%\captionsetup[figure]{list=no}
+%\captionsetup[table]{list=no}
+
 \addcontentsline{toc}{chapter}{Appendix 1: Supporting information for Chapter 1}
 \chapter*{Appendix 1: Supporting information for Chapter 1}
 
 \addcontentsline{toc}{chapter}{Appendix 2: Supporting information for Chapter 2}
+\addcontentsline{lof}{chapter}{Appendix 2}
+\addcontentsline{lot}{chapter}{Appendix 2}
+
 \chapter*{Appendix 2: Supporting information for Chapter 2}
 \renewcommand{\thefigure}{S2.\arabic{figure}}
 \renewcommand{\thetable}{S2.\arabic{table}}
@@ -213,11 +230,18 @@ Chapter 4: In this chapter, I collected resting metabolic rates for vertebrate s
 \input{Supporting/Chapter2/SI_Chapter2}
 
 \addcontentsline{toc}{chapter}{Appendix 3: Supporting information for Chapter 3}
+\addcontentsline{lof}{chapter}{Appendix 3}
+\addcontentsline{lot}{chapter}{Appendix 3}
 \chapter*{Appendix 3: Supporting information for Chapter 3}
 
 \addcontentsline{toc}{chapter}{Appendix 4: Supporting information for Chapter 4}
 \chapter*{Appendix 4: Supporting information for Chapter 4}
 
+\clearpage
+\addcontentsline{toc}{chapter}{Bibliography for the Appendices}
+\chapter*{Bibliography for the Appendices}
+\renewcommand{\baselinestretch}{1}
+%\printbibliography[heading=subbibliography]
 
 
 \end{document}

@@ -13274,6 +13274,67 @@
     \field{year}{2018}
   \endentry
 
+  \entry{RangeBuilder}{article}{}
+    \name{author}{7}{}{%
+      {{hash=RAD}{%
+         family={Rabosky},
+         familyi={R\bibinitperiod},
+         given={AR\bibnamedelima Davis},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cox},
+         familyi={C\bibinitperiod},
+         given={CL},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rabosky},
+         familyi={R\bibinitperiod},
+         given={DL},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Title},
+         familyi={T\bibinitperiod},
+         given={PO},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HI}{%
+         family={Holmes},
+         familyi={H\bibinitperiod},
+         given={IA},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=MJ}{%
+         family={McGuire},
+         familyi={M\bibinitperiod},
+         given={JA},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RAD+1}
+    \strng{fullhash}{RADCCRDTPHIFAMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{11484}
+    \field{title}{Coral snakes predict the evolution of mimicry across New
+  World snakes}
+    \field{volume}{7}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2016}
+  \endentry
+
   \entry{RamirezBautista2020}{article}{}
     \name{author}{4}{}{%
       {{hash=RBA}{%

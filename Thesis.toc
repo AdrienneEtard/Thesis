@@ -1,8 +1,8 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Tables}{8}{chapter*.9}%
+\contentsline {chapter}{List of Tables}{8}{section*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Figures}{9}{chapter*.10}%
+\contentsline {chapter}{List of Figures}{9}{section*.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}General Introduction}{11}{chapter.1}%
 \defcounter {refsection}{0}\relax 
@@ -14,21 +14,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Trait data collection}{17}{subsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sources and taxonomic matching}{17}{subsubsection*.11}%
+\contentsline {subsubsection}{Sources and taxonomic matching}{17}{subsubsection*.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Compilation methods}{18}{subsubsection*.14}%
+\contentsline {subsubsection}{Compilation methods}{18}{subsubsection*.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Phylogenies}{22}{subsubsection*.16}%
+\contentsline {subsubsection}{Phylogenies}{22}{subsubsection*.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Species distributions}{22}{subsubsection*.17}%
+\contentsline {subsubsection}{Species distributions}{22}{subsubsection*.16}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Investigating gaps and biases in trait data}{23}{subsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Taxonomic biases}{24}{subsubsection*.19}%
+\contentsline {subsubsection}{Taxonomic biases}{24}{subsubsection*.18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Phylogenetic biases}{24}{subsubsection*.20}%
+\contentsline {subsubsection}{Phylogenetic biases}{24}{subsubsection*.19}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Spatial biases}{24}{subsubsection*.21}%
+\contentsline {subsubsection}{Spatial biases}{24}{subsubsection*.20}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Results}{25}{section.2.3}%
 \defcounter {refsection}{0}\relax 
@@ -76,36 +76,38 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Bibliography}{59}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendices}{70}{chapter*.33}%
+\contentsline {chapter}{Appendices}{71}{chapter*.32}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 1: Supporting information for Chapter 1}{71}{chapter*.34}%
+\contentsline {chapter}{Appendix 1: Supporting information for Chapter 1}{72}{chapter*.33}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 2: Supporting information for Chapter 2}{71}{chapter*.35}%
+\contentsline {chapter}{Appendix 2: Supporting information for Chapter 2}{72}{chapter*.34}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.1 }Taxonomic corrections}{72}{section.7.1}%
+\contentsline {section}{\numberline {S2.1 }Taxonomic corrections}{73}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}{72}{paragraph*.37}%
+\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}{73}{paragraph*.36}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Output.}{73}{paragraph*.38}%
+\contentsline {paragraph}{Output.}{74}{paragraph*.37}%
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{73}{paragraph*.39}%
+\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{74}{paragraph*.38}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.2 }Additional information for trait compilation}{75}{section.7.2}%
+\contentsline {section}{\numberline {S2.2 }Additional information for trait compilation}{76}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.3 }Cutting distribution maps by altitudinal limits}{76}{section.7.3}%
+\contentsline {section}{\numberline {S2.3 }Cutting distribution maps by altitudinal limits}{77}{section.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.4 }Impact of taxonomic corrections on trait coverage}{77}{section.7.4}%
+\contentsline {section}{\numberline {S2.4 }Impact of taxonomic corrections on trait coverage}{78}{section.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.5 }Assemblage-level median, mean and standard deviation of trait completeness (maps)}{78}{section.7.5}%
+\contentsline {section}{\numberline {S2.5 }Assemblage-level median, mean and standard deviation of trait completeness (maps)}{79}{section.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.6 }Phylogenetic patterns in trait completeness}{83}{section.7.6}%
+\contentsline {section}{\numberline {S2.6 }Phylogenetic patterns in trait completeness}{84}{section.7.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.7 }Model coefficients for Range size against Number of sampled traits (Poisson model).}{88}{section.7.7}%
+\contentsline {section}{\numberline {S2.7 }Model coefficients for Range size against Number of sampled traits (Poisson model).}{89}{section.7.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.8 }Spatial models summaries}{90}{section.7.8}%
+\contentsline {section}{\numberline {S2.8 }Spatial models summaries}{91}{section.7.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {S2.9 }Trait coverage and taxonomic matching}{91}{section.7.9}%
+\contentsline {section}{\numberline {S2.9 }Trait coverage and taxonomic matching}{92}{section.7.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 3: Supporting information for Chapter 3}{91}{figure.caption.59}%
+\contentsline {chapter}{Appendix 3: Supporting information for Chapter 3}{92}{figure.caption.58}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 4: Supporting information for Chapter 4}{92}{chapter*.60}%
+\contentsline {chapter}{Appendix 4: Supporting information for Chapter 4}{93}{chapter*.59}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography for the Appendices}{95}{chapter*.60}%

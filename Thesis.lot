@@ -4,13 +4,11 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {2.1}{\ignorespaces Data sources for each trait.}}{19}{table.caption.13}%
+\contentsline {chapter}{Chapter 2}{13}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {2.2}{\ignorespaces Number of species for each analysis.}}{23}{table.caption.18}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces Data sources for each trait}}{19}{table.caption.12}%
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.2}{\ignorespaces Number of species for each analysis}}{23}{table.caption.17}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
@@ -18,10 +16,18 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {S2.1}{\ignorespaces \textbf {Coefficients of the model investigating whether species range size explained the number of sampled traits.} Class was added as an interacting predictor. The reference level for class is Mammals. The model was fitted using Poisson error distribution.\relax }}{88}{table.caption.54}%
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {S2.2}{\ignorespaces \textbf {Coefficients of the model investigating whether species range size explained the number of sampled traits, \textit {using range maps not cut by altitudinal limits.}} Class was added as an interacting predictor. The reference level for class is Mammals. The model was fitted using Poisson error distribution.\relax }}{88}{table.caption.55}%
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {S2.3}{\ignorespaces Spatial model summary for amphibians.}}{90}{table.caption.57}%
+\contentsline {chapter}{Appendix 2}{72}{chapter*.34}%
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {S2.4}{\ignorespaces Spatial model summary for reptiles. The spatial model was fitted to explain assemblage-level median completeness with species richness. Biogeographic realm was added as an interacting explanatory variable.\relax }}{90}{table.caption.58}%
+\contentsline {table}{\numberline {S2.1}{\ignorespaces Coefficients of the model investigating whether species range size explained the number of sampled traits}}{89}{table.caption.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {S2.2}{\ignorespaces Coefficients of the model investigating whether species range size explained the number of sampled traits, using range maps not cut by altitudinal limits}}{89}{table.caption.54}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {S2.3}{\ignorespaces Spatial model summary for amphibians}}{91}{table.caption.56}%
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {S2.4}{\ignorespaces Spatial model summary for reptiles}}{91}{table.caption.57}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendix 3}{92}{figure.caption.58}%
