@@ -4,78 +4,128 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Chapter 2}{13}{chapter.2}%
+\contentsline {chapter}{Chapter 2}{15}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Procedure used to identify the accepted names of species}}{18}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Procedure used to identify the accepted names of species}}{20}{figure.caption.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Number of natural and artificial habitats used by a species against number of strictly natural habitats used by a species}}{22}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Number of natural and artificial habitats used by a species against number of strictly natural habitats used by a species}}{24}{figure.caption.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Trait coverage and completeness across species}}{26}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Trait coverage and completeness across species}}{28}{figure.caption.21}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Within-family median trait completeness in herptiles}}{28}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Within-family median trait completeness in herptiles}}{30}{figure.caption.22}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Relationship between number of sampled traits and geographical range size}}{29}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Relationship between number of sampled traits and geographical range size}}{31}{figure.caption.23}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Spatial distribution of assemblage-level median trait completeness in herptiles}}{30}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Spatial distribution of assemblage-level median trait completeness in herptiles}}{32}{figure.caption.24}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Spatial model trends for herptiles}}{31}{figure.caption.25}%
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Chapter 3}{36}{chapter.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the study design and functional metrics.}}{39}{figure.caption.26}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Effects of land use, land-use intensity and region on FRic (a) and on FDis (b) across all PREDICTS vertebrates.}}{45}{figure.caption.27}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Effects of land use, land-use intensity, region and taxonomic class on FRic (a) and FDis (b).}}{46}{figure.caption.28}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Effects of land use, land-use intensity and region on the probability of occurrence of functional under-dispersion.}}{48}{figure.caption.29}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Effects of land use and land-use intensity on (a) functional loss and (b) functional gain across pairs of sites in temperate areas and tropical areas.}}{49}{figure.caption.30}%
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Effects of land use, use intensity, region and taxonomic class on functional loss and functional gain across pairs of sites.}}{50}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Spatial model trends for herptiles}}{33}{figure.caption.25}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {chapter}{Chapter 3}{38}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Overview of the study design and functional metrics.}}{41}{figure.caption.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Effects of land use, land-use intensity and region on FRic (a) and on FDis (b) across all PREDICTS vertebrates.}}{47}{figure.caption.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Effects of land use, land-use intensity, region and taxonomic class on FRic (a) and FDis (b).}}{48}{figure.caption.28}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Effects of land use, land-use intensity and region on the probability of occurrence of functional under-dispersion.}}{50}{figure.caption.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Effects of land use and land-use intensity on (a) functional loss and (b) functional gain across pairs of sites in temperate areas and tropical areas.}}{51}{figure.caption.30}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Effects of land use, use intensity, region and taxonomic class on functional loss and functional gain across pairs of sites.}}{52}{figure.caption.31}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 2}{72}{chapter*.34}%
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.1}{\ignorespaces Difference in species number before and after taxonomic correction (A) and distribution of number of synonyms across datasets (B)}}{75}{figure.caption.39}%
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.2}{\ignorespaces (a) Body mass versus body length and (b) longevity versus age at sexual maturity in amphibians}}{76}{figure.caption.40}%
+\contentsline {chapter}{Appendix 2}{74}{chapter*.34}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.3}{\ignorespaces Generation length versus longevity data in birds}}{76}{figure.caption.41}%
+\contentsline {figure}{\numberline {S2.1}{\ignorespaces Difference in species number before and after taxonomic correction (A) and distribution of number of synonyms across datasets (B)}}{77}{figure.caption.39}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.4}{\ignorespaces Availability of altitudinal limits across species}}{77}{figure.caption.42}%
+\contentsline {figure}{\numberline {S2.2}{\ignorespaces (a) Body mass versus body length and (b) longevity versus age at sexual maturity in amphibians}}{78}{figure.caption.40}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.5}{\ignorespaces Range sizes before versus after cutting by altitudinal limits}}{77}{figure.caption.43}%
+\contentsline {figure}{\numberline {S2.3}{\ignorespaces Generation length versus longevity data in birds}}{78}{figure.caption.41}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.6}{\ignorespaces Trait coverage when no taxonomic correction is applied before matching sources by binomial names, versus when we applied the described procedure}}{78}{figure.caption.44}%
+\contentsline {figure}{\numberline {S2.4}{\ignorespaces Availability of altitudinal limits across species}}{79}{figure.caption.42}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.7}{\ignorespaces Spatial distribution of assemblage-level median trait completeness in each class}}{80}{figure.caption.45}%
+\contentsline {figure}{\numberline {S2.5}{\ignorespaces Range sizes before versus after cutting by altitudinal limits}}{79}{figure.caption.43}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.8}{\ignorespaces Spatial distribution of assemblage-level mean trait completeness in each class}}{81}{figure.caption.46}%
+\contentsline {figure}{\numberline {S2.6}{\ignorespaces Trait coverage when no taxonomic correction is applied before matching sources by binomial names, versus when we applied the described procedure}}{80}{figure.caption.44}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.9}{\ignorespaces Spatial distribution of assemblage-level standard deviation of trait completeness in each class}}{82}{figure.caption.47}%
+\contentsline {figure}{\numberline {S2.7}{\ignorespaces Spatial distribution of assemblage-level median trait completeness in each class}}{82}{figure.caption.45}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.10}{\ignorespaces Assemblage-level species richness against standard deviation in completeness in each class}}{83}{figure.caption.48}%
+\contentsline {figure}{\numberline {S2.8}{\ignorespaces Spatial distribution of assemblage-level mean trait completeness in each class}}{83}{figure.caption.46}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.11}{\ignorespaces Within-family median trait completeness in mammals}}{85}{figure.caption.49}%
+\contentsline {figure}{\numberline {S2.9}{\ignorespaces Spatial distribution of assemblage-level standard deviation of trait completeness in each class}}{84}{figure.caption.47}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.12}{\ignorespaces Within-family median trait completeness in birds}}{86}{figure.caption.50}%
+\contentsline {figure}{\numberline {S2.10}{\ignorespaces Assemblage-level species richness against standard deviation in completeness in each class}}{85}{figure.caption.48}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.13}{\ignorespaces Within-family standard deviation in completeness}}{87}{figure.caption.51}%
+\contentsline {figure}{\numberline {S2.11}{\ignorespaces Within-family median trait completeness in mammals}}{87}{figure.caption.49}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.14}{\ignorespaces Within-family species richness against the within-family standard deviation of completeness}}{88}{figure.caption.52}%
+\contentsline {figure}{\numberline {S2.12}{\ignorespaces Within-family median trait completeness in birds}}{88}{figure.caption.50}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.15}{\ignorespaces Relationship between number of sampled traits and geographical range size using distribution maps not cut by altitudinal limits}}{90}{figure.caption.55}%
+\contentsline {figure}{\numberline {S2.13}{\ignorespaces Within-family standard deviation in completeness}}{89}{figure.caption.51}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {S2.16}{\ignorespaces Comparison of trait coverage among datasets corrected for taxonomy in different ways}}{92}{figure.caption.58}%
+\contentsline {figure}{\numberline {S2.14}{\ignorespaces Within-family species richness against the within-family standard deviation of completeness}}{90}{figure.caption.52}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendix 3}{92}{figure.caption.58}%
+\contentsline {figure}{\numberline {S2.15}{\ignorespaces Relationship between number of sampled traits and geographical range size using distribution maps not cut by altitudinal limits}}{92}{figure.caption.55}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S2.16}{\ignorespaces Comparison of trait coverage among datasets corrected for taxonomy in different ways}}{94}{figure.caption.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendix 3}{94}{figure.caption.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.1}{\ignorespaces Number of sites in each land use and use intensity for which FRic and FDis were calculated, across all species}}{96}{figure.caption.61}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.2}{\ignorespaces Number of sites in each land use, use intensity and for which FRic and FDis were calculated, within each class}}{97}{figure.caption.62}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.3}{\ignorespaces Relationship between habitat breadth and geographical range size across species in each class}}{98}{figure.caption.63}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.4}{\ignorespaces Trait coverage for the vertebrate species sampled in the PREDICTS database}}{99}{figure.caption.64}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.5}{\ignorespaces Distribution of trait completeness across the vertebrate species sampled in the PREDICTS database}}{99}{figure.caption.65}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.6}{\ignorespaces Distribution of continuous traits considered in the calculation of the functional diversity metrics}}{103}{figure.caption.68}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.7}{\ignorespaces Frequency distribution for categorical traits considered in the calculation of the functional diversity metrics}}{104}{figure.caption.69}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.8}{\ignorespaces Out-of-bag imputation errors for the continuous traits (a) and categorical traits (b)}}{105}{figure.caption.70}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.9}{\ignorespaces Diagnostic plots for Model 1a}}{109}{figure.caption.73}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.10}{\ignorespaces Diagnostic plots for Model 1b}}{110}{figure.caption.74}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.11}{\ignorespaces Diagnostic plots for Model 2a}}{111}{figure.caption.75}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.12}{\ignorespaces Diagnostic plots for Model 2b}}{112}{figure.caption.76}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.13}{\ignorespaces Diagnostic plots for Model 3}}{113}{figure.caption.77}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.14}{\ignorespaces Diagnostic plots for Model 4a}}{114}{figure.caption.78}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.15}{\ignorespaces Diagnostic plots for Model 4b}}{115}{figure.caption.79}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.16}{\ignorespaces Diagnostic plots for Model 5a}}{116}{figure.caption.80}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.17}{\ignorespaces Diagnostic plots for Model 5b}}{117}{figure.caption.81}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.18}{\ignorespaces Effects of land use, use intensity and region on FRic (a) and FDis (b) across vertebrates, for the subset of species with complete trait data}}{118}{figure.caption.82}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.19}{\ignorespaces Effects of land use, use intensity and region on FRic (a) and FDis (b), for the subset of species with complete trait data, with geographical range size as an additional trait}}{119}{figure.caption.83}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.20}{\ignorespaces Effects of land use and use intensity on FRic (a) and FDis (b), obtained when calculating FRic and FDis with each set of imputed traits}}{120}{figure.caption.84}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.21}{\ignorespaces Effects of land use and use intensity on FRic (a) and FDis (b), obtained when re-sampling primary vegetation sites twenty independent times}}{121}{figure.caption.85}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.22}{\ignorespaces Effects of land use, use intensity and taxonomic class on FRic (a) and FDis (c), for the subset of species with complete trait data}}{122}{figure.caption.86}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.23}{\ignorespaces Effects of land use, region, use intensity and taxonomic class on FRic and FDis obtained with the imputed trait data (black points) or with the complete data subsets (red points)}}{123}{figure.caption.87}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.24}{\ignorespaces Effects of land use, region, use intensity and taxonomic class on FRic and FDis, obtained when calculating FRic and FDis with each set of imputed traits}}{124}{figure.caption.88}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {S3.25}{\ignorespaces Effects of land use on FRic for the model that includes time since land-use conversion (blue points) versus the model that doesn't take time since land-use conversion into account (red points)}}{126}{figure.caption.90}%

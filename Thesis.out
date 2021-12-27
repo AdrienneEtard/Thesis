@@ -42,5 +42,16 @@
 \BOOKMARK [1][-]{section.7.8}{Spatial models summaries}{chapter*.34}% 42
 \BOOKMARK [1][-]{section.7.9}{Trait coverage and taxonomic matching}{chapter*.34}% 43
 \BOOKMARK [0][-]{figure.caption.58}{Appendix 3: Supporting information for Chapter 3}{}% 44
-\BOOKMARK [0][-]{chapter*.59}{Appendix 4: Supporting information for Chapter 4}{}% 45
-\BOOKMARK [0][-]{chapter*.60}{Bibliography for the Appendices}{}% 46
+\BOOKMARK [1][-]{section.7.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.58}% 45
+\BOOKMARK [1][-]{section.7.2}{Trait data \046 imputation of missing trait values}{figure.caption.58}% 46
+\BOOKMARK [2][-]{subsection.7.2.1}{Choice of imputation technique}{section.7.2}% 47
+\BOOKMARK [2][-]{subsection.7.2.2}{Phylogenetic signal in traits}{section.7.2}% 48
+\BOOKMARK [2][-]{subsection.7.2.3}{Implementation of missForest imputations}{section.7.2}% 49
+\BOOKMARK [1][-]{section.7.3}{Degree of multicollinearity among traits}{figure.caption.58}% 50
+\BOOKMARK [1][-]{section.7.4}{Imputation performance}{figure.caption.58}% 51
+\BOOKMARK [1][-]{section.7.5}{Functional loss and functional gain}{figure.caption.58}% 52
+\BOOKMARK [1][-]{section.7.6}{Diagnostic plots}{figure.caption.58}% 53
+\BOOKMARK [1][-]{section.7.7}{Model robustness}{figure.caption.58}% 54
+\BOOKMARK [1][-]{section.7.8}{Model robustness \205 time since land-use conversion}{figure.caption.58}% 55
+\BOOKMARK [0][-]{table.caption.91}{Appendix 4: Supporting information for Chapter 4}{}% 56
+\BOOKMARK [0][-]{chapter*.92}{Bibliography for the Appendices}{}% 57
