@@ -1,17 +1,27 @@
+%%%%%%%% TO COMPILE THE DOC, RUN BIBTEX ON EACH SEPARATE AUXILIARY FILE: (because different refsections in the document).
+
+%% bibtex Thesis1-blx.aux
+%% bibtex Thesis2-blx.aux
+%% pdflatex Thesis
+
+%%%%%%%% DO THIS TWICE
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %%%%% Notes: to do
 
-%% fix Hudson citations for PREDICTS (both)
+%% fix Hudson citations for PREDICTS -- fixed
 
-%% Chapter 3: add SI; references to figures in text and SI.
-
-%% add Figure reproduced from "..." in published article figures
+%% Chapter 3: 
+    %% references to figures in text and SI.
+	%% add Figure reproduced from "..." in published article figures
 
 %% TODO chapter 2
 %% relecture
 %% SI: 2.1 => taxonomic corrections: check numbers; text + refs + bibliography
-%% table of contents / list of tables, figures.
+%% check table of contents / list of tables, figures.
 
-%% add bibliography for Supporting Information
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[11pt]{report}
 \usepackage{graphicx}
@@ -46,14 +56,6 @@
 %\usepackage{verbatim} 
 \usepackage{csvsimple}
 
-% clinkable links 
-\usepackage[hidelinks]{hyperref}
-\hypersetup{
-    colorlinks=false, %set true if you want colored links
-    linktoc=all     %set to all if you want both sections and subsections linked
-    %linkcolor=blue,  %choose some color if you want links to stand out
-}
-
 % Bibliography
 \usepackage[backend=bibtex, natbib=true, url=false, doi=true, isbn=false, style=authoryear-comp, eprint=false, maxbibnames= 20, firstinits=true, maxcitenames=2]{biblatex}
 \addbibresource{LIBRARY.bib}
@@ -85,6 +87,14 @@
 \setlength{\cfttabnumwidth}{3em} % change Xem to suit
 \setlength{\cftsecnumwidth}{3em}
 
+% clinkable links 
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=false, %set true if you want colored links
+    linktoc=all     %set to all if you want both sections and subsections linked
+    %linkcolor=blue,  %choose some color if you want links to stand out
+}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -109,14 +119,14 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 
 \chapter*{Acknowledgments}
 
-\chapter*{Abstract}
+\chapter*{Abstract} %% No more than 300 words
 %This report summarises the work I have achieved throughout the first year of my PhD thesis at the Center for Biodiversity and Environment Research at UCL. Many experts state we have entered a new geological epoch, the Anthropocene, characterised by increasing impacts of human activities on the Earth's systems. Since the industrial revolution in the 18$^{\text{th}}$ century, anthropogenic activities have triggered global changes of planetary climate, and have led to the destruction and alteration of the natural habitat of many species. 
 
 %The impacts on global biodiversity have been dramatic. Vertebrate populations have globally declined by 60\% since 1970. Conserving biodiversity is not just a moral obligation. Biodiversity sustain important ecological processes that participate in making the planet habitable by humans. In order to put into place efficient conservation measures, it is vital to understand how different species cope with anthropogenic disturbances. Particularly, understanding what makes species sensitive to anthropogenic threats is valuable to conservation planning.
 
 %In the first Chapter, I present how trait-based approaches can be used to understand how species respond to disturbances, and how anthropogenic changes alter the composition of vertebrate communities. After exposing the gaps in our current understanding, I briefly detail the questions I tackled in this report. The second Chapter focuses on the collection of trait data across terrestrial vertebrates. These data were used in the third Chapter, which investigates how global land-use change impacts the functional diversity of local vertebrate communities. Finally, the last Chapter presents research questions I aim to tackle in the future years of my PhD.
 
-\chapter*{Impact statement}
+\chapter*{Impact statement}%% No more than 500 words
 
 \chapter*{Data and code access}
 
@@ -146,6 +156,7 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 %\chapter*{List of abbreviations}
 %\input{Abbreviations}
 
+\begin{refsection}
 
 \clearpage
 %\addcontentsline{toc}{chapter}{Introduction}
@@ -154,8 +165,6 @@ This document was compiled with {\LaTeX}; the source code and files are availabl
 
 
 \section*{Thesis outline}
-
-
 
 Chapter 2: this chapter was conducted in collaboration with 
 In this chapter, I collected trait data for terrestrial vertebrates, targeting seven traits that are commonly used in the field (e.g., body mass, trophic level, etc). I assessed the availability of the trait data across vertebrate classes and I investigated whether the data present taxonomic, phylogenetic and spatial biases. This  (the content of this chapter has been published: https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13184).
@@ -197,9 +206,12 @@ Chapter 4: In this chapter, I collected resting metabolic rates for vertebrate s
 \renewcommand{\baselinestretch}{1}
 \printbibliography[heading=none]
 
+\end{refsection}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%
 %% APPENDICES %% Structured by chapters
-
+\begin{refsection}
 
 % line spacing
 \renewcommand{\baselinestretch}{1.15}
@@ -248,7 +260,7 @@ Chapter 4: In this chapter, I collected resting metabolic rates for vertebrate s
 \addcontentsline{toc}{chapter}{Bibliography for the Appendices}
 \chapter*{Bibliography for the Appendices}
 \renewcommand{\baselinestretch}{1}
-%\printbibliography[heading=subbibliography]
-
+\printbibliography[heading=none]
+\end{refsection}
 
 \end{document}
