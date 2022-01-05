@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.12)  3 JAN 2022 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.12)  5 JAN 2022 14:05
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1094,14 +1094,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip181
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 96.
+Package hyperref Info: Option `colorlinks' set `false' on input line 98.
 \@quotelevel=\count462
 \@quotereset=\count463
 
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 104.
+(biblatex)                Setting 'uniquename=init' on input line 106.
 
 (Thesis.aux
 
@@ -1194,24 +1194,24 @@ LaTeX Warning: Label `' multiply defined.
 )
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 10
-4.
+6.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -1304,9 +1304,9 @@ Package biblatex Warning: BibTeX reported the following issues
 )
 Package biblatex Info: ... file 'Thesis2-blx.bbl' found.
  (Thesis2-blx.bbl)
-Package biblatex Info: Reference section=0 on input line 104.
-Package biblatex Info: Reference segment=0 on input line 104.
-Package hyperref Info: Link coloring OFF on input line 104.
+Package biblatex Info: Reference section=0 on input line 106.
+Package biblatex Info: Reference segment=0 on input line 106.
+Package hyperref Info: Link coloring OFF on input line 106.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
@@ -1317,9 +1317,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count470
 )
-LaTeX Info: Redefining \ref on input line 104.
-LaTeX Info: Redefining \pageref on input line 104.
-LaTeX Info: Redefining \nameref on input line 104.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
 
 (Thesis.out) (Thesis.out)
 \@outlinefile=\write6
@@ -1389,12 +1389,12 @@ Package pdftex.def Info: cber_logo.png  used on input line 46.
 
 {C:/Users/adrie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UCL_logo.
 pdf> <./cber_logo.png>])
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 11
-8.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 12
+0.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (1.71959pt too wide) in paragraph at lines 118--119
+Overfull \hbox (1.71959pt too wide) in paragraph at lines 120--121
 []\T1/ptm/m/n/10.95 This doc-u-ment was com-piled with L[]T[]X; the source code
  and files are avail-able at: []$\T1/pcr/m/n/10.95 https : / / github .
  []
@@ -1403,7 +1403,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 \chapter
+l.122 \chapter
               *{Acknowledgments} [1
 
 ] [2
@@ -1435,14 +1435,14 @@ l.120 \chapter
 
 \blx@maxsegment@1=\count471
 \blx@sectionciteorder@1=\count472
-Package biblatex Info: Reference section=1 on input line 159.
+Package biblatex Info: Reference section=1 on input line 161.
 \openout5 = `Thesis1-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:1' on input line 159.
+Package biblatex Info: Setting label 'refsection:1' on input line 161.
  [12]
 Chapter 1.
 
-Overfull \hbox (7.74728pt too wide) in paragraph at lines 176--177
+Overfull \hbox (7.74728pt too wide) in paragraph at lines 178--179
 \T1/ptm/m/n/10.95 metabolic rates with the PRE-DICTS database to in-ves-ti-gate
  the im-pacts of land-use dis-tur-bance on assemblage-
  []
@@ -1570,7 +1570,7 @@ Overfull \hbox (15.79007pt too wide) in paragraph at lines 286--287
  <./figures/Chapter1/Figure_6.pdf>] [34] [35] [36]) [37]
 Chapter 3.
 
-Overfull \hbox (8.01714pt too wide) in paragraph at lines 188--188
+Overfull \hbox (8.01714pt too wide) in paragraph at lines 190--190
 |[]\T1/ptm/b/n/24.88 Intensive hu-man land uses neg-a-tively af-
  []
 
@@ -1663,7 +1663,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [53] [54]) [55] [56]
 Chapter 4.
 
-Overfull \hbox (13.78854pt too wide) in paragraph at lines 192--192
+Overfull \hbox (13.78854pt too wide) in paragraph at lines 194--194
 |[]\T1/ptm/b/n/24.88 Different traits ex-plain sen-si-tiv-ity to land
  []
 
@@ -1691,7 +1691,7 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 
 
 ] [62]
-Overfull \hbox (14.36156pt too wide) in paragraph at lines 207--207
+Overfull \hbox (14.36156pt too wide) in paragraph at lines 209--209
 [][]\T1/ptm/m/n/10.95 Díaz, S. et al. (2016). The global spec-trum of plant for
 m and func-tion. \T1/ptm/m/it/10.95 Na-ture\T1/ptm/m/n/10.95 . \T1/ptm/m/sc/10.
 95 doi\T1/ptm/m/n/10.95 : []$\T1/pcr/m/n/10.95 10 . 1038 / nature16489$[]\T1/pt
@@ -1699,24 +1699,24 @@ m/m/n/10.95 .
  []
 
 [63] [64]
-Overfull \hbox (0.91306pt too wide) in paragraph at lines 207--207
+Overfull \hbox (0.91306pt too wide) in paragraph at lines 209--209
 [][]\T1/ptm/m/n/10.95 Krauss, J., Bom-marco, R., Guardi-ola, M., Heikki-nen, R.
  K., Helm, A., Ku-us-saari, M., Lind-borg, R., Öckinger,
  []
 
 [65] [66] [67] [68] [69] [70]
-Package biblatex Info: Reference section=0 on input line 209.
+Package biblatex Info: Reference section=0 on input line 211.
 \blx@maxsegment@2=\count473
 \blx@sectionciteorder@2=\count474
-Package biblatex Info: Reference section=2 on input line 214.
+Package biblatex Info: Reference section=2 on input line 216.
 \openout5 = `Thesis2-blx.aux'.
 
-Package biblatex Info: Setting label 'refsection:2' on input line 214.
+Package biblatex Info: Setting label 'refsection:2' on input line 216.
  [71] [72
 
 
 ]
-Overfull \hbox (21.98198pt too wide) in paragraph at lines 232--232
+Overfull \hbox (21.98198pt too wide) in paragraph at lines 234--234
 |\T1/ptm/b/n/24.88 Appendix 1: Sup-port-ing in-for-ma-tion for Chap-
  []
 
@@ -1724,7 +1724,7 @@ Overfull \hbox (21.98198pt too wide) in paragraph at lines 232--232
 
 
 ]
-Overfull \hbox (21.98198pt too wide) in paragraph at lines 237--237
+Overfull \hbox (21.98198pt too wide) in paragraph at lines 239--239
 |\T1/ptm/b/n/24.88 Appendix 2: Sup-port-ing in-for-ma-tion for Chap-
  []
 
@@ -1956,7 +1956,7 @@ Overfull \hbox (48.31679pt too wide) in paragraph at lines 384--385
  []
 
 ) [93 <./Supporting/Chapter2/Figures/Coverage/DeltaCov_F3.pdf>]
-Overfull \hbox (21.98198pt too wide) in paragraph at lines 246--246
+Overfull \hbox (21.98198pt too wide) in paragraph at lines 248--248
 |\T1/ptm/b/n/24.88 Appendix 3: Sup-port-ing in-for-ma-tion for Chap-
  []
 
@@ -2318,7 +2318,7 @@ Package pdftex.def Info: Supporting/Chapter3/Figures/SI_time_since_conv_FRic.pd
 f  used on input line 534.
 (pdftex.def)             Requested size: 404.70924pt x 151.76596pt.
 ) [125 <./Supporting/Chapter3/Figures/SI_time_since_conv_FRic.pdf>] [126]
-Overfull \hbox (21.98198pt too wide) in paragraph at lines 257--257
+Overfull \hbox (21.98198pt too wide) in paragraph at lines 259--259
 |\T1/ptm/b/n/24.88 Appendix 4: Sup-port-ing in-for-ma-tion for Chap-
  []
 
@@ -2328,19 +2328,19 @@ Overfull \hbox (21.98198pt too wide) in paragraph at lines 257--257
 
 
 ]
-Overfull \hbox (20.67032pt too wide) in paragraph at lines 263--263
+Overfull \hbox (20.67032pt too wide) in paragraph at lines 265--265
 [][]\T1/ptm/m/n/10.95 Santos, T. (2018). Pack-age ` PVR '. Phy-lo-ge-netic Eige
 n-vec-tors Re-gres-sion and Phy-lo-gen-tic Signal-Representation
  []
 
 [129]
-Package biblatex Info: Reference section=0 on input line 264.
+Package biblatex Info: Reference section=0 on input line 266.
  [130]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 68D5C124A44DB1E658EDFFED03603FD8;4697.
 
