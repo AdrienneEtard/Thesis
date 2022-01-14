@@ -6,7 +6,7 @@
 \renewcommand{\arraystretch}{1.2}
 \begin{center}\fontsize{9}{11}\selectfont
 \caption[Land-use categories in the PREDICTS database]{\textbf{Land-use categories in the PREDICTS database.} See \citet{Hudson2014, Hudson2017} for more details.} 
-\label{LUcat}  
+\label{SI3_Table1}  
 \begin{tabular}{|l|l|}
 \hline
 \multicolumn{1}{|c|}{\textbf{Land-use category}}        & \multicolumn{1}{c|}{\textbf{Definition}}                                                                                                                                                                                                                                                    \\ \hline
@@ -28,7 +28,7 @@ Urban                                                   & \begin{tabular}[c]{@{}
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_samplesizes}
 \caption[Number of sites in each land use and use intensity for which FRic and FDis were calculated, across all species]{\textbf{Number of sites in each land use and use intensity for which FRic and FDis were calculated, across all species.} The number of sites for FRic can be smaller than the number of sites for FDis because FRic could not necessarily be computed for all assemblages in which FDis was estimated (in assemblages where species richness was 2 or 3, FRic could not be computed).}
-\label{SSAll}
+\label{SI3_F1}
 \end{figure}
 
 \pagebreak
@@ -37,7 +37,7 @@ Urban                                                   & \begin{tabular}[c]{@{}
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_samplesizes_fig3}
 \caption[Number of sites in each land use, use intensity and for which FRic and FDis were calculated, within each class]{\textbf{Number of sites in each land use, use intensity and for which FRic and FDis were calculated, within each class.} The number of sites for FRic can be smaller than the number of sites for FDis because FRic could not necessarily be computed for all assemblages in which FDis was estimated (in assemblages where species richness was 2 or 3, FRic could not be computed).}
-\label{}
+\label{SI3_F2}
 \end{figure}
 
 \pagebreak
@@ -52,7 +52,7 @@ We used a compilation of trait data across terrestrial vertebrates (Chapter 2; \
 \centering
 \includegraphics[scale=0.6]{Supporting/Chapter3/Figures/SI_Rangesize_HB}
 \caption[Relationship between habitat breadth and geographical range size across species in each class]{\textbf{Relationship between habitat breadth and geographical range size across species in each class.} The derivation of geographical range sizes is described in Chapter 2.}
-\label{}
+\label{SI3_F3}
 \end{figure}
 
 Trait-data coverage was highly variable among classes and traits, with important geographical and phylogenetic biases in trait data for reptiles and amphibians (\cite{Etard2020}; Fig. S4, Fig. S5). To obtain complete species-trait datasets, we imputed missing trait values. Further, in order to assess the sensitivity of our models to variation in imputed values, we imputed the missing trait values eight independent times. This allowed us to assess the congruence of our model predictions when using the different imputed trait datasets in the analyses. 
@@ -62,7 +62,7 @@ Trait-data coverage was highly variable among classes and traits, with important
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_coverage}
 \caption[Trait coverage for the vertebrate species sampled in the PREDICTS database]{\textbf{Trait coverage for the vertebrate species sampled in the PREDICTS database.} For a given trait, coverage is calculated as the percentage of species for which an estimate was available.}
-\label{}
+\label{SI3_F4}
 \end{figure}
 
 %% Trait completeness
@@ -70,7 +70,7 @@ Trait-data coverage was highly variable among classes and traits, with important
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_completeness}
 \caption[Distribution of trait completeness across the vertebrate species sampled in the PREDICTS database]{\textbf{Distribution of trait completeness across the vertebrate species sampled in the PREDICTS database.} For a given species, trait completeness is calculated as the proportion of traits for which an estimate was available. Dashed lines represent the median trait completeness.}
-\label{}
+\label{SI3_F5}
 \end{figure}
 
 
@@ -90,7 +90,7 @@ We used class-specific phylogenies to estimate phylogenetic signal, all download
 \renewcommand{\arraystretch}{1.2}
 \begin{center}\fontsize{9}{11}\selectfont
 \caption[Phylogenetic signal in continuous and categorical traits]{\textbf{Phylogenetic signal in continuous and categorical traits.} BM: body mass; BL: body length; GL: generation length; MA: age at sexual maturity; ML: maximum longevity; L: longevity; LCS: litter/clutch size; HB: habitat breadth; TL: trophic level; DA: diel activity; UA: use of artificial habitats. Continuous traits were log-10 transformed to improve normality before estimating Pagel’s $\lambda$ – except for habitat breadth which was square-rooted. A star indicates a significant signal (p-value<0.05 for the log-likelihood ratio test in the case of $\lambda$; and a significant difference from the simulated null distribution of $\delta$ for categorical traits). ‘NA’ indicates traits that were not considered for a given class. All traits showed significant phylogenetic signal, with signals for BM, BL, L, GL, MA and LCS being particularly strong (above 0.8) across the four classes. }
-\label{}  
+\label{SI3_Table2}  
 \begin{tabular}{l|c|c|c|c|c|c|c|c|c|c|c|}
 \cline{2-12}
                                           & \multicolumn{8}{c|}{\textbf{Pagel's $\lambda$}}                                                                       & \multicolumn{3}{c|}{\textbf{Borges' $\delta$}} \\ \hline
@@ -116,7 +116,7 @@ Multicollinearity among traits can be problematic when calculating functional di
 \renewcommand{\arraystretch}{1.2}
 \begin{center}\fontsize{9}{11}\selectfont
 \caption[Variance inflation factors across considered (imputed) traits]{\textbf{Variance inflation factors across considered (imputed) traits.}} 
-\label{}  
+\label{SI3_Table3}  
 \begin{tabular}{|l|c|}
 \hline
 \textbf{Trait}                & \multicolumn{1}{l|}{\textbf{GVIF}} \\ \hline
@@ -140,7 +140,7 @@ Lifespan proxy (log10)        & 1.7                                \\ \hline
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_dist_cont}
 \caption[Distribution of continuous traits considered in the calculation of the functional diversity metrics]{\textbf{Distribution of continuous traits considered in the calculation of the functional diversity metrics (shown as density plots), before and after missing value imputations, in each class and for the species occurring in the PREDICTS database.} All traits were log10-transformed except Habitat breadth, which was square-rooted.}
-\label{}
+\label{SI3_F6}
 \end{figure}
 
 \newpage
@@ -149,7 +149,7 @@ Lifespan proxy (log10)        & 1.7                                \\ \hline
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_dist_cat}
 \caption[Frequency distribution for categorical traits considered in the calculation of the functional diversity metrics]{\textbf{Frequency distribution for categorical traits considered in the calculation of the functional diversity metrics (shown as \% of total species in each category) before and after missing value imputations, in each class, for the species occurring in the PREDICTS database.}}
-\label{}
+\label{SI3_F7}
 \end{figure}
 \newpage
 
@@ -158,7 +158,7 @@ Lifespan proxy (log10)        & 1.7                                \\ \hline
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter3/Figures/SI_imputation_errors}
 \caption[Out-of-bag imputation errors for the continuous traits (a) and categorical traits (b)]{\textbf{Out-of-bag imputation errors for the continuous traits (a) and categorical traits (b).} For continuous traits, the Normalised Root Mean Squared Error (NRMSE) was obtained by dividing the Mean Squared Error (MSE) by the variance of the known trait distribution, then square-rooting the result. The MSE was returned for each trait by the missforest function (missForest package, \cite{Stekhoven2012, Stekhoven2016}) and corresponds to an out-of-bag error. For categorical traits, the error was estimated as the out-of-bag proportion of falsely classified traits.}
-\label{}
+\label{SI3_F8}
 \end{figure}
 
 \newpage
@@ -177,7 +177,7 @@ To calculate functional loss and functional gain, the Gower distance matrix was 
 \renewcommand{\arraystretch}{1.2}
 \begin{center}\fontsize{9}{11}\selectfont
 \caption[Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain across all species]{\textbf{Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain across all species.}} 
-\label{}  
+\label{SI3_Table4}  
 \begin{tabular}{@{\extracolsep{5pt}} cccccc} 
 \\[-1.8ex]\hline 
 \textbf{Region}            & \textbf{Pairs} & \textbf{Minimal use} & \textbf{Light use} & \textbf{Intense use} \\ \hline
@@ -208,7 +208,7 @@ To calculate functional loss and functional gain, the Gower distance matrix was 
 \renewcommand{\arraystretch}{1.2}
 \begin{center}\fontsize{9}{11}\selectfont
   \caption[Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain within each class]{\textbf{Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain within each class.}}
-  \label{} 
+  \label{SI3_Table5} 
 \begin{tabular}{@{\extracolsep{5pt}} cccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -262,7 +262,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Diagnostics/SI_diagnostics_Model1a}
 \caption[Diagnostic plots for Model 1a]{\textbf{Diagnostic plots for \underline{Model 1a},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F9}
 \end{figure}
 
 \newpage
@@ -273,7 +273,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Diagnostics/SI_diagnostics_Model1b}
 \caption[Diagnostic plots for Model 1b]{\textbf{Diagnostic plots for \underline{Model 1b},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F10}
 \end{figure}
 
 \newpage
@@ -283,7 +283,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Diagnostics/SI_diagnostics_Model2a}
 \caption[Diagnostic plots for Model 2a]{\textbf{Diagnostic plots for \underline{Model 2a},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F11}
 \end{figure}
 
 \newpage
@@ -293,7 +293,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Diagnostics/SI_diagnostics_Model2b}
 \caption[Diagnostic plots for Model 2b]{\textbf{Diagnostic plots for \underline{Model 2b},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F12}
 \end{figure}
 
 \newpage
@@ -304,7 +304,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.6]{Supporting/Chapter3/Figures/Diagnostics/SI_diagnostics_Model3}
 \caption[Diagnostic plots for Model 3]{\textbf{Diagnostic plots for \underline{Model 3},} obtained using the `DHARMa' R package \citep{DHARMa}.}
-\label{}
+\label{SI3_F13}
 \end{figure}
 
 \newpage
@@ -315,7 +315,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Diagnostics/Diag_model_4a}
 \caption[Diagnostic plots for Model 4a]{\textbf{Diagnostic plots for \underline{Model 4a},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F14}
 \end{figure}
 
 \newpage
@@ -325,7 +325,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Diagnostics/Diag_model4b}
 \caption[Diagnostic plots for Model 4b]{\textbf{Diagnostic plots for \underline{Model 4b},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F15}
 \end{figure}
 
 % Model 5a class
@@ -333,7 +333,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.6]{Supporting/Chapter3/Figures/Diagnostics/Model5a_diag}
 \caption[Diagnostic plots for Model 5a]{\textbf{Diagnostic plots for \underline{Model 5a},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F16}
 \end{figure}
 
 
@@ -342,7 +342,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.6]{Supporting/Chapter3/Figures/Diagnostics/Model5b_diag}
 \caption[Diagnostic plots for Model 5b]{\textbf{Diagnostic plots for \underline{Model 5b},} obtained using the `performance' R package \citep{performance}.}
-\label{}
+\label{SI3_F17}
 \end{figure}
 
 \newpage
@@ -357,7 +357,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/SI_Figure18}
 \caption[Effects of land use, use intensity and region on FRic (a) and FDis (b) across vertebrates, for the subset of species with complete trait data]{\textbf{Effects of land use, use intensity and region on FRic (a) and FDis (b) across vertebrates, for the subset of species with complete trait data (i.e., excluding species with less than 100\% trait completeness).} Effects are plotted as a \% difference relative to the reference land use (primary vegetation, PV). For FRic, we fitted Model 1a (see main text), which included the effects of land use, use intensity and region, as well as interactions between land use and use intensity and between land use and region. For FDis, we fitted Model 1b (see main text), which included effects of land use, use intensity and region, and interactions between land use and use intensity. Error bars represent 95\% confidence intervals. MSV: mature secondary vegetation; ISV: intermediate secondary vegetation; YSV: young secondary vegetation; PF: plantation forest; PA: pasture; CR: cropland; UR: urban. Effects for Intense use in MSV could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F18}
 \end{figure}
 
 %% robustness to trait omission
@@ -365,7 +365,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/SI_Figure19}
 \caption[Effects of land use, use intensity and region on FRic (a) and FDis (b), for the subset of species with complete trait data, with geographical range size as an additional trait]{\textbf{Effects of land use, use intensity and region on FRic (a) and FDis (b), for the subset of species with complete trait data (i.e., excluding species with less than 100\% trait completeness), with geographical range size as an additional trait considered in the calculation of functional diversity metrics.} Effects are plotted as a \% difference relative to the reference land use (primary vegetation, PV). For FRic, we fitted Model 1a (see main text), which included the effects of land use, use intensity and region, as well as interactions between land use and use intensity and between land use and region. For FDis, we fitted Model 1b (see main text), which included effects of land use, use intensity and region, and interactions between land use and use intensity. Error bars represent 95\% confidence intervals. MSV: mature secondary vegetation; ISV: intermediate secondary vegetation; YSV: young secondary vegetation; PF: plantation forest; PA: pasture; CR: cropland; UR: urban. Effects for Intense use in MSV could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F19}
 \end{figure}
 
 %% robustness to variation across imputed values
@@ -373,7 +373,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Figure_SI_20}
 \caption[Effects of land use and use intensity on FRic (a) and FDis (b), obtained when calculating FRic and FDis with each set of imputed traits]{\textbf{Effects of land use and use intensity on FRic (a) and FDis (b), obtained when calculating FRic and FDis with each set of imputed traits (eight in total).} Effects are plotted as a \% difference relative to the reference land use (primary vegetation, PV). For FRic, we fitted Model 1a (see main text), which included the effects of land use, use intensity and region, as well as interactions between land use and use intensity and between land use and region. For FDis, we fitted Model 1b (see main text), which included effects of land use, use intensity and region, and interactions between land use and use intensity. Error bars represent 95\% confidence intervals. MSV: mature secondary vegetation; ISV: intermediate secondary vegetation; YSV: young secondary vegetation; PF: plantation forest; PA: pasture; CR: cropland; UR: urban. Effects for Intense use in MSV could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F20}
 \end{figure}
 
 %% robustness to resampling in primary vegetation sites
@@ -381,7 +381,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Figure_SI_21}
 \caption[Effects of land use and use intensity on FRic (a) and FDis (b), obtained when re-sampling primary vegetation sites twenty independent times]{\textbf{Effects of land use and use intensity on FRic (a) and FDis (b), obtained when re-sampling primary vegetation sites twenty independent times.} We fixed the sample size for primary vegetation sites at 50 (see main text, Material and Methods, `Effects of land use and use intensity on FRic and FDis (hypothesis 1)'). For FRic, we fitted Model 1a (see main text), which included the effects of land use, use intensity and region, as well as interactions between land use and use intensity and between land use and region. For FDis, we fitted Model 1b (see main text), which included effects of land use, use intensity and region, and interactions between land use and use intensity. Error bars represent 95\% confidence intervals. MSV: mature secondary vegetation; ISV: intermediate secondary vegetation; YSV: young secondary vegetation; PF: plantation forest; PA: pasture; CR: cropland; UR: urban. Effects for Intense use in MSV could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F21}
 \end{figure}
 
 
@@ -392,7 +392,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/SI_Figure22}
 \caption[Effects of land use, use intensity and taxonomic class on FRic (a) and FDis (c), for the subset of species with complete trait data]{\textbf{Effects of land use, use intensity and taxonomic class on FRic (a) and FDis (c), for the subset of species with complete trait data (i.e., excluding species with less than 100\% trait completeness).} Effects are plotted as a \% difference relative to the reference land use (primary vegetation, PV). We did not include the effects of region here as sample sizes were not large enough for some classes. For FRic, the model included the effects of land use, use intensity and class, and interactions between land use and use intensity as well as land use and class. For FDis, the model included an additional interaction between use intensity and class. Error bars represent 95\% confidence intervals. SV: secondary vegetation; PF: plantation forest; PA: pasture; CR: cropland; UR: urban. Effects for reptiles in urban land uses could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F22}
 \end{figure}
 
 
@@ -401,7 +401,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/SI_Comparison_complete}
 \caption[Effects of land use, region, use intensity and taxonomic class on FRic and FDis obtained with the imputed trait data (black points) or with the complete data subsets (red points)]{\textbf{Effects of land use, region, use intensity and taxonomic class on FRic and FDis obtained with the imputed trait data (black points) or with the complete data subsets (red points).} Effects are plotted as a \% difference relative to the reference land use (primary vegetation, PV). For FRic, we fitted Model 2a (see main text), and we fitted Model 2b for FDis. Error bars represent 95\% confidence intervals. SV: secondary vegetation; PF: plantation forest; AGR:agricultural (cropland and pasture); UR: urban. Effects for reptiles in urban land uses could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F23}
 \end{figure}
 
 %% robustness to imputation variability
@@ -409,7 +409,7 @@ Reptiles & Tropical & PV/PF & -- & 190 & -- \\
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/Figure_SI_23}
 \caption[Effects of land use, region, use intensity and taxonomic class on FRic and FDis, obtained when calculating FRic and FDis with each set of imputed traits]{\textbf{Effects of land use, region, use intensity and taxonomic class on FRic and FDis, obtained when calculating FRic and FDis with each set of imputed traits (eight in total).} Effects are plotted as a \% difference relative to the reference land use (primary vegetation, PV). For FRic, we fitted Model 2a (see main text), and Model 2b for FDis. Error bars represent 95\% confidence intervals. SV: secondary vegetation; PF: plantation forest; AGR:agricultural (cropland and pasture); UR: urban. Effects for reptiles in urban land uses could not be estimated as there weren’t enough sampled sites.}
-\label{}
+\label{SI3_F24}
 \end{figure}
 
 
@@ -507,7 +507,7 @@ Time since land-use conversion could have important impacts on assemblage compos
 
 \begin{table}[!htbp] \centering 
   \caption[Summary of the model explaining FRic by land use and time since land-use conversion, fitted on the subset of data for which we have information on time since land-use conversion]{Summary of the model explaining FRic by land use and time since land-use conversion, fitted on the subset of data for which we have information on time since land-use conversion.} 
-  \label{} 
+  \label{SI3_Table6} 
 \begin{tabular}{@{\extracolsep{5pt}} lccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -533,7 +533,7 @@ We then compare this model’s predictions with a simpler model that doesn’t a
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter3/Figures/SI_time_since_conv_FRic}
 \caption[Effects of land use on FRic for the model that includes time since land-use conversion (blue points) versus the model that doesn't take time since land-use conversion into account (red points)]{\textbf{Effects of land use on FRic for the model that includes time since land-use conversion (blue points) versus the model that doesn't take time since land-use conversion into account (red points)}.}
-\label{}
+\label{SI3_F25}
 \end{figure}
 
 
@@ -542,7 +542,7 @@ We then compare this model’s predictions with a simpler model that doesn’t a
 \vspace{0.3cm}
 \begin{table}[!htbp] \centering 
   \caption[Summary of the model explaining FDis by land use and time since land-use conversion, fitted on the subset of data for which we have information on time since land-use conversion]{Summary of the model explaining FDis by land use and time since land-use conversion, fitted on the subset of data for which we have information on time since land-use conversion.} 
-  \label{} 
+  \label{SI3_Table7} 
 \begin{tabular}{@{\extracolsep{5pt}} lccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
