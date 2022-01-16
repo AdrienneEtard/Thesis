@@ -1,30 +1,83 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis1-blx.aux
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis1-blx.aux
 The style file: biblatex.bst
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'field_info' (item size: 4) to 27657 items.
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
-Biblatex version: 3.11
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2658 of file biblatex.bst
+Reallocating 'str_pool' (item size: 1) to 130000 items.
+Reallocating 'str_pool' (item size: 1) to 195000 items.
+Reallocating 'str_pool' (item size: 1) to 260000 items.
+Reallocating 'str_pool' (item size: 1) to 325000 items.
+Biblatex version: 3.13
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
+while executing--line 2689 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
-while executing--line 2658 of file biblatex.bst
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2017
+while executing--line 2689 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
-while executing--line 2658 of file biblatex.bst
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2017
+while executing--line 2717 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Stephens2019
-while executing--line 2658 of file biblatex.bst
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
+while executing--line 2717 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Stephens2019
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-(There were 8 warnings)
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 163 entries,
+            6365 wiz_defined-function locations,
+            2543 strings with 262891 characters,
+and the built_in function-call counts, 3430597 in all, are:
+= -- 306106
+> -- 34625
+< -- 6500
++ -- 96965
+- -- 18157
+* -- 298490
+:= -- 445110
+add.period$ -- 0
+call.type$ -- 163
+change.case$ -- 1968
+chr.to.int$ -- 46
+cite$ -- 324
+duplicate$ -- 303557
+empty$ -- 287968
+format.name$ -- 28957
+if$ -- 666315
+int.to.chr$ -- 0
+int.to.str$ -- 359
+missing$ -- 0
+newline$ -- 15208
+num.names$ -- 7034
+pop$ -- 79837
+preamble$ -- 1
+purify$ -- 5673
+quote$ -- 0
+skip$ -- 39443
+stack$ -- 0
+substring$ -- 654310
+swap$ -- 50159
+text.length$ -- 7907
+text.prefix$ -- 167
+top$ -- 1
+type$ -- 5529
+warning$ -- 0
+while$ -- 54672
+width$ -- 0
+write$ -- 15046
+(There were 4 warnings)
