@@ -24,34 +24,43 @@
 \BOOKMARK [2][-]{subsection.3.3.2}{Changes in the probability of occurrence of functional under-dispersion}{section.3.3}% 24
 \BOOKMARK [2][-]{subsection.3.3.3}{Functional loss and gain}{section.3.3}% 25
 \BOOKMARK [1][-]{section.3.4}{Discussion}{chapter.3}% 26
-\BOOKMARK [0][-]{chapter.4}{Different traits explain sensitivity to land use}{}% 27
-\BOOKMARK [0][-]{chapter.5}{Traits \046 sensitivity to climate change}{}% 28
-\BOOKMARK [0][-]{chapter.6}{General Discussion}{}% 29
-\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 30
-\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 31
-\BOOKMARK [0][-]{chapter*.33}{Appendices}{}% 32
-\BOOKMARK [0][-]{chapter*.34}{Appendix 1: Supporting information for Chapter 1}{}% 33
-\BOOKMARK [0][-]{chapter*.35}{Appendix 2: Supporting information for Chapter 2}{}% 34
-\BOOKMARK [1][-]{section.7.1}{Taxonomic corrections}{chapter*.35}% 35
-\BOOKMARK [1][-]{section.7.2}{Additional information for trait compilation}{chapter*.35}% 36
-\BOOKMARK [1][-]{section.7.3}{Cutting distribution maps by altitudinal limits}{chapter*.35}% 37
-\BOOKMARK [1][-]{section.7.4}{Impact of taxonomic corrections on trait coverage}{chapter*.35}% 38
-\BOOKMARK [1][-]{section.7.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.35}% 39
-\BOOKMARK [1][-]{section.7.6}{Phylogenetic patterns in trait completeness}{chapter*.35}% 40
-\BOOKMARK [1][-]{section.7.7}{Model coefficients for Range size against Number of sampled traits \(Poisson model\).}{chapter*.35}% 41
-\BOOKMARK [1][-]{section.7.8}{Spatial models summaries}{chapter*.35}% 42
-\BOOKMARK [1][-]{section.7.9}{Trait coverage and taxonomic matching}{chapter*.35}% 43
-\BOOKMARK [0][-]{figure.caption.59}{Appendix 3: Supporting information for Chapter 3}{}% 44
-\BOOKMARK [1][-]{section.7.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.59}% 45
-\BOOKMARK [1][-]{section.7.2}{Trait data \046 imputation of missing trait values}{figure.caption.59}% 46
-\BOOKMARK [2][-]{subsection.7.2.1}{Choice of imputation technique}{section.7.2}% 47
-\BOOKMARK [2][-]{subsection.7.2.2}{Phylogenetic signal in traits}{section.7.2}% 48
-\BOOKMARK [2][-]{subsection.7.2.3}{Implementation of missForest imputations}{section.7.2}% 49
-\BOOKMARK [1][-]{section.7.3}{Degree of multicollinearity among traits}{figure.caption.59}% 50
-\BOOKMARK [1][-]{section.7.4}{Imputation performance}{figure.caption.59}% 51
-\BOOKMARK [1][-]{section.7.5}{Functional loss and functional gain}{figure.caption.59}% 52
-\BOOKMARK [1][-]{section.7.6}{Diagnostic plots}{figure.caption.59}% 53
-\BOOKMARK [1][-]{section.7.7}{Model robustness}{figure.caption.59}% 54
-\BOOKMARK [1][-]{section.7.8}{Model robustness \205 time since land-use conversion}{figure.caption.59}% 55
-\BOOKMARK [0][-]{table.caption.92}{Appendix 4: Supporting information for Chapter 4}{}% 56
-\BOOKMARK [0][-]{chapter*.93}{Bibliography for the Appendices}{}% 57
+\BOOKMARK [0][-]{chapter.4}{Geographical range area and habitat breadth predict responses to land use and climate-change sensitivity more consistently than life-history and dietary traits in terrestrial vertebrates}{}% 27
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.2}{Methods}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{Energetic constraints and trophic levels explain species persistence in disturbed land uses}{}% 32
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.2}{Methods}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.4}{Discussion}{chapter.5}% 36
+\BOOKMARK [0][-]{chapter.6}{General discussion}{}% 37
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 38
+\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 39
+\BOOKMARK [0][-]{chapter*.33}{Appendices}{}% 40
+\BOOKMARK [0][-]{chapter*.34}{Appendix 1: Supporting information for Chapter 1}{}% 41
+\BOOKMARK [0][-]{chapter*.35}{Appendix 2: Supporting information for Chapter 2}{}% 42
+\BOOKMARK [1][-]{section.7.1}{Taxonomic corrections}{chapter*.35}% 43
+\BOOKMARK [1][-]{section.7.2}{Additional information for trait compilation}{chapter*.35}% 44
+\BOOKMARK [1][-]{section.7.3}{Cutting distribution maps by altitudinal limits}{chapter*.35}% 45
+\BOOKMARK [1][-]{section.7.4}{Impact of taxonomic corrections on trait coverage}{chapter*.35}% 46
+\BOOKMARK [1][-]{section.7.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.35}% 47
+\BOOKMARK [1][-]{section.7.6}{Phylogenetic patterns in trait completeness}{chapter*.35}% 48
+\BOOKMARK [1][-]{section.7.7}{Model coefficients for Range size against Number of sampled traits \(Poisson model\).}{chapter*.35}% 49
+\BOOKMARK [1][-]{section.7.8}{Spatial models summaries}{chapter*.35}% 50
+\BOOKMARK [1][-]{section.7.9}{Trait coverage and taxonomic matching}{chapter*.35}% 51
+\BOOKMARK [0][-]{figure.caption.59}{Appendix 3: Supporting information for Chapter 3}{}% 52
+\BOOKMARK [1][-]{section.7.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.59}% 53
+\BOOKMARK [1][-]{section.7.2}{Trait data \046 imputation of missing trait values}{figure.caption.59}% 54
+\BOOKMARK [2][-]{subsection.7.2.1}{Choice of imputation technique}{section.7.2}% 55
+\BOOKMARK [2][-]{subsection.7.2.2}{Phylogenetic signal in traits}{section.7.2}% 56
+\BOOKMARK [2][-]{subsection.7.2.3}{Implementation of missForest imputations}{section.7.2}% 57
+\BOOKMARK [1][-]{section.7.3}{Degree of multicollinearity among traits}{figure.caption.59}% 58
+\BOOKMARK [1][-]{section.7.4}{Imputation performance}{figure.caption.59}% 59
+\BOOKMARK [1][-]{section.7.5}{Functional loss and functional gain}{figure.caption.59}% 60
+\BOOKMARK [1][-]{section.7.6}{Diagnostic plots}{figure.caption.59}% 61
+\BOOKMARK [1][-]{section.7.7}{Model robustness}{figure.caption.59}% 62
+\BOOKMARK [1][-]{section.7.8}{Model robustness \205 time since land-use conversion}{figure.caption.59}% 63
+\BOOKMARK [0][-]{table.caption.92}{Appendix 4: Supporting information for Chapter 4}{}% 64
+\BOOKMARK [0][-]{chapter*.93}{Appendix 5: Supporting information for Chapter 5}{}% 65
+\BOOKMARK [0][-]{chapter*.94}{Bibliography for the Appendices}{}% 66
