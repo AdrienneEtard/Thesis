@@ -17,13 +17,14 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 27657 items.
+Reallocating 'field_info' (item size: 4) to 32939 items.
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Reallocating 'str_pool' (item size: 1) to 195000 items.
 Reallocating 'str_pool' (item size: 1) to 260000 items.
 Reallocating 'str_pool' (item size: 1) to 325000 items.
+Reallocating 'str_pool' (item size: 1) to 390000 items.
 Biblatex version: 3.13
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
@@ -39,45 +40,45 @@ Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
 while executing--line 2717 of file biblatex.bst
 *Please notify the bibstyle designer*
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 163 entries,
+You've used 201 entries,
             6365 wiz_defined-function locations,
-            2543 strings with 262891 characters,
-and the built_in function-call counts, 3430597 in all, are:
-= -- 306106
-> -- 34625
-< -- 6500
-+ -- 96965
-- -- 18157
-* -- 298490
-:= -- 445110
+            2905 strings with 333087 characters,
+and the built_in function-call counts, 3835554 in all, are:
+= -- 337541
+> -- 40862
+< -- 8027
++ -- 107068
+- -- 21421
+* -- 334580
+:= -- 491507
 add.period$ -- 0
-call.type$ -- 163
-change.case$ -- 1968
-chr.to.int$ -- 46
-cite$ -- 324
-duplicate$ -- 303557
-empty$ -- 287968
-format.name$ -- 28957
-if$ -- 666315
+call.type$ -- 201
+change.case$ -- 2545
+chr.to.int$ -- 70
+cite$ -- 400
+duplicate$ -- 340614
+empty$ -- 323515
+format.name$ -- 32845
+if$ -- 748379
 int.to.chr$ -- 0
-int.to.str$ -- 359
+int.to.str$ -- 450
 missing$ -- 0
-newline$ -- 15208
-num.names$ -- 7034
-pop$ -- 79837
+newline$ -- 17444
+num.names$ -- 8792
+pop$ -- 94162
 preamble$ -- 1
-purify$ -- 5673
+purify$ -- 6605
 quote$ -- 0
-skip$ -- 39443
+skip$ -- 47708
 stack$ -- 0
-substring$ -- 654310
-swap$ -- 50159
-text.length$ -- 7907
-text.prefix$ -- 167
+substring$ -- 717893
+swap$ -- 58905
+text.length$ -- 9404
+text.prefix$ -- 203
 top$ -- 1
-type$ -- 5529
+type$ -- 6821
 warning$ -- 0
-while$ -- 54672
+while$ -- 60346
 width$ -- 0
-write$ -- 15046
+write$ -- 17244
 (There were 4 warnings)

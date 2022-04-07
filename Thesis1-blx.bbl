@@ -22,14 +22,14 @@
       {{hash=AM}{%
          family={{Alex Smith}},
          familyi={A\bibinitperiod},
-         given={M},
-         giveni={M},
+         given={M.},
+         giveni={M\bibinitperiod},
       }}%
       {{hash=MD}{%
          family={{M. Green}},
          familyi={M\bibinitperiod},
-         given={D},
-         giveni={D},
+         given={D.},
+         giveni={D\bibinitperiod},
       }}%
     }
     \strng{namehash}{AMMD1}
@@ -92,6 +92,85 @@
     \field{year}{2005}
   \endentry
 
+  \entry{Auer2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ASK}{%
+         family={Auer},
+         familyi={A\bibinitperiod},
+         given={Sonya\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SJR}{%
+         family={Solowey},
+         familyi={S\bibinitperiod},
+         given={Julia\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rajesh},
+         familyi={R\bibinitperiod},
+         given={Shreyas},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=REL}{%
+         family={Rezende},
+         familyi={R\bibinitperiod},
+         given={Enrico\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{Adaptive evolution,Fitness,Growth,Life history,Metabolic
+  rate,Phenotypic plasticity}
+    \strng{namehash}{ASK+1}
+    \strng{fullhash}{ASKSJRRSREL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Given current anthropogenic alterations to many ecosystems and communities,
+  it is becoming increasingly important to consider whether and how organisms
+  can cope with changing resources. Metabolic rate, because it represents the
+  rate of energy expenditure, may play a key role in mediating the link between
+  resource conditions and performance and thereby how well organisms can
+  persist in the face of environmental change. Here, we focus on the role that
+  energy metabolism plays in determining organismal responses to changes in
+  food availability over both short-term ecological and longer-term
+  evolutionary timescales. Using a meta-analytical approach encompassing
+  multiple species, we find that individuals with a higher metabolic rate grow
+  faster under high food levels but slower once food levels decline, suggesting
+  that the association between metabolism and life-history traits shifts along
+  resource gradients. We also find that organisms can cope with changing
+  resource availability through both phenotypic plasticity and genetically
+  based evolutionary adaptation in their rates of energy metabolism. However,
+  the metabolic rates of individuals within a population and of species within
+  a lineage do not all respond in the same manner to changes in food
+  availability. This diversity of responses suggests that there are benefits
+  but also costs to changes in metabolic rate. It also underscores the need to
+  examine not just the energy budgets of organisms within the context of
+  metabolic rate but also how energy metabolism changes alongside other
+  physiological and behavioural traits in variable environments.%
+    }
+    \verb{doi}
+    \verb 10.1098/rsbl.2020.0580
+    \endverb
+    \field{issn}{1744957X}
+    \field{number}{11}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{{Energetic mechanisms for coping with changes in resource
+  availability}}
+    \field{volume}{16}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Auer et al. - 2020 - Energetic mechanisms for coping with changes
+    \verb  in resource availability.pdf:pdf
+    \endverb
+    \field{journaltitle}{Biology Letters}
+    \field{year}{2020}
+  \endentry
+
   \entry{Balmford1996}{article}{}
     \name{author}{1}{}{%
       {{hash=BA}{%
@@ -121,13 +200,13 @@
   attempts to focus conservation efforts on those areas most at risk from
   contemporary human activity.%
     }
-    \field{booktitle}{Trends in Ecology and Evolution}
     \verb{doi}
     \verb 10.1016/0169-5347(96)10026-4
     \endverb
     \field{issn}{01695347}
     \field{title}{{Extinction filters and current resilience: The significance
   of past selection pressures for conservation biology}}
+    \field{journaltitle}{Trends in Ecology and Evolution}
     \field{year}{1996}
   \endentry
 
@@ -391,12 +470,12 @@
   capacities. Concerted local, national and international actions are urgently
   required to prevent a collapse of tropical biodiversity.%
     }
-    \field{booktitle}{Nature}
     \verb{doi}
     \verb 10.1038/s41586-018-0301-1
     \endverb
     \field{issn}{14764687}
     \field{title}{{The future of hyperdiverse tropical ecosystems}}
+    \field{journaltitle}{Nature}
     \field{year}{2018}
   \endentry
 
@@ -896,7 +975,7 @@
   \entry{Bohm2016}{article}{}
     \name{author}{8}{}{%
       {{hash=BM}{%
-         family={Bohm},
+         family={B{\"{o}}hm},
          familyi={B\bibinitperiod},
          given={Monika},
          giveni={M\bibinitperiod},
@@ -1059,6 +1138,109 @@
   ecology}}
     \field{journaltitle}{Trends in Ecology and Evolution}
     \field{year}{2011}
+  \endentry
+
+  \entry{Bouckaert2014}{article}{}
+    \name{author}{9}{}{%
+      {{hash=BR}{%
+         family={Bouckaert},
+         familyi={B\bibinitperiod},
+         given={Remco},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Heled},
+         familyi={H\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={K{\"{u}}hnert},
+         familyi={K\bibinitperiod},
+         given={Denise},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=VT}{%
+         family={Vaughan},
+         familyi={V\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WCH}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Chieh\bibnamedelima Hsi},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=XD}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Dong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SMA}{%
+         family={Suchard},
+         familyi={S\bibinitperiod},
+         given={Marc\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rambaut},
+         familyi={R\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DAJ}{%
+         family={Drummond},
+         familyi={D\bibinitperiod},
+         given={Alexei\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BR+2}
+    \strng{fullhash}{BRHJKDVTWCHXDSMARADAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    We present a new open source, extensible and flexible software platform for
+  Bayesian evolutionary analysis called BEAST 2. This software platform is a
+  re-design of the popular BEAST 1 platform to correct structural deficiencies
+  that became evident as the BEAST 1 software evolved. Key among those
+  deficiencies was the lack of post-deployment extensibility. BEAST 2 now has a
+  fully developed package management system that allows third party developers
+  to write additional functionality that can be directly installed to the BEAST
+  2 analysis platform via a package manager without requiring a new software
+  release of the platform. This package architecture is showcased with a number
+  of recently published new models encompassing birth-death-sampling tree
+  priors, phylodynamics and model averaging for substitution models and site
+  partitioning. A second major improvement is the ability to read/write the
+  entire state of the MCMC chain to/from disk allowing it to be easily shared
+  between multiple instances of the BEAST software. This facilitates
+  checkpointing and better support for multi-processor and high-end computing
+  extensions. Finally, the functionality in new packages can be easily added to
+  the user interface (BEAUti 2) by a simple XML template-based mechanism
+  because BEAST 2 has been re-designed to provide greater integration between
+  the analysis engine and the user interface so that, for example BEAST and
+  BEAUti use exactly the same XML file format. {\textcopyright} 2014 Bouckaert
+  et al.%
+    }
+    \verb{doi}
+    \verb 10.1371/journal.pcbi.1003537
+    \endverb
+    \field{issn}{15537358}
+    \field{title}{{BEAST 2: A Software Platform for Bayesian Evolutionary
+  Analysis}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Bouckaert et al. - 2014 - BEAST 2 A Software Platform for Bayesia
+    \verb n Evolutionary Analysis.pdf:pdf
+    \endverb
+    \field{journaltitle}{PLoS Computational Biology}
+    \field{year}{2014}
   \endentry
 
   \entry{Bouckaert2019}{article}{}
@@ -1253,6 +1435,112 @@
     \field{year}{2019}
   \endentry
 
+  \entry{Bregman2016}{article}{}
+    \name{author}{8}{}{%
+      {{hash=BTP}{%
+         family={Bregman},
+         familyi={B\bibinitperiod},
+         given={Tom\bibnamedelima P.},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LAC}{%
+         family={Lees},
+         familyi={L\bibinitperiod},
+         given={Alexander\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MHE}{%
+         family={MacGregor},
+         familyi={M\bibinitperiod},
+         given={Hannah\bibnamedelima E.A.},
+         giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Darski},
+         familyi={D\bibinitperiod},
+         given={Bianca},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=dMNG}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Moura},
+         familyi={M\bibinitperiod},
+         given={N{\'{a}}rgila\bibnamedelima G.},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Aleixo},
+         familyi={A\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Barlow},
+         familyi={B\bibinitperiod},
+         given={Jos},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TJA}{%
+         family={Tobias},
+         familyi={T\bibinitperiod},
+         given={Joseph\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Biodiversity,Biotic interactions,Defaunation,Ecosystem
+  processes,Land-use change,Seed dispersal}
+    \strng{namehash}{BTP+1}
+    \strng{fullhash}{BTPLACMHEDBMNGdAABJTJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Vertebrates perform key roles in ecosystem processes via trophic
+  interactions with plants and insects, but the response of these interactions
+  to environmental change is difficult to quantify in complex systems, such as
+  tropical forests. Here, we use the functional trait structure of Amazonian
+  forest bird assemblages to explore the impacts of land-cover change on two
+  ecosystem processes: seed dispersal and insect predation. We show that trait
+  structure in assemblages of frugivorous and insectivorous birds remained
+  stable after primary forests were subjected to logging and fire events, but
+  that further intensification of human land use substantially reduced the
+  functional diversity and dispersion of traits, and resulted in communities
+  that occupied a different region of trait space. These effects were only
+  partially reversed in regenerating secondary forests. Our findings suggest
+  that local extinctions caused by the loss and degradation of tropical forest
+  are non-random with respect to functional traits, thus disrupting the network
+  of trophic interactions regulating seed dispersal by forest birds and
+  herbivory by insects, with important implications for the structure and
+  resilience of human-modified tropical forests. Furthermore, our results
+  illustrate how quantitative functional traits for specific guilds can provide
+  a range of metrics for estimating the contribution of biodiversity to
+  ecosystem processes, and the response of such processes to land-cover
+  change.%
+    }
+    \verb{doi}
+    \verb 10.1098/rspb.2016.1289
+    \endverb
+    \field{issn}{14712954}
+    \field{number}{1844}
+    \field{title}{{Using avian functional traits to assess the impact of
+  land-cover change on ecosystem processes linked to resilience in tropical
+  forests}}
+    \field{volume}{283}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Bregman et al. - 2016 - Using avian functional traits to assess t
+    \verb he impact of land-cover change on ecosystem processes linked to resil
+    \verb ie.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2016}
+  \endentry
+
   \entry{Bregman2015}{article}{}
     \name{author}{8}{}{%
       {{hash=BTP}{%
@@ -1414,6 +1702,81 @@
     \field{year}{2009}
   \endentry
 
+  \entry{Bushuev2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BA}{%
+         family={Bushuev},
+         familyi={B\bibinitperiod},
+         given={Andrey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TO}{%
+         family={Tolstenkov},
+         familyi={T\bibinitperiod},
+         given={Oleg},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=ZE}{%
+         family={Zubkova},
+         familyi={Z\bibinitperiod},
+         given={Ekaterina},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Solovyeva},
+         familyi={S\bibinitperiod},
+         given={Eugenia},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kerimov},
+         familyi={K\bibinitperiod},
+         given={Anvar},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Allometry,BMR,Body mass,Energy metabolism,Tropical birds}
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BATOZESEKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    The majority of our knowledge of avian energetics is based on studies of
+  birds from temperate and high latitudes. Using the largest existing sample of
+  wild-caught Old World tropical species, we showed that birds from Southern
+  Vietnam had lower basal metabolic rate (BMR) than temperate species. The
+  strongest dissimilarity between tropical and temperate species was the low
+  scaling exponent in the allometric relation between BMR and body mass in
+  tropical birds (the regression slope was 0.573). The passerine migrants to
+  temperate and high latitudes had higher BMR than tropical sedentary
+  passerines. Body mass alone accounted for 93% of the variation in BMR (body
+  mass ranged from 5 to 252 g). Contrary to some other studies, we did not find
+  evidence besides the above mentioned that phylogeny, taxonomy, behavior, or
+  ecology have a significant influence on BMR variation among tropical birds.%
+    }
+    \verb{doi}
+    \verb 10.1093/cz/zox018
+    \endverb
+    \field{issn}{16745507}
+    \field{number}{1}
+    \field{pages}{33\bibrangedash 43}
+    \field{title}{{Basal metabolic rate in free-living tropical birds: The
+  influence of phylogenetic, behavioral, and ecological factors}}
+    \field{volume}{64}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Bushuev et al. - 2018 - Basal metabolic rate in free-living tropi
+    \verb cal birds The influence of phylogenetic, behavioral, and ecological f
+    \verb ac.pdf:pdf
+    \endverb
+    \field{journaltitle}{Current Zoology}
+    \field{year}{2018}
+  \endentry
+
   \entry{micepackage}{article}{}
     \name{author}{2}{}{%
       {{hash=vBS}{%
@@ -1526,7 +1889,6 @@
   decision-making, especially for those efforts attempting to reconstruct or
   preserve healthy, functioning ecosystems.%
     }
-    \field{booktitle}{Journal of Applied Ecology}
     \verb{doi}
     \verb 10.1111/j.1365-2664.2011.02048.x
     \endverb
@@ -1534,6 +1896,7 @@
     \field{issn}{00218901}
     \field{title}{{Beyond species: Functional diversity and the maintenance of
   ecological processes and services}}
+    \field{journaltitle}{Journal of Applied Ecology}
     \field{year}{2011}
   \endentry
 
@@ -1575,12 +1938,12 @@
   compositional data alone, and that species abundances, population growth, or
   traits must be correlated with the environment.%
     }
-    \field{booktitle}{Trends in Ecology and Evolution}
     \verb{doi}
     \verb 10.1016/j.tree.2017.03.004
     \endverb
     \field{issn}{01695347}
     \field{title}{{Should Environmental Filtering be Abandoned?}}
+    \field{journaltitle}{Trends in Ecology and Evolution}
     \field{year}{2017}
   \endentry
 
@@ -1862,9 +2225,6 @@
          giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {eng}%
-    }
     \list{publisher}{1}{%
       {National Academy of Sciences}%
     }
@@ -2121,6 +2481,46 @@
     \field{volume}{31}
     \field{journaltitle}{Trends in Ecology {\&} Evolution}
     \field{year}{2016}
+  \endentry
+
+  \entry{Clarke2004a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CA}{%
+         family={Clarke},
+         familyi={C\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FKP}{%
+         family={Fraser},
+         familyi={F\bibinitperiod},
+         given={K.\bibnamedelima P.P.},
+         giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAFKP1}
+    \strng{fullhash}{CAFKP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1111/j.0269-8463.2004.00841.x
+    \endverb
+    \field{issn}{02698463}
+    \field{number}{2}
+    \field{pages}{243\bibrangedash 251}
+    \field{title}{{Why does metabolism scale with temperature?}}
+    \field{volume}{18}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Clarke, Fraser - 2004 - Why does metabolism scale with temperatur
+    \verb e.pdf:pdf
+    \endverb
+    \field{journaltitle}{Functional Ecology}
+    \field{year}{2004}
   \endentry
 
   \entry{Colin2018}{article}{}
@@ -2615,6 +3015,41 @@
     \field{year}{2006}
   \endentry
 
+  \entry{Crooks2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CK}{%
+         family={Crooks},
+         familyi={C\bibinitperiod},
+         given={K.R},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Soule},
+         familyi={S\bibinitperiod},
+         given={M.E},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CKSM1}
+    \strng{fullhash}{CKSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{563\bibrangedash 566}
+    \field{title}{{Mesopredator release and avifaunal extinctions in a
+  fragmented system}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Crooks, Soule - 2010 - letters to nature Mesopredator release and
+    \verb  avifaunal extinctions in a fragmented system.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{year}{2010}
+  \endentry
+
   \entry{Davison2021}{article}{}
     \name{author}{3}{}{%
       {{hash=DCW}{%
@@ -2693,6 +3128,133 @@
     \endverb
     \field{journaltitle}{Global Change Biology}
     \field{year}{2021}
+  \endentry
+
+  \entry{DePalma2015}{article}{}
+    \name{author}{9}{}{%
+      {{hash=DA}{%
+         family={{De Palma}},
+         familyi={D\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kuhlmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RSP}{%
+         family={Roberts},
+         familyi={R\bibinitperiod},
+         given={Stuart\bibnamedelima P.M.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PSG}{%
+         family={Potts},
+         familyi={P\bibinitperiod},
+         given={Simon\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={B{\"{o}}rger},
+         familyi={B\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=LI}{%
+         family={Lysenko},
+         familyi={L\bibinitperiod},
+         given={Igor},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Biodiversity,Ecosystem services,Human impacts,Land-use
+  change,Land-use intensification,Life-history traits,Pollinators}
+    \strng{namehash}{DA+1}
+    \strng{fullhash}{DAKMRSPPSGBLHLNLINTPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Bees are a functionally important and economically valuable group, but are
+  threatened by land-use conversion and intensification. Such pressures are not
+  expected to affect all species identically; rather, they are likely to be
+  mediated by the species' ecological traits. Understanding which types of
+  species are most vulnerable under which land uses is an important step
+  towards effective conservation planning. We collated occurrence and abundance
+  data for 257 bee species at 1584 European sites from surveys reported in 30
+  published papers (70 056 records) and combined them with species-level
+  ecological trait data. We used mixed-effects models to assess the importance
+  of land use (land-use class, agricultural use-intensity and a remotely-sensed
+  measure of vegetation), traits and trait × land-use interactions, in
+  explaining species occurrence and abundance. Species' sensitivity to land use
+  was most strongly influenced by flight season duration and foraging range,
+  but also by niche breadth, reproductive strategy and phenology, with effects
+  that differed among cropland, pastoral and urban habitats. Synthesis and
+  applications. Rather than targeting particular species or settings,
+  conservation actions may be more effective if focused on mitigating
+  situations where species' traits strongly and negatively interact with
+  land-use pressures. We find evidence that low-intensity agriculture can
+  maintain relatively diverse bee communities; in more intensive settings,
+  added floral resources may be beneficial, but will require careful placement
+  with respect to foraging ranges of smaller bee species. Protection of
+  semi-natural habitats is essential, however; in particular, conversion to
+  urban environments could have severe effects on bee diversity and pollination
+  services. Our results highlight the importance of exploring how ecological
+  traits mediate species responses to human impacts, but further research is
+  needed to enhance the predictive ability of such analyses. Rather than
+  targeting particular species or settings, conservation actions may be more
+  effective if focused on mitigating situations where species' traits strongly
+  and negatively interact with land-use pressures. We find evidence that
+  low-intensity agriculture can maintain relatively diverse bee communities; in
+  more intensive settings, added floral resources may be beneficial, but will
+  require careful placement with respect to foraging ranges of smaller bee
+  species. Protection of semi-natural habitats is essential, however; in
+  particular, conversion to urban environments could have severe effects on bee
+  diversity and pollination services. Our results highlight the importance of
+  exploring how ecological traits mediate species responses to human impacts,
+  but further research is needed to enhance the predictive ability of such
+  analyses.%
+    }
+    \verb{doi}
+    \verb 10.1111/1365-2664.12524
+    \endverb
+    \field{issn}{13652664}
+    \field{number}{6}
+    \field{pages}{1567\bibrangedash 1577}
+    \field{title}{{Ecological traits affect the sensitivity of bees to land-use
+  pressures in European agricultural landscapes}}
+    \field{volume}{52}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/De Palma et al. - 2015 - Ecological traits affect the sensitivity
+    \verb  of bees to land-use pressures in European agricultural landscapes.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Journal of Applied Ecology}
+    \field{year}{2015}
   \endentry
 
   \entry{Debastiani2021}{article}{}
@@ -3156,6 +3718,336 @@
     \field{year}{2016}
   \endentry
 
+  \entry{DinizFilho2012}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DFJAF}{%
+         family={Diniz-Filho},
+         familyi={D\bibinithyphendelim F\bibinitperiod},
+         given={Jose Alexandre\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=BLM}{%
+         family={Bini},
+         familyi={B\bibinitperiod},
+         given={Luis\bibnamedelima Mauricio},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RTF}{%
+         family={Rangel},
+         familyi={R\bibinitperiod},
+         given={Thiago\bibnamedelima Fernando},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=MCI}{%
+         family={Morales-Castilla},
+         familyi={M\bibinithyphendelim C\bibinitperiod},
+         given={Ignacio},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=OTMA}{%
+         family={Olalla-T{\'{a}}rraga},
+         familyi={O\bibinithyphendelim T\bibinitperiod},
+         given={Miguel\bibnamedelima {\'{A}}},
+         giveni={M\bibinitperiod\bibinitdelim {\'{A}}\bibinitperiod},
+      }}%
+      {{hash=RMA}{%
+         family={Rodr{\'{i}}guez},
+         familyi={R\bibinitperiod},
+         given={Miguel\bibnamedelima {\'{A}}},
+         giveni={M\bibinitperiod\bibinitdelim {\'{A}}\bibinitperiod},
+      }}%
+      {{hash=HBA}{%
+         family={Hawkins},
+         familyi={H\bibinitperiod},
+         given={Bradford\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DFJAF+1}
+    \strng{fullhash}{DFJAFBLMRTFMCIOTMARMAHBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1111/j.1600-0587.2011.06949.x
+    \endverb
+    \field{isbn}{1600-0587}
+    \field{issn}{09067590}
+    \field{title}{{On the selection of phylogenetic eigenvectors for ecological
+  analyses}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Diniz-Filho et al. - 2012 - On the selection of phylogenetic eige
+    \verb nvectors for ecological analyses.pdf:pdf
+    \endverb
+    \field{journaltitle}{Ecography}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Dirzo2014}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DR}{%
+         family={Dirzo},
+         familyi={D\bibinitperiod},
+         given={Rodolfo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=YHS}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={Hillary\bibnamedelima S.},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Galetti},
+         familyi={G\bibinitperiod},
+         given={Mauro},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Ceballos},
+         familyi={C\bibinitperiod},
+         given={Gerardo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=INJ}{%
+         family={Isaac},
+         familyi={I\bibinitperiod},
+         given={Nick\bibnamedelima J.B.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DR+1}
+    \strng{fullhash}{DRYHSGMCGINJCB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    We live amid a global wave of anthropogenically driven biodiversity loss:
+  species and population extirpations and, critically, declines in local
+  species abundance. Particularly, human impacts on animal biodiversity are an
+  under-recognized form of global environmental change. Among terrestrial
+  vertebrates, 322 species have become extinct since 1500, and populations of
+  the remaining species show 25% average decline in abundance. Invertebrate
+  patterns are equally dire: 67% of monitored populations show 45% mean
+  abundance decline. Such animal declines will cascade onto ecosystem
+  functioning and human well-being. Much remains unknown about this
+  "Anthropocene defaunation" ; these knowledge gaps hinder our capacity to
+  predict and limit defaunation impacts. Clearly, however, defaunation is both
+  a pervasive component of the planet 's sixth mass extinction and also a major
+  driver of global ecological change.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.1251817
+    \endverb
+    \field{issn}{10959203}
+    \field{number}{6195}
+    \field{pages}{401\bibrangedash 406}
+    \field{title}{{Defaunation in the Anthropocene}}
+    \field{volume}{345}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Dirzo et al. - 2014 - Defaunation in the Anthropocene.pdf:pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Dullinger2021}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DI}{%
+         family={Dullinger},
+         familyi={D\bibinitperiod},
+         given={Iwona},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=EF}{%
+         family={Essl},
+         familyi={E\bibinitperiod},
+         given={Franz},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Moser},
+         familyi={M\bibinitperiod},
+         given={Dietmar},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=EK}{%
+         family={Erb},
+         familyi={E\bibinitperiod},
+         given={Karlheinz},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Haberl},
+         familyi={H\bibinitperiod},
+         given={Helmut},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dullinger},
+         familyi={D\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{biodiversity loss,ecosystem properties,input intensity,land-use
+  change,land-use intensification,output intensity,predictive model}
+    \strng{namehash}{DI+1}
+    \strng{fullhash}{DIEFMDEKHHDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Background: Land use is the major driver of the current biodiversity
+  crisis. However, its impact is not yet adequately reflected in biodiversity
+  scenarios. In particular, effects of land-use intensity are often neglected
+  although natural limits to land conversion will likely enforce further
+  land-use intensification in the future. Aims and innovation: We argue that
+  integration of land-use intensity into biodiversity models should ideally be
+  based on a proper conceptualization of the land-use intensity phenomenon. We,
+  therefore, present terminological distinctions and a conceptual framework
+  developed in land system science. The framework distinguishes three
+  dimensions of land-use intensity: input intensity, output intensity, and
+  alterations of system properties. We discuss nonlinearities and intricacies
+  of the relationships among these dimensions as well as their direct and
+  indirect relationships to biodiversity. In an explorative literature
+  assessment we demonstrate that the multi-dimensional nature of land-use
+  intensity appears insufficiently reflected in biodiversity research. Finally,
+  we discuss issues of data availability that limit integration of land-use
+  intensity into spatially and temporally explicit biodiversity modelling.
+  Conclusion: Research on the relationship between land use and biodiversity
+  would profit from a more systematic and comprehensive consideration of
+  land-use intensity. While there is no standard recipe for combining
+  indicators of land-use intensity in biodiversity studies the
+  input–output–system distinction is a useful conceptual basis for study
+  designs. More generally, better integration of biodiversity and land system
+  science would foster understanding and predicting the consequences of
+  land-use intensification on biodiversity.%
+    }
+    \verb{doi}
+    \verb 10.1111/geb.13289
+    \endverb
+    \field{issn}{14668238}
+    \field{number}{5}
+    \field{pages}{924\bibrangedash 932}
+    \field{title}{{Biodiversity models need to represent land-use intensity
+  more comprehensively}}
+    \field{volume}{30}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Dullinger et al. - 2021 - Biodiversity models need to represent l
+    \verb and-use intensity more comprehensively.pdf:pdf
+    \endverb
+    \field{journaltitle}{Global Ecology and Biogeography}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Edwards2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=EFA}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={Felicity\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EDP}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={David\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=HKC}{%
+         family={Hamer},
+         familyi={H\bibinitperiod},
+         given={Keith\bibnamedelima C.},
+         giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=FTM}{%
+         family={Fayle},
+         familyi={F\bibinitperiod},
+         given={Tom\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \keyw{Avian,Borneo,Functional traits,Scarabaeidae,Species co-occurrence}
+    \strng{namehash}{EFA+1}
+    \strng{fullhash}{EFAEDPHKCFTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    Tropical rainforest disturbance and conversion are critical drivers of
+  biodiversity loss. A key knowledge gap is understanding the impacts of
+  habitat modification on mechanisms of community assembly, which are predicted
+  to respond differently between taxa and across spatial scales. We use a null
+  model approach to detect trait assembly of species at local- and
+  landscape-scales, and then subdivide communities with different habitat
+  associations and foraging guilds to investigate whether the detection of
+  assembly mechanisms varies between groups. We focus on two indicator taxa,
+  dung beetles and birds, across a disturbance gradient of primary rainforest,
+  selectively logged rainforest, and oil palm plantations in Borneo, Southeast
+  Asia. Random community assembly was predominant for dung beetles across
+  habitats, whereas trait convergence, indicative of environmental filtering,
+  occurred across the disturbance gradient for birds. Assembly patterns at the
+  two spatial scales were similar. Subdividing for habitat association and
+  foraging guild revealed patterns hidden when focusing on the overall
+  community. Dung beetle forest specialists and habitat generalists showed
+  opposing assembly mechanisms in primary forest, community assembly of habitat
+  generalists for both taxa differed with disturbance intensity, and
+  insectivorous birds strongly influenced overall community assembly relative
+  to other guilds. Our study reveals the sensitivity of community assembly
+  mechanisms to anthropogenic disturbance via a shift in the relative
+  contribution of stochastic and deterministic processes. This highlights the
+  need for greater understanding of how habitat modification alters species
+  interactions and the importance of incorporating species' traits within
+  assessments.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00442-020-04829-z
+    \endverb
+    \field{isbn}{0123456789}
+    \field{issn}{14321939}
+    \field{number}{3}
+    \field{pages}{705\bibrangedash 717}
+    \field{title}{{Tropical land-use change alters trait-based community
+  assembly rules for dung beetles and birds}}
+    \verb{url}
+    \verb https://doi.org/10.1007/s00442-020-04829-z
+    \endverb
+    \field{volume}{195}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Edwards et al. - 2021 - Tropical land-use change alters trait-bas
+    \verb ed community assembly rules for dung beetles and birds.pdf:pdf
+    \endverb
+    \field{journaltitle}{Oecologia}
+    \field{year}{2021}
+  \endentry
+
   \entry{Escudero2016}{article}{}
     \name{author}{2}{}{%
       {{hash=EA}{%
@@ -3188,7 +4080,6 @@
   increasing evidence on their actual relevance when aspects such as different
   spatial scales, intraspecific variability and demography are considered.%
     }
-    \field{booktitle}{Oecologia}
     \verb{doi}
     \verb 10.1007/s00442-016-3578-5
     \endverb
@@ -3199,6 +4090,7 @@
     \verb :C\:/Users/adrie/Downloads/Escudero-Valladares2016_Article_Trait-base
     \verb dPlantEcologyMovingT.pdf:pdf
     \endverb
+    \field{journaltitle}{Oecologia}
     \field{year}{2016}
   \endentry
 
@@ -3335,15 +4227,97 @@
     \verb{eprint}
     \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13926
     \endverb
-    \field{number}{n/a}
     \field{title}{Intensive human land uses negatively affect vertebrate
   functional diversity}
     \verb{url}
     \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13926
     \endverb
-    \field{volume}{n/a}
     \field{journaltitle}{Ecology Letters}
     \field{year}{2021}
+  \endentry
+
+  \entry{Evans2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=EBS}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Brian\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Reitsma},
+         familyi={R\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HAH}{%
+         family={Hurlbert},
+         familyi={H\bibinitperiod},
+         given={Allen\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MPP}{%
+         family={Marra},
+         familyi={M\bibinitperiod},
+         given={Peter\bibnamedelima P.},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{avian ecology,avian life history traits,community
+  ecology,environmental filtering,functional diversity,urban
+  ecology,urbanization}
+    \strng{namehash}{EBS+1}
+    \strng{fullhash}{EBSRRHAHMPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    The composition of avian communities in human-dominated habitats is thought
+  to be determined by the interaction between species-specific traits and
+  environmental characteristics. Traits such as dietary habits and habitat
+  specialization influence the vulnerability of species to land use change. As
+  species are excluded from anthropogenic environments, local species pools are
+  differentially sorted from the regional species pool. This sorting process,
+  environmental filtering, is characterized by a decline in the functional
+  diversity of local biotic communities and may result in a loss of regional
+  biodiversity as landscapes are urbanized. Environmental filtering due to
+  urbanization is hypothesized due to an ecosystem stress gradient, which
+  describes a decrease in species richness or abundance with increasing urban
+  intensity. Conflicting patterns of species richness and species abundances
+  have limited our ability to determine whether urban environments filter avian
+  communities. To evaluate the hypothesis that environmental filtering is
+  occurring, we analyzed avian point count data collected along a
+  rural-to-urban gradient in metropolitan Washington, D.C. We examined
+  predictions that species richness, functional diversity, and the total and
+  relative abundances of some life history guilds exhibit the pattern expected
+  under the ecosystem stress-gradient hypothesis. Species richness and
+  functional diversity declined monotonically with increasing impervious
+  surface. Life history guilds, representing species' diet, foraging, nest, and
+  migration habits, exhibited differential rates of decline across the
+  rural-to-urban gradient, resulting in marked shifts in the composition of
+  communities. Our results support the hypothesis that urbanization filters
+  bird communities as a function of avian traits and provide further evidence
+  of trait-level responses to urban environments.%
+    }
+    \verb{doi}
+    \verb 10.1002/ecs2.2402
+    \endverb
+    \field{issn}{21508925}
+    \field{number}{11}
+    \field{title}{{Environmental filtering of avian communities along a
+  rural-to-urban gradient in Greater Washington, D.C., USA}}
+    \field{volume}{9}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Evans et al. - 2018 - Environmental filtering of avian communitie
+    \verb s along a rural-to-urban gradient in Greater Washington, D.C., USA.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Ecosphere}
+    \field{year}{2018}
   \endentry
 
   \entry{Faurby2018}{article}{}
@@ -3532,6 +4506,74 @@
     \field{volume}{25}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2016}
+  \endentry
+
+  \entry{Fick2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FSE}{%
+         family={Fick},
+         familyi={F\bibinitperiod},
+         given={Stephen\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HRJ}{%
+         family={Hijmans},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{MODIS,WorldClim,climate surfaces,cloud cover,interpolation,land
+  surface temperature,solar radiation,vapour pressure,wind speed}
+    \strng{namehash}{FSEHRJ1}
+    \strng{fullhash}{FSEHRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    We created a new dataset of spatially interpolated monthly climate data for
+  global land areas at a very high spatial resolution (approximately 1 km2). We
+  included monthly temperature (minimum, maximum and average), precipitation,
+  solar radiation, vapour pressure and wind speed, aggregated across a target
+  temporal range of 1970–2000, using data from between 9000 and 60 000
+  weather stations. Weather station data were interpolated using thin-plate
+  splines with covariates including elevation, distance to the coast and three
+  satellite-derived covariates: maximum and minimum land surface temperature as
+  well as cloud cover, obtained with the MODIS satellite platform.
+  Interpolation was done for 23 regions of varying size depending on station
+  density. Satellite data improved prediction accuracy for temperature
+  variables 5–15% (0.07–0.17 °C), particularly for areas with a low
+  station density, although prediction error remained high in such regions for
+  all climate variables. Contributions of satellite covariates were mostly
+  negligible for the other variables, although their importance varied by
+  region. In contrast to the common approach to use a single model formulation
+  for the entire world, we constructed the final product by selecting the best
+  performing model for each region and variable. Global cross-validation
+  correlations were ≥ 0.99 for temperature and humidity, 0.86 for
+  precipitation and 0.76 for wind speed. The fact that most of our climate
+  surface estimates were only marginally improved by use of satellite
+  covariates highlights the importance having a dense, high-quality network of
+  climate station data.%
+    }
+    \verb{doi}
+    \verb 10.1002/joc.5086
+    \endverb
+    \field{issn}{10970088}
+    \field{number}{12}
+    \field{pages}{4302\bibrangedash 4315}
+    \field{title}{{WorldClim 2: new 1-km spatial resolution climate surfaces
+  for global land areas}}
+    \field{volume}{37}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Fick, Hijmans - 2017 - WorldClim 2 new 1-km spatial resolution cl
+    \verb imate surfaces for global land areas.pdf:pdf
+    \endverb
+    \field{journaltitle}{International Journal of Climatology}
+    \field{year}{2017}
   \endentry
 
   \entry{Flynn2009}{article}{}
@@ -3859,7 +4901,6 @@
   the same species, climate and land-use change will likely homogenise biodi-
   versity more severely than otherwise anticipated. Keywords%
     }
-    \field{booktitle}{Ecology letters}
     \verb{doi}
     \verb 10.1111/ele.12645
     \endverb
@@ -3867,7 +4908,146 @@
     \field{issn}{14610248}
     \field{title}{{Climate change and habitat conversion favour the same
   species}}
+    \field{journaltitle}{Ecology letters}
     \field{year}{2016}
+  \endentry
+
+  \entry{Fukasawa2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FK}{%
+         family={Fukasawa},
+         familyi={F\bibinitperiod},
+         given={Keita},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Akasaka},
+         familyi={A\bibinitperiod},
+         given={Takumi},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{FKAT1}
+    \strng{fullhash}{FKAT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    Past land-use activity has massively altered the environment and vegetation
+  over centuries, resulting in range contractions and expansions of species.
+  When habitat recovery and species recolonization require a long time, the
+  fingerprint of past land use can remain on the current distribution of
+  species. To evaluate millennial-scale effects of land use in Japan, we
+  explained the current ranges of 29 mammalian genera based on three types of
+  archaeological land-use patterns (settlement, ironwork and kiln) considering
+  potential confounding factors. The results indicate that archaeological human
+  activity associated with ironwork and pottery production had severe negative
+  effects on many genera of small and medium-sized mammals. Despite positive
+  effects on some genera, the magnitudes were less than those of the negative
+  effects. The relative importance of archaeological factors on small mammals
+  was greater than those for medium- to-large mammals. The persistent imprint
+  of past land-use patterns was non-negligible, explaining current mammalian
+  diversity. Spatial ecological and archaeological information can provide
+  meaningful insights into long-term socio-ecological processes, which are
+  crucial for the development of sustainable societies in the Anthropocene.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41598-019-46809-1
+    \endverb
+    \field{issn}{20452322}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{{Long-lasting effects of historical land use on the current
+  distribution of mammals revealed by ecological and archaeological patterns}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41598-019-46809-1
+    \endverb
+    \field{volume}{9}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Fukasawa, Akasaka - 2019 - Long-lasting effects of historical lan
+    \verb d use on the current distribution of mammals revealed by ecological a
+    \verb nd.pdf:pdf
+    \endverb
+    \field{journaltitle}{Scientific Reports}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Furness2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FLJ}{%
+         family={Furness},
+         familyi={F\bibinitperiod},
+         given={L.\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SJR}{%
+         family={Speakman},
+         familyi={S\bibinitperiod},
+         given={J.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Birds,Daily energy expenditure,Lifespan,Metabolic rate,Phylogeny,Rate
+  of living theory}
+    \strng{namehash}{FLJSJR1}
+    \strng{fullhash}{FLJSJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    The links between energy expenditure and ageing are different at different
+  levels of enquiry. When studies have examined the relationships between
+  different species within a given class the association is generally
+  negative-animals with greater metabolism per gram of tissue live shorter
+  lives. Within species, or between classes (e.g. between birds and mammals)
+  the association is the opposite-animals with higher metabolic rates live
+  longer. We have previously shown in mammals that the negative association
+  between lifespan and metabolic rate is in fact an artefact of using resting
+  rather than daily energy expenditure, and of failing to adequately take into
+  account the confounding effects of body size and the lack of phylogenetic
+  independence of species data. When these factors are accounted for, across
+  species of mammals, the ones with higher metabolism also have the largest
+  lifetime expenditures of energy-consistent with the inter-class and
+  intra-specific data. A previous analysis in birds did not yield the same
+  pattern, but this may have been due to a lack of sufficient power in the
+  analysis. Here we present an analysis of a much enlarged data set (>300
+  species) for metabolic and longevity traits in birds. These data show very
+  similar patterns to those in mammals. Larger individuals have longer lives
+  and lower per-gram resting and daily energy expenditures, hence there is a
+  strong negative relationship between longevity and mass-specific metabolism.
+  This relationship disappears when the confounding effects of body mass and
+  phylogeny are accounted for. Across species of birds, lifetime expenditure of
+  energy per gram of tissue based on both daily and resting energy expenditure
+  is positively related to metabolic intensity, mirroring these statistical
+  relationships in mammals and synergising with the positive associations of
+  metabolism with lifespan within species and between vertebrate classes.
+  {\textcopyright} 2008 American Aging Association.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11357-008-9054-3
+    \endverb
+    \field{issn}{01619152}
+    \field{number}{2-3}
+    \field{pages}{75\bibrangedash 87}
+    \field{title}{{Energetics and longevity in birds}}
+    \field{volume}{30}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Furness, Speakman - 2008 - Energetics and longevity in birds.pdf:
+    \verb pdf
+    \endverb
+    \field{journaltitle}{Age}
+    \field{year}{2008}
   \endentry
 
   \entry{Gainsbury2018}{article}{}
@@ -4392,7 +5572,6 @@
   consensus regarding how landscape modification affects functional diversity
   metrics.%
     }
-    \field{booktitle}{Current Landscape Ecology Reports}
     \verb{doi}
     \verb 10.1007/s40823-018-0032-x
     \endverb
@@ -4401,7 +5580,78 @@
     \field{title}{{Functional Diversity Metrics: How They Are Affected by
   Landscape Change and How They Represent Ecosystem Functioning in the
   Tropics}}
+    \field{journaltitle}{Current Landscape Ecology Reports}
     \field{year}{2018}
+  \endentry
+
+  \entry{Hevia2017}{article}{}
+    \name{author}{6}{}{%
+      {{hash=HV}{%
+         family={Hevia},
+         familyi={H\bibinitperiod},
+         given={Violeta},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MLB}{%
+         family={Martín-López},
+         familyi={M\bibinithyphendelim L\bibinitperiod},
+         given={Berta},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Palomo},
+         familyi={P\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GLM}{%
+         family={García-Llorente},
+         familyi={G\bibinithyphendelim L\bibinitperiod},
+         given={Marina},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=dBF}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Bello},
+         familyi={B\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GJA}{%
+         family={González},
+         familyi={G\bibinitperiod},
+         given={José\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{biodiversity, ecosystem function, effect traits, global environmental
+  change, response traits, systematic review}
+    \strng{namehash}{HV+1}
+    \strng{fullhash}{HVMLBPSGLMBFdGJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb https://doi.org/10.1002/ece3.2692
+    \endverb
+    \verb{eprint}
+    \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.2692
+    \endverb
+    \field{number}{3}
+    \field{pages}{831\bibrangedash 844}
+    \field{title}{Trait-based approaches to analyze links between the drivers
+  of change and ecosystem services: Synthesizing existing evidence and future
+  challenges}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.2692
+    \endverb
+    \field{volume}{7}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2017}
   \endentry
 
   \entry{Hooper2012}{article}{}
@@ -4589,6 +5839,94 @@
   Biodiversity}}
     \field{journaltitle}{Annual Review of Ecology, Evolution, and Systematics}
     \field{year}{2015}
+  \endentry
+
+  \entry{Hudson2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=INJ}{%
+         family={Isaac},
+         familyi={I\bibinitperiod},
+         given={Nick\bibnamedelima J.B.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RDC}{%
+         family={Reuman},
+         familyi={R\bibinitperiod},
+         given={Daniel\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Allometry,Birds,Body mass,Body size,Daily energy expenditure,Doubly
+  labelled water,Energetics,Field metabolic rate,Mammals,Metabolic scaling}
+    \strng{namehash}{HLN+1}
+    \strng{fullhash}{HLNINJRDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    The power-law dependence of metabolic rate on body mass has major
+  implications at every level of ecological organization. However, the
+  overwhelming majority of studies examining this relationship have used basal
+  or resting metabolic rates, and/or have used data consisting of
+  species-averaged masses and metabolic rates. Field metabolic rates are more
+  ecologically relevant and are probably more directly subject to natural
+  selection than basal rates. Individual rates might be more important than
+  species-average rates in determining the outcome of ecological interactions,
+  and hence selection. We here provide the first comprehensive database of
+  published field metabolic rates and body masses of individual birds and
+  mammals, containing measurements of 1498 animals of 133 species in 28 orders.
+  We used linear mixed-effects models to answer questions about the body mass
+  scaling of metabolic rate and its taxonomic universality/heterogeneity that
+  have become classic areas of controversy. Our statistical approach allows
+  mean scaling exponents and taxonomic heterogeneity in scaling to be analysed
+  in a unified way while simultaneously accounting for nonindependence in the
+  data due to shared evolutionary history of related species. The mean
+  power-law scaling exponents of metabolic rate vs. body mass relationships
+  were 0{\textperiodcentered}71 [95% confidence intervals (CI)
+  0{\textperiodcentered}625-0{\textperiodcentered}795] for birds and
+  0{\textperiodcentered}64 (95% CI
+  0{\textperiodcentered}564-0{\textperiodcentered}716) for mammals. However,
+  these central tendencies obscured meaningful taxonomic heterogeneity in
+  scaling exponents. The primary taxonomic level at which heterogeneity
+  occurred was the order level. Substantial heterogeneity also occurred at the
+  species level, a fact that cannot be revealed by species-averaged data sets
+  used in prior work. Variability in scaling exponents at both order and
+  species levels was comparable to or exceeded the differences 3/4-2/3 = 1/12
+  and 0{\textperiodcentered}71-0{\textperiodcentered}64. Results are
+  interpreted in the light of a variety of existing theories. In particular,
+  results are consistent with the heat dissipation theory of Speakman &
+  Kr{\'{o}}l (2010) and provided some support for the metabolic levels boundary
+  hypothesis of Glazier (2010). Our analysis provides the first comprehensive
+  empirical analysis of the scaling relationship between field metabolic rate
+  and body mass in individual birds and mammals. Our data set is a valuable
+  contribution to those interested in theories of the allometry of metabolic
+  rates. {\textcopyright} 2013 British Ecological Society.%
+    }
+    \verb{doi}
+    \verb 10.1111/1365-2656.12086
+    \endverb
+    \field{issn}{00218790}
+    \field{number}{5}
+    \field{pages}{1009\bibrangedash 1020}
+    \field{title}{{The relationship between body mass and field metabolic rate
+  among individual birds and mammals}}
+    \field{volume}{82}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Hudson, Isaac, Reuman - 2013 - The relationship between body mass
+    \verb  and field metabolic rate among individual birds and mammals.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Animal Ecology}
+    \field{year}{2013}
   \endentry
 
   \entry{Hudson2014}{article}{}
@@ -7601,6 +8939,89 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Inger2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=IR}{%
+         family={Inger},
+         familyi={I\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CDT}{%
+         family={Cox},
+         familyi={C\bibinitperiod},
+         given={Daniel\bibnamedelima T.C.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Per},
+         familyi={P\bibinitperiod},
+         given={Esra},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=NBA}{%
+         family={Norton},
+         familyi={N\bibinitperiod},
+         given={Briony\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GKJ}{%
+         family={Gaston},
+         familyi={G\bibinitperiod},
+         given={Kevin\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Eurasian magpie,European red fox,carcass,carcass
+  removal,carrion,carrion crow,ecosystem services,scavenger,scavenging,urban}
+    \strng{namehash}{IR+1}
+    \strng{fullhash}{IRCDTPENBAGKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{abstract}{%
+    Recent research has demonstrated how scavenging, the act of consuming dead
+  animals, plays a key role in ecosystem structure, functioning, and stability.
+  A growing number of studies suggest that vertebrate scavengers also provide
+  key ecosystem services, the benefits humans gain from the natural world,
+  particularly in the removal of carcasses from the environment. An increasing
+  proportion of the human population is now residing in cities and towns, many
+  of which, despite being highly altered environments, contain significant
+  wildlife populations, and so animal carcasses. Indeed, non-predation
+  fatalities may be higher within urban than natural environments. Despite
+  this, the fate of carcasses in urban environments and the role vertebrate
+  scavengers play in their removal have not been determined. In this study, we
+  quantify the role of vertebrate scavengers in urban environments in three
+  towns in the UK. Using experimentally deployed rat carcasses and rapid fire
+  motion-triggered cameras, we determined which species were scavenging and how
+  removal of carcass biomass was partitioned between them. Of the 63
+  experimental carcasses deployed, vertebrate scavenger activity was detected
+  at 67%. There was a significantly greater depletion in carcass biomass in the
+  presence (mean loss of 194 g) than absence (mean loss of 14 g) of scavengers.
+  Scavenger activity was restricted to three species, Carrion crows Corvus
+  corone, Eurasian magpies Pica pica, and European red foxes Vulpes vulpes.
+  From behavioral analysis, we estimated that a maximum of 73% of the carcass
+  biomass was removed by vertebrate scavengers. Despite having low species
+  richness, the urban scavenger community in our urban study system removed a
+  similar proportion of carcasses to those reported in more pristine
+  environments. Vertebrate scavengers are providing a key urban ecosystem
+  service in terms of carcass removal. This service is, however, often
+  overlooked, and the species that provide it are among some of the most
+  disliked and persecuted.%
+    }
+    \verb{doi}
+    \verb 10.1002/ece3.2414
+    \endverb
+    \field{issn}{20457758}
+    \field{title}{{Ecological role of vertebrate scavengers in urban ecosystems
+  in the UK}}
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2016}
+  \endentry
+
   \entry{Isaac2004}{article}{}
     \name{author}{3}{}{%
       {{hash=INJ}{%
@@ -9258,13 +10679,13 @@
   implications for data-intensive science in ecology, biogeography,
   conservation and Earth observation.%
     }
-    \field{booktitle}{Nature Ecology and Evolution}
     \verb{doi}
     \verb 10.1038/s41559-018-0667-3
     \endverb
     \field{issn}{2397334X}
     \field{title}{{Towards global data products of Essential Biodiversity
   Variables on species traits}}
+    \field{journaltitle}{Nature Ecology and Evolution}
     \field{year}{2018}
   \endentry
 
@@ -9339,6 +10760,116 @@
   worldwide}}
     \field{journaltitle}{Ecology and Evolution}
     \field{year}{2014}
+  \endentry
+
+  \entry{Krausmann2013}{article}{}
+    \name{author}{9}{}{%
+      {{hash=KF}{%
+         family={Krausmann},
+         familyi={K\bibinitperiod},
+         given={Fridolin},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=EKH}{%
+         family={Erb},
+         familyi={E\bibinitperiod},
+         given={Karl\bibnamedelima Heinz},
+         giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gingrich},
+         familyi={G\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Haberl},
+         familyi={H\bibinitperiod},
+         given={Helmut},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bondeau},
+         familyi={B\bibinitperiod},
+         given={Alberte},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Gaube},
+         familyi={G\bibinitperiod},
+         given={Veronika},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lauk},
+         familyi={L\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Plutzar},
+         familyi={P\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=STD}{%
+         family={Searchinger},
+         familyi={S\bibinitperiod},
+         given={Timothy\bibnamedelima D.},
+         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{Agriculture,Food,Global carbon cycle,Land use intensity,Resource use}
+    \strng{namehash}{KF+1}
+    \strng{fullhash}{KFEKHGSHHBAGVLCPCSTD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    Global increases in population, consumption, and gross domestic product
+  raise concerns about the sustainability of the current and future use of
+  natural resources. The human appropriation of net primary production (HANPP)
+  provides a useful measure of human intervention into the biosphere. The
+  productive capacity of land is appropriated by harvesting or burning biomass
+  and by converting natural ecosystems to managed lands with lower
+  productivity. This work analyzes trends in HANPP from 1910 to 2005 and finds
+  that although human population has grown fourfold and economic output
+  17-fold, global HANPP has only doubled. Despite this increase in efficiency,
+  HANPP has still risen from 6.9 Gt of carbon per y in 1910 to 14.8 GtC/y in
+  2005, i.e., from 13% to 25% of the net primary production of potential
+  vegetation. Biomass harvested per capita and year has slightly declined
+  despite growth in consumption because of a decline in reliance on bioenergy
+  and higher conversion efficiencies of primary biomass to products. The rise
+  in efficiency is overwhelmingly due to increased crop yields, albeit
+  frequently associated with substantial ecological costs, such as fossil
+  energy inputs, soil degradation, and biodiversity loss. If humans can
+  maintain the past trend lines in efficiency gains, we estimate that HANPP
+  might only grow to 27-29% by 2050, but providing large amounts of bioenergy
+  could increase global HANPP to 44%. This result calls for caution in
+  refocusing the energy economy on land-based resources and for strategies that
+  foster the continuation of increases in land-use efficiency without
+  excessively increasing ecological costs of intensification.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1211349110
+    \endverb
+    \field{issn}{00278424}
+    \field{number}{25}
+    \field{pages}{10324\bibrangedash 10329}
+    \field{title}{{Global human appropriation of net primary production doubled
+  in the 20th century}}
+    \field{volume}{110}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Krausmann et al. - 2013 - Global human appropriation of net prima
+    \verb ry production doubled in the 20th century.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2013}
   \endentry
 
   \entry{Krauss2010}{article}{}
@@ -9777,7 +11308,6 @@
   experimental studies of relationships between plant diversity and ecosystem
   properties.%
     }
-    \field{booktitle}{Functional Ecology}
     \verb{doi}
     \verb 10.1046/j.1365-2435.2002.00664.x
     \endverb
@@ -9785,6 +11315,7 @@
     \field{issn}{02698463}
     \field{title}{{Predicting changes in community composition and ecosystem
   functioning from plant traits: Revisiting the Holy Grail}}
+    \field{journaltitle}{Functional Ecology}
     \field{year}{2002}
   \endentry
 
@@ -10036,6 +11567,74 @@
   lupus dingo as a case study}}
     \field{journaltitle}{Biological Reviews}
     \field{year}{2012}
+  \endentry
+
+  \entry{Lowry2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LH}{%
+         family={Lowry},
+         familyi={L\bibinitperiod},
+         given={H{\'{e}}l{\`{e}}ne},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lill},
+         familyi={L\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WBB}{%
+         family={Wong},
+         familyi={W\bibinitperiod},
+         given={Bob\bibnamedelima B.M.},
+         giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \keyw{Behavioural modification,Genetic adaptation,Human
+  disturbance,Phenotypic plasticity,Temperament,Urban adapter,Urban
+  environment,Vocal adjustments}
+    \strng{namehash}{LH+1}
+    \strng{fullhash}{LHLAWBB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Increased urbanization represents a formidable challenge for wildlife.
+  Nevertheless, a few species appear to thrive in the evolutionarily novel
+  environment created by cities, demonstrating the remarkable adaptability of
+  some animals. We argue that individuals that can adjust their behaviours to
+  the new selection pressures presented by cities should have greater success
+  in urban habitats. Accordingly, urban wildlife often exhibit behaviours that
+  differ from those of their rural counterparts, from changes to food and den
+  preferences to adjustments in the structure of their signals. Research
+  suggests that behavioural flexibility (or phenotypic plasticity) may be an
+  important characteristic for succeeding in urban environments. Moreover, some
+  individuals or species might possess behavioural traits (a particular
+  temperament) that are inherently well suited to occupying urban habitats,
+  such as a high level of disturbance tolerance. This suggests that members of
+  species that are less 'plastic' or naturally timid in temperament are likely
+  to be disadvantaged in high-disturbance environments and consequently may be
+  precluded from colonizing cities and towns. {\textcopyright} 2012 Cambridge
+  Philosophical Society.%
+    }
+    \verb{doi}
+    \verb 10.1111/brv.12012
+    \endverb
+    \field{issn}{14647931}
+    \field{number}{3}
+    \field{pages}{537\bibrangedash 549}
+    \field{title}{{Behavioural responses of wildlife to urban environments}}
+    \field{volume}{88}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Lowry, Lill, Wong - 2013 - Behavioural responses of wildlife to u
+    \verb rban environments.pdf:pdf
+    \endverb
+    \field{journaltitle}{Biological Reviews}
+    \field{year}{2013}
   \endentry
 
   \entry{Luck2012}{article}{}
@@ -10746,6 +12345,42 @@
     \field{year}{2011}
   \endentry
 
+  \entry{McNab1986}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MBK}{%
+         family={McNab},
+         familyi={M\bibinitperiod},
+         given={Brian\bibnamedelima K.},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ecological Society of America}%
+    }
+    \strng{namehash}{MBK1}
+    \strng{fullhash}{MBK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{issn}{00129615}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 19}
+    \field{title}{The Influence of Food Habits on the Energetics of Eutherian
+  Mammals}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2937268
+    \endverb
+    \field{volume}{56}
+    \field{journaltitle}{Ecological Monographs}
+    \field{year}{1986}
+    \field{urlday}{07}
+    \field{urlmonth}{04}
+    \field{urlyear}{2022}
+  \endentry
+
   \entry{Meiri2015}{article}{}
     \name{author}{3}{}{%
       {{hash=MS}{%
@@ -10830,6 +12465,70 @@
     \field{volume}{27}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2018}
+  \endentry
+
+  \entry{Mendoza2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MM}{%
+         family={Mendoza},
+         familyi={M\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AMB}{%
+         family={Ara{\'{u}}jo},
+         familyi={A\bibinitperiod},
+         given={Miguel\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{MMAMB1}
+    \strng{fullhash}{MMAMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Nature's complexity is intriguing, but the circumstances determining
+  whether or how order emerges from such complexity remains a matter of
+  extensive research. Using the geographical distributions and food preferences
+  of all terrestrial mammal species with masses >3 kg, we show that large
+  mammals group into feeding guilds (species exploiting similar resources) and
+  that these guilds form trophic structures that vary across biomes globally.
+  We identify five trophic structures closely matching climate variability and
+  named them boreal, temperate, semiarid, seasonal tropical and humid tropical
+  owing to their relative overlap with the distribution of biomes. We also find
+  that human activities simplify trophic structures, generally transitioning
+  them to species-poorer states. Detected transitions include boreal and
+  temperate structures becoming depauperate or seasonal- and humid-tropical
+  becoming semiarid. Whether the observed generalities among trophic structures
+  of large mammals are indicative of patterns across whole food webs is matter
+  for further investigation. The results help refine projections of the effects
+  of environmental change on the trophic structure of large mammals.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-019-12995-9
+    \endverb
+    \field{issn}{20411723}
+    \field{number}{1}
+    \field{title}{{Climate shapes mammal community trophic structures and
+  humans simplify them}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41467-019-12995-9
+    \endverb
+    \field{volume}{10}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Mendoza, Ara{\'{u}}jo - 2019 - Climate shapes mammal community tr
+    \verb ophic structures and humans simplify them.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2019}
   \endentry
 
   \entry{Menegotto2018}{article}{}
@@ -10985,6 +12684,71 @@
     \field{year}{2021}
   \endentry
 
+  \entry{Moller2009}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MAP}{%
+         family={M{\o}ller},
+         familyi={M\bibinitperiod},
+         given={Anders\bibnamedelima Pape},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{Invasion,Life history,Parasitism,Risk-taking,Urbanisation}
+    \strng{namehash}{MAP1}
+    \strng{fullhash}{MAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Numerous species have adapted to the proximity of humans, and this feature
+  is no clearer than among species that have invaded towns and cities. The
+  characteristics of species that have successfully managed to expand their
+  range into urban areas remain largely unexplored, although they are of
+  general interest in a world that is increasingly urbanised. I hypothesised
+  that widely distributed species with high dispersal abilities, species with a
+  high rate of innovation, a high level of risk-taking, and a fast life history
+  would have a selective advantage in habitats influenced by humans. Consistent
+  with this hypothesis, in a comparative analysis of 39 independent
+  evolutionary events of urbanisation of birds in the Western Palearctic (thus
+  taking the fact that closely related species that have become urbanised are
+  caused by common phylogenetic descent rather than convergent evolution), bird
+  species that adapted to urban habitats were characterised by large breeding
+  ranges, high propensity for dispersal, high rates of feeding innovation
+  (novel ways of acquiring food), short flight distances when approached by a
+  human, and a life history characterised by high annual fecundity and high
+  adult survival rate. Urban species may be disproportionately resistant to
+  parasitism and predation because they had disproportionately strong immune
+  responses, as reflected by the size of the bursa of Fabricius, and a history
+  of weak predation-mediated natural selection, as reflected by the force
+  required to remove feathers from the rump. Urban species had high overall
+  ecological success as indicated by large range size and population size and
+  high population density. This suggests that a suite of ecological features
+  providing them with general ecological success characterises species of birds
+  that have successfully invaded urban environments. {\textcopyright} 2009
+  Springer-Verlag.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00442-008-1259-8
+    \endverb
+    \field{issn}{00298549}
+    \field{number}{4}
+    \field{pages}{849\bibrangedash 858}
+    \field{title}{{Successful city dwellers: A comparative study of the
+  ecological characteristics of urban birds in the Western Palearctic}}
+    \field{volume}{159}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/M{\o}ller - 2009 - Successful city dwellers A comparative study o
+    \verb f the ecological characteristics of urban birds in the Western Palear
+    \verb ctic.pdf:pdf
+    \endverb
+    \field{journaltitle}{Oecologia}
+    \field{year}{2009}
+  \endentry
+
   \entry{Mouillot2021}{article}{}
     \name{author}{19}{}{%
       {{hash=MD}{%
@@ -11126,6 +12890,74 @@
     \endverb
     \field{journaltitle}{Ecology Letters}
     \field{year}{2021}
+  \endentry
+
+  \entry{Mueller2001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MP}{%
+         family={Mueller},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Diamond},
+         familyi={D\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MPDJ1}
+    \strng{fullhash}{MPDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Even among vertebrate species of the same body mass and higherlevel
+  taxonomic group, metabolic rates exhibit substantial differences, for which
+  diverse explanatory factors-such as dietary energy content, latitude,
+  altitude, temperature, and rainfall-have been postulated. A unifying
+  underlying factor could be food availability, in turn controlled by net
+  primary productivity (NPP) of the animal's natural environment. We tested
+  this possibility by studying five North American species of Peromyscus mice,
+  all of them similar in diet (generalist omnivores) and in gut morphology but
+  differing by factors of up to 13 in NPP of their habitat of origin. We
+  maintained breeding colonies of all five species in the laboratory under
+  identical conditions and consuming identical diets. Basal metabolic rate
+  (BMR) and daily ad libitum food intake both increased with NPP, which
+  explained 88% and 90% of their variances, respectively. High-metabolism mouse
+  species from high-NPP environments were behaviorally more active than were
+  lowmetabolism species from low-NPP environments. Intestinal glucose uptake
+  capacity also increased with NPP (and with BMR and food intake), because
+  species of high-NPP environments had larger small intestines and higher
+  uptake rates. For metabolic rates of our five species, the driving
+  environmental variable is environmental productivity itself (and hence food
+  availability), rather than temporal variability of productivity. Thus,
+  species that have evolved in the presence of abundant food run their
+  metabolism "fast," both while active and while idling, as compared with
+  species of less productive environments, even when all species are given
+  access to unlimited food.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.221456698
+    \endverb
+    \field{issn}{00278424}
+    \field{number}{22}
+    \field{pages}{12550\bibrangedash 12554}
+    \field{title}{{Metabolic rate and environmental productivity:
+  Well-provisioned animals evolved to run and idle fast}}
+    \field{volume}{98}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Mueller, Diamond - 2001 - Metabolic rate and environmental produc
+    \verb tivity Well-provisioned animals evolved to run and idle fast.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2001}
   \endentry
 
   \entry{Munteanu2020}{article}{}
@@ -11345,13 +13177,191 @@
   advances in the procedures of handling missing data and their relevance and
   applicability. {\textcopyright} 2008 Elsevier Ltd. All rights reserved.%
     }
-    \field{booktitle}{Trends in Ecology and Evolution}
     \verb{doi}
     \verb 10.1016/j.tree.2008.06.014
     \endverb
     \field{issn}{01695347}
     \field{title}{{Missing inaction: the dangers of ignoring missing data}}
+    \field{journaltitle}{Trends in Ecology and Evolution}
     \field{year}{2008}
+  \endentry
+
+  \entry{Naya2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=NDE}{%
+         family={Naya},
+         familyi={N\bibinitperiod},
+         given={Daniel\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Spangenberg},
+         familyi={S\bibinitperiod},
+         given={Luc{\'{i}}a},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=NH}{%
+         family={Naya},
+         familyi={N\bibinitperiod},
+         given={Hugo},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bozinovic},
+         familyi={B\bibinitperiod},
+         given={Francisco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{Endothermy,Energetic,Macrophysiology,Organ size,Rodents}
+    \strng{namehash}{NDE+1}
+    \strng{fullhash}{NDESLNHBF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Metabolic rates are related to the pace of life. Hence, research into their
+  variability at global scales is of vital importance for several contemporary
+  theories in physiology, ecology, and evolution. Here we evaluated the effect
+  of latitude, climate, primary productivity, habitat aridity, and species
+  trophic habits, on mass-independent basal metabolic rates (BMRs) for 195
+  rodent species. The aims of this article were twofold. First, we evaluated
+  the predictive power of different statistical models (via a model selection
+  approach), using a dimensional reduction technique on the exogenous factor
+  matrix to achieve a clear interpretation of the selected models. Second, we
+  evaluated three specific predictions derived from a recently proposed
+  hypothesis, herein called the "obligatory heat" model (OHM), for the
+  evolution of BMR. Obtained results indicate that mean/minimum environmental
+  temperature, rainfall/primary productivity and, finally, species trophic
+  habits are, in this order, the major determinants of mass-independent BMR.
+  Concerning the mechanistic causes behind this variation, obtained data agree
+  with the predictions of the OHM: (1) mean annual environmental temperature
+  was the best single predictor of residual variation in BMR, (2) herbivorous
+  species have greater mass-independent metabolic rates, and tend to be present
+  at high-latitude cold environments, than species in other trophic categories.
+  {\textcopyright} 2013 The Author(s). Evolution {\textcopyright} 2013 The
+  Society for the Study of Evolution.%
+    }
+    \verb{doi}
+    \verb 10.1111/evo.12042
+    \endverb
+    \field{issn}{00143820}
+    \field{number}{5}
+    \field{pages}{1463\bibrangedash 1476}
+    \field{title}{{How does evolutionary variation in basal metabolic rates
+  arise? A statistical assessment and a mechanistic model}}
+    \field{volume}{67}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Naya et al. - 2013 - How does evolutionary variation in basal met
+    \verb abolic rates arise A statistical assessment and a mechanistic model.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Evolution}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Newbold2020a}{article}{}
+    \name{author}{9}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BLF}{%
+         family={Bentley},
+         familyi={B\bibinitperiod},
+         given={Laura\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=HSL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha\bibnamedelima L.L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=EMJ}{%
+         family={Edgar},
+         familyi={E\bibinitperiod},
+         given={Melanie\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Horton},
+         familyi={H\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=eCH}{%
+         family={Şekercioğlu},
+         familyi={e\bibinitperiod},
+         given={{\c{C}}ağan\bibnamedelima H.},
+         giveni={{\c{C}}\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTBLFHSLEMJHMSGeCHCBPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Human land use has caused substantial declines in global species richness.
+  Evidence from different taxonomic groups and geographic regions suggests that
+  land use does not equally impact all organisms within terrestrial ecological
+  communities, and that different functional groups of species may respond
+  differently. In particular, we expect large carnivores to decline more in
+  disturbed land uses than other animal groups. We present the first global
+  synthesis of responses to land use across functional groups using data from a
+  wide set of animal species, including herbivores, omnivores, carnivores,
+  fungivores and detritivores; and ranging in body mass from 2 × 10−6 g (an
+  oribatid mite) to 3,825 kg (the African elephant). We show that the abundance
+  of large endotherms, small ectotherms, carnivores and fungivores (although in
+  the last case, not significantly) are reduced disproportionately in human
+  land uses compared with the abundance of other functional groups. The
+  results, suggesting that certain functional groups are consistently favoured
+  over others in land used by humans, imply a substantial restructuring of
+  ecological communities. Given that different functional groups make unique
+  contributions to ecological processes, it is likely that there will be
+  substantial impacts on the functioning of ecosystems. A free Plain Language
+  Summary can be found within the Supporting Information of this article.%
+    }
+    \verb{doi}
+    \verb 10.1111/1365-2435.13500
+    \endverb
+    \field{issn}{13652435}
+    \field{number}{3}
+    \field{pages}{684\bibrangedash 693}
+    \field{title}{{Global effects of land use on biodiversity differ among
+  functional groups}}
+    \field{volume}{34}
+    \field{journaltitle}{Functional Ecology}
+    \field{year}{2020}
   \endentry
 
   \entry{Newbold2018a}{article}{}
@@ -11487,6 +13497,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
+    \field{extradate}{2}
     \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
@@ -12019,6 +14030,91 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Nowakowski2018a}{article}{}
+    \name{author}{5}{}{%
+      {{hash=NAJ}{%
+         family={Nowakowski},
+         familyi={N\bibinitperiod},
+         given={A.\bibnamedelima Justin},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FLO}{%
+         family={Frishkoff},
+         familyi={F\bibinitperiod},
+         given={Luke\bibnamedelima O.},
+         giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=TME}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={Michelle\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=STM}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Tatiana\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TBD}{%
+         family={Todd},
+         familyi={T\bibinitperiod},
+         given={Brian\bibnamedelima D.},
+         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{Anthropocene biogeography,Biodiversity,Habitat loss,Land
+  use,Phylogenetic generalized linear mixed model}
+    \strng{namehash}{NAJ+1}
+    \strng{fullhash}{NAJFLOTMESTMTBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Habitat conversion is driving biodiversity loss and restructuring species
+  assemblages across the globe. Responses to habitat conversion vary widely,
+  however, and little is known about the degree to which shared evolutionary
+  history underlies changes in species richness and composition. We analyzed
+  data from 48 studies, comprising 438 species on five continents, to
+  understand how taxonomic and phylogenetic diversity of amphibian assemblages
+  shifts in response to habitat conversion. We found that evolutionary history
+  explains the majority of variation in species' responses to habitat
+  conversion, with specific clades scattered across the amphibian tree of life
+  being favored by human land uses. Habitat conversion led to an average loss
+  of 139 million years of amphibian evolutionary history within assemblages,
+  high species and lineage turnover at landscape scales, and phylogenetic
+  homogenization at the global scale (despite minimal taxonomic
+  homogenization). Lineage turnover across habitats was greatest in lowland
+  tropical regions where large species pools and stable climates have perhaps
+  given rise to many microclimatically specialized species. Together, our
+  results indicate that strong phylogenetic clustering of species' responses to
+  habitat conversion mediates nonrandom structuring of local assemblages and
+  loss of global phylogenetic diversity. In an age of rapid global change,
+  identifying clades that are most sensitive to habitat conversion will help
+  prioritize use of limited conservation resources.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1714891115
+    \endverb
+    \field{issn}{10916490}
+    \field{number}{15}
+    \field{pages}{E3454\bibrangedash E3462}
+    \field{title}{{Phylogenetic homogenization of amphibian assemblages in
+  human-altered habitats across the globe}}
+    \field{volume}{115}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Nowakowski et al. - 2018 - Phylogenetic homogenization of amphibi
+    \verb an assemblages in human-altered habitats across the globe.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2018}
+  \endentry
+
   \entry{Nowakowski2017}{article}{}
     \name{author}{4}{}{%
       {{hash=NAJ}{%
@@ -12300,12 +14396,12 @@
   crucial for the longer-term resilience of ecosystem functions and the
   services that they underpin.%
     }
-    \field{booktitle}{Trends in Ecology and Evolution}
     \verb{doi}
     \verb 10.1016/j.tree.2015.08.009
     \endverb
     \field{issn}{01695347}
     \field{title}{{Biodiversity and Resilience of Ecosystem Functions}}
+    \field{journaltitle}{Trends in Ecology and Evolution}
     \field{year}{2015}
   \endentry
 
@@ -12951,13 +15047,14 @@
   model design, because of the scale-dependent signatures of ecological
   processes.%
     }
-    \field{booktitle}{Perspectives in Plant Ecology, Evolution and Systematics}
     \verb{doi}
     \verb 10.1016/j.ppees.2017.01.004
     \endverb
     \field{issn}{16180437}
     \field{title}{{How to design trait-based analyses of community assembly
   mechanisms: Insights and guidelines from a literature review}}
+    \field{journaltitle}{Perspectives in Plant Ecology, Evolution and
+  Systematics}
     \field{year}{2017}
   \endentry
 
@@ -13000,13 +15097,13 @@
   multiple imputation was rare; the studies relied almost exclusively on
   listwise and pairwise deletion.%
     }
-    \field{booktitle}{Review of Educational Research}
     \verb{doi}
     \verb 10.3102/00346543074004525
     \endverb
     \field{issn}{00346543}
     \field{title}{{Missing data in educational research: A review of reporting
   practices and suggestions for improvement}}
+    \field{journaltitle}{Review of Educational Research}
     \field{year}{2004}
   \endentry
 
@@ -13320,6 +15417,88 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Ramesh2017}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RT}{%
+         family={Ramesh},
+         familyi={R\bibinitperiod},
+         given={Tharmalingam},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kalle},
+         familyi={K\bibinitperiod},
+         given={Riddhika},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DCT}{%
+         family={Downs},
+         familyi={D\bibinitperiod},
+         given={Colleen\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {European Journal of Wildlife Research}%
+    }
+    \keyw{Agriculture mosaics,Home
+  range,Mesocarnivore,Plantation,Radio-tracking,Resource use}
+    \strng{namehash}{RT+1}
+    \strng{fullhash}{RTKRDCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Agricultural expansion has replaced many natural habitats and the landscape
+  structure with potential benefits to certain wildlife species. Some of
+  mesocarnivores widely use man-made habitats in agri-ecosystems that are
+  devoid of large carnivores and often prey on livestock. We examined the space
+  use and habitat relationships of radio-collared caracals Caracal caracal
+  between May 2013 and December 2014 in the Drakensberg Midlands, South Africa,
+  to identify suitable habitat for better management of caracals that are
+  perceived as pests in these fragmented agricultural mosaic landscapes. Home
+  ranges of males were bigger than those of females. Caracal movements
+  increased more during the night than the daytime indicating avoidance of peak
+  exposure time to human activities during the day in agricultural lands.
+  Generalized linear mixed models showed that caracal space use increased with
+  area availability of plantations and cultivations while their space use
+  decreased with increasing altitude and area availability of forests. Our
+  results showed that the modified habitat use over natural habitats and
+  preference to altitude <1200 m by caracals are a consequence of behavioural
+  facilitation and adaptation to access highly available prey resources,
+  particularly, livestock and rodents in irrigated farmlands. Caracals have
+  adapted to take advantage of the trophic resource enhancement by farming
+  practices in agri-ecosystems, thereby facilitating their range expansion in
+  agri-ecosystems, South Africa. Our findings aid in the sustainable management
+  and planning of production-orientated agricultural lands. Therefore,
+  management of these mesocarnivores is dependent on the conservation of
+  sufficient natural habitats and prey species, to minimize their dependence on
+  livestock and consequently reduce farmer-caracal conflict.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10344-016-1072-3
+    \endverb
+    \field{isbn}{1034401610}
+    \field{issn}{16124642}
+    \field{number}{1}
+    \field{title}{{Space use in a South African agriculture landscape by the
+  caracal (Caracal caracal)}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s10344-016-1072-3
+    \endverb
+    \field{volume}{63}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Ramesh, Kalle, Downs - 2017 - Space use in a South African agricu
+    \verb lture landscape by the caracal (Caracal caracal).pdf:pdf
+    \endverb
+    \field{journaltitle}{European Journal of Wildlife Research}
+    \field{year}{2017}
+  \endentry
+
   \entry{RamirezBautista2020}{article}{}
     \name{author}{4}{}{%
       {{hash=RBA}{%
@@ -13486,7 +15665,6 @@
   vertebrate species. Additional research on how such changes might affect
   wider ecosystems is also required.%
     }
-    \field{booktitle}{Frontiers in Ecology and the Environment}
     \verb{doi}
     \verb 10.1002/fee.1763
     \endverb
@@ -13496,6 +15674,7 @@
     \field{issn}{15409309}
     \field{title}{{Global importance of vertebrate pollinators for plant
   reproductive success: a meta-analysis}}
+    \field{journaltitle}{Frontiers in Ecology and the Environment}
     \field{year}{2018}
   \endentry
 
@@ -14015,6 +16194,81 @@
     \field{year}{2010}
   \endentry
 
+  \entry{Samia2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SDS}{%
+         family={Samia},
+         familyi={S\bibinitperiod},
+         given={Diogo\bibnamedelima S.M.},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nakagawa},
+         familyi={N\bibinitperiod},
+         given={Shinichi},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NF}{%
+         family={Nomura},
+         familyi={N\bibinitperiod},
+         given={Fausto},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RTF}{%
+         family={Rangel},
+         familyi={R\bibinitperiod},
+         given={Thiago\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=BDT}{%
+         family={Blumstein},
+         familyi={B\bibinitperiod},
+         given={Daniel\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{SDS+1}
+    \strng{fullhash}{SDSNSNFRTFBDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Human disturbance drives the decline of many species, both directly and
+  indirectly. Nonetheless, some species do particularly well around humans. One
+  mechanism that may explain coexistence is the degree to which a species
+  tolerates human disturbance. Here we provide a comprehensive meta-analysis of
+  birds, mammals and lizards to investigate species tolerance of human
+  disturbance and explore the drivers of this tolerance in birds. We find that,
+  overall, disturbed populations of the three major taxa are more tolerant of
+  human disturbance than less disturbed populations. The best predictors of the
+  direction and magnitude of bird tolerance of human disturbance are the type
+  of disturbed area (urbanized birds are more tolerant than rural or suburban
+  populations) and body mass (large birds are more tolerant than small birds).
+  By identifying specific features associated with tolerance, these results
+  guide evidence-based conservation strategies to predict and manage the
+  impacts of increasing human disturbance on birds.%
+    }
+    \verb{doi}
+    \verb 10.1038/ncomms9877
+    \endverb
+    \field{issn}{20411723}
+    \field{title}{{Increased tolerance to humans among disturbed wildlife}}
+    \field{volume}{6}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Samia et al. - 2015 - Increased tolerance to humans among disturb
+    \verb ed wildlife.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2015}
+  \endentry
+
   \entry{Sanchez-Ortiz2019}{article}{}
     \name{author}{8}{}{%
       {{hash=SOK}{%
@@ -14177,6 +16431,33 @@
     \endverb
     \field{volume}{13}
     \field{journaltitle}{Integrative Zoology}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Santos2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ST}{%
+         family={Santos},
+         familyi={S\bibinitperiod},
+         given={Thiago},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ST1}
+    \strng{fullhash}{ST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{Package ‘ PVR '. Phylogenetic Eigenvectors Regression and
+  Phylogentic Signal-Representation Curve}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Santos - 2018 - Package ‘ PVR '. Phylogenetic Eigenvectors Regr
+    \verb ession and Phylogentic Signal-Representation Curve.pdf:pdf
+    \endverb
     \field{year}{2018}
   \endentry
 
@@ -14627,12 +16908,12 @@
   of trait data for a broader ecological research community and enable global
   syntheses across a wide range of taxa and ecosystems.%
     }
-    \field{booktitle}{Methods in Ecology and Evolution}
     \verb{doi}
     \verb 10.1111/2041-210X.13288
     \endverb
     \field{issn}{2041210X}
     \field{title}{{Towards an ecological trait-data standard}}
+    \field{journaltitle}{Methods in Ecology and Evolution}
     \field{year}{2019}
   \endentry
 
@@ -14670,6 +16951,96 @@
   comparison between species with invariant and variable clutch sizes}}
     \field{journaltitle}{Journal of Biogeography}
     \field{year}{2017}
+  \endentry
+
+  \entry{Seveque2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SA}{%
+         family={S{\'{e}}v{\^{e}}que},
+         familyi={S\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GLK}{%
+         family={Gentle},
+         familyi={G\bibinitperiod},
+         given={Louise\bibnamedelima K.},
+         giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LBJV}{%
+         family={L{\'{o}}pez-Bao},
+         familyi={L\bibinithyphendelim B\bibinitperiod},
+         given={Jos{\'{e}}\bibnamedelima V.},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=YRW}{%
+         family={Yarnell},
+         familyi={Y\bibinitperiod},
+         given={Richard\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=UA}{%
+         family={Uzal},
+         familyi={U\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Carnivora,coexistence,competition,spatial partitioning,species
+  interactions,temporal partitioning,trophic partitioning}
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SAGLKLBJVYRWUA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Among species, coexistence is driven partly by the partitioning of
+  available resources. The mechanisms of coexistence and competition among
+  species have been a central topic within community ecology, with particular
+  focus on mammalian carnivore community research. However, despite growing
+  concern regarding the impact of humans on the behaviour of species, very
+  little is known about the effect of humans on species interactions. The aim
+  of this review is to establish a comprehensive framework for the impacts of
+  human disturbance on three dimensions (spatial, temporal and trophic) of
+  niche partitioning within carnivore communities and subsequent effects on
+  both intraguild competition and community structure. We conducted a
+  systematic review of the literature on carnivore niche partitioning (246
+  studies) and extracted 46 reported effects of human disturbance. We found
+  evidence that human disturbance impacts resource partitioning, either
+  positively or negatively, in all three niche dimensions. The repercussions of
+  such variations are highly heterogeneous and differ according to both the
+  type of human disturbance and how the landscape and/or availability of
+  resources are affected. We propose a theoretical framework of the three main
+  outcomes for the impacts of human disturbance on intraguild competition and
+  carnivore community structure: (i) human disturbance impedes niche
+  partitioning, increasing intraguild competition and reducing the richness and
+  diversity of the community; (ii) human disturbance unbalances niche
+  partitioning and intraguild competition, affecting community stability; and
+  (iii) human disturbance facilitates niche partitioning, decreasing intraguild
+  competition and enriching the community. We call for better integration of
+  the impact of humans on carnivore communities in future research on
+  interspecific competition.%
+    }
+    \verb{doi}
+    \verb 10.1111/brv.12635
+    \endverb
+    \field{issn}{1469185X}
+    \field{number}{6}
+    \field{pages}{1689\bibrangedash 1705}
+    \field{title}{{Human disturbance has contrasting effects on niche
+  partitioning within carnivore communities}}
+    \field{volume}{95}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/S{\'{e}}v{\^{e}}que et al. - 2020 - Human disturbance has contras
+    \verb ting effects on niche partitioning within carnivore communities.pdf:p
+    \verb df
+    \endverb
+    \field{journaltitle}{Biological Reviews}
+    \field{year}{2020}
   \endentry
 
   \entry{Siefert2015}{article}{}
@@ -14954,7 +17325,7 @@
     \keyw{community ecology, functional diversity, interspecific variation,
   intraspecific variability, leaf trait, plant functional trait, trait-based
   ecology}
-    \strng{namehash}{SA+1}
+    \strng{namehash}{SA+2}
   \strng{fullhash}{SAVCCLACHTAFAALWBCCMBCMVLDVdBFdDLDSFCRFGTGSGNHKJBJVKCKMKSWKEKNJBLABPYLLYMNMJNTOJMPDAPRIMPVDPHCRSSTSBSSCSBSMSMTVMWDA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -15015,7 +17386,7 @@
     }
     \keyw{Body size,Holocene
   extinction,Quaternary,conservation,global,megafaunal extinctions,reptiles}
-    \strng{namehash}{SA+2}
+    \strng{namehash}{SA+3}
     \strng{fullhash}{SATOJIYRPMS1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -15210,6 +17581,84 @@
     \field{year}{2020}
   \endentry
 
+  \entry{Stark2020}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SG}{%
+         family={Stark},
+         familyi={S\bibinitperiod},
+         given={Gavin},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PDD}{%
+         family={Pincheira-Donoso},
+         familyi={P\bibinithyphendelim D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Meiri},
+         familyi={M\bibinitperiod},
+         given={Shai},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{basal metabolic rate,body size,body temperature,environmental
+  temperature,field metabolic rate,longevity,the rate-of-living theory}
+    \strng{namehash}{SG+1}
+    \strng{fullhash}{SGPDDMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Aim: The ‘rate-of-living' theory predicts that life expectancy is a
+  negative function of the rates at which organisms metabolize. According to
+  this theory, factors that accelerate metabolic rates, such as high body
+  temperature and active foraging, lead to organismic ‘wear-out'. This
+  process reduces life span through an accumulation of biochemical errors and
+  the build-up of toxic metabolic by-products. Although the rate-of-living
+  theory is a keystone underlying our understanding of life-history trade-offs,
+  its validity has been recently questioned. The rate-of-living theory has
+  never been tested on a global scale in a phylogenetic framework, or across
+  both endotherms and ectotherms. Here, we test several of its fundamental
+  predictions across the tetrapod tree of life. Location: Global. Time period:
+  Present. Major taxa studied: Land vertebrates. Methods: Using a dataset
+  spanning the life span data of 4,100 land vertebrate species (2,214
+  endotherms, 1,886 ectotherms), we performed the most comprehensive test to
+  date of the fundamental predictions underlying the rate-of-living theory. We
+  investigated how metabolic rates, and a range of factors generally perceived
+  to be strongly associated with them, relate to longevity. Results: Our
+  findings did not support the predictions of the rate-of-living theory. Basal
+  and field metabolic rates, seasonality, and activity times, as well as
+  reptile body temperatures and foraging ecology, were found to be unrelated to
+  longevity. In contrast, lower longevity across ectotherm species was
+  associated with high environmental temperatures. Main conclusions: We
+  conclude that the rate-of-living theory does not hold true for terrestrial
+  vertebrates, and suggest that life expectancy is driven by selection arising
+  from extrinsic mortality factors. A simple link between metabolic rates,
+  oxidative damage and life span is not supported. Importantly, our findings
+  highlight the potential for rapid warming, resulting from the current
+  increase in global temperatures, to drive accelerated rates of senescence in
+  ectotherms.%
+    }
+    \verb{doi}
+    \verb 10.1111/geb.13069
+    \endverb
+    \field{issn}{14668238}
+    \field{number}{5}
+    \field{pages}{857\bibrangedash 884}
+    \field{title}{{No evidence for the ‘rate-of-living' theory across the
+  tetrapod tree of life}}
+    \field{volume}{29}
+    \verb{file}
+    \verb :C\:/Users/adrie/Downloads/geb.13069.pdf:pdf
+    \endverb
+    \field{journaltitle}{Global Ecology and Biogeography}
+    \field{year}{2020}
+  \endentry
+
   \entry{Stark2018}{article}{}
     \name{author}{5}{}{%
       {{hash=SG}{%
@@ -15260,6 +17709,164 @@
   longevity}}
     \field{journaltitle}{Biological Journal of the Linnean Society}
     \field{year}{2018}
+  \endentry
+
+  \entry{Stehfest2019}{article}{}
+    \name{author}{17}{}{%
+      {{hash=SE}{%
+         family={Stehfest},
+         familyi={S\bibinitperiod},
+         given={Elke},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=vZWJ}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Zeist},
+         familyi={Z\bibinitperiod},
+         given={Willem\bibnamedelima Jan},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VH}{%
+         family={Valin},
+         familyi={V\bibinitperiod},
+         given={Hugo},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Havlik},
+         familyi={H\bibinitperiod},
+         given={Petr},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Popp},
+         familyi={P\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Kyle},
+         familyi={K\bibinitperiod},
+         given={Page},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tabeau},
+         familyi={T\bibinitperiod},
+         given={Andrzej},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MDD}{%
+         family={Mason-D'Croz},
+         familyi={M\bibinithyphendelim D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hasegawa},
+         familyi={H\bibinitperiod},
+         given={Tomoko},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BBL}{%
+         family={Bodirsky},
+         familyi={B\bibinitperiod},
+         given={Benjamin\bibnamedelima L.},
+         giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Calvin},
+         familyi={C\bibinitperiod},
+         given={Katherine},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DJC}{%
+         family={Doelman},
+         familyi={D\bibinitperiod},
+         given={Jonathan\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fujimori},
+         familyi={F\bibinitperiod},
+         given={Shinichiro},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Humpen{\"{o}}der},
+         familyi={H\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LCH}{%
+         family={Lotze-Campen},
+         familyi={L\bibinithyphendelim C\bibinitperiod},
+         given={Hermann},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=vMH}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Meijl},
+         familyi={M\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wiebe},
+         familyi={W\bibinitperiod},
+         given={Keith},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{SE+1}
+    \strng{fullhash}{SEZWJvVHHPPAKPTAMDDHTBBLCKDJCFSHFLCHMHvWK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Land use is at the core of various sustainable development goals. Long-term
+  climate foresight studies have structured their recent analyses around five
+  socio-economic pathways (SSPs), with consistent storylines of future
+  macroeconomic and societal developments; however, model quantification of
+  these scenarios shows substantial heterogeneity in land-use projections. Here
+  we build on a recently developed sensitivity approach to identify how future
+  land use depends on six distinct socio-economic drivers (population, wealth,
+  consumption preferences, agricultural productivity, land-use regulation, and
+  trade) and their interactions. Spread across models arises mostly from
+  diverging sensitivities to long-term drivers and from various representations
+  of land-use regulation and trade, calling for reconciliation efforts and more
+  empirical research. Most influential determinants for future cropland and
+  pasture extent are population and agricultural efficiency. Furthermore,
+  land-use regulation and consumption changes can play a key role in reducing
+  both land use and food-security risks, and need to be central elements in
+  sustainable development strategies.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41467-019-09945-w
+    \endverb
+    \field{issn}{20411723}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 10}
+    \field{title}{{Key determinants of global land-use projections}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41467-019-09945-w
+    \endverb
+    \field{volume}{10}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Stehfest et al. - 2019 - Key determinants of global land-use proj
+    \verb ections.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2019}
   \endentry
 
   \entry{Stekhoven2016}{article}{}
@@ -17315,14 +19922,106 @@
   functional response (community level) and effect (ecosystem level)
   algorithms.%
     }
-    \field{booktitle}{Oikos}
     \verb{doi}
     \verb 10.1111/j.0030-1299.2007.15559.x
     \endverb
     \field{isbn}{0030-1299}
     \field{issn}{16000706}
     \field{title}{{Let the concept of trait be functional!}}
+    \field{journaltitle}{Oikos}
     \field{year}{2007}
+  \endentry
+
+  \entry{Weiner2011}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WCN}{%
+         family={Weiner},
+         familyi={W\bibinitperiod},
+         given={Christiane\bibnamedelima Natalie},
+         giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Werner},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LKE}{%
+         family={Linsenmair},
+         familyi={L\bibinitperiod},
+         given={Karl\bibnamedelima Eduard},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BN}{%
+         family={Bl{\"{u}}thgen},
+         familyi={B\bibinitperiod},
+         given={Nico},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier GmbH}%
+    }
+    \keyw{Diversity,Fertilisation,Insects,Mowing,Plant-pollinator
+  networks,Pollinators}
+    \strng{namehash}{WCN+1}
+    \strng{fullhash}{WCNWMLKEBN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    The relationship between resource availability and biodiversity of
+  consumers has gained particular attention with the increasing loss of
+  biodiversity. We evaluated resource availability on meadows of low intensity
+  (low/unfertilised, mown once or twice per year) and meadows of high-intensity
+  land use (high fertilisation, mown twice or thrice) before and after the
+  first mowing in relation to network specialisation, species richness and
+  composition of flower visitors.We studied 40 meadows, simultaneously sampling
+  one meadow of low intensity and one meadow of high-intensity land use. Each
+  survey yielded a separate interaction network, comprising all flower visitors
+  found during 6h in an area of 1000m2.In total we recorded 105 plant species
+  and 586 flower visitor species. Species composition of plants and flower
+  visitors differed considerably between the two management regimes, with
+  species overlaps of 43% in plants and 42% in flower visitors. Complementary
+  specialisation of flower visitors differed between taxa: dipterans were
+  significantly less specialised than beetles and butterflies, and bees had the
+  highest degree of specialisation. Earlier in the season (before mowing),
+  meadows of low-intensity land use were significantly richer in flowering
+  plant, bee and butterfly species. They also showed more plant-flower visitor
+  interactions, greater flowering areas and higher individual numbers of
+  butterflies than meadows of high-intensity land use. However, later in the
+  season (after mowing) management types differed only in plant species
+  richness, being higher on meadows of low-intensity land use.We conclude that
+  variations in plant species composition resulting from differences in
+  grassland management may alter plant-flower visitor interactions. Moreover,
+  an impoverishment of flower diversity has stronger effects on the diversity
+  and species composition of specialised flower visitor groups than on little
+  or unspecialised flower visitors. {\textcopyright} 2011 Gesellschaft
+  f{\"{u}}r {\"{O}}kologie.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.baae.2010.08.006
+    \endverb
+    \field{issn}{16180089}
+    \field{number}{4}
+    \field{pages}{292\bibrangedash 299}
+    \field{title}{{Land use intensity in grasslands: Changes in biodiversity,
+  species composition and specialisation in flower visitor networks}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/j.baae.2010.08.006
+    \endverb
+    \field{volume}{12}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Weiner et al. - 2011 - Land use intensity in grasslands Changes i
+    \verb n biodiversity, species composition and specialisation in flower visi
+    \verb to.pdf:pdf
+    \endverb
+    \field{journaltitle}{Basic and Applied Ecology}
+    \field{year}{2011}
   \endentry
 
   \entry{Weiss2019}{article}{}
@@ -17367,14 +20066,138 @@
   constructive. Our approach promotes standardized methods for integrative
   research across taxa to identify broad trends in community assembly.%
     }
-    \field{booktitle}{Ecography}
     \verb{doi}
     \verb 10.1111/ecog.04387
     \endverb
     \field{issn}{16000587}
     \field{title}{{Unifying functional trait approaches to understand the
   assemblage of ecological communities: synthesizing taxonomic divides}}
+    \field{journaltitle}{Ecography}
     \field{year}{2019}
+  \endentry
+
+  \entry{White2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WCR}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Craig\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=KMR}{%
+         family={Kearney},
+         familyi={K\bibinitperiod},
+         given={Michael\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Macrophysiology,Metabolic rate,Scaling}
+    \strng{namehash}{WCRKMR1}
+    \strng{fullhash}{WCRKMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Basal metabolic rate (BMR) is the rate of metabolism of a resting,
+  postabsorptive, non-reproductive, adult bird or mammal, measured during the
+  inactive circadian phase at a thermoneutral temperature. BMR is one of the
+  most widely measured physiological traits, and data are available for over
+  1,200 species. With data available for such a wide range of species, BMR is a
+  benchmark measurement in ecological and evolutionary physiology, and is often
+  used as a reference against which other levels of metabolism are compared.
+  Implicit in such comparisons is the assumption that BMR is invariant for a
+  given species and that it therefore represents a stable point of comparison.
+  However, BMR shows substantial variation between individuals, populations and
+  species. Investigation of the ultimate (evolutionary) explanations for these
+  differences remains an active area of inquiry, and explanation of
+  size-related trends remains a contentious area. Whereas explanations for the
+  scaling of BMR are generally mechanistic and claim ties to the first
+  principles of chemistry and physics, investigations of mass-independent
+  variation typically take an evolutionary perspective and have demonstrated
+  that BMR is ultimately linked with a range of extrinsic variables including
+  diet, habitat temperature, and net primary productivity. Here we review
+  explanations for size-related and mass-independent variation in the BMR of
+  animals, and suggest ways that the various explanations can be evaluated and
+  integrated. {\textcopyright} 2012 Springer-Verlag.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00360-012-0676-5
+    \endverb
+    \field{issn}{01741578}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 26}
+    \field{title}{{Determinants of inter-specific variation in basal metabolic
+  rate}}
+    \field{volume}{183}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/White, Kearney - 2013 - Determinants of inter-specific variation
+    \verb in basal metabolic rate.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Comparative Physiology B: Biochemical,
+  Systemic, and Environmental Physiology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{White2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WCR}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Craig\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SRS}{%
+         family={Seymour},
+         familyi={S\bibinitperiod},
+         given={Roger\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WCRSRS1}
+    \strng{fullhash}{WCRSRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    The relationship between mammalian basal metabolic rate (BMR, ml of O2 per
+  h) and body mass (M, g) has been the subject of regular investigation for
+  over a century. Typically, the relationship is expressed as an allometric
+  equation of the form BMR = aMb. The scaling exponent (b) is a point of
+  contention throughout this body of literature, within which arguments for and
+  against geometric (b = 2/3) and quarter-power (b = 3/4) scaling are made and
+  rebutted. Recently, interest in the topic has been revived by published
+  explanations for quarter-power scaling based on fractal nutrient supply
+  networks and four-dimensional biology. Here, a new analysis of the allometry
+  of mammalian BMR that accounts for variation associated with body
+  temperature, digestive state, and phylogeny finds no support for a metabolic
+  scaling exponent of 3/4. Data encompassing five orders of magnitude variation
+  in M and featuring 619 species from 19 mammalian orders show that BMR ∝
+  M2/3.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.0436428100
+    \endverb
+    \field{issn}{00278424}
+    \field{number}{7}
+    \field{pages}{4046\bibrangedash 4049}
+    \field{title}{{Mammalian basal metabolic rate is proportional to body
+  mass2/3}}
+    \field{volume}{100}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/White, Seymour - 2003 - Mammalian basal metabolic rate is proport
+    \verb ional to body mass23.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2003}
   \endentry
 
   \entry{Whitmee2013a}{article}{}
@@ -17496,13 +20319,13 @@
   interactions between climate and land-use change and set up suitable
   management and conservation plans.%
     }
-    \field{booktitle}{Diversity and Distributions}
     \verb{doi}
     \verb 10.1111/ddi.12999
     \endverb
     \field{issn}{14724642}
     \field{title}{{Local climatic changes affect biodiversity responses to land
   use: A review}}
+    \field{journaltitle}{Diversity and Distributions}
     \field{year}{2020}
   \endentry
 
@@ -17644,13 +20467,86 @@
   of the trait-based framework to advance ecological insights from the most
   diverse eukaryotic organisms on Earth.%
     }
-    \field{booktitle}{Biological Reviews}
     \verb{doi}
     \verb 10.1111/brv.12488
     \endverb
     \field{issn}{1469185X}
     \field{title}{{Trait-based ecology of terrestrial arthropods}}
+    \field{journaltitle}{Biological Reviews}
     \field{year}{2018}
+  \endentry
+
+  \entry{Young2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=YHS}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={Hillary\bibnamedelima S.},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MDJ}{%
+         family={McCauley},
+         familyi={M\bibinitperiod},
+         given={Douglas\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Galetti},
+         familyi={G\bibinitperiod},
+         given={Mauro},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dirzo},
+         familyi={D\bibinitperiod},
+         given={Rodolfo},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Animal conservation,Animal overexploitation,Defaunation
+  cascades,Freshwater fauna,Marine fauna,Terrestrial fauna}
+    \strng{namehash}{YHS+1}
+    \strng{fullhash}{YHSMDJGMDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{abstract}{%
+    Anthropocene defaunation, the global extinction of faunal species and
+  populations and the decline in abundance of individuals within populations,
+  has been predominantly documented in terrestrial ecosystems, but indicators
+  suggest defaunation has been more severe in freshwater ecosystems. Marine
+  defaunation is in a more incipient stage, yet pronounced effects are already
+  apparent and its rapid acceleration seems likely. Defaunation now impacts the
+  planet's wildlife with profound cascading consequences, ranging from local to
+  global coextinctions of interacting species to the loss of ecological
+  services critical for humanity. Slowing defaunation will require aggressively
+  reducing animal overexploitation and habitat destruction; mitigating climate
+  disruption; and stabilizing the impacts of human population growth and uneven
+  resource consumption. Given its omnipresence, defaunation should receive
+  status of major global environmental change and should be addressed with the
+  same urgency as deforestation, pollution, and climatic change. Global action
+  is needed to prevent defaunation's current trajectory from catalyzing the
+  planet's sixth major extinction.%
+    }
+    \verb{doi}
+    \verb 10.1146/annurev-ecolsys-112414-054142
+    \endverb
+    \field{issn}{15452069}
+    \field{number}{December}
+    \field{pages}{333\bibrangedash 358}
+    \field{title}{{Patterns, Causes, and Consequences of Anthropocene
+  Defaunation}}
+    \field{volume}{47}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Young et al. - 2016 - Patterns, Causes, and Consequences of Anthr
+    \verb opocene Defaunation.pdf:pdf
+    \endverb
+    \field{journaltitle}{Annual Review of Ecology, Evolution, and Systematics}
+    \field{year}{2016}
   \endentry
 
   \entry{Zamudio2016}{article}{}
@@ -17813,6 +20709,93 @@
     \field{journaltitle}{Proceedings of the Royal Society B: Biological
   Sciences}
     \field{year}{2018}
+  \endentry
+
+  \entry{ZunigaPalacios2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZPJ}{%
+         family={Zu{\~{n}}iga-Palacios},
+         familyi={Z\bibinithyphendelim P\bibinitperiod},
+         given={Jes{\'{u}}s},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZI}{%
+         family={Zuria},
+         familyi={Z\bibinitperiod},
+         given={Iriana},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CI}{%
+         family={Castellanos},
+         familyi={C\bibinitperiod},
+         given={Ignacio},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lara},
+         familyi={L\bibinitperiod},
+         given={Carlos},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SRG}{%
+         family={S{\'{a}}nchez-Rojas},
+         familyi={S\bibinithyphendelim R\bibinitperiod},
+         given={Gerardo},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{Behavior,Fitness,Habitat preference,Safe habitats,Urbanization}
+    \strng{namehash}{ZPJ+1}
+    \strng{fullhash}{ZPJZICILCSRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{abstract}{%
+    Urban areas represent a spectrum that goes from being safe habitats for
+  biodiversity (i.e., habitats more or equally preferred, without costs to
+  fitness) to being ecological traps (i.e., habitats more or equally preferred,
+  but with costs to fitness). Given the imminent urban expansion, it is
+  valuable to assess how biodiversity is responding to urbanization and thus
+  generate timely conservation strategies. We systematically review the urban
+  ecology literature to analyze how much do we know about the role of urban
+  areas as ecological traps. Using a formal meta-analytical approach, we test
+  whether urban areas are functioning as ecological traps or as safe habitats
+  for different taxonomic groups. We generated a data set of 646 effect sizes
+  of different measures of habitat preferences and fitness from 38 papers
+  published between 1985 and 2020. The data set covered 15 countries and 47
+  urban areas from four continents, including 29 animal species. Studies from
+  North America and Europe were best represented, and birds were the most
+  studied taxa. Overall, the meta-analysis suggests that urbanized habitats are
+  functioning more as safe sites than as ecological traps, mainly for certain
+  species with characteristics that have allowed them to adapt well to urban
+  areas. That is, many of the studied species prefer more urbanized habitats
+  over other less urbanized sites, and their fitness is not modified, or it is
+  even increased. However, there was high heterogeneity among studies. We also
+  performed meta-regressions to identify variables accounting for this
+  heterogeneity across studies and we demonstrate that outcomes may depend on
+  methodological aspects of studies, such as study design or the approach used
+  to measure habitat preference and fitness. More research is needed for poorly
+  studied regions and on a wider range of species before generalizations can be
+  made on the role of urban areas for biodiversity conservation.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.scitotenv.2021.146559
+    \endverb
+    \field{issn}{18791026}
+    \field{title}{{What do we know (and need to know) about the role of urban
+  habitats as ecological traps? Systematic review and meta-analysis}}
+    \field{volume}{780}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Zu{\~{n}}iga-Palacios et al. - 2021 - What do we know (and need t
+    \verb o know) about the role of urban habitats as ecological traps Systemat
+    \verb ic revie.pdf:pdf
+    \endverb
+    \field{journaltitle}{Science of the Total Environment}
+    \field{year}{2021}
   \endentry
 \enddatalist
 \endinput

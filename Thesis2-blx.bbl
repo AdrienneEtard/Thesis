@@ -370,7 +370,6 @@
   decision-making, especially for those efforts attempting to reconstruct or
   preserve healthy, functioning ecosystems.%
     }
-    \field{booktitle}{Journal of Applied Ecology}
     \verb{doi}
     \verb 10.1111/j.1365-2664.2011.02048.x
     \endverb
@@ -378,6 +377,7 @@
     \field{issn}{00218901}
     \field{title}{{Beyond species: Functional diversity and the maintenance of
   ecological processes and services}}
+    \field{journaltitle}{Journal of Applied Ecology}
     \field{year}{2011}
   \endentry
 
