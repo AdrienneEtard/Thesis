@@ -25,7 +25,7 @@ To test both predictions, I use a space-for-time substitution approach, obtainin
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.75]{figures/Chapter5/Figure1}
-\caption[Map of PREDICTS sites, sample sizes and NPP by land use and land-use intensity]{(a) Spatial distribution of the sampled sites from the PREDICTS database for terrestrial vertebrates (6,484 sites); (b) Number of sites in each land-use and land-use-intensity category; (c) Net primary productivity by land use and land-use intensity (derived from MODIS satellite imagery), with model predictions plotted relative to minimally used primary vegetation (and rescaled with reference to that land-use type). Primary: primary vegetation; secondary: secondary vegetation; plantation: plantation forest.}
+\caption[Map of PREDICTS sites, sample sizes and NPP by land use and land-use intensity]{\textbf{(a) Spatial distribution of the sampled sites} from the PREDICTS database for terrestrial vertebrates (6,484 sites); (\textbf{b) Number of sites in each land-use and land-use-intensity category;} \textbf{(c) Net primary productivity by land use and land-use intensity} (derived from MODIS satellite imagery), with model predictions plotted relative to minimally used primary vegetation (and rescaled with reference to that land-use type). Primary: primary vegetation; secondary: secondary vegetation; plantation: plantation forest.}
 \label{chap5_fig1}
 \end{figure}
 
@@ -82,19 +82,46 @@ I checked the phylogenetic signal in the model residuals using Pagel’s $\lambd
 
 Land use, land-use intensity, trophic group and their interactions had significant effects on assemblage-level total RMR (Figure \ref{chap5_fig3}). Overall, and contrary to our expectations, assemblage-level total RMR did not show systematic decreases in disturbed land uses. In fact, urban land uses were associated with strong significant increases in tRMR in all trophic groups (e.g., a 200\% average increase in tRMR in lightly-used urban areas for carnivores, compared with primary vegetation levels; +207\% on average in lightly-used urban areas for herbivores; +107\% for minimally-used urban areas for omnivores). In other land uses, responses depended on trophic group and land-use intensity. Whilst for herbivores, disturbed land uses were typically associated with increases in tRMR, we detected decreases in tRMR for omnivores and carnivores in several land uses, most notably in intensely-used pasture for carnivores (-84\%). Such effects could reflect changes in the size-spectrum of local assemblages (Fig. S2). \textbf{For instance, in lightly-used urban areas, larger herbivores tended to occur at higher abundances compared to primary vegetation level; and in intensely-used pastures, carnivores tended to occur at lower abundances overall (Fig. S2).}
 
-\begin{figure}[h!]
+\vspace{0.5cm}
+The model residuals were appropriately distributed (see diagnostic plots, Fig. S3). Investigating the sensitivity of our results to imputation uncertainty showed that our results and conclusions were robust to the removal of all imputed estimates of RMR \textbf{(the correlation coefficient was 0.72 between the two sets of model coefficients; Fig. S4). Comparing model predictions showed that effects were mostly congruent, although there were some differences (Fig. S5).} In particular, for herbivores, effect sizes tended to be bigger for the model fitted on empirical data compared with the model that included imputed data. Thus, our main results appear to be conservative if anything. The model fitted on empirical data had larger standard errors, likely due to the reduction in sample size. 
+
+\clearpage
+
+\begin{figure}[t!]
 \centering
 \includegraphics[scale=0.75]{figures/Chapter5/Figure3}
 \caption[Effects of land use, land-use intensity and trophic group on assemblage-level total RMR.]{\textbf{Effects of land use, land-use intensity and trophic group on assemblage-level total RMR.} Model predictions are rescaled with reference to minimally-used primary vegetation, considered to be the undisturbed baseline. Primary: primary vegetation; secondary: secondary vegetation; plantation: plantation forest. }
 \label{chap5_fig3}
 \end{figure}
 
-The model residuals were appropriately distributed (see diagnostic plots, Fig. S3). Investigating the sensitivity of our results to imputation uncertainty showed that our results and conclusions were robust to the removal of all imputed estimates of RMR \textbf{(the correlation coefficient was 0.72 between the two sets of model coefficients; Fig. S4). Comparing model predictions showed that effects were mostly congruent, although there were some differences (Fig. S5).} In particular, for herbivores, effect sizes tended to be bigger for the model fitted on empirical data compared with the model that included imputed data. Thus, our main results appear to be conservative if anything. The model fitted on empirical data had larger standard errors, likely due to the reduction in sample size. 
-
-
 
 \subsection{Effects of land use, land-use intensity, trophic group and residual RMR on species’ occurrence probability}
 
+Species’ occurrence probability was significantly affected by land use, land-use intensity, trophic level, residual RMR and their interactions (Figures \ref{chap5_fig4}, \ref{chap5_fig5}). Contrary to our expectations, species with higher residual RMR (relative to their body mass and taxonomic position) tended to do better than species with lower residual RMR in a number of disturbed land uses. Overall, land-use type was more important for determining the relationship between occurrence probability and residual RMR than land-use intensity (Figure \ref{chap5_fig4}a).
+
+For minimally-used primary vegetation (reference), the model predicted negative effects of residual RMR on species occurrence probability in all trophic levels (but with a significant slope for herbivores only; Figure \ref{chap5_fig4}a). However, the directionality of this relationship was reversed in some disturbed land uses in all trophic groups (secondary vegetation, cropland and urban for omnivores; cropland for herbivores; urban for carnivores), with significant positive slopes, also significantly higher than those observed for primary vegetation (Figure \ref{chap5_fig4}a). The only exception was the opposite pattern for urban herbivores (\ref{chap5_fig4}b), where residual RMR had a more negative effect on occurrence probability than in minimally-used primary vegetation.
+ 
+%% Figure 
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.65]{figures/Chapter5/Figure4}
+\caption[Slope estimates and predictions for the relationship between occurrence probability and residual RMR]{\textbf{(a) Slope estimates for the relationship between residual RMR and occurrence probability in each land-use type and for the three levels of land-use intensity.} The black horizontal line indicates the slope for the reference level (primary vegetation) for minimal land-use intensity. The grey dashed line marks 0. Error bars are 95\% confidence intervals. \textbf{(b) Effect of residual RMR on species probability of occurrence within each trophic level and for each land use-type.} I plotted the predictions for minimal land-use intensity only. Solid lines represent significant relationships. Primary: primary vegetation; secondary: secondary vegetation; plantation: plantation forest.}
+\label{chap5_fig4}
+\end{figure}
+
+\clearpage 
+I would like to emphasize that positive effects of residual RMR on occurrence probability in some of the most disturbed land uses (e.g., urban for carnivores) do not mean that there were absolute increases in species occurrence probability in disturbed land uses compared to primary vegetation (and vice-versa). I illustrate this point in Figure \ref{chap5_fig5}. For carnivores with a median value for residual RMR, occurrence probability was reduced by an average 24\% in urban land uses compared to primary vegetation. 
+
+%% Figure 
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.65]{figures/Chapter5/Figure5}
+\caption[Predicted occurrence probabilities in primary vegetation and for the most disturbed land uses where residual RMR was found to have a significant effect on occurrence probability]{\textbf{Predicted occurrence probabilities (+/- 95\% confidence interval) in primary vegetation (primary) and for the most disturbed land uses where residual RMR was found to have a significant effect on occurrence probability.} For visualisation purposes, I discretised residual RMR in three levels. The predicted probabilities of occurrence were rescaled with reference to primary vegetation for the lowest value of residual RMR (25\% quantile). Here, the predictions are plotted for minimal land-use intensity (effects would be similar for light and intense land-use intensities). Black points and error bars are plotted where the relationship between occurrence probability and residual RMR was significant (and dark grey points and error bars represent non-significant trends).}
+\label{chap5_fig5}
+\end{figure}
+
+Finally, the model showed some degree of deviation from distributional assumptions (diagnostic plots, Fig. S6). Nevertheless, the model's coefficients were similar when estimated with a Bayesian framework, suggesting that the estimates were robust (Fig. S7). The phylogenetic signal in the model residuals was weak and non-significant ($\lambda$=0.004, P=0.24). Re-fitting the model using the complete data subset (i.e., excluding imputed RMR estimates) showed that our conclusions are likely robust to imputation uncertainty (Fig. S8), with congruent results overall, although there were a few differences in the predictions between the two models – notably, for herbivores in urban land uses (Fig. S8).  
 
 
+\clearpage
 \section{Discussion}

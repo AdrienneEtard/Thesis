@@ -100,70 +100,70 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {subsection}{\numberline {5.3.2}Effects of land use, land-use intensity, trophic group and residual RMR on species’ occurrence probability}{69}{subsection.5.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.4}Discussion}{69}{section.5.4}%
+\contentsline {section}{\numberline {5.4}Discussion}{72}{section.5.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {6}General discussion}{70}{chapter.6}%
+\contentsline {chapter}{\numberline {6}General discussion}{73}{chapter.6}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {7}Conclusion}{71}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Conclusion}{74}{chapter.7}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Bibliography}{72}{chapter.7}%
+\contentsline {chapter}{Bibliography}{75}{chapter.7}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendices}{86}{chapter*.35}%
+\contentsline {chapter}{Appendices}{89}{chapter*.37}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 1: Supporting information for Chapter 1}{87}{chapter*.36}%
+\contentsline {chapter}{Appendix 1: Supporting information for Chapter 1}{90}{chapter*.38}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 2: Supporting information for Chapter 2}{87}{chapter*.37}%
+\contentsline {chapter}{Appendix 2: Supporting information for Chapter 2}{90}{chapter*.39}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.1}Taxonomic corrections}{88}{section.7.1}%
+\contentsline {section}{\numberline {S2.1}Taxonomic corrections}{91}{section.7.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}{88}{paragraph*.39}%
+\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}{91}{paragraph*.41}%
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Output.}{89}{paragraph*.40}%
+\contentsline {paragraph}{Output.}{92}{paragraph*.42}%
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{89}{paragraph*.41}%
+\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{92}{paragraph*.43}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.2}Additional information for trait compilation}{91}{section.7.2}%
+\contentsline {section}{\numberline {S2.2}Additional information for trait compilation}{94}{section.7.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.3}Cutting distribution maps by altitudinal limits}{92}{section.7.3}%
+\contentsline {section}{\numberline {S2.3}Cutting distribution maps by altitudinal limits}{95}{section.7.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.4}Impact of taxonomic corrections on trait coverage}{93}{section.7.4}%
+\contentsline {section}{\numberline {S2.4}Impact of taxonomic corrections on trait coverage}{96}{section.7.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.5}Assemblage-level median, mean and standard deviation of trait completeness (maps)}{94}{section.7.5}%
+\contentsline {section}{\numberline {S2.5}Assemblage-level median, mean and standard deviation of trait completeness (maps)}{97}{section.7.5}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.6}Phylogenetic patterns in trait completeness}{99}{section.7.6}%
+\contentsline {section}{\numberline {S2.6}Phylogenetic patterns in trait completeness}{102}{section.7.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.7}Model coefficients for Range size against Number of sampled traits (Poisson model).}{104}{section.7.7}%
+\contentsline {section}{\numberline {S2.7}Model coefficients for Range size against Number of sampled traits (Poisson model).}{107}{section.7.7}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.8}Spatial models summaries}{106}{section.7.8}%
+\contentsline {section}{\numberline {S2.8}Spatial models summaries}{109}{section.7.8}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.9}Trait coverage and taxonomic matching}{107}{section.7.9}%
+\contentsline {section}{\numberline {S2.9}Trait coverage and taxonomic matching}{110}{section.7.9}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 3: Supporting information for Chapter 3}{107}{figure.caption.61}%
+\contentsline {chapter}{Appendix 3: Supporting information for Chapter 3}{110}{figure.caption.63}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.1}Land-use categories in PREDICTS and sample sizes}{108}{section.7.1}%
+\contentsline {section}{\numberline {S3.1}Land-use categories in PREDICTS and sample sizes}{111}{section.7.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.2}Trait data \& imputation of missing trait values}{111}{section.7.2}%
+\contentsline {section}{\numberline {S3.2}Trait data \& imputation of missing trait values}{114}{section.7.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.1}Choice of imputation technique}{113}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {S3.2.1}Choice of imputation technique}{116}{subsection.7.2.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.2}Phylogenetic signal in traits}{113}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {S3.2.2}Phylogenetic signal in traits}{116}{subsection.7.2.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.3}Implementation of missForest imputations}{114}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {S3.2.3}Implementation of missForest imputations}{117}{subsection.7.2.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.3}Degree of multicollinearity among traits}{115}{section.7.3}%
+\contentsline {section}{\numberline {S3.3}Degree of multicollinearity among traits}{118}{section.7.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.4}Imputation performance}{116}{section.7.4}%
+\contentsline {section}{\numberline {S3.4}Imputation performance}{119}{section.7.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.5}Functional loss and functional gain}{119}{section.7.5}%
+\contentsline {section}{\numberline {S3.5}Functional loss and functional gain}{122}{section.7.5}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.6}Diagnostic plots}{122}{section.7.6}%
+\contentsline {section}{\numberline {S3.6}Diagnostic plots}{125}{section.7.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.7}Model robustness}{131}{section.7.7}%
+\contentsline {section}{\numberline {S3.7}Model robustness}{134}{section.7.7}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.8}Model robustness -- time since land-use conversion}{138}{section.7.8}%
+\contentsline {section}{\numberline {S3.8}Model robustness -- time since land-use conversion}{141}{section.7.8}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 4: Supporting information for Chapter 4}{139}{table.caption.94}%
+\contentsline {chapter}{Appendix 4: Supporting information for Chapter 4}{142}{table.caption.96}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 5: Supporting information for Chapter 5}{141}{chapter*.95}%
+\contentsline {chapter}{Appendix 5: Supporting information for Chapter 5}{144}{chapter*.97}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Bibliography for the Appendices}{143}{chapter*.96}%
+\contentsline {chapter}{Bibliography for the Appendices}{146}{chapter*.98}%
