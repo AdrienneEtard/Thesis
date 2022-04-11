@@ -479,6 +479,142 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Barnes2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=BAD}{%
+         family={Barnes},
+         familyi={B\bibinitperiod},
+         given={Andrew\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jochum},
+         familyi={J\bibinitperiod},
+         given={Malte},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mumme},
+         familyi={M\bibinitperiod},
+         given={Steffen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HNF}{%
+         family={Haneda},
+         familyi={H\bibinitperiod},
+         given={Noor\bibnamedelima Farikhah},
+         giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Farajallah},
+         familyi={F\bibinitperiod},
+         given={Achmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WTH}{%
+         family={Widarto},
+         familyi={W\bibinitperiod},
+         given={Tri\bibnamedelima Heru},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={Brose},
+         familyi={B\bibinitperiod},
+         given={Ulrich},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BAD+1}
+    \strng{fullhash}{BADJMMSHNFFAWTHBU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1038/ncomms6351
+    \endverb
+    \field{issn}{20411723}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{{Consequences of tropical land use for multitrophic
+  biodiversity and ecosystem functioning}}
+    \field{volume}{5}
+    \field{journaltitle}{Nature Communications}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Bateman2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BPW}{%
+         family={Bateman},
+         familyi={B\bibinitperiod},
+         given={P.\bibnamedelima W.},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=FPA}{%
+         family={Fleming},
+         familyi={F\bibinitperiod},
+         given={P.\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Adaptation,Carnivora,Urbanization}
+    \strng{namehash}{BPWFPA1}
+    \strng{fullhash}{BPWFPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Cities may represent one of the most challenging environments for
+  carnivorous mammals. For example, cities have a dearth of vegetation and
+  other natural resources, coupled with increased habitat fragmentation and an
+  abundance of roads as well as altered climate (e.g. temperature, light,
+  rainfall and water runoff). It is therefore intriguing that several carnivore
+  species have become established in cities across the globe. Medium-sized
+  carnivores such as the red fox, coyote, Eurasian badger and raccoon not only
+  survive in cities but also have managed to exploit anthropogenic food sources
+  and shelter to their significant advantage, achieving higher population
+  densities than are found under natural conditions. In addition, although they
+  may not live permanently within cities, even large carnivores such as bears,
+  wolves and hyaenas derive significant benefit from living adjacent to
+  urbanized areas. In this review, we examine the history of urban adaptation
+  by mammalian carnivores, explore where they are living, what they eat, what
+  kills them and the behavioural consequences of living in urban areas. We
+  review the biology of urban carnivores, exploring traits such as body size
+  and dietary flexibility. Finally, we consider the consequences of having
+  populations of carnivores in urbanized areas, both for humans and for these
+  charismatic mammals. In conclusion, in a time of massive environmental change
+  across the globe, the continuing encroachment of urbanization upon wilderness
+  areas is substantially reducing the availability of natural habitats for many
+  species; therefore, understanding the biology of any taxon that is able to
+  adapt to and exploit anthropogenically disturbed systems must aid us in both
+  controlling and developing suitable conservation measures for the future of
+  such species. {\textcopyright} 2012 The Zoological Society of London.%
+    }
+    \verb{doi}
+    \verb 10.1111/j.1469-7998.2011.00887.x
+    \endverb
+    \field{issn}{09528369}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 23}
+    \field{title}{{Big city life: Carnivores in urban environments}}
+    \field{volume}{287}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Bateman, Fleming - 2012 - Big city life Carnivores in urban envir
+    \verb onments.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Zoology}
+    \field{year}{2012}
+  \endentry
+
   \entry{Bates2015}{article}{}
     \name{author}{4}{}{%
       {{hash=BD}{%
@@ -817,6 +953,69 @@
   fragmentation on animals}}
     \field{journaltitle}{Science}
     \field{year}{2019}
+  \endentry
+
+  \entry{Biro2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BPA}{%
+         family={Biro},
+         familyi={B\bibinitperiod},
+         given={Peter\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SJA}{%
+         family={Stamps},
+         familyi={S\bibinitperiod},
+         given={Judy\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier Ltd}%
+    }
+    \strng{namehash}{BPASJA1}
+    \strng{fullhash}{BPASJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Consistent individual differences (CIDs) in behavior are a widespread
+  phenomenon in animals, but the proximate reasons for them are unresolved. We
+  discuss evidence for the hypothesis that CIDs in energy metabolism, as
+  reflected by resting metabolic rate (RMR), promote CIDs in behavior patterns
+  that either provide net energy (e.g. foraging activity), and/or consume
+  energy (e.g. courtship activity). In doing so, we provide a framework for
+  linking together RMR, behavior, and life-history productivity. Empirical
+  studies suggest that RMR is (a) related to the capacity to generate energy,
+  (b) repeatable, and (c) correlated with behavioral output (e.g.
+  aggressiveness) and productivity (e.g. growth). We conclude by discussing
+  future research directions to clarify linkages between behavior and energy
+  metabolism in this emerging research area. {\textcopyright} 2010 Elsevier
+  Ltd.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.tree.2010.08.003
+    \endverb
+    \field{issn}{01695347}
+    \field{number}{11}
+    \field{pages}{653\bibrangedash 659}
+    \field{title}{{Do consistent individual differences in metabolic rate
+  promote consistent individual differences in behavior?}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/j.tree.2010.08.003
+    \endverb
+    \field{volume}{25}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Biro, Stamps - 2010 - Do consistent individual differences in met
+    \verb abolic rate promote consistent individual differences in behavior.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Trends in Ecology and Evolution}
+    \field{year}{2010}
   \endentry
 
   \entry{spatialreg2}{article}{}
@@ -1643,6 +1842,85 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Brischoux2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BF}{%
+         family={Brischoux},
+         familyi={B\bibinitperiod},
+         given={Fran{\c{c}}ois},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Meill{\`{e}}re},
+         familyi={M\bibinitperiod},
+         given={Aliz{\'{e}}e},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dupou{\'{e}}},
+         familyi={D\bibinitperiod},
+         given={Andr{\'{e}}az},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LO}{%
+         family={Lourdais},
+         familyi={L\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=AF}{%
+         family={Angelier},
+         familyi={A\bibinitperiod},
+         given={Fr{\'{e}}d{\'{e}}ric},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BF+1}
+    \strng{fullhash}{BFMADALOAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    High levels of anthropogenic noise produced in urban areas are known to
+  negatively affect wildlife. Although most research has been focused on the
+  disturbances of communication systems, chronic noise exposure can also lead
+  to physiological and behavioural changes that have strong consequences for
+  fitness. For instance, behavioural changes mediated by anthropogenic noise
+  (e.g. quality of parental care) may alter development and could influence
+  nestling phenotype. We tested if nestling metabolism was influence by traffic
+  noise in an urban exploiter, the house sparrow Passer domesticus. We
+  experimentally exposed breeding house sparrows from a rural area to a
+  playback of traffic noise and we examined the impacts of this experimental
+  procedure on metabolic rates and morphology of nestlings. We did not find an
+  effect of traffic noise on the morphology of nestlings. Surprisingly, we
+  found that disturbed nestlings had overall lower metabolic rates and
+  mass-adjusted metabolic rates than undisturbed birds. Our results suggest a
+  specific effect of noise exposure per se, rather than an indirect effect of
+  anthropogenic noise through the quality of parental care. Both the proximate
+  mechanisms and the ultimate consequences of such metabolic changes on
+  nestlings remain unknown and deserve future experimental studies.%
+    }
+    \verb{doi}
+    \verb 10.1111/jav.01139
+    \endverb
+    \field{issn}{1600048X}
+    \field{number}{7}
+    \field{pages}{905\bibrangedash 909}
+    \field{title}{{Traffic noise decreases nestlings' metabolic rates in an
+  urban exploiter}}
+    \field{volume}{48}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Brischoux et al. - 2017 - Traffic noise decreases nestlings' meta
+    \verb bolic rates in an urban exploiter.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Avian Biology}
+    \field{year}{2017}
+  \endentry
+
   \entry{Bruggeman2009}{article}{}
     \name{author}{3}{}{%
       {{hash=BJ}{%
@@ -1700,6 +1978,75 @@
   phylogeny}}
     \field{journaltitle}{Nucleic Acids Research}
     \field{year}{2009}
+  \endentry
+
+  \entry{Brzek2001}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BP}{%
+         family={Brz{\c{e}}k},
+         familyi={B\bibinitperiod},
+         given={Pawe{\l}},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Konarzewski},
+         familyi={K\bibinitperiod},
+         given={Marek},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Digestive physiology,Energetics,Hatching asynchrony,Riparia
+  riparia,Sand martin,Sibling competition}
+    \strng{namehash}{BPKM1}
+    \strng{fullhash}{BPKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    We examined developmental and behavioural plasticity of sand martin
+  (Riparia riparia) nestlings hand-reared under laboratory conditions. We
+  created six broods of six 4-day-old nestlings and randomly assigned them to
+  one of the two following feeding regimens, each lasting for 3 days: (1) all
+  nestmates fed a similar, limited amount of food (FR nestlings). This
+  simulated synchronous hatching under conditions of food restriction. (2) Half
+  the brood were food-restricted (FR/AL nestlings), and half were fed ad
+  libitum (AL nestlings), as in asynchronously hatched broods with differential
+  food allocation. Under both regimens, food restriction resulted in a
+  reduction in body mass, intestinal mass, pectoral muscle mass, fat reserves,
+  body temperature and resting metabolic rate (RMR). However, it simultaneously
+  triggered a significant increase in intestinal uptake rates of L-proline and
+  locomotor activity, quantified as frequency of crawling into the artificial
+  nest tunnel by individual nestlings. Locomotor activity and intestinal uptake
+  rates of L-proline by ER nestlings were higher than those of ER/AL young,
+  while body temperature and RMR of ER nestlings were lower. We conclude that
+  food-restricted nestlings responded actively to food shortages by
+  upregulating their gut function, reducing the energy costs of maintenance and
+  increasing locomotor activity. These behavioural and physiological responses
+  were strongest in broods of similar-sized ER nestlings, which can be
+  interpreted as an escalation of sibling competition. Thus, developmental and
+  behavioural plasticity may be an important factor in the evolution of sibling
+  rivalry.%
+    }
+    \verb{doi}
+    \verb 10.1242/jeb.204.17.3065
+    \endverb
+    \field{issn}{00220949}
+    \field{number}{17}
+    \field{pages}{3065\bibrangedash 3074}
+    \field{title}{{Effect of food shortage on the physiology and competitive
+  abilities of sand martin (Riparia riparia) nestlings}}
+    \field{volume}{204}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Brzȩk, Konarzewski - 2001 - Effect of food shortage on the physi
+    \verb ology and competitive abilities of sand martin (Riparia riparia) nest
+    \verb lin.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Experimental Biology}
+    \field{year}{2001}
   \endentry
 
   \entry{Bushuev2018}{article}{}
@@ -2808,6 +3155,81 @@
     \endverb
     \field{journaltitle}{Tropical Conservation Science}
     \field{year}{2008}
+  \endentry
+
+  \entry{Coogan2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CSC}{%
+         family={Coogan},
+         familyi={C\bibinitperiod},
+         given={Sean\bibnamedelima C.P.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Raubenheimer},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZSP}{%
+         family={Zantis},
+         familyi={Z\bibinitperiod},
+         given={Simon\bibnamedelima P.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MCGE}{%
+         family={Machovsky-Capuska},
+         familyi={M\bibinithyphendelim C\bibinitperiod},
+         given={Gabriel\bibnamedelima E.},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{birds,foraging behavior,macronutrients,multidimensional nutritional
+  niche,nutritional ecology,supplementary food,urban ecology}
+    \strng{namehash}{CSC+1}
+    \strng{fullhash}{CSCRDZSPMCGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    There is growing interest in the question of how urbanization affects the
+  ecology of birds, across timescales from relatively short-term physiological
+  responses to long-term evolutionary adaptation. The ability to gain the
+  required nutrients in urban habitats is a key trait of successful urban
+  birds. Foraging behavior, in itself, increasingly is recognized as a complex
+  nutritional phenomenon, where the ratios, proportions, and amounts of
+  macronutrients (protein, carbohydrate, and lipid) in foods, meals, and diets
+  have been shown to exert a driving influence. Yet, despite the rising trend
+  of urbanization, the importance of food quality and quantity in urban
+  ecology, and the growing evidence demonstrating the pervasive and sometimes
+  complex role of macronutrients in foraging behavior, the nutritional ecology
+  of urban birds remains poorly understood. Here, we review the foraging
+  behavior and role of macronutrients in the ecology of urban birds and
+  demonstrate how incorporating a multidimensional approach to nutrition can
+  provide new insights into their urban ecology. To that end, we demonstrate
+  how a macronutrient-based view can aid in understanding the relationships
+  between natural, anthropogenic, and supplementary foods. We then provide an
+  overview of multidimensional nutritional niche concepts that can be used to
+  generate explanatory and predictive models for urban bird ecology. We
+  conclude that multidimensional nutritional ecology provides an appropriate
+  framework for understanding the roles that nutrition plays in the
+  relationships between urban birds and their environments.%
+    }
+    \verb{doi}
+    \verb 10.1002/ecs2.2177
+    \endverb
+    \field{issn}{21508925}
+    \field{number}{4}
+    \field{title}{{Multidimensional nutritional ecology and urban birds}}
+    \field{volume}{9}
+    \verb{file}
+    \verb :C\:/Users/adrie/Downloads/ecs2.2177.pdf:pdf
+    \endverb
+    \field{journaltitle}{Ecosphere}
+    \field{year}{2018}
   \endentry
 
   \entry{Cooke2019b}{article}{}
@@ -4048,6 +4470,182 @@
     \field{year}{2021}
   \endentry
 
+  \entry{VanEeden2018}{article}{}
+    \name{author}{21}{}{%
+      {{hash=vELM}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Eeden},
+         familyi={E\bibinitperiod},
+         given={Lily\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Eklund},
+         familyi={E\bibinitperiod},
+         given={Ann},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MJR}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={Jennifer\bibnamedelima R.B.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=LBJV}{%
+         family={L{\'{o}}pez-Bao},
+         familyi={L\bibinithyphendelim B\bibinitperiod},
+         given={Jos{\'{e}}\bibnamedelima Vicente},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Chapron},
+         familyi={C\bibinitperiod},
+         given={Guillaume},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CMR}{%
+         family={Cejtin},
+         familyi={C\bibinitperiod},
+         given={Mikael\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CMS}{%
+         family={Crowther},
+         familyi={C\bibinitperiod},
+         given={Mathew\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DCR}{%
+         family={Dickman},
+         familyi={D\bibinitperiod},
+         given={Christopher\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Frank},
+         familyi={F\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Krofel},
+         familyi={K\bibinitperiod},
+         given={Miha},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MDW}{%
+         family={Macdonald},
+         familyi={M\bibinitperiod},
+         given={David\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={McManus},
+         familyi={M\bibinitperiod},
+         given={Jeannine},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MTK}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Tara\bibnamedelima K.},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MAD}{%
+         family={Middleton},
+         familyi={M\bibinitperiod},
+         given={Arthur\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=NTM}{%
+         family={Newsome},
+         familyi={N\bibinitperiod},
+         given={Thomas\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RWJ}{%
+         family={Ripple},
+         familyi={R\bibinitperiod},
+         given={William\bibnamedelima J.},
+         giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=REG}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Euan\bibnamedelima G.},
+         giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SOJ}{%
+         family={Schmitz},
+         familyi={S\bibinitperiod},
+         given={Oswald\bibnamedelima J.},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SKJ}{%
+         family={Stoner},
+         familyi={S\bibinitperiod},
+         given={Kelly\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tourani},
+         familyi={T\bibinitperiod},
+         given={Mahdieh},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Treves},
+         familyi={T\bibinitperiod},
+         given={Adrian},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ELMv+1}
+  \strng{fullhash}{ELMvEAMJRLBJVCGCMRCMSDCRFJKMMDWMJMTKMADNTMRWJREGSOJSKJTMTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    Carnivore predation on livestock often leads people to retaliate.
+  Persecution by humans has contributed strongly to global endangerment of
+  carnivores. Preventing livestock losses would help to achieve three goals
+  common to many human societies: preserve nature, protect animal welfare, and
+  safeguard human livelihoods. Between 2016 and 2018, four independent reviews
+  evaluated >40 years of research on lethal and nonlethal interventions for
+  reducing predation on livestock. From 114 studies, we find a striking
+  conclusion: scarce quantitative comparisons of interventions and scarce
+  comparisons against experimental controls preclude strong inference about the
+  effectiveness of methods. For wise investment of public resources in
+  protecting livestock and carnivores, evidence of effectiveness should be a
+  prerequisite to policy making or large-scale funding of any method or, at a
+  minimum, should be measured during implementation. An appropriate evidence
+  base is needed, and we recommend a coalition of scientists and managers be
+  formed to establish and encourage use of consistent standards in future
+  experimental evaluations.%
+    }
+    \verb{doi}
+    \verb 10.1371/journal.pbio.2005577
+    \endverb
+    \field{isbn}{1111111111}
+    \field{issn}{15457885}
+    \field{number}{9}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{{Carnivore conservation needs evidence-based livestock
+  protection}}
+    \field{volume}{16}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/van Eeden et al. - 2018 - Carnivore conservation needs evidence-b
+    \verb ased livestock protection.pdf:pdf
+    \endverb
+    \field{journaltitle}{PLoS Biology}
+    \field{year}{2018}
+  \endentry
+
   \entry{Escudero2016}{article}{}
     \name{author}{2}{}{%
       {{hash=EA}{%
@@ -4574,6 +5172,72 @@
     \endverb
     \field{journaltitle}{International Journal of Climatology}
     \field{year}{2017}
+  \endentry
+
+  \entry{Fischer2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FJD}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Jason\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=CSH}{%
+         family={Cleeton},
+         familyi={C\bibinitperiod},
+         given={Sarah\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=LTP}{%
+         family={Lyons},
+         familyi={L\bibinitperiod},
+         given={Timothy\bibnamedelima P.},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MJR}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJD+1}
+    \strng{fullhash}{FJDCSHLTPMJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    As the pace and extent of urbanization increase, an understanding of the
+  mechanisms that shape wildlife communities in cities will be essential to
+  their effective management. Predation could be an important determinant of
+  the structure of these communities, but the research to date suggests a
+  predation paradox: Vertebrate predator numbers increase with urbanization,
+  whereas predation rates decline. We reviewed studies on predator abundance
+  and the survival of terrestrial vertebrates in urban and nonurban contexts to
+  evaluate whether the predation paradox is a widespread phenomenon. We
+  conclude that there is substantial support for it. We discuss hypotheses to
+  explain the paradox and suggest that urbanization has fundamentally altered
+  trophic dynamics by reducing top-down control through multiple mechanisms and
+  by increasing bottom-up forcing through the greater availability of
+  anthropogenic foods. The hypotheses are summarized in a conceptual model that
+  generates testable predictions designed to advance our understanding of
+  trophic dynamics in metropolitan areas. {\textcopyright} 2012 by American
+  Institute of Biological Sciences. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1525/bio.2012.62.9.6
+    \endverb
+    \field{issn}{00063568}
+    \field{number}{9}
+    \field{pages}{809\bibrangedash 818}
+    \field{title}{{Urbanization and the predation paradox: The role of trophic
+  dynamics in structuring vertebrate communities}}
+    \field{volume}{62}
+    \field{journaltitle}{BioScience}
+    \field{year}{2012}
   \endentry
 
   \entry{Flynn2009}{article}{}
@@ -5219,6 +5883,111 @@
     \endverb
     \field{journaltitle}{Global Ecology and Conservation}
     \field{year}{2015}
+  \endentry
+
+  \entry{Geffroy2020}{article}{}
+    \name{author}{7}{}{%
+      {{hash=GB}{%
+         family={Geffroy},
+         familyi={G\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Sadoul},
+         familyi={S\bibinitperiod},
+         given={Bastien},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PBJ}{%
+         family={Putman},
+         familyi={P\bibinitperiod},
+         given={Breanna\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BTO}{%
+         family={Berger-Tal},
+         familyi={B\bibinithyphendelim T\bibinitperiod},
+         given={Oded},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GLZ}{%
+         family={Garamszegi},
+         familyi={G\bibinitperiod},
+         given={L{\'{a}}szl{\'{o}}\bibnamedelima Zsolt},
+         giveni={L\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=MAP}{%
+         family={M{\o}ller},
+         familyi={M\bibinitperiod},
+         given={Anders\bibnamedelima Pape},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BDT}{%
+         family={Blumstein},
+         familyi={B\bibinitperiod},
+         given={Daniel\bibnamedelima T.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GB+1}
+    \strng{fullhash}{GBSBPBJBTOGLZMAPBDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Humans profoundly impact landscapes, ecosystems, and animal behavior. In
+  many cases, animals living near humans become tolerant of them and reduce
+  antipredator responses. Yet, we still lack an understanding of the underlying
+  evolutionary dynamics behind these shifts in traits that affect animal
+  survival. Here, we used a phylogenetic meta-analysis to determine how the
+  mean and variability in antipredator responses change as a function of the
+  number of generations spent in contact with humans under 3 different
+  contexts: urbanization, captivity, and domestication. We found that any
+  contact with humans leads to a rapid reduction in mean antipredator responses
+  as expected. Notably, the variance among individuals over time observed a
+  short-term increase followed by a gradual decrease, significant for
+  domesticated animals. This implies that intense human contact immediately
+  releases animals from predation pressure and then imposes strong
+  anthropogenic selection on traits. In addition, our results reveal that the
+  loss of antipredator traits due to urbanization is similar to that of
+  domestication but occurs 3 times more slowly. Furthermore, the rapid
+  disappearance of antipredator traits was associated with 2 main life-history
+  traits: foraging guild and whether the species was solitary or gregarious
+  (i.e., group-living). For domesticated animals, this decrease in antipredator
+  behavior was stronger for herbivores than for omnivores or carnivores and for
+  solitary than for gregarious species. By contrast, the decrease in
+  antipredator traits was stronger for gregarious, urbanized species, although
+  this result is based mostly on birds. Our study offers 2 major insights on
+  evolution in the Anthropocene: (1) changes in traits occur rapidly even under
+  unintentional human "interventions" (i.e., urbanization) and (2) there are
+  similarities between the selection pressures exerted by domestication and by
+  urbanization. In all, such changes could affect animal survival in a
+  predator-rich world, but through understanding evolutionary dynamics, we can
+  better predict when and how exposure to humans modify these fitness-related
+  traits.%
+    }
+    \verb{doi}
+    \verb 10.1371/journal.pbio.3000818
+    \endverb
+    \field{isbn}{1111111111}
+    \field{issn}{15457885}
+    \field{number}{9}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{{Evolutionary dynamics in the anthropocene: Life history and
+  intensity of human contact shape antipredator responses}}
+    \field{volume}{18}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Geffroy et al. - 2020 - Evolutionary dynamics in the anthropocene
+    \verb  Life history and intensity of human contact shape antipredator respo
+    \verb ns.pdf:pdf
+    \endverb
+    \field{journaltitle}{PLoS Biology}
+    \field{year}{2020}
   \endentry
 
   \entry{Gonzalez-Suarez2012}{article}{}
@@ -9074,6 +9843,60 @@
     \field{year}{2004}
   \endentry
 
+  \entry{Isler2006}{article}{}
+    \name{author}{2}{}{%
+      {{hash=IK}{%
+         family={Isler},
+         familyi={I\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VCP}{%
+         family={{Van Schaik}},
+         familyi={V\bibinitperiod},
+         given={Carel\bibnamedelima P.},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{Basal metabolic rate,Cognition,Encephalization,Mammals}
+    \strng{namehash}{IKVCP1}
+    \strng{fullhash}{IKVCP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{abstract}{%
+    In the ongoing discussion about brain evolution in vertebrates, the main
+  interest has shifted from theories focusing on energy balance to theories
+  proposing social or ecological benefits of enhanced intellect. With the
+  availability of a wealth of new data on basal metabolic rate (BMR) and brain
+  size and with the aid of reliable techniques of comparative analysis, we are
+  able to show that in fact energetics is an issue in the maintenance of a
+  relatively large brain, and that brain size is positively correlated with the
+  BMR in mammals, controlling for body size effects. We conclude that attempts
+  to explain brain size variation in different taxa must consider the ability
+  to sustain the energy costs alongside cognitive benefits. {\textcopyright}
+  2006 The Royal Society.%
+    }
+    \verb{doi}
+    \verb 10.1098/rsbl.2006.0538
+    \endverb
+    \field{issn}{1744957X}
+    \field{number}{4}
+    \field{pages}{557\bibrangedash 560}
+    \field{title}{{Metabolic costs of brain size evolution}}
+    \field{volume}{2}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Isler, Van Schaik - 2006 - Metabolic costs of brain size evolutio
+    \verb n.pdf:pdf
+    \endverb
+    \field{journaltitle}{Biology Letters}
+    \field{year}{2006}
+  \endentry
+
   \entry{IUCN2020}{article}{}
     \name{author}{1}{}{%
       {{hash=I}{%
@@ -12580,6 +13403,268 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Merckx2018}{article}{}
+    \name{author}{27}{}{%
+      {{hash=MT}{%
+         family={Merckx},
+         familyi={M\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Souffreau},
+         familyi={S\bibinitperiod},
+         given={Caroline},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kaiser},
+         familyi={K\bibinitperiod},
+         given={Aur{\'{e}}lien},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BLF}{%
+         family={Baardsen},
+         familyi={B\bibinitperiod},
+         given={Lisa\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Backeljau},
+         familyi={B\bibinitperiod},
+         given={Thierry},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bonte},
+         familyi={B\bibinitperiod},
+         given={Dries},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BKI}{%
+         family={Brans},
+         familyi={B\bibinitperiod},
+         given={Kristien\bibnamedelima I.},
+         giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cours},
+         familyi={C\bibinitperiod},
+         given={Marie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dahirel},
+         familyi={D\bibinitperiod},
+         given={Maxime},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Debortoli},
+         familyi={D\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={{De Wolf}},
+         familyi={D\bibinitperiod},
+         given={Katrien},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=EJM}{%
+         family={Engelen},
+         familyi={E\bibinitperiod},
+         given={Jessie\bibnamedelima M.T.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Fontaneto},
+         familyi={F\bibinitperiod},
+         given={Diego},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GAT}{%
+         family={Gianuca},
+         familyi={G\bibinitperiod},
+         given={Andros\bibnamedelima T.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Govaert},
+         familyi={G\bibinitperiod},
+         given={Lynn},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Hendrickx},
+         familyi={H\bibinitperiod},
+         given={Frederik},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Higuti},
+         familyi={H\bibinitperiod},
+         given={Janet},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Lens},
+         familyi={L\bibinitperiod},
+         given={Luc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={Martens},
+         familyi={M\bibinitperiod},
+         given={Koen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Matheve},
+         familyi={M\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Matthysen},
+         familyi={M\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Piano},
+         familyi={P\bibinitperiod},
+         given={Elena},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sablon},
+         familyi={S\bibinitperiod},
+         given={Rose},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sch{\"{o}}n},
+         familyi={S\bibinitperiod},
+         given={Isa},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={{Van Doninck}},
+         familyi={V\bibinitperiod},
+         given={Karine},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={{De Meester}},
+         familyi={D\bibinitperiod},
+         given={Luc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VH}{%
+         family={{Van Dyck}},
+         familyi={V\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MT+1}
+  \strng{fullhash}{MTSCKABLFBTBDBKICMDMDNDKEJMFDGATGLHFHJLLMKMHMEPESRSIVKDLVH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Body size is intrinsically linked to metabolic rate and life-history
+  traits, and is a crucial determinant of food webs and community dynamics 1,2.
+  The increased temperatures associated with the urban-heat-island effect
+  result in increased metabolic costs and are expected to drive shifts to
+  smaller body sizes 3. Urban environments are, however, also characterized by
+  substantial habitat fragmentation 4 , which favours mobile species. Here,
+  using a replicated, spatially nested sampling design across ten animal
+  taxonomic groups, we show that urban communities generally consist of smaller
+  species. In addition, although we show urban warming for three habitat types
+  and associated reduced community-weighted mean body sizes for four taxa,
+  three taxa display a shift to larger species along the urbanization
+  gradients. Our results show that the general trend towards smaller-sized
+  species is overruled by filtering for larger species when there is positive
+  covariation between size and dispersal, a process that can mitigate the low
+  connectivity of ecological resources in urban settings 5. We thus demonstrate
+  that the urban-heat-island effect and urban habitat fragmentation are
+  associated with contrasting community-level shifts in body size that
+  critically depend on the association between body size and dispersal. Because
+  body size determines the structure and dynamics of ecological networks 1 ,
+  such shifts may affect urban ecosystem function. Body size is a fundamental
+  species trait relating to space use and key life-history features such as
+  longevity and fecundity 6. It also drives interspecific relationships, thus
+  affecting ecological network dynamics 1. Size-biased species loss has
+  profound effects on ecosystem function 7,8. Ectotherms rely on ambient
+  conditions to achieve operational body temperatures 9. Because higher ambient
+  temperature increases metabolic rates and the associated costs for a given
+  body size 2 , global climatic warming is expected to drive shifts to
+  communities consisting of smaller species 3. Our planet is urbanizing quickly
+  10 , which is a primary example of human-induced rapid environmental change.
+  Cities are urban heat islands characterized by increased temperatures that
+  are decades ahead of global averages 11. Not only are cities warmer than
+  surrounding areas, but they also experience extensive fragmentation of
+  (semi-)natural habitats , and both of these effects increase with percentage
+  built-up cover (BUC; a proxy for urbanization) 12,13. This provides an
+  opportunity to study the opposing effects of size-dependent thermal tolerance
+  and dispersal capacity, as larger body size favours dispersal in some, but
+  not all, taxa. Here we test the hypothesis that urbanization causes shifts in
+  community level body size, and that these shifts are dictated by the
+  community specific association between body size and dispersal. We generally
+  expect the urban-heat-island effect to drive shifts to species with smaller
+  body sizes in communities of ectothermic species, in line with Atkinson's
+  temperature-size rule 14. For taxa characterized by a positive association
+  between body size and dispersal, however, we also expect a filtering in
+  favour of larger-bodied species associated with habitat fragmentation 5,15.
+  Filtering for increased mobility has been demonstrated for urban ground
+  beetle and plant communities 16,17. Hence, for taxa characterized by a
+  positive body-size-dispersal link, we predict that the general
+  community-level pattern of smaller species with increasing urbanization may
+  be neutralized or even reversed. To test our hypothesis, we engaged in an
+  analysis of community-level shifts in body size across a broad range of both
+  terrestrial and aquatic taxa along the same systematically sampled
+  urbanization gradients. We studied the direction of change of community-level
+  body size in ten taxa using a replicated, highly standardized and nested
+  sampling design that covers urbanization gradients at seven spatial scales
+  (50-3,200 m radii; Fig. 1). We sampled each taxon at up to 81 sites, sampling
+  95,001 individuals from 702 species, with species-specific body size varying
+  by a factor of 400 (0.2-80 mm; Extended Data Table 1). Three of the ten
+  groups are characterized by a positive association between body size and
+  dispersal capacity (see Extended Data Table 1). We show that the local
+  temperature of pond, grassland and woodland habitats significantly increases
+  with urbanization (linear mixed regression models, P < 0.002; Extended Data
+  Table 2). The intensity of these urban-heat-island effects is consistently
+  larger during night and summer, in accordance with slower night-time city
+  cooling and higher irradiation levels in summer 18 (Fig. 2, Extended Data
+  Fig. 1, Extended Data Table 2). We also show that increased urbanization is
+  linked to significant declines in habitat amount and the patch size of
+  terrestrial habitats, and significant increases in distances among patches
+  for both terrestrial and aquatic habitats (Pearson's r correlations, P ≤
+  0.020; Extended Data Fig. 2). Confirming our metabolism-based prediction that
+  interspecific mean body size decreases with increasing temperature, urban
+  communities for four out of the seven taxa (ground spiders, ground beetles,
+  weevils and cladocerans) that did not have a positive size-dispersal link
+  display reduced community-weighted mean body size (CWMBS). For ostracods,
+  bdelloid rotifers and web spiders, no relationship with urbanization is
+  found. By contrast, all three taxa with positive size-dispersal links display
+  increased CWMBS in response to urbanization%
+    }
+    \verb{doi}
+    \verb 10.1038/s41586-018-0140-0
+    \endverb
+    \field{isbn}{1476-4687}
+    \field{issn}{14764687}
+    \field{title}{{Body-size shifts in aquatic and terrestrial urban
+  communities}}
+    \field{journaltitle}{Nature}
+    \field{year}{2018}
+  \endentry
+
   \entry{Millard2021}{article}{}
     \name{author}{12}{}{%
       {{hash=MJ}{%
@@ -12682,6 +13767,88 @@
     \endverb
     \field{journaltitle}{Nature Communications}
     \field{year}{2021}
+  \endentry
+
+  \entry{Moe2004}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MB}{%
+         family={Moe},
+         familyi={M\bibinitperiod},
+         given={B{\o}rge},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Brunvoll},
+         familyi={B\bibinitperiod},
+         given={Siri},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Mork},
+         familyi={M\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BTE}{%
+         family={Brobakk},
+         familyi={B\bibinitperiod},
+         given={Trond\bibnamedelima Einar},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bech},
+         familyi={B\bibinitperiod},
+         given={Claus},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Development,Developmental plasticity,Diet
+  restriction,Growth,Metabolism}
+    \strng{namehash}{MB+1}
+    \strng{fullhash}{MBBSMDBTEBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Growing animals may exhibit developmental plasticity as an adaptation to
+  variability in the environmental conditions during development. We examined
+  physiological and morphological responses to short-term food shortage of
+  12-16-day-old European shag nestlings kept under laboratory conditions. After
+  4 days on a weight maintenance diet, the resting metabolic rate (RMR) of
+  diet-restricted nestlings was 36.5% lower compared with control fed nestings,
+  after controlling for body mass. This response was accompanied by a reduction
+  in body temperature (Tb) and by reductions in the size of several visceral
+  organs, muscles and lipid stores, while the overall structural growth was
+  maintained almost in line with the age-specific growth rate of controls.
+  Hence, the pattern of energy allocation reflected a very high priority to
+  structural growth at the expense of visceral organs, lipid deposits and
+  muscles. The reduced Tb and size of the liver served as important
+  physiological processes behind the observed reductions in RMR. We discuss the
+  possible adaptive significance of this differential developmental plasticity
+  during temporal food shortage. This is the first study of avian developmental
+  plasticity to report substantial energy saving in combination with a high
+  structural growth rate.%
+    }
+    \verb{doi}
+    \verb 10.1242/jeb.01226
+    \endverb
+    \field{issn}{00220949}
+    \field{number}{23}
+    \field{pages}{4067\bibrangedash 4076}
+    \field{title}{{Developmental plasticity of physiology and morphology in
+  diet-restricted European shag nestlings (Phalacrocorax aristotelis)}}
+    \field{volume}{207}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Moe et al. - 2004 - Developmental plasticity of physiology and mo
+    \verb rphology in diet-restricted European shag nestlings (Phalacrocorax ar
+    \verb is.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Experimental Biology}
+    \field{year}{2004}
   \endentry
 
   \entry{Moller2009}{article}{}
@@ -15864,6 +17031,80 @@
     \field{year}{2017}
   \endentry
 
+  \entry{RobertBurger2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RJ}{%
+         family={{Robert Burger}},
+         familyi={R\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hou},
+         familyi={H\bibinitperiod},
+         given={Chen},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={{A. S. Hall}},
+         familyi={A\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BJH}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Allometry,demography,ecosystems,energy budget,evolutionary
+  tradeoffs,life history,metabolic theory of
+  ecology,scaling,steady-state,temperature-dependence,unified ecology}
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJHCACBJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Here we review and extend the equal fitness paradigm (EFP) as an important
+  step in developing and testing a synthetic theory of ecology and evolution
+  based on energy and metabolism. The EFP states that all organisms are equally
+  fit at steady state, because they allocate the same quantity of energy,
+  $\sim$ 22.4 kJ/g/generation to the production of offspring. On the one hand,
+  the EFP may seem tautological, because equal fitness is necessary for the
+  origin and persistence of biodiversity. On the other hand, the EFP reflects
+  universal laws of life: how biological metabolism – the uptake,
+  transformation and allocation of energy – links ecological and evolutionary
+  patterns and processes across levels of organisation from: (1) structure and
+  function of individual organisms, (2) life history and dynamics of
+  populations, and (3) interactions and coevolution of species in ecosystems.
+  The physics and biology of metabolism have facilitated the evolution of
+  millions of species with idiosyncratic anatomy, physiology, behaviour and
+  ecology but also with many shared traits and tradeoffs that reflect the
+  single origin and universal rules of life.%
+    }
+    \verb{doi}
+    \verb 10.1111/ele.13715
+    \endverb
+    \field{issn}{14610248}
+    \field{number}{6}
+    \field{pages}{1262\bibrangedash 1281}
+    \field{title}{{Universal rules of life: metabolic rates, biological times
+  and the equal fitness paradigm}}
+    \field{volume}{24}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Robert Burger et al. - 2021 - Universal rules of life metabolic r
+    \verb ates, biological times and the equal fitness paradigm.pdf:pdf
+    \endverb
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2021}
+  \endentry
+
   \entry{Roll2017}{article}{}
     \name{author}{39}{}{%
       {{hash=RU}{%
@@ -16159,7 +17400,6 @@
   and applications.%
     }
     \field{isbn}{9781597181709}
-    \field{pages}{28}
     \field{title}{{Daily GPP and Annual NPP (MOD17A2/A3) products NASA Earth
   Observing System MODIS Land Algorithm (User's guide V3)}}
     \verb{file}
@@ -20717,6 +21957,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
+    \field{extradate}{1}
     \field{labeldatesource}{}
     \field{sortinit}{Z}
     \field{sortinithash}{Z}
@@ -20756,6 +21997,109 @@
   shape global patterns in species diversity}}
     \field{journaltitle}{Proceedings of the Royal Society B: Biological
   Sciences}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Zhang2018a}{article}{}
+    \name{author}{6}{}{%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yiying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Ke},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=YP}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Peipei},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Yingshi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Weihong},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Jinsong},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central}%
+    }
+    \keyw{Avian uncoupling protein,Basal metabolic rate,Cytochrome c
+  oxidase,Food restriction,Pycnonotus sinensis,State-4 respiration}
+    \strng{namehash}{ZY+1}
+    \strng{fullhash}{ZYYKYPSYZWLJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{abstract}{%
+    Background: Food is an important environmental factor that affects animals'
+  energy metabolism and food shortage has significant effects on animals'
+  behavior, physiology and biochemistry. However, to date few studies have
+  focused on the thermogenesis and its effects on the body condition of birds.
+  In this study, we examined the effects of food restriction on the body mass,
+  basal metabolic rate (BMR) and body composition, and several physiological,
+  biochemical and molecular markers potentially related to thermogenesis, in
+  the Chinese Bulbul (Pycnonotus sinensis). Methods: Birds in the control group
+  were provided with food ad libitum whereas those in the food restriction
+  group were provided with one-half of the usual quantity of food for 12days.
+  Oxygen consumption was measured using an open-circuit respirometry system.
+  Mitochondrial state 4 respiration and cytochrome c oxidase (COX) activity in
+  the liver and pectoral muscle were measured with a Clark electrode. Avian
+  uncoupling protein (avUCP) mRNA expression was determined in pectorals muscle
+  with quantitative Real-time PCR. Results: Chinese Bulbuls in food restriction
+  group decreased in body mass, BMR and internal organ (heart, kidneys, small
+  intestine and total digestive tract) mass compared with the control group
+  over the 12-day period of food restriction. Bulbuls in the food restriction
+  group also had lower levels of state-4 respiration, COX activity in the liver
+  and muscle, and mitochondrial avUCP gene expression in muscle compared to the
+  control group. BMR was positively correlated with body mass, state 4
+  respiration in the liver and COX activity in the muscle. Conclusions: Our
+  data indicate that Chinese Bulbuls not only sustain food shortage through
+  simple passive mechanisms, such as reducing body and organ mass and energy
+  expenditure, but also by reducing energetic metabolism in the liver and
+  muscle.%
+    }
+    \verb{doi}
+    \verb 10.1186/s40657-018-0131-8
+    \endverb
+    \field{issn}{20537166}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{{Food restriction decreases BMR, body and organ mass, and
+  cellular energetics, in the Chinese Bulbul (Pycnonotus sinensis)}}
+    \verb{url}
+    \verb https://doi.org/10.1186/s40657-018-0131-8
+    \endverb
+    \field{volume}{9}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Zhang et al. - 2018 - Food restriction decreases BMR, body and or
+    \verb gan mass, and cellular energetics, in the Chinese Bulbul (Pycnonotus
+    \verb si.pdf:pdf
+    \endverb
+    \field{journaltitle}{Avian Research}
     \field{year}{2018}
   \endentry
 
