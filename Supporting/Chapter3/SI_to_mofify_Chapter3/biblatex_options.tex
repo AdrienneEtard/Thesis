@@ -1,0 +1,34 @@
+% remove "" around title
+\DeclareFieldFormat
+  [article,inbook,incollection,inproceedings,patent,thesis,unpublished]
+  {title}{#1\isdot}
+% author: last name, first name
+\DeclareNameAlias{sortname}{last-first}
+% remove pp before pages
+\DeclareFieldFormat{pages}{#1}
+% remove comma / space before pages, and put colon instead
+%\renewcommand*{\bibpagespunct}{%
+%\ifentrytype{article}
+%  {\addcolon}
+% {\addcomma\space}}
+% remove 'in:'
+\renewbibmacro{in:}{}
+% remove point after volume number, and issue number
+\renewbibmacro*{volume+number+eid}{%
+  \printfield{volume}%
+  \setunit*{\adddot}% DELETED (point)
+  \printfield{number}% DELETED (issue number)
+  \setunit{\addcomma\space}% DELETED
+  \printfield{eid} % DELETED
+  }
+%
+\renewbibmacro*{journal+issuetitle}{%
+  \usebibmacro{journal}%
+  \setunit*{\addcomma\space}
+  \usebibmacro{volume+number+eid}
+  }
+%
+\DeclareSortingScheme{noneyear}{
+ \sort{\citeorder}
+ \sort{\field{year}}
+}

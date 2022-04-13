@@ -17,6 +17,74 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{Bates2015}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BD}{%
+         family={Bates},
+         familyi={B\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={M{\"{a}}chler},
+         familyi={M\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BBM}{%
+         family={Bolker},
+         familyi={B\bibinitperiod},
+         given={Benjamin\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WSC}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Steven\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Cholesky decomposition,Linear mixed models,Penalized least
+  squares,Sparse matrix methods}
+    \strng{namehash}{BD+1}
+    \strng{fullhash}{BDMMBBMWSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Maximum likelihood or restricted maximum likelihood (REML) estimates of the
+  parameters in linear mixed-effects models can be determined using the lmer
+  function in the lme4 package for R. As for most model-fitting functions in R,
+  the model is described in an lmer call by a formula, in this case including
+  both fixed- and random-effects terms. The formula and data together determine
+  a numerical representation of the model from which the profiled deviance or
+  the profiled REML criterion can be evaluated as a function of some of the
+  model parameters. The appropriate criterion is optimized, using one of the
+  constrained optimization functions in R, to provide the parameter estimates.
+  We describe the structure of the model, the steps in evaluating the profiled
+  deviance or REML criterion, and the structure of classes or types that
+  represents such a model. Sufficient detail is included to allow
+  specialization of these structures by users who wish to write functions to
+  fit specialized linear mixed models, such as models incorporating pedigrees
+  or smoothing splines, that are not easily expressible in the formula language
+  used by lmer.%
+    }
+    \verb{doi}
+    \verb 10.18637/jss.v067.i01
+    \endverb
+    \verb{eprint}
+    \verb 1406.5823
+    \endverb
+    \field{issn}{15487660}
+    \field{title}{{Fitting linear mixed-effects models using lme4}}
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{eprinttype}{arXiv}
+    \field{year}{2015}
+  \endentry
+
   \entry{Borges2018}{article}{}
     \name{author}{5}{}{%
       {{hash=BR}{%
@@ -1047,6 +1115,121 @@
     \field{title}{{Generalized collinearity diagnostics}}
     \field{journaltitle}{Journal of the American Statistical Association}
     \field{year}{1992}
+  \endentry
+
+  \entry{Fristoe2015}{article}{}
+    \name{author}{6}{}{%
+      {{hash=FTS}{%
+         family={Fristoe},
+         familyi={F\bibinitperiod},
+         given={Trevor\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BJR}{%
+         family={Burger},
+         familyi={B\bibinitperiod},
+         given={Joseph\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=BMA}{%
+         family={Balk},
+         familyi={B\bibinitperiod},
+         given={Meghan\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KI}{%
+         family={Khaliq},
+         familyi={K\bibinitperiod},
+         given={Imran},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hof},
+         familyi={H\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BJH}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Bergmann's rule,Body size,Macrophysiology,Metabolic rate,Thermal
+  conductance}
+    \strng{namehash}{FTS+1}
+    \strng{fullhash}{FTSBJRBMAKIHCBJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    The extent to which different kinds of organisms have adapted to
+  environmental temperature regimes is central to understanding how they
+  respond to climate change. The Scholander-Irving (S-I) model of heat transfer
+  lays the foundation for explaining how endothermic birds and mammals maintain
+  their high, relatively constant body temperatures in the face of wide
+  variation in environmental temperature. The S-I model shows how body
+  temperature is regulated by balancing the rates of heat production and heat
+  loss. Both rates scale with body size, suggesting that larger animals should
+  be better adapted to cold environments than smaller animals, and vice versa.
+  However, the global distributions of ∼ 9,000 species of terrestrial birds
+  and mammals show that the entire range of body sizes occurs in nearly all
+  climatic regimes. Using physiological and environmental temperature data for
+  211 bird and 178 mammal species, we test for mass-independent adaptive
+  changes in two key parameters of the S-I model: basal metabolic rate (BMR)
+  and thermal conductance. We derive an axis of thermal adaptation that is
+  independent of body size, extends the S-I model, and highlights interactions
+  among physiological and morphological traits that allow endotherms to persist
+  in a wide range of temperatures. Our macrophysiological and macroecological
+  analyses support our predictions that shifts in BMR and thermal conductance
+  confer important adaptations to environmental temperature in both birds and
+  mammals.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1521662112
+    \endverb
+    \field{issn}{10916490}
+    \field{number}{52}
+    \field{pages}{15934\bibrangedash 15939}
+    \field{title}{{Metabolic heat production and thermal conductance are
+  mass-independent adaptations to thermal environment in birds and mammals}}
+    \field{volume}{112}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2015}
+  \endentry
+
+  \entry{mcmcglmm}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJD}{%
+         family={Hadfield},
+         familyi={H\bibinitperiod},
+         given={Jarrod\bibnamedelima D},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJD1}
+    \strng{fullhash}{HJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 22}
+    \field{title}{MCMC Methods for Multi-Response Generalized Linear Mixed
+  Models: The {MCMCglmm} {R} Package}
+    \verb{url}
+    \verb http://www.jstatsoft.org/v33/i02/
+    \endverb
+    \field{volume}{33}
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{year}{2010}
   \endentry
 
   \entry{DHARMa}{manual}{}
@@ -4269,6 +4452,190 @@
     \field{year}{2021}
   \endentry
 
+  \entry{Jones2009}{article}{}
+    \name{author}{24}{}{%
+      {{hash=JKE}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Kate\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bielby},
+         familyi={B\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cardillo},
+         familyi={C\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FSA}{%
+         family={Fritz},
+         familyi={F\bibinitperiod},
+         given={Susanne\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=OJ}{%
+         family={O'Dell},
+         familyi={O\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OCDL}{%
+         family={Orme},
+         familyi={O\bibinitperiod},
+         given={C.\bibnamedelima David\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Safi},
+         familyi={S\bibinitperiod},
+         given={Kamran},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SW}{%
+         family={Sechrest},
+         familyi={S\bibinitperiod},
+         given={Wes},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BEH}{%
+         family={Boakes},
+         familyi={B\bibinitperiod},
+         given={Elizabeth\bibnamedelima H.},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Carbone},
+         familyi={C\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Connolly},
+         familyi={C\bibinitperiod},
+         given={Christina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CMJ}{%
+         family={Cutts},
+         familyi={C\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FJK}{%
+         family={Foster},
+         familyi={F\bibinitperiod},
+         given={Janine\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Grenyer},
+         familyi={G\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Habib},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PCA}{%
+         family={Plaster},
+         familyi={P\bibinitperiod},
+         given={Christopher\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PSA}{%
+         family={Price},
+         familyi={P\bibinitperiod},
+         given={Samantha\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=REA}{%
+         family={Rigby},
+         familyi={R\bibinitperiod},
+         given={Elizabeth\bibnamedelima A.},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Rist},
+         familyi={R\bibinitperiod},
+         given={Janna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Teacher},
+         familyi={T\bibinitperiod},
+         given={Amber},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BEORP}{%
+         family={Bininda-Emonds},
+         familyi={B\bibinithyphendelim E\bibinitperiod},
+         given={Olaf R.\bibnamedelima P.},
+         giveni={O\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=GJL}{%
+         family={Gittleman},
+         familyi={G\bibinitperiod},
+         given={John\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JKE+1}
+  \strng{fullhash}{JKEBJCMFSAOJOCDLSKSWBEHCCCCCMJFJKGRHMPCAPSAREARJTABEORPGJLMGMPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    Analyses of life-history, ecological, and geographic trait differences
+  among species, their causes, correlates, and likely consequences are
+  increasingly important for understanding and conserving biodiversity in the
+  face of rapid global change. Assembling multispecies trait data from diverse
+  literature sources into a single comprehensive data set requires detailed
+  consideration of methods to reliably compile data for particular species, and
+  to derive single estimates from multiple sources based on different
+  techniques and definitions. Here we describe PanTHERIA, a species-level data
+  set compiled for analysis of life history, ecology, and geography of all
+  known extant and recently extinct mammals. PanTHERIA is derived from a
+  database capable of holding multiple geo-referenced values for variables
+  within a species containing 100 740 lines of biological data for extant and
+  recently extinct mammalian species, collected over a period of three years by
+  20 individuals. PanTHERIA also includes spatial databases o...%
+    }
+    \verb{doi}
+    \verb 10.1890/08-1494.1
+    \endverb
+    \field{isbn}{0012-9658}
+    \field{issn}{0012-9658}
+    \field{title}{{PanTHERIA: a species-level database of life history,
+  ecology, and geography of extant and recently extinct mammals}}
+    \field{journaltitle}{Ecology}
+    \field{year}{2009}
+  \endentry
+
   \entry{performance}{article}{}
     \name{author}{5}{}{%
       {{hash=LD}{%
@@ -4320,6 +4687,130 @@
     \field{volume}{6}
     \field{journaltitle}{Journal of Open Source Software}
     \field{year}{2021}
+  \endentry
+
+  \entry{Londono2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LGA}{%
+         family={Londo{\~{n}}o},
+         familyi={L\bibinitperiod},
+         given={Gustavo\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CMA}{%
+         family={Chappell},
+         familyi={C\bibinitperiod},
+         given={Mark\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CMdR}{%
+         family={Casta{\~{n}}eda},
+         familyi={C\bibinitperiod},
+         given={Mar{\'{i}}a del\bibnamedelima Rosario},
+         giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+      {{hash=JJE}{%
+         family={Jankowski},
+         familyi={J\bibinitperiod},
+         given={Jill\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=RSK}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Scott\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \keyw{Allometry,Andes mountains,BMR,Birds,Body size,Elevation,Energy
+  metabolism,Life-history,Temperature}
+    \strng{namehash}{LGA+1}
+    \strng{fullhash}{LGACMACMdRJJERSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1111/1365-2435.12348
+    \endverb
+    \field{issn}{13652435}
+    \field{number}{3}
+    \field{pages}{338\bibrangedash 346}
+    \field{title}{{Basal metabolism in tropical birds: Latitude, altitude, and
+  the 'pace of life'}}
+    \field{volume}{29}
+    \field{journaltitle}{Functional Ecology}
+    \field{year}{2015}
+  \endentry
+
+  \entry{McNab2009}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MBK}{%
+         family={McNab},
+         familyi={M\bibinitperiod},
+         given={Brian\bibnamedelima Keith},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier Inc.}%
+    }
+    \keyw{Avian flight,Ecological factors,Energetics,Geography,Mammalian
+  flight,Migration,Non-passerines,Passerines,Phylogeny}
+    \strng{namehash}{MBK1}
+    \strng{fullhash}{MBK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    The basal rate of metabolism (BMR) in 533 species of birds, when examined
+  with ANCOVA, principally correlates with body mass, most of the residual
+  variation correlating with food habits, climate, habitat, a volant or
+  flightless condition, use or not of torpor, and a highland or lowland
+  distribution. Avian BMR also correlates with migratory habits, if climate and
+  a montane distribution is excluded from the analysis, and with an occurrence
+  on small islands if a flightless condition and migration are excluded.
+  Residual variation correlates with membership in avian orders and families
+  principally because these groups are behaviorally and ecologically
+  distinctive. However, the distinction between passerines and other birds
+  remains a significant correlate of avian BMR, even after six ecological
+  factors are included, with other birds having BMRs that averaged 74% of the
+  passerine mean. This combination of factors accounts for 97.7% of the
+  variation in avian BMR. Yet, migratory species that belong to Anseriformes,
+  Charadriiformes, Pelecaniformes, and Procellariiformes and breed in temperate
+  or polar environments have mass-independent basal rates equal to those found
+  in passerines. In contrast, penguins belong to an order of polar, aquatic
+  birds that have basal rates lower than passerines because their flightless
+  condition depresses basal rate. Passerines dominate temperate, terrestrial
+  environments and the four orders of aquatic birds dominate temperate and
+  polar aquatic environments because their high BMRs facilitate reproduction
+  and migration. The low BMRs of tropical passerines may reflect a sedentary
+  lifestyle as much as a life in a tropical climate. Birds have BMRs that are
+  30-40% greater than mammals because of the commitment of birds to an
+  expensive and expansive form of flight. {\textcopyright} 2008 Elsevier Inc.
+  All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cbpa.2008.08.021
+    \endverb
+    \field{issn}{15314332}
+    \field{number}{1}
+    \field{pages}{22\bibrangedash 45}
+    \field{title}{{Ecological factors affect the level and scaling of avian
+  BMR}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/j.cbpa.2008.08.021
+    \endverb
+    \field{volume}{152}
+    \field{journaltitle}{Comparative Biochemistry and Physiology - A Molecular
+  and Integrative Physiology}
+    \field{year}{2009}
   \endentry
 
   \entry{Pagel1999}{article}{}
@@ -4654,6 +5145,81 @@
     \verb ession and Phylogentic Signal-Representation Curve.pdf:pdf
     \endverb
     \field{year}{2018}
+  \endentry
+
+  \entry{Stark2020}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SG}{%
+         family={Stark},
+         familyi={S\bibinitperiod},
+         given={Gavin},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PDD}{%
+         family={Pincheira-Donoso},
+         familyi={P\bibinithyphendelim D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Meiri},
+         familyi={M\bibinitperiod},
+         given={Shai},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{basal metabolic rate,body size,body temperature,environmental
+  temperature,field metabolic rate,longevity,the rate-of-living theory}
+    \strng{namehash}{SG+1}
+    \strng{fullhash}{SGPDDMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Aim: The ‘rate-of-living' theory predicts that life expectancy is a
+  negative function of the rates at which organisms metabolize. According to
+  this theory, factors that accelerate metabolic rates, such as high body
+  temperature and active foraging, lead to organismic ‘wear-out'. This
+  process reduces life span through an accumulation of biochemical errors and
+  the build-up of toxic metabolic by-products. Although the rate-of-living
+  theory is a keystone underlying our understanding of life-history trade-offs,
+  its validity has been recently questioned. The rate-of-living theory has
+  never been tested on a global scale in a phylogenetic framework, or across
+  both endotherms and ectotherms. Here, we test several of its fundamental
+  predictions across the tetrapod tree of life. Location: Global. Time period:
+  Present. Major taxa studied: Land vertebrates. Methods: Using a dataset
+  spanning the life span data of 4,100 land vertebrate species (2,214
+  endotherms, 1,886 ectotherms), we performed the most comprehensive test to
+  date of the fundamental predictions underlying the rate-of-living theory. We
+  investigated how metabolic rates, and a range of factors generally perceived
+  to be strongly associated with them, relate to longevity. Results: Our
+  findings did not support the predictions of the rate-of-living theory. Basal
+  and field metabolic rates, seasonality, and activity times, as well as
+  reptile body temperatures and foraging ecology, were found to be unrelated to
+  longevity. In contrast, lower longevity across ectotherm species was
+  associated with high environmental temperatures. Main conclusions: We
+  conclude that the rate-of-living theory does not hold true for terrestrial
+  vertebrates, and suggest that life expectancy is driven by selection arising
+  from extrinsic mortality factors. A simple link between metabolic rates,
+  oxidative damage and life span is not supported. Importantly, our findings
+  highlight the potential for rapid warming, resulting from the current
+  increase in global temperatures, to drive accelerated rates of senescence in
+  ectotherms.%
+    }
+    \verb{doi}
+    \verb 10.1111/geb.13069
+    \endverb
+    \field{issn}{14668238}
+    \field{number}{5}
+    \field{pages}{857\bibrangedash 884}
+    \field{title}{{No evidence for the ‘rate-of-living' theory across the
+  tetrapod tree of life}}
+    \field{volume}{29}
+    \field{journaltitle}{Global Ecology and Biogeography}
+    \field{year}{2020}
   \endentry
 
   \entry{Stekhoven2016}{article}{}
