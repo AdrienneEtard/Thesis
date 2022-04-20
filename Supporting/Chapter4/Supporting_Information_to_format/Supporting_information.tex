@@ -1,0 +1,1227 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx}
+\usepackage[margin = 2.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{lscape}
+\usepackage{mdframed}
+\usepackage{xcolor}
+
+% checkmarks
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+
+% fancy chapter headers
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+% captions
+\usepackage[labelfont=bf]{caption}
+\captionsetup{skip=7pt, font=footnotesize} %,font={stretch=1}
+
+% tables
+\usepackage{multirow}
+%\usepackage{longtable} 
+\usepackage{array}
+%\usepackage{verbatim} 
+\usepackage{csvsimple}
+\usepackage{adjustbox}
+
+% clinkable links 
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=false, %set true if you want colored links
+    linktoc=all     %set to all if you want both sections and subsections linked
+    %linkcolor=blue,  %choose some color if you want links to stand out
+}
+
+% Bibliography
+\usepackage[backend=bibtex, natbib=true, url=false, doi=true, isbn=false, style=authoryear-comp, eprint=false, maxbibnames= 20, firstinits=true, maxcitenames=2]{biblatex}
+\addbibresource{LIBRARY}
+\input{biblatex_options.tex}
+
+\setlength\bibitemsep{1.5\itemsep}
+% Numbering biblio
+\usepackage[numbib,nottoc]{tocbibind}
+
+% line spacing
+\renewcommand{\baselinestretch}{1}
+
+%Line numbering
+%\usepackage{lineno}
+
+
+\usepackage{moreverb} % for verbatim ouput
+
+%\usepackage{lmodern}
+\usepackage{times}
+
+% to add S before sections and figures
+\renewcommand{\thesection}{S\arabic{section}}
+\renewcommand{\thefigure}{S\arabic{figure}}
+\renewcommand{\thetable}{S\arabic{table}}
+
+\begin{document}
+
+\title{\textbf{Supporting information for\\
+\vspace{1cm}
+Geographical range area, habitat breadth and specialisation on natural habitats predict land-use responses and climate-change sensitivity more consistently than life-history and dietary traits in terrestrial vertebrates   \vspace{2cm}}}
+
+%\author{Adrienne Etard}
+
+\maketitle
+\clearpage
+%\linenumbers
+
+\section{Compiling diet information}
+
+%% From Rhiannon's thesis
+ 
+\begin{comment}
+
+Data for the amphibian and reptile species which were not provided from pre-existing data sets were gathered using a systematic search carried out in the available literature, focusing on that from peer-reviewed scientific publications where possible. The literature was accessed through the online platforms Google Scholar and Web of Science searching for individual species names and diet-associated words ‘diet*’, ‘food’, ‘food sources’. However, other sources such as field guides, specialised websites and literature such as theses and dissertations were consulted when scientific publications were not available. Data for reptiles and amphibians were gathered in a binary format, focusing on presence-absence data of particular food sources being in a species diet rather than proportions offood sources.Not all diet information was available at the species level therefore extrapolation was used where species data were unavailable. Extrapolation assumed a degree of phylogenetic conservatism within the diet trait. This form of extrapolation and ranking was influenced by that carried out by Kissling at al. (2014) when gathering mammalian trait data. A rank of 0 was assigned to species where no extrapolation was used. A rank of 1.1 was assigned when data was filled from another species within the same genus and there had only been information on one species within that genus available.This assumed that the particular diet of that species was the same as all other species in the same genus. A rank of 1.2 was used when extrapolation was neededwithin a genus and there was diet information on more than one species in the genus. In this instance, all species in the genus with informationhad to have the same diet in order to extrapolate to species for which data was lacking. A rank of 2 was assigned when diet data was filled in from information found that only referred to a particular genus rather than species level information. A rank of 3 was assigned when information was from the family level. Taxonomy for extrapolation purposes was from the Catalogue of Life: 2019 Annual Checklist (Warwick et al., 2019). Throughout data collection a degree of certainty framework was also employed whereby data were assigned a degree of confidence influenced by previous trait dataset work (Gainsbury et al.,2018). Whereas the previous extrapolation framework was employed to include data where information was lacking, the degree of certainty framework was to acknowledge disparity in the quality of research from which the data was drawn. A degree of certainty of 1 was assigned for data of the lowest confidence and a rank of 5 for the highest degree of certainty. A value of 1 was assigned to data such as that which came from family-level extrapolation and observations from morphological estimations. Examples of a degree of certainty of 2 include genus level information and information from species within the same genus which lacks detail (for instance; information extrapolated from species with a degree of certainty of 3 or below). A rank of 3 was assigned when information on the target species possessed very little detail for example,when a species was observed eating a food item once or extrapolation occurred from a species in the same genus as the target species with strong information(degree of certainty of 4 or 5) for the closely related species. A degree of certainty of 4 was assigned in cases where there was some ambiguity in the dietary information or some lack of detail or it was from weaker experimental evidence (e.g., small sample size) for target species. Finally, the highest confidence of 5 was assigned in cases where there was strong experimental evidence, such as data coming from stomach contents or faecal analysis, a large sample size, and detailed results.
+
+\end{comment}
+
+\subsection{Processing diet data from EltonTraits \citep{Wilman2014} and AmphiBIO \citep{Oliveira2017}.}
+For mammals and birds, diet information was obtained from the EltonTraits database \citep{Wilman2014}. Before processing the data, the taxonomy was aligned to that of the trait datasets from \citep{Etard2020}. Primary diet was directly available for birds, but not for mammals. For both classes, diet was described as the percent use of different food items (namely: invertebrates, vertebrates --either ectotherms, endotherms, fish or unknown--, carrion, fruit, nectar, seed or other plant material). Therefore, we chose not to use the provided primary diet for birds, and instead we applied our own procedure to infer primary diet from recorded food items across birds and mammals. We first grouped the different vertebrate food items together with carrion to create a single `vertebrate' food item category. We then used the percent uses of the food items to infer primary diet, classifying species’ primary diet into the following categories: vertebrate eaters; invertebrate eaters; plant/seed eaters; fruit/nectar eaters; and omnivores [these categories are similar to those employed for birds primary diet in EltonTraits]. When all food items had a percent use below (or equal to) 50\% percent, species were classified as omnivores. When a single food item had a percent use strictly above 50\%, species were classified into the corresponding primary diet group. For each species, we calculated diet breadth as the number of consumed food items (regardless of the percent use of those items). %Trophic levels for birds were also inferred from the primary diet (with fruit/nectar and plant/seed eaters considered herbivores, invertebrates/vertebrate eaters considered carnivores, and the remaining species considered omnivores).
+
+
+For amphibians, diet information was partly extracted from the AmphiBIO database \citep{Oliveira2017}, and partly compiled from the literature (see next section). In AmphiBIO, diet information was recorded as the consumption of six food items (leaves, flowers, seeds, fruit, arthropods and vertebrates), but the percent use of these items was not recorded. From AmphiBIO, we classified amphibians into the different diet categories, depending on the combinations of consumed food items. 
+
+\subsection{Diet data complements for amphibians and reptiles}
+To increase diet data coverage for amphibians, we compiled data from published papers and from the grey literature, targeting species occurring in the PREDICTS database. We were able to collect diet information for an additional 108 amphibians from 26 published sources (all found to be invertebrate eaters; see below for the list of sources). For reptiles, there was no readily available diet information (except for trophic level information, see \citet{Etard2020}). Thus, we collected diet data from the literature, specifically targeting reptiles occurring in the PREDICTS database. From the literature, we added diet information for 239 reptiles. Finally, diet breadth was calculated across amphibians and reptiles from the recorded food items. The compiled diet data are available at:
+\url{https://figshare.com/articles/Reptile_Diet_csv/12024309} (DOI: 10.6084/m9.figshare.12024309.v1) and
+\url{https://figshare.com/articles/Untitled_Item/12024312} (DOI: 10.6084/m9.figshare.12024312.v4).
+
+\subsubsection{Complementary data sources for amphibians}
+
+\begin{itemize}
+\item Aguilar-López \& Pineda (2013). An exotic species of earthworm preyed by \textit{Craugastor rhodopis}. Herpetology Notes, 6: 335-336.
+\item Arroyo, S. B., Serrano-Cardozo, V. H., \& Ramírez-Pinilla, M. P. (2008). Diet, microhabitat and time of activity in a Pristimantis (Anura, Strabomantidae) assemblage. Phyllomedusa: Journal of Herpetology, 7(2), 109-119.         
+\item Loc Barragán, J. A. \& Woolrich, G. (2016). Smilisca baudinii. Diet. Mesoamerican Herpetology, 3(3).
+\item Berry, P. Y., \& Bullock, J. A. (1962). The Food of the Common Malayan Toad, \textit{Bufo melanostictus} Schneider. Copeia, 1962(4), 736–741. 
+\item Blommers-Schlösser, R. M. A. (1975). A unique case of mating behaviour in a Malagasy tree frog, Gephyromantis liber (Peracca, 1893), with observations on the larval development (Amphibia, Ranidae). Beaufortia, 23(296), 15–25.
+\item Cappo, M. (1986). Frogs as predators of organisms of aquatic origin in the Magela Creek System, Northern Territory. MSc thesis. Dept of Zoology, University of Adelaide. https://hdl.handle.net/2440/110846.
+\item Costello, J.M. (2013). Differences in Morphology and Behavior in Green Frogs (\textit{Lithobates clamitans} from Urban and Rural Sites in New York and New Jersey. PhD thesis. City University of New York. 
+\item Brito de Carvalho, C. \& Freitas, E. \& Faria, R. \& Batista, R. \& Batista, C. \& Coelho, W. \& Bocchiglieri, A. (2008). Natural history of \textit{Leptodactylus mystacinus} and \textit{Leptodactylus fuscus} (Anura: Leptodactylidae) in the Cerrado of Central Brazil. Biota Neotropica, 8. 
+\item Batista, R. \& Brito de Carvalho, C. \& Freitas, E.B. \& Franco, S.C. \& Batista, C.C. \& Coelho, Welington \& Faria, Renato. (2011). Diet of \textit{Rhinella schneideri} (Werner, 1894) (Anura: Bufonidae) in the Cerrado, Central Brazil. Herpetology Notes, 4:17-21. 
+\item Fonseca-Pérez, K. A., Molina, C., \& Tárano, Z. (2017). Diet of Dendropsophus microcephalus and Scarthyla vigilans (Anura: Hylidae) at a locality in north-western Venezuela with notes on microhabitat occupation. Papéis Avulsos De Zoologia, 57(7), 93-104.
+\item García-R, J.C. \& Posso-Gómez, C. E. \& Cárdenas-Henao, H. (2015). Diet of direct-developing frogs (Anura: Craugastoridae: Pristimantis) from the Andes of western Colombia. Acta Biológica Colombiana, 20:79-87. 
+\item Zumbado-Ulato, H. \& Acosta-Chaves, V. (2012). \textit{Cochranella granulosa} (Granular glass frog) feeding behaviour. Herpetological review.
+\item Yap, C.H. \& Jafaar, I. (2012). Feeding analysis of \textit{Hylarana cf. labialis}, \textit{Leptobrchiun hendricksoni}, and \textit{Occidozyga laevis} (Amphibia: Anura) from a lowland dipterocarp forest in Kedah, Malaysia. Herpetological Review, 43(1).
+\item Schwenk, K. (2000). Feeding: Form, function and evolution in tetrapod vertebrates. Academic Press.
+\item Sabagh, L.T., Ferreira V.L., \& Rocha C.F. (2010). Living together, sometimes feeding in a similar way: the case of the syntopic hylid frogs Hypsiboas raniceps and Scinax acuminatus (Anura: Hylidae) in the Pantanal of Miranda, Mato Grosso do Sul State, Brazil. Brazilian Journal of Biology, 70(4):955-9.
+\item Luría-Manzano R. \& Ramírez-Bautista A. (2017). Diet comparison between rainforest and cave populations of \textit{Craugastor alfredi} (Anura: Craugastoridae): does diet vary in contrasting habitats? Journal of Natural History, 51:39-40, 2345-2354.
+\item Martínez-Coronel, M. \& Pérez-Gutiérrez, M. (2011). Diet composition of \textit{Craugastor lineatus} (Anura: Craugastoridae) of Chiapas, Mexico. Acta Zoológica Mexicana 27(2):215-230. 
+\item McAlister, W. H. (1963). Evidence of mild toxicity in the saliva of the hognose snake (Heterodon). Herpetologica, 19:132-137.
+\item Moreno-Barbosa, S. \& Hoyos, J. (2014). Ontogeny of the diet in Anurans (Amphibia) collected at La Vieja river basin in the deparmento of Quindio (Colombia). Caldasia, 36 (365-372).
+\item Piatti, L. \& Souza, F. (2011). Diet and resource partitioning among anurans in irrigated rice fields in Pantanal, Brazil. Brazilian journal of biology, 71 (653-61).
+\item Savini, C. O. K., Chuang, M. F., \& Ishida, C. (2004). Diet Selection in the Green Paddy Frog (\textit{Rana erythraea}). International field biology course 2004.
+\item Simon, M. P., \& Toft, C. A. (1991). Diet Specialization in Small Vertebrates: Mite-Eating in Frogs. Oikos, 61(2):263–278. 
+\item Sugai, J.L.M.M., Terra, J.S., \& Ferreira, V.L. (2012): Diet of \textit{Leptodactylus fuscus}
+(Amphibia: Anura: Leptodactylidae) in the Pantanal of Miranda river, Brazil. Biota Neotropica, 12: 99-104.
+\item Toft, C. A. (1981). Feeding Ecology of Panamanian Litter Anurans: Patterns in Diet and Foraging Mode. Journal of Herpetology, 15(2):139–144. 
+\item Vences, M., Glaw, F. \& Zapp, C.(1999). Stomach content analysis in Malagasy frogs of the genera \textit{Tomopterna}, \textit{Aglyptodactylus}, \textit{Boophis} and \textit{Mantidactylus}. Herpetozoa, 11(3/4):109-116.
+\item Yap, C.H. \& Jaafar, I. (2011). Stomach Content Analysis of Tropical Forest Toads \textit{Ingerophrynus parvus} and \textit{Phrynoides aspera} (ANURA : BUFONIDAE) from Kedah, Malaysia. Taxonomist and Ecologist Conference 2011.
+\end{itemize}
+
+\subsubsection{Complementary data sources for reptiles}
+
+The 148 sources are listed in the dataset available from \url{https://figshare.com/articles/Reptile_Diet_csv/12024309} (DOI: 10.6084/m9.figshare.12024309.v1).
+
+\newpage
+\section{Imputing missing trait values}
+
+\subsection{Trait data coverage}
+%% trait coverage across all vertebrates
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{Figures/Coverage_all_species}
+\caption[Trait coverage, including coverage for diet information]{\textbf{Trait coverage, including coverage for diet information, calculated as the proportion of species for which trait values are not missing}. The dashed line represents 50\% coverage.}
+\label{}
+\end{figure}
+
+\subsection{Phylogenetic signal in traits}
+%% phylogenetic signal
+We measured the phylogenetic signal in traits using Pagel's $\lambda$ (for continuous traits) and Borges' $\delta$ (for categorical traits).
+We found evidence of phylogenetic conservatism in all the traits.
+
+\begin{table}[h!]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1.2}
+\begin{center}\fontsize{9}{11}\selectfont
+\caption[]{\textbf{Phylogenetic signal in continuous and categorical traits.} BM: body mass; BL: body length; GL: generation length; MA: age at sexual maturity; ML: maximum longevity; L: longevity; LCS: litter/clutch size; HB: habitat breadth; DA: diel activity; UA: use of artificial habitats. Continuous traits were log-10 transformed to improve normality before estimating Pagel’s $\lambda$ – except for habitat breadth which was square-rooted. A star indicates a significant signal (p-value<0.05 for the log-likelihood ratio test in the case of $\lambda$; and a significant difference from the simulated null distribution of $\delta$ for categorical traits). ‘NA’ indicates traits that were not considered for a given class. All traits showed significant phylogenetic signal, with signals for BM, BL, L, GL, MA and LCS being particularly strong (above 0.8) across the four classes. }
+\label{physig}  
+\begin{tabular}{l|c|c|c|c|c|c|c|c|c|c|c|}
+\cline{2-12}
+                                          & \multicolumn{8}{c|}{\textbf{Pagel's $\lambda$}}                                                                       & \multicolumn{3}{c|}{\textbf{Borges' $\delta$}} \\ \hline
+\multicolumn{1}{|c|}{\textbf{Class}}      & \textbf{BM} & \textbf{BL} & \textbf{GL} & \textbf{MA} & \textbf{ML} & \textbf{L} & \textbf{LCS} & \textbf{HB} & \textbf{Diet} & \textbf{DA} & \textbf{UA} \\ \hline
+\multicolumn{1}{|l|}{\textbf{Amphibians}} & 0.98*       & 0.94*       & NA          & 0.85*       & 0.82*       & NA         & 0.93*        & 0.99*       & 3.4*         & 3.4*        & 4.5*        \\ %\hline
+\multicolumn{1}{|l|}{\textbf{Birds}}      & 0.99*       & NA          & 0.97*       & NA          & NA          & NA         & 0.95*        & 0.60*       & 6.4*         & 32e3*       & 1.8*        \\ %\hline
+\multicolumn{1}{|l|}{\textbf{Mammals}}    & 0.99*       & NA          & 0.97        & NA          & NA          & NA         & 0.99         & 0.71        & 26*         & 52*         & 1.3*        \\ %\hline
+\multicolumn{1}{|l|}{\textbf{Reptiles}}   & 1.0*        & NA          & NA          & NA          & 0.94*       & 0.98*      & 1.0*         & 0.52*       & 2.2*        & 6.4*        & 1.4*        \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{comment}
+\begin{itemize}
+\item Amphibians: $\delta$=3.424413, p-value = 4.768e-07
+\item Birds: $\delta$=6.466144, p-value =  0.007813
+\item Mammals: $\delta$=, p-value =  
+\item Reptiles: $\delta$=2.248912, p-value = 2.91e-11
+\end{itemize}
+\end{comment}
+
+
+\subsection{Implementation of missing value imputations}
+We imputed missing trait values using random forest algorithms, as implemented in R with missForest \citep{Stekhoven2012, Stekhoven2016}. Phylogenetic relationships were included as additional predictors in the form of phylogenetic eigenvectors \citep{DinizFilho2012}, extracted from the phylogenies using the PVR package \citep{Santos2018}. Following \citet{Penone2014}, we included the first ten phylogenetic eigenvectors as additional predictors of missing trait values in each class. As not all species were represented in the phylogenies, we also added taxonomic order as a predictor for all species. All traits in table \ref{physig} were included in the imputations, as well as diet breadth. Habitat \& diet breadth were considered as categorical variables for the imputations (and so, discretised). Tuning parameters of missForest were set to ten maximum iterations and to one hundred trees grown in each forest.
+
+%% distribution of traits before and after imputations
+
+
+\subsection{Imputation error \& imputation congruence}
+
+%% plot for imputation errors
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{Figures/Imputation_errors}
+\caption[]{\textbf{Estimation of imputation errors for the traits included in the analyses.} (a) For the categorical traits, we show the proportion of falsely classified traits (`PFC', out-of-bag estimates); (b) For the continuous traits, we calculate the normalised root-mean-squared error from the mean square error (that we divide by the standard deviation of the known trait distribution).}
+\label{}
+\end{figure}
+
+%% plot for imputation congruence
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{Figures/Imputation_congruence}
+\caption[]{\textbf{Imputation congruence among eight independent sets of imputed traits.} (a) For the categorical traits, we show the median and the range of the proportion of species for which different imputation rounds yielded different imputed values. The proportion of species for which the estimated values were different between two imputed datasets was obtained for each pair of imputed sets (by obtaining pairwise comparisons among the eights sets of imputed datasets). (b) For the continuous traits, we show the range and median of the correlation coefficients among pairs of imputed sets, for each trait.}
+\label{}
+\end{figure}
+
+
+\clearpage
+
+\section{Sample sizes: number of sampled sites across classes and land-use types}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{Figures/Sample_size_figure}
+\caption[]{\textbf{Sample sizes (number of PREDICTS sites) for the different land-use types, in each class.}}
+\label{}
+\end{figure}
+
+\clearpage
+\section{Land-use responses: multicollinearity checks among the predictors}
+
+%% Amphibians, with primary diet
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Generalised Variance Inflation Factors among the candidate species-level predictors for the mixed-effects model fitted across amphibians, \textit{prior to the exclusion of primary diet}}. The model aimed at investigating the effects of land use, land-use intensity and the species-level predictors on species occurrence probability.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.7$ \\ 
+Lifespan proxy (log$_{10}$) & $1.8$ \\ 
+Specialisation & $1.8$ \\ 
+Range area (log$_{10}$) & $2.0$ \\ 
+Body mass (log$_{10}$) & $2.0$ \\ 
+Land use & $2.0$ \\ 
+Litter/clutch size (log$_{10}$) & $2.5$ \\ 
+Land-use intensity & $2.6$ \\ 
+Habitat breadth (square-root) & $3.2$ \\ 
+Diet breadth (square-root) & $22.8$ \\ 
+Primary diet & $23.6$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table}  
+
+\vspace{-0.5cm}
+%% Amphibians, without primary diet
+\begin{table}[h!] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont
+    \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the mixed-effects model fitted across amphibians \textit{(after the exclusion of primary diet)}}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability.}  
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.6$ \\ 
+Diet breadth (sqrt) & $1.7$ \\ 
+Lifespan proxy (log$_{10}$) & $1.8$ \\ 
+Specialisation & $1.8$ \\ 
+Range area (log$_{10}$) & $1.9$ \\ 
+Land use & $2.0$ \\ 
+Body mass (log$_{10}$) & $2.0$ \\ 
+Litter/clutch size (log$_{10}$) & $2.4$ \\ 
+Land-use intensity & $2.6$ \\ 
+Habitat breadth (square-root) & $3.1$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\vspace{-0.5cm}
+%% birds
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont
+  \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the mixed-effects model fitted across birds}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Land use & $1.2$ \\ 
+Land-use intensity & $1.2$ \\ 
+Litter/clutch size (log$_{10}$) & $1.3$ \\ 
+Range area (log$_{10}$) & $1.4$ \\ 
+Diet breadth (square-root) & $1.5$ \\ 
+Specialisation & $1.6$ \\ 
+Lifespan proxy (log$_{10}$) & $1.7$ \\ 
+Habitat breadth (square-root) & $1.8$ \\ 
+Body mass (log$_{10}$) & $1.9$ \\ 
+Primary diet & $2.3$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular}
+\end{center} 
+\end{table} 
+
+\vspace{-0.5cm}
+%% mammals
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the mixed-effects model fitted across mammals}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability.}  
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.2$ \\ 
+Range area (log$_{10}$)& $1.2$ \\ 
+Specialisation & $1.4$ \\ 
+Land-use intensity & $1.4$ \\ 
+Diet breadth (square-root) & $1.7$ \\ 
+Land use & $1.8$ \\ 
+Habitat breadth (square-root) & $1.8$ \\ 
+Litter/clutch size (log$_{10}$) & $2.7$ \\ 
+Body mass (log$_{10}$) & $3.0$ \\ 
+Lifespan proxy (log$_{10}$) & $3.4$ \\ 
+Primary diet & $4.4$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\vspace{-0.5cm}
+%% reptiles, with primary diet
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+%  \caption{Generalised Variance Inflation Factors among species-level predictors for the mixed-effects model fitted across reptiles, prior to the exclusion of primary diet.} 
+  \caption{\textbf{Generalised Variance Inflation Factors among the candidate species-level predictors for the mixed-effects model fitted across reptiles, \textit{prior to the exclusion of primary diet}}. The model aimed at investigating the effects of land use, land-use intensity and the species-level predictors on species occurrence probability.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Specialisation & $1.3$ \\ 
+Range area (log$_{10}$) & $1.3$ \\ 
+Habitat breadth (square-root) & $1.6$ \\ 
+Lifespan proxy (log$_{10}$) & $1.9$ \\ 
+Litter/clutch size (log$_{10}$) & $2.8$ \\ 
+Land use & $3.2$ \\ 
+land-use intensity & $3.5$ \\ 
+Body mass (log$_{10}$) & $3.9$ \\ 
+Diet breadth (square-root) & $5.8$ \\ 
+Primary diet & $9.9$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+%% reptiles, excluding primary diet
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  %\caption{Generalised Variance Inflation Factors among species-level predictors for the mixed-effects model fitted across reptiles, after the exclusion of primary diet.} 
+    \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the mixed-effects model fitted across reptiles \textit{(after the exclusion of primary diet)}}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability.}  
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Diet breadth (square-root) & $1.2$ \\ 
+Specialisation & $1.2$ \\ 
+Range area (log$_{10}$)& $1.3$ \\ 
+Habitat breadth (square-root) & $1.6$ \\ 
+Lifespan proxy (log$_{10}$) & $1.9$ \\ 
+Litter/clutch size (log$_{10}$) & $2.7$ \\ 
+Land use & $3.2$ \\ 
+Body mass (log$_{10}$) & $3.2$ \\ 
+Land-use intensity & $3.4$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\clearpage
+
+\section{Implementing Climate-niche Factor Analysis (CENFA; \citet{Rinnan2019}) across terrestrial vertebrates}
+
+\subsection{Historical climate data: groups of intercorrelated variables}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.75, trim={0 1.75cm 0 0},clip]{Figures/ClimVars_groups}
+\caption[Groups of intercorrelated climatic variables at cutoff 0.65]{\textbf{Groups of intercorrelated climatic variables at cutoff 0.65}, obtained using the `removeCollinearity' R function (virtualspecies R package, \citet{virtualspecies}).}
+\label{}
+\end{figure}
+
+
+\subsection{CENFA estimation and resolution}
+We estimated climate change sensitivity across terrestrial vertebrates with the CENFA framework using three different resolutions for the species distribution files and the climatic variables: 50 km$^2$, 10 km$^2$ and 5 km$^2$. Indeed, the higher the resolution, the better species distribution is likely to be captured, particularly for the narrow-ranging species (Figure \ref{ResolutionConcept}). When working with lower resolutions, the actual geographical distribution of a narrow-ranging species might be overestimated (Figure \ref{ResolutionConcept}), such that the climatic niche breadth of the species, and consequently its climate-change sensitivity, might also be overestimated. However, higher resolutions are more computationally demanding, which can be limiting where working across several thousand species. 
+
+Thus, we looked for a resolution that provided the best estimations of climate-change sensitivity for the narrow-ranging species while requiring acceptable computational load. With a resolution of 50 km$^2$, climate-change sensitivity tended to be overestimated for more of the narrow-ranging species than at 10 km$^2$ (Figure \ref{CENFAres}); and at 10 km$^2$, climate-change sensitivity tended to be overestimated for more of the narrow-ranging species than at 5 km$^2$ (Figure \ref{CENFAres}). Below 5 km$^2$, we deemed the computational load not acceptable for a global estimation of climate-change sensitivity across terrestrial vertebrates.
+
+Hence, we chose to work with a resolution of 5 km$^2$. At this resolution, there were still some-narrow ranging species for which sensitivity was likely overestimated (Figure \ref{CENFAres}). To prevent any impact of such species on the analyses, we selected out species with the smallest range sizes, using a conservative threshold of 100 km$^2$ for range size (Figure \ref{CENFAres}).
+
+\vspace{0.5cm}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{Figures/ResolutionConcept.png}
+\caption[Possible impact of resolution choice on estimated geographical range area]{\textbf{Possible impact of resolution choice on estimated geographical range area}. We represent a virtual distribution for a species (orange shape). The species distribution is more accurately captured at higher resolution (e.g., 5 km$^2$) than at lower resolutions (e.g., 10 km$^2$ or 50 km$^2$), which can tend to overestimate the geographical range area because of the aggregation of grid cells at lower resolution which can artificially augment the amount of occupied area.}
+\label{ResolutionConcept}
+\end{figure}
+  
+\clearpage
+
+
+\begin{comment}
+\vspace{-4cm}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{Figures/CENFA_50km}
+\caption[]{\textbf{Climate-change sensitivity estimations using a resolution of 50 km$^2$ against geographical range area (estimated at 1 km$^2$).} We highlight the species whose range area is below 2,500 km$^2$, that is, the species whose distribution intersect one grid cell only. Climate-change sensitivity was estimated using the CENFA framework \citep{Rinnan2019}.}
+\label{CENFA50}
+\end{figure}
+
+\vspace{-2cm}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{Figures/CENFA_10km}
+\caption[]{\textbf{Climate-change sensitivity estimations using a resolution of 10 km$^2$ against geographical range area (estimated at 1 km$^2$).} We highlight the species whose range area is below 100 km$^2$, that is, the species whose distribution intersect one grid cell only. Climate-change sensitivity was estimated using the CENFA framework \citep{Rinnan2019}.}
+\label{CENFA10}
+\end{figure}
+
+\vspace{-2cm}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{Figures/CENFA_5km}
+\caption[]{\textbf{Climate-change sensitivity estimations at 5 km$^2$ against geographical range area (estimated at 1 km$^2$).} We highlight the species whose range area is above 100 km$^2$, that is, the species whose distribution intersect up to four grid cells. Climate-change sensitivity was estimated using the CENFA framework \citep{Rinnan2019}.}
+\label{CENFA5}
+\end{figure}
+
+\end{comment}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{Figures/CENFA_allres}
+\caption[]{\textbf{Climate-change sensitivity estimations at three different resolution (50 km$^2$, 10 km$^2$ and 5 km$^2$) against geographical range area (estimated at 1 km$^2$).} With the red dashed lines, we highlight the range areas that correspond to the surface area of one grid cell (\textit{i.e.}, 2,500 km$^2$, 100 km$^2$ and 25 km$^2$ respectively). Climate-change sensitivity was estimated using the CENFA framework \citep{Rinnan2019}. We chose to work at a resolution of 5 km$^2$ and we excluded species whose range area was $\leq$100km$^2$ (blue dashed line), that is, species whose distribution could intersect up to four grid cells.}
+\label{CENFAres}
+\end{figure}
+
+\clearpage
+
+\section{Climate-change sensitivity models: multicollinearity checks}
+
+%% Amphibians, with diet breadth
+
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+    \caption{\textbf{Generalised Variance Inflation Factors among the candidate species-level predictors for the phylogenetic least-square regression fitted across amphibians, \textit{prior to the exclusion of diet breadth}}. The model aimed at investigating the effects of the species-level predictors on species climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Lifespan proxy (log$_{10}$) & $1.2$ \\ 
+Range area (log$_{10}$) & $1.3$ \\ 
+Body mass (log$_{10}$) & $1.4$ \\ 
+Litter/clutch size (log$_{10}$) & $1.5$ \\ 
+Specialisation & $1.6$ \\ 
+Habitat breadth (square-root) & $1.9$ \\ 
+Primary diet & $17.1$ \\ 
+Diet breadth (square-root) & $17.1$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+%% Amphibians, without diet breadth
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+    \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the phylogenetic least-square regression fitted across amphibians, \textit{after excluding diet breadth}}. The model was fitted to investigate the effects of the species-level predictors on species climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Primary diet & $1.1$ \\ 
+Lifespan proxy (log$_{10}$) & $1.2$ \\ 
+Range area (log$_{10}$) & $1.3$ \\ 
+Body mass (log$_{10}$) & $1.4$ \\ 
+Litter/clutch size (log$_{10}$) & $1.5$ \\ 
+Specialisation & $1.6$ \\ 
+Habitat breadth (square-root) & $1.9$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+
+%% Birds
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont
+    \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the phylogenetic least-square regression fitted across birds.} The model was fitted to investigate the effects of the species-level predictors on species climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Range area (log$_{10}$) & $1.2$ \\ 
+Litter/clutch size (log$_{10}$) & $1.3$ \\ 
+Diet breadth (square-root) & $1.5$ \\ 
+Specialisation & $1.6$ \\ 
+Habitat breadth (square-root) & $1.8$ \\ 
+Lifespan proxy (log$_{10}$) & $1.9$ \\ 
+Body mass (log$_{10}$)& $2.0$ \\ 
+Primary diet & $2.1$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+%% Mammals
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+    \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the phylogenetic least-square regression fitted across mammals.} The model was fitted to investigate the effects of the species-level predictors on species climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Range area (log$_{10}$) & $1.2$ \\ 
+Diel activity & $1.3$ \\ 
+Specialisation & $1.3$ \\ 
+Habitat breadth (square-root) & $1.5$ \\ 
+Diet breadth (square-root) & $1.6$ \\ 
+Body mass(log$_{10}$) & $2.3$ \\ 
+Litter/clutch size (log$_{10}$) & $2.4$ \\ 
+Primary diet & $2.7$ \\ 
+Lifespan proxy (log$_{10}$) & $3.0$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+%% Reptiles
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+    \caption{\textbf{Generalised Variance Inflation Factors among the species-level predictors for the phylogenetic least-square regression fitted across reptiles.} The model was fitted to investigate the effects of the species-level predictors on species climate-change sensitivity.}
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} cc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ Predictor & GVIF \\ 
+\hline \\[-1.8ex] 
+Diel activity & $1.1$ \\ 
+Range area(log$_{10}$) & $1.2$ \\ 
+Specialisation & $1.4$ \\ 
+Habitat breadth (square-root)& $1.5$ \\ 
+Lifespan proxy (log$_{10}$) & $1.6$ \\ 
+Litter/clutch size (log$_{10}$) & $2.0$ \\ 
+Body mass (log$_{10}$) & $2.9$ \\ 
+Diet breadth (square-root) & $2.9$ \\ 
+Primary diet & $3.6$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+
+\section{Land-use responses: estimated effects from full (all-predictor) models}
+
+%% categorical traits - effects
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{Figures/Full_LU_models_effects/Land_use_categorical_traits}
+\caption[]{\textbf{Effects of categorical traits on species probability of occurrence in the different land-use types, estimated from the full (all-predictor) models fitted in each class.} The estimated effects correspond to those of the interaction terms between land use and each trait (as well as the interaction terms between land-use intensity and each trait). Hence, for each trait, the `0' baseline represents the reference level of the trait, and the effects show how any other trait level affects occurrence probability. For diet, we only show effects for mammals and birds because the full models did not include diet for reptiles and amphibians. Effects for urban reptiles could not be estimated are weren't any sampled sites. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+%% estimated slopes
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.8]{Figures/Full_LU_models_effects/Slopes_LU}
+\caption[]{\textbf{Effects of land use and land-use intensity on the slope of the relationships between occurrence probability and continuous predictors, for each class and each predictor.} The slopes were estimated from the full (all-predictor) models fitted in each class. Each column corresponds to a class and each row corresponds to a predictor (BM=body mass; LP=lifespan proxy; LCS=litter/clutch size; RA=geographical range area; DB=diet breadth; HB=habitat breadth). We did not plot the effects for amphibians in urban land uses, and those for mammals in urban land uses (for diet breadth), because error bars were large (and all effects were null). Effects for urban reptiles could not be estimated are weren't any sampled sites. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+
+\clearpage
+\section{Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}
+
+%% occurrence patterns -- specialisation
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{Figures/Partial_models_predictions/Specialisation}
+\caption[]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, artificial habitat use and their interactions in each class.} The predictions were obtained from the partial models fitted in each class for artificial habitat use. Effects could not be estimated for urban reptiles, as there weren't any sampled sites. The predictions are rescaled with reference to minimally-used primary vegetation. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+%% occurrence patterns -- diel activity
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{Figures/Partial_models_predictions/Diel_activity}
+\caption[]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, diel activity and their interactions in each class.} The predictions were obtained from the partial models fitted in each class for diel activity. Effects could not be estimated for urban reptiles, as there weren't any sampled sites. Error bars are large for non-nocturnal urban mammals because there were very few sampled species (only five). The predictions are rescaled with reference to minimally-used primary vegetation. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+
+\clearpage
+\section{Land-use responses: diagnostic plots for the full (all-predictor) models} 
+
+%% diagnostic plots (DHARMa)
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.5]{Figures/LU_Diag_amphibians}
+\caption[]{\textbf{Diagnostic plots for the mixed-effects model fitted on amphibians}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability (all-predictor model). The diagnostic plots were obtained from the DHARMa R package \citep{DHARMa}.}
+\label{}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.5]{Figures/LU_Diag_birds}
+\caption[]{\textbf{Diagnostic plots for the mixed-effects model fitted on birds}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability (all-predictor model). The diagnostic plots were obtained from the DHARMa R package \citep{DHARMa}.}
+\label{}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.5]{Figures/LU_Diag_mammals}
+\caption[]{\textbf{Diagnostic plots for the mixed-effects model fitted on mammals}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability (all-predictor model). The diagnostic plots were obtained from the DHARMa R package \citep{DHARMa}.}
+\label{}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.5]{Figures/LU_Diag_reptiles}
+\caption[]{\textbf{Diagnostic plots for the mixed-effects model fitted on reptiles}, looking at the effects of land use, land-use intensity and the species-level predictors on species occurrence probability (all-predictor model). The diagnostic plots were obtained from the DHARMa R package \citep{DHARMa}.}
+\label{}
+\end{figure}
+
+\clearpage
+
+\section{Land-use responses: estimated effects from a Bayesian framework (MCMCglmm, \citep{MCMCglmm})} 
+%% Models estimates from Bayesian approach - 
+%% effects of categorical traits
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{Figures/MCMCglmm_Land_use_categorical_traits}
+\caption[]{\textbf{Effects of categorical traits on species probability of occurrence in the different land-use types, estimated from the full (all-predictor) models fitted in each class with a Bayesian approach, using MCMCglmm \citep{MCMCglmm}.} The estimated effects correspond to those of the interaction terms between land use and each trait (as well as the interaction terms between land-use intensity and each trait). Hence, for each trait, the `0' baseline represents the reference level of the trait, and the effects show how any other trait level affects occurrence probability. For diet, we only show effects for mammals and birds because the full models did not include diet for reptiles and amphibians. Effects for urban reptiles could not be estimated are weren't any sampled sites. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+%% effects of continuous traits
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.75]{Figures/Slopes_LU_mcmcglmm}
+\caption[]{\textbf{Effects of land use and land-use intensity on the slope of the relationships between occurrence probability and continuous predictors, for each class and each predictor.} The slopes were estimated from the full (all-predictor) models fitted in each class with a Bayesian approach, using MCMCglmm \citep{MCMCglmm}. Each column corresponds to a class and each row corresponds to a predictor (BM=body mass; LP=lifespan proxy; LCS=litter/clutch size; RA=geographical range area; DB=diet breadth; HB=habitat breadth). We did not plot the effects for amphibians in urban land uses, and those for mammals in urban land uses (for diet breadth), because error bars were large (and all effects were null). Effects for urban reptiles could not be estimated are weren't any sampled sites. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+\clearpage
+
+\section{Climate-change sensitivity: model summaries and diagnostic plots}
+
+\subsection{Summaries \& diagnostic plots for models fitted on species with range area $>$100 km\textbf{$^2$})}
+
+%%%%%%%% Amphibians
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont
+  \caption{\textbf{Summary for the PGLS model fitted on amphibians, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=4,537).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $1.15$ & $0.21$ & $5.49$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$1.97$ & $0.61$ & $$-$3.22$ & $0.001$ \\ 
+log$_{10}$(Body mass)$^2$ & $$-$0.26$ & $0.42$ & $$-$0.60$ & $0.55$ \\ 
+log$_{10}$(Body mass)$^3$ & $0.46$ & $0.37$ & $1.24$ & $0.22$ \\ 
+log$_{10}$(Lifespan proxy) & $$-$0.21$ & $0.59$ & $$-$0.36$ & $0.72$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$0.14$ & $0.43$ & $$-$0.32$ & $0.75$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $0.58$ & $0.35$ & $1.66$ & $0.10$ \\ 
+log$_{10}$(Litter/clutch size) & $1.59$ & $0.54$ & $2.96$ & $0.003$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $$-$0.06$ & $0.38$ & $$-$0.16$ & $0.87$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$0.74$ & $0.31$ & $$-$2.37$ & $0.02$ \\ 
+log$_{10}$(Range area) & $$-$26.60$ & $0.34$ & $$-$77.15$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $4.27$ & $0.29$ & $14.57$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $$-$1.65$ & $0.28$ & $$-$5.96$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $$-$2.26$ & $0.43$ & $$-$5.32$ & $<0.001$ \\ 
+square-root(Habitat breadth)$^2$  & $0.81$ & $0.30$ & $2.67$ & $0.01$ \\ 
+square-root(Habitat breadth)$^3$  & $$-$0.59$ & $0.28$ & $$-$2.10$ & $0.04$ \\ 
+Specialisation: Natural habitat specialist & $0.02$ & $0.01$ & $1.85$ & $0.06$ \\ 
+Diel activity: Non-nocturnal & $0.04$ & $0.01$ & $3.28$ & $0.001$ \\ 
+Primary diet: Omnivore & $0.01$ & $0.03$ & $0.29$ & $0.77$ \\ 
+Primary diet: Plants/seeds & $0.04$ & $0.13$ & $0.31$ & $0.76$ \\ 
+Primary diet: Vertebrates & $0.13$ & $0.15$ & $0.87$ & $0.39$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\vspace{-1.2cm}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.58, trim={0 0 0 20},clip]{Figures/PGLS_diag_amphibians}
+\caption[]{\textbf{Diagnostic plots for the PGLS model fitted on amphibians, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=4,537).}
+\label{}
+\end{figure}
+
+\clearpage
+%%%%%%%%%%%% Birds
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont
+  \caption{\textbf{Summary for the PGLS model fitted on birds, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=10,198).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $0.64$ & $0.08$ & $7.91$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $2.24$ & $0.67$ & $3.36$ & $0.001$ \\ 
+log$_{10}$(Body mass)$^2$ & $0.16$ & $0.42$ & $0.37$ & $0.71$ \\ 
+log$_{10}$(Body mass)$^3$ & $$-$0.22$ & $0.37$ & $$-$0.60$ & $0.55$ \\ 
+log$_{10}$(Lifespan proxy) & $$-$0.23$ & $0.59$ & $$-$0.38$ & $0.70$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$0.84$ & $0.39$ & $$-$2.16$ & $0.03$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $$-$0.10$ & $0.28$ & $$-$0.36$ & $0.72$ \\ 
+log$_{10}$(Litter/clutch size) & $3.72$ & $0.39$ & $9.46$ & $<0.001$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $$-$0.42$ & $0.33$ & $$-$1.26$ & $0.21$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$0.40$ & $0.27$ & $$-$1.47$ & $0.14$ \\ 
+log$_{10}$(Range area) & $$-$30.69$ & $0.27$ & $$-$113.09$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $7.22$ & $0.24$ & $29.92$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $$-$2.73$ & $0.23$ & $$-$11.74$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $0.86$ & $0.33$ & $2.59$ & $0.01$ \\ 
+square-root(Habitat breadth)$^2$ & $$-$0.89$ & $0.24$ & $$-$3.63$ & $<0.001$ \\ 
+square-root(Habitat breadth)$^3$ & $$-$0.22$ & $0.23$ & $$-$0.95$ & $0.34$ \\ 
+square-root(Diet breadth) & $$-$0.50$ & $0.31$ & $$-$1.64$ & $0.10$ \\ 
+square-root(Diet breadth)$^2$ & $$-$0.11$ & $0.25$ & $$-$0.44$ & $0.66$ \\ 
+square-root(Diet breadth)$^3$ & $0.32$ & $0.24$ & $1.36$ & $0.18$ \\ 
+Specialisation: Natural habitat specialist & $0.06$ & $0.01$ & $10.13$ & $<0.001$ \\ 
+Diel activity: Non-nocturnal& $$-$0.02$ & $0.04$ & $$-$0.66$ & $0.51$ \\ 
+Primary diet: Invertebrates & $0.06$ & $0.01$ & $5.53$ & $<0.001$ \\ 
+Primary diet: Omnivores & $0.02$ & $0.01$ & $2.09$ & $0.04$ \\ 
+Primary diet: Plants/seeds & $0.06$ & $0.01$ & $4.69$ & $<0.001$ \\ 
+Primary diet: Vertebrates & $0.01$ & $0.02$ & $0.83$ & $0.41$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\vspace{-1cm}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.58,trim={0 0 0 20},clip]{Figures/PGLS_diag_birds}
+\caption[]{\textbf{Diagnostic plots for the PGLS model fitted on birds, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=10,198).}
+\label{}
+\end{figure}
+
+\clearpage
+%%%%%%%%%%%%%%% Mammals
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on mammals, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=4,712).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $0.84$ & $0.16$ & $5.37$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$4.62$ & $0.94$ & $$-$4.93$ & $<0.001$ \\ 
+log$_{10}$(Body mass)$^2$ & $0.40$ & $0.56$ & $0.72$ & $0.47$ \\ 
+log$_{10}$(Body mass)$^3$ & $0.59$ & $0.44$ & $1.33$ & $0.18$ \\ 
+log$_{10}$(Lifespan proxy) & $1.60$ & $1.03$ & $1.55$ & $0.12$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$0.79$ & $0.49$ & $$-$1.60$ & $0.11$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $$-$0.15$ & $0.43$ & $$-$0.35$ & $0.73$ \\ 
+log$_{10}$(Litter/clutch size) & $3.29$ & $0.71$ & $4.63$ & $<0.001$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $0.06$ & $0.42$ & $0.14$ & $0.89$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$0.16$ & $0.33$ & $$-$0.47$ & $0.64$ \\ 
+log$_{10}$(Range area) & $$-$24.17$ & $0.31$ & $$-$78.21$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $4.15$ & $0.28$ & $15.09$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $$-$0.90$ & $0.26$ & $$-$3.45$ & $0.001$ \\ 
+square-root(Habitat breadth) & $$-$1.24$ & $0.34$ & $$-$3.60$ & $<0.001$ \\ 
+square-root(Habitat breadth)$^2$ & $0.22$ & $0.27$ & $0.82$ & $0.41$ \\ 
+square-root(Habitat breadth)$^3$ & $$-$0.03$ & $0.26$ & $$-$0.10$ & $0.92$ \\ 
+square-root(Diet breadth) & $$-$1.21$ & $0.47$ & $$-$2.55$ & $0.01$ \\ 
+square-root(Diet breadth)$^2$ & $0.33$ & $0.36$ & $0.91$ & $0.36$ \\ 
+square-root(Diet breadth)$^3$ & $0.11$ & $0.34$ & $0.33$ & $0.74$ \\ 
+Specialisation: Natural habitat specialist & $0.04$ & $0.01$ & $3.22$ & $0.001$ \\ 
+Diel activity: Non-nocturnal & $0.003$ & $0.01$ & $0.23$ & $0.82$ \\ 
+Primary diet: Invertebrates & $$-$0.02$ & $0.03$ & $$-$0.62$ & $0.54$ \\ 
+Primary diet: Omnivores & $$-$0.02$ & $0.03$ & $$-$0.77$ & $0.44$ \\ 
+Primary diet: Plants/seeds & $0.03$ & $0.02$ & $1.32$ & $0.19$ \\ 
+Primary diet: Vertebrates & $$-$0.04$ & $0.04$ & $$-$0.98$ & $0.33$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.58,trim={0 0 0 20},clip]{Figures/PGLS_diag_mammals}
+\caption[]{\textbf{Diagnostic plots for the PGLS model fitted on mammals, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=4,712).}
+\label{}
+\end{figure}
+
+%%%%%%%%%%%%%%% Reptiles
+
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on reptiles, looking at the effects of species-level predictors on climate-change sensitivity.} We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=7,330).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $1.02$ & $0.13$ & $7.70$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$4.62$ & $0.62$ & $$-$7.47$ & $<0.001$ \\ 
+log$_{10}$(Body mass)$^2$ & $0.97$ & $0.41$ & $2.35$ & $0.02$ \\ 
+log$_{10}$(Body mass)$^3$ & $$-$0.96$ & $0.33$ & $$-$2.90$ & $0.004$ \\ 
+log$_{10}$(Lifespan proxy) & $0.89$ & $0.51$ & $1.74$ & $0.08$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$1.27$ & $0.39$ & $$-$3.27$ & $0.001$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $$-$0.29$ & $0.33$ & $$-$0.88$ & $0.38$ \\ 
+log$_{10}$(Litter/clutch size) & $0.84$ & $0.68$ & $1.24$ & $0.22$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $$-$0.34$ & $0.45$ & $$-$0.76$ & $0.45$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $0.26$ & $0.35$ & $0.74$ & $0.46$ \\ 
+log$_{10}$(Range area) & $$-$31.88$ & $0.31$ & $$-$101.48$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $5.15$ & $0.27$ & $19.03$ & $<0.001$\\ 
+log$_{10}$(Range area)$^3$ & $$-$1.97$ & $0.26$ & $$-$7.53$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $0.56$ & $0.35$ & $1.59$ & $0.11$ \\ 
+square-root(Habitat breadth)$^2$ & $$-$0.67$ & $0.27$ & $$-$2.49$ & $0.01$ \\ 
+square-root(Habitat breadth)$^3$ & $0.05$ & $0.26$ & $0.21$ & $0.83$ \\ 
+square-root(Diet breadth) & $$-$0.33$ & $0.37$ & $$-$0.90$ & $0.37$ \\ 
+square-root(Diet breadth)$^2$ & $$-$0.02$ & $0.27$ & $$-$0.08$ & $0.94$ \\ 
+square-root(Diet breadth)$^2$ & $0.31$ & $0.26$ & $1.22$ & $0.22$ \\ 
+Specialisation: Natural habitat specialist & $0.10$ & $0.01$ & $8.50$ & $<0.001$ \\ 
+Diel activity: Non-nocturnal & $$-$0.02$ & $0.01$ & $$-$1.88$ & $0.06$ \\ 
+Primary diet: Omnivore & $$-$0.03$ & $0.03$ & $$-$0.92$ & $0.36$ \\ 
+Primary diet: Vertebrates & $$-$0.02$ & $0.02$ & $$-$1.05$ & $0.30$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.58, trim={0 0 0 20},clip]{Figures/PGLS_diag_reptiles}
+\caption[]{\textbf{Diagnostic plots for the PGLS model fitted on reptiles, looking at the effects of species-level predictors on climate-change sensitivity. }We excluded species whose range area was $\leqslant$100 km\textbf{$^2$} (n=7,330).}
+\label{}
+\end{figure}
+
+
+\clearpage
+
+\subsection{Summaries for the PGLS models fitted on all species (including those with range area $\leqslant$100 km\textbf{$^2$})}
+
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on amphibians, looking at the effects of species-level predictors on climate-change sensitivity.} We included species whose range area was $\leqslant$100 km\textbf{$^2$} (n=5,197).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $1.23$ & $0.20$ & $6.01$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$1.70$ & $0.74$ & $$-$2.29$ & $0.02$ \\ 
+log$_{10}$(Body mass)$^2$ & $$-$0.56$ & $0.52$ & $$-$1.09$ & $0.28$ \\ 
+log$_{10}$(Body mass)$^3$ & $0.12$ & $0.44$ & $0.27$ & $0.78$ \\ 
+log$_{10}$(Lifespan proxy) & $0.46$ & $0.72$ & $0.64$ & $0.52$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $0.21$ & $0.53$ & $0.40$ & $0.69$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $0.50$ & $0.43$ & $1.17$ & $0.24$ \\ 
+log$_{10}$(Litter/clutch size) & $0.95$ & $0.64$ & $1.48$ & $0.14$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $$-$0.34$ & $0.45$ & $$-$0.74$ & $0.46$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$1.07$ & $0.38$ & $$-$2.79$ & $0.01$ \\ 
+log$_{10}$(Range area) & $$-$28.60$ & $0.42$ & $$-$67.90$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $$-$3.57$ & $0.37$ & $$-$9.76$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $8.78$ & $0.34$ & $25.56$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $$-$2.55$ & $0.52$ & $$-$4.89$ & $<0.001$ \\ 
+square-root(Habitat breadth)$^2$ & $0.46$ & $0.38$ & $1.21$ & $0.23$ \\ 
+square-root(Habitat breadth)$^3$ & $$-$1.26$ & $0.35$ & $$-$3.62$ & $<0.001$ \\ 
+Specialisation: Natural habitat specialist & $0.02$ & $0.01$ & $1.55$ & $0.12$ \\ 
+Diel activity: Non-nocturnal & $0.03$ & $0.01$ & $2.46$ & $0.01$ \\ 
+Primary diet: Omnivore & $0.001$ & $0.04$ & $0.02$ & $0.99$ \\ 
+Primary diet: Plants/seeds & $$-$0.12$ & $0.15$ & $$-$0.80$ & $0.42$ \\ 
+Primary diet: Vertebrates & $0.20$ & $0.18$ & $1.14$ & $0.26$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on birds, looking at the effects of species-level predictors on climate-change sensitivity.} We included species whose range area was $\leqslant$100 km\textbf{$^2$} (n=10,340).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+(Intercept) & $0.64$ & $0.08$ & $7.62$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $2.07$ & $0.70$ & $2.94$ & $0.003$ \\ 
+log$_{10}$(Body mass)$^2$ & $0.26$ & $0.45$ & $0.57$ & $0.57$ \\ 
+log$_{10}$(Body mass)$^3$ & $$-$0.15$ & $0.39$ & $$-$0.39$ & $0.70$ \\ 
+log$_{10}$(Lifespan proxy) & $$-$0.47$ & $0.62$ & $$-$0.76$ & $0.45$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$0.67$ & $0.41$ & $$-$1.64$ & $0.10$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $$-$0.07$ & $0.29$ & $$-$0.24$ & $0.81$ \\ 
+log$_{10}$(Litter/clutch size) & $3.25$ & $0.41$ & $7.84$ & $<0.001$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $$-$0.64$ & $0.35$ & $$-$1.82$ & $0.07$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$0.30$ & $0.29$ & $$-$1.04$ & $0.30$ \\ 
+log$_{10}$(Range area) & $$-$33.48$ & $0.29$ & $$-$116.96$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $6.56$ & $0.25$ & $25.72$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $1.56$ & $0.24$ & $6.39$ & $<0.001$ \\ 
+square-root(Habitat breadth)  & $1.01$ & $0.35$ & $2.88$ & $0.004$ \\ 
+square-root(Habitat breadth)$^2$  & $$-$1.22$ & $0.26$ & $$-$4.75$ & $<0.001$ \\ 
+square-root(Habitat breadth)$^3$  & $$-$0.38$ & $0.24$ & $$-$1.59$ & $0.11$ \\ 
+square-root(Diet breadth) & $$-$0.44$ & $0.32$ & $$-$1.38$ & $0.17$ \\ 
+square-root(Diet breadth)$^2$  & $$-$0.27$ & $0.26$ & $$-$1.04$ & $0.30$ \\ 
+square-root(Diet breadth)$^3$  & $0.43$ & $0.25$ & $1.73$ & $0.08$ \\ 
+Specialisation: Natural habitat specialist & $0.06$ & $0.01$ & $9.75$ & $<0.001$ \\ 
+Diel activity: Non-nocturnal & $$-$0.01$ & $0.04$ & $$-$0.35$ & $0.73$ \\ 
+Primary diet: Invertebrates & $0.06$ & $0.01$ & $6.03$ & $<0.001$ \\ 
+Primary diet: Omnivore & $0.03$ & $0.01$ & $2.61$ & $0.01$ \\ 
+Primary diet: Plants/seeds & $0.07$ & $0.01$ & $5.13$ & $<0.001$ \\ 
+Primary diet: Vertebrates & $0.02$ & $0.02$ & $0.85$ & $0.39$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on mammals, looking at the effects of species-level predictors on climate-change sensitivity.} We included species whose range area was $\leqslant$100 km\textbf{$^2$} (n=4,841).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+(Intercept) & $0.86$ & $0.15$ & $5.68$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$4.57$ & $0.97$ & $$-$4.69$ & $<0.001$ \\ 
+log$_{10}$(Body mass)$^2$ & $0.37$ & $0.59$ & $0.62$ & $0.53$ \\ 
+log$_{10}$(Body mass)$^3$ & $0.67$ & $0.47$ & $1.44$ & $0.15$ \\ 
+log$_{10}$(Lifespan proxy) & $1.50$ & $1.09$ & $1.38$ & $0.17$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$0.93$ & $0.52$ & $$-$1.79$ & $0.07$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $$-$0.05$ & $0.46$ & $$-$0.11$ & $0.91$ \\ 
+log$_{10}$(Litter/clutch size) & $3.28$ & $0.75$ & $4.35$ & $<0.001$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $0.19$ & $0.44$ & $0.43$ & $0.67$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$0.35$ & $0.35$ & $$-$0.99$ & $0.32$ \\ 
+log$_{10}$(Range area) & $$-$26.32$ & $0.34$ & $$-$78.41$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $2.16$ & $0.30$ & $7.26$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $3.80$ & $0.29$ & $13.28$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $$-$1.24$ & $0.37$ & $$-$3.31$ & $0.001$ \\ 
+square-root(Habitat breadth)$^2$ & $0.10$ & $0.29$ & $0.34$ & $0.73$ \\ 
+square-root(Habitat breadth)$^3$ & $$-$0.15$ & $0.28$ & $$-$0.55$ & $0.58$ \\ 
+square-root(Diet breadth)& $$-$1.57$ & $0.50$ & $$-$3.12$ & $0.002$ \\ 
+square-root(Diet breadth)$^2$ & $0.34$ & $0.38$ & $0.88$ & $0.38$ \\ 
+square-root(Diet breadth)$^3$ & $$-$0.03$ & $0.36$ & $$-$0.09$ & $0.93$ \\ 
+Specialisation: Natural habitat specialist & $0.04$ & $0.01$ & $3.55$ & $<0.001$ \\ 
+Diel activity: Non-nocturnal & $$-$0.001$ & $0.02$ & $$-$0.07$ & $0.95$ \\ 
+Primary diet: Invertebrates & $$-$0.03$ & $0.03$ & $$-$0.97$ & $0.33$ \\ 
+Primary diet: Omnivore & $$-$0.03$ & $0.03$ & $$-$0.96$ & $0.34$ \\ 
+Primary diet: Plants/seeds & $0.02$ & $0.03$ & $0.83$ & $0.41$ \\ 
+Primary diet: Vertebrates & $$-$0.06$ & $0.04$ & $$-$1.59$ & $0.11$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+
+
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on reptiles, looking at the effects of species-level predictors on climate-change sensitivity.} We included species whose range area was $\leqslant$100 km\textbf{$^2$} (n=7,945).} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+(Intercept) & $1.08$ & $0.14$ & $7.79$ & $<0.001$\\ 
+log$_{10}$(Body mass) & $$-$4.04$ & $0.72$ & $$-$5.64$ & $<0.001$ \\ 
+log$_{10}$(Body mass)$^2$ & $0.22$ & $0.48$ & $0.46$ & $0.64$ \\ 
+log$_{10}$(Body mass)$^3$ & $$-$0.84$ & $0.39$ & $$-$2.19$ & $0.03$ \\ 
+log$_{10}$(Lifespan proxy) & $0.72$ & $0.61$ & $1.18$ & $0.24$ \\ 
+log$_{10}$(Lifespan proxy)$^2$ & $$-$1.42$ & $0.46$ & $$-$3.07$ & $0.002$ \\ 
+log$_{10}$(Lifespan proxy)$^3$ & $$-$0.30$ & $0.39$ & $$-$0.77$ & $0.44$ \\ 
+log$_{10}$(Litter/clutch size) & $1.23$ & $0.80$ & $1.54$ & $0.12$ \\ 
+log$_{10}$(Litter/clutch size)$^2$ & $$-$0.21$ & $0.53$ & $$-$0.40$ & $0.69$ \\ 
+log$_{10}$(Litter/clutch size)$^3$ & $$-$0.23$ & $0.41$ & $$-$0.56$ & $0.58$ \\ 
+log$_{10}$(Range area) & $$-$32.18$ & $0.37$ & $$-$87.40$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^2$ & $$-$6.51$ & $0.32$ & $$-$20.05$ & $<0.001$ \\ 
+log$_{10}$(Range area)$^3$ & $9.84$ & $0.31$ & $31.28$ & $<0.001$ \\ 
+square-root(Habitat breadth)& $1.05$ & $0.42$ & $2.53$ & $0.01$ \\ 
+square-root(Habitat breadth)$^2$ & $$-$0.91$ & $0.32$ & $$-$2.83$ & $0.005$ \\ 
+square-root(Habitat breadth)$^3$ & $$-$0.06$ & $0.30$ & $$-$0.20$ & $0.84$ \\ 
+square-root(Diet breadth) & $$-$0.52$ & $0.43$ & $$-$1.20$ & $0.23$ \\ 
+square-root(Diet breadth)$^2$ & $0.02$ & $0.32$ & $0.07$ & $0.95$ \\ 
+square-root(Diet breadth)$^3$ & $0.24$ & $0.31$ & $0.77$ & $0.44$ \\ 
+Specialisation: Natural habitat specialist & $0.10$ & $0.01$ & $7.07$ & $<0.001$ \\ 
+Diel activity: Non-nocturnal & $$-$0.02$ & $0.01$ & $$-$1.76$ & $0.08$ \\ 
+Primary diet: Omnivore & $$-$0.01$ & $0.04$ & $$-$0.18$ & $0.85$ \\ 
+Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\clearpage
+
+\subsection{Models estimates for the PGLS models fitted on all species, against models estimates for the PGLS models fitted on species whose range area $>$100 km$^2$}
+
+%%Figures for all species against species >100km2
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.9]{Figures/ClimateChangeModelsEstimates.pdf}
+\caption[]{\textbf{Estimates for the PGLS models looking at the effects of the species-level predictors on species climate-change sensitivity,} either fitted on all species (y--axis), or fitted on the species whose range area was $>$100 km$^2$ (x--axis). Overall, the estimates from both sets of models were congruent, except for those estimated for geographical range area. Hence, we show the effects for range area separately from the effects of other predictors. Across all classes, the relationship between sensitivity and geographical range area was reversed between the two sets of models. We found that sensitivity was positively affected by geographical range area when including all species, likely because of the underestimation of sensitivity for the narrow-ranging species when working with a resolution of 5 km$^2$ (see Figure \ref{CENFAres}). The dashed line is the identity line (y=x).}
+\label{}
+\end{figure}
+
+\section{Validations on complete trait data subsets}
+
+%% Synthesis table
+\begin{landscape}
+\subsection{Synthesis table}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.7]{Figures/SynthesisTableValidation}
+\caption[]{\textbf{Summary of the effects of the species-level predictors (all except primary diet) on (a) species responses to disturbed land uses (within land-use type effects) and on (b) species climate-change sensitivity, in each class, \textit{estimated from the models fitted on complete trait data subsets (excluding imputed trait values)}}. The symbol \textbf{–} is drawn where a predictor is found to have a negative effect on occurrence probability within a disturbed land use, or where the predictor renders the species more sensitive to climate change. A \textbf{+} indicates a positive effect of a predictor on occurrence probability in a land-use type and also indicates significantly lower sensitivity to climate change. For the land-use effects, we report  `within land-use type effects' here, that is, given a disturbed land use, whether there were significant differences in occurrence probability for different trait values. These effects were derived from the interactive terms of the full, all-predictor models. }
+\label{}
+\end{figure}
+\end{landscape}
+
+\begin{comment}
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{Figures/Land_use_categorical_traits_validation}
+\caption[]{}
+\label{}
+\end{figure}
+\end{comment}
+
+\subsection{Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions, in each class (validation on complete trait data subsets from partial models)}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.65]{Figures/Partial_models_predictions/Validations/Diet}
+\caption[]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions in each class. The predictions were obtained from the partial models fitted in each class for diet, \textit{estimated using complete trait data subsets (excluding imputed trait values)}}. Empty plots are drawn where there were no data for a diet category in  given class (e.g., amphibian fruit/nectar eaters). Effects could not be estimated for urban reptiles, as well as for urban vertebrate, fruit/nectar and plant/seed eaters for mammals because there were no sampled species. The predictions are rescaled with reference to minimally-used primary vegetation. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{}
+\end{figure}
+
+
+\clearpage
+
+\subsection{Validations on complete trait data subsets: PGLS model summaries}
+
+%% PGLS model summaries - validation -- amphibians
+
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont  
+  \caption{\textbf{Summary for the PGLS model fitted on amphibians, \textit{using the complete trait data subset (excluding imputed values)}}, looking at the effects of the species-level predictors on climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $1.825$ & $0.342$ & $5.344$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$0.030$ & $0.035$ & $$-$0.875$ & $0.385$ \\ 
+log$_{10}$(Lifespan proxy) & $0.180$ & $0.103$ & $1.742$ & $0.086$ \\ 
+log$_{10}$(Litter/clutch size) & $0.052$ & $0.032$ & $1.639$ & $0.106$ \\ 
+log$_{10}$(Range area) & $$-$0.261$ & $0.024$ & $$-$10.888$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $$-$0.032$ & $0.030$ & $$-$1.078$ & $0.285$ \\ 
+square-root(Diet breadth) & $$-$0.068$ & $0.107$ & $$-$0.635$ & $0.527$ \\ 
+Specialisation: Natural habitat specialist & $$-$0.006$ & $0.059$ & $$-$0.095$ & $0.925$ \\ 
+Diel activity: Non-nocturnal & $$-$0.009$ & $0.044$ & $$-$0.205$ & $0.839$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+%% PGLS model summaries - validation -- birds
+
+\begin{table}[!h] 
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on birds, \textit{using the complete trait data subset (excluding imputed values)}}, looking at the effects of the species-level predictors on climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $1.551$ & $0.143$ & $10.875$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $0.020$ & $0.011$ & $1.759$ & $0.079$ \\ 
+log$_{10}$(Lifespan proxy) & $0.047$ & $0.036$ & $1.308$ & $0.191$ \\ 
+log$_{10}$(Litter/clutch size) & $0.212$ & $0.022$ & $9.487$ & $<0.001$ \\ 
+log$_{10}$(Range area) & $$-$0.230$ & $0.003$ & $$-$73.130$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $$-$0.011$ & $0.005$ & $$-$2.319$ & $0.020$ \\ 
+square-root(Diet breadth) & $0.015$ & $0.011$ & $1.319$ & $0.187$ \\ 
+Specialisation: Natural habitat specialist & $0.044$ & $0.007$ & $6.586$ & $<0.001$ \\ 
+Diel activity: Non-nocturnal & $0.001$ & $0.058$ & $0.019$ & $0.984$ \\ 
+Primary diet: Invertebrates & $0.047$ & $0.014$ & $3.330$ & $0.001$ \\ 
+Primary diet: Omnivore & $0.016$ & $0.014$ & $1.144$ & $0.253$ \\ 
+Primary diet: Plants/seeds & $0.048$ & $0.016$ & $2.993$ & $0.003$ \\ 
+Primary diet: Vertebrates & $$-$0.005$ & $0.022$ & $$-$0.247$ & $0.805$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+
+%% PGLS model summaries - validation -- mammals
+\begin{table}[!h]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on mammals, \textit{using the complete trait data subset (excluding imputed values)}}, looking at the effects of the species-level predictors on climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $2.194$ & $0.187$ & $11.705$ & $<0.001$ \\ 
+log$_{10}$(Body mass) & $$-$0.047$ & $0.012$ & $$-$3.865$ & $<0.001$ \\ 
+log$_{10}$(Lifespan proxy) & $0.065$ & $0.046$ & $1.416$ & $0.157$ \\ 
+log$_{10}$(Litter/clutch size) & $0.147$ & $0.034$ & $4.293$ & $<0.001$ \\ 
+log$_{10}$(Range area) & $$-$0.269$ & $0.005$ & $$-$54.621$ & $<0.001$ \\ 
+square-root(Habitat breadth) & $$-$0.042$ & $0.010$ & $$-$4.320$ & $<0.001$ \\ 
+square-root(Diet breadth) & $$-$0.030$ & $0.020$ & $$-$1.487$ & $0.137$ \\ 
+Specialisation: Natural habitat specialist & $0.016$ & $0.013$ & $1.235$ & $0.217$ \\ 
+Diel activity: Non-nocturnal & $0.012$ & $0.015$ & $0.792$ & $0.428$ \\ 
+Primary diet: Invertebrates & $$-$0.038$ & $0.031$ & $$-$1.220$ & $0.223$ \\ 
+Primary diet: Omnivores & $$-$0.031$ & $0.027$ & $$-$1.148$ & $0.251$ \\ 
+Primary diet: Plants/seeds & $0.034$ & $0.027$ & $1.298$ & $0.195$ \\ 
+Primary diet: Vertebrates & $$-$0.039$ & $0.040$ & $$-$0.995$ & $0.320$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular}
+\end{center} 
+\end{table} 
+
+%% PGLS model summaries - validation -- reptiles
+
+
+\begin{table}[!htbp]
+\renewcommand{\baselinestretch}{1}
+\renewcommand{\arraystretch}{1}
+\begin{center}\fontsize{9}{11}\selectfont 
+  \caption{\textbf{Summary for the PGLS model fitted on reptiles, \textit{using the complete trait data subset (excluding imputed values)}}, looking at the effects of the species-level predictors on climate-change sensitivity.} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} ccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & Estimate & Std. Error & t value & Pr(\textgreater \textbar t\textbar ) \\ 
+\hline \\[-1.8ex] 
+Intercept & $1.269$ & $0.522$ & $2.433$ & $0.018$ \\ 
+log$_{10}$(Body mass) & $$-$0.033$ & $0.058$ & $$-$0.570$ & $0.571$ \\ 
+log$_{10}$(Lifespan proxy) & $0.015$ & $0.130$ & $0.119$ & $0.905$ \\ 
+log$_{10}$(Litter/clutch size) & $0.095$ & $0.128$ & $0.739$ & $0.463$ \\ 
+log$_{10}$(Range area) & $$-$0.093$ & $0.049$ & $$-$1.878$ & $0.066$ \\ 
+square-root(Habitat breadth) & $$-$0.094$ & $0.045$ & $$-$2.097$ & $0.041$ \\ 
+square-root(Diet breadth) & $0.067$ & $0.112$ & $0.595$ & $0.554$ \\ 
+Specialisation: Natural habitat specialist & $0.221$ & $0.075$ & $2.936$ & $0.005$ \\ 
+Diel activity: Non-nocturnal & $$-$0.118$ & $0.080$ & $$-$1.486$ & $0.143$ \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{center}
+\end{table} 
+
+\end{document}
