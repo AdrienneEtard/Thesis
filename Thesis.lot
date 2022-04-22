@@ -4,13 +4,11 @@
 \defcounter {refsection}{1}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Chapter 2}{17}{chapter.2}%
+\contentsline {chapter}{Chapter 2}{17}{chapter.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {2.1}{\ignorespaces Data sources for each trait}}{23}{table.caption.13}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces Data sources for each trait}}{23}{table.caption.13}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {2.2}{\ignorespaces Number of species for each analysis}}{27}{table.caption.18}%
-\defcounter {refsection}{1}\relax 
-\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.2}{\ignorespaces Number of species for each analysis}}{27}{table.caption.18}% 
 \defcounter {refsection}{1}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{1}\relax 
@@ -19,35 +17,37 @@
 \addvspace {10\p@ }
 \defcounter {refsection}{1}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{1}\relax 
+\addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 1}{95}{chapter*.40}%
+\contentsline {chapter}{Appendix 1}{95}{chapter*.40}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S2.1}{\ignorespaces Coefficients of the model investigating whether species range size explained the number of sampled traits}}{112}{table.caption.59}%
+\contentsline {table}{\numberline {S2.1}{\ignorespaces Coefficients of the model investigating whether species range size explained the number of sampled traits}}{112}{table.caption.59}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S2.2}{\ignorespaces Coefficients of the model investigating whether species range size explained the number of sampled traits, using range maps not cut by altitudinal limits}}{112}{table.caption.60}%
+\contentsline {table}{\numberline {S2.2}{\ignorespaces Coefficients of the model investigating whether species range size explained the number of sampled traits, using range maps not cut by altitudinal limits}}{112}{table.caption.60}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S2.3}{\ignorespaces Spatial model summary for amphibians}}{114}{table.caption.62}%
+\contentsline {table}{\numberline {S2.3}{\ignorespaces Spatial model summary for amphibians}}{114}{table.caption.62}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S2.4}{\ignorespaces Spatial model summary for reptiles}}{114}{table.caption.63}%
+\contentsline {table}{\numberline {S2.4}{\ignorespaces Spatial model summary for reptiles}}{114}{table.caption.63}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 2}{115}{figure.caption.64}%
+\contentsline {chapter}{Appendix 2}{115}{figure.caption.64}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.1}{\ignorespaces Land-use categories in the PREDICTS database}}{116}{table.caption.66}%
+\contentsline {table}{\numberline {S3.1}{\ignorespaces Land-use categories in the PREDICTS database}}{116}{table.caption.66}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.2}{\ignorespaces Phylogenetic signal in continuous and categorical traits}}{122}{table.caption.72}%
+\contentsline {table}{\numberline {S3.2}{\ignorespaces Phylogenetic signal in continuous and categorical traits}}{122}{table.caption.72}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.3}{\ignorespaces Variance inflation factors across considered (imputed) traits}}{123}{table.caption.73}%
+\contentsline {table}{\numberline {S3.3}{\ignorespaces Variance inflation factors across considered (imputed) traits}}{123}{table.caption.73}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.4}{\ignorespaces Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain across all species}}{128}{table.caption.77}%
+\contentsline {table}{\numberline {S3.4}{\ignorespaces Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain across all species}}{128}{table.caption.77}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.5}{\ignorespaces Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain within each class}}{129}{table.caption.78}%
+\contentsline {table}{\numberline {S3.5}{\ignorespaces Sample sizes (number of pairs of sites) for the calculation of functional loss and functional gain within each class}}{129}{table.caption.78}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.6}{\ignorespaces Summary of the model explaining FRic by land use and time since land-use conversion, fitted on the subset of data for which there are information on time since land-use conversion}}{146}{table.caption.95}%
+\contentsline {table}{\numberline {S3.6}{\ignorespaces Summary of the model explaining FRic by land use and time since land-use conversion, fitted on the subset of data for which there are information on time since land-use conversion}}{146}{table.caption.95}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 3}{147}{table.caption.97}%
+\contentsline {chapter}{Appendix 3}{147}{table.caption.97}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S3.7}{\ignorespaces Summary of the model explaining FDis by land use and time since land-use conversion, fitted on the subset of data for which I have information on time since land-use conversion}}{148}{table.caption.97}%
+\contentsline {table}{\numberline {S3.7}{\ignorespaces Summary of the model explaining FDis by land use and time since land-use conversion, fitted on the subset of data for which I have information on time since land-use conversion}}{148}{table.caption.97}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 4}{149}{chapter*.98}%
+\contentsline {chapter}{Appendix 4}{149}{chapter*.98}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {S5.1}{\ignorespaces Number of species for which RMR data was collected in each class \& data sources, initial RMR coverage for PREDICTS species and phylogenetic signal in RMR}}{150}{table.caption.100}%
+\contentsline {table}{\numberline {S5.1}{\ignorespaces Number of species for which RMR data was collected in each class \& data sources, initial RMR coverage for PREDICTS species and phylogenetic signal in RMR}}{150}{table.caption.100}% 

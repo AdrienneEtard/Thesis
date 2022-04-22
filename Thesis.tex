@@ -68,7 +68,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{verbatim}
-\usepackage{lscape}
+\usepackage{pdflscape}
 \usepackage{mdframed}
 \usepackage{xcolor}
 
@@ -139,36 +139,46 @@
 
 \begin{document}
 
+\begin{refsection}
 \input{Title_page}
 
 %\maketitle
 
 % Declarations and acknowledgements here
 \chapter*{Declaration}
-%I, Adrienne Etard, confirm that the work presented in this thesis is my own. Where information has been derived from other sources, I confirm that this has been indicated in the thesis.
-The work presented in this Thesis is my own. Some parts have been conducted in collaboration
-with other researchers, and this is indicated in the `Authorship and contributions' statement (on page 6) and where relevant. All else is appropriately referenced.
+
+I, Adrienne Etard, confirm that the work presented in this thesis is my own. Some parts have been conducted in collaboration with other researchers, and the contributions of co-authors to specific Chapters are described in the \textit{Thesis outline of contents} on page 6. All else is appropriately referenced, and where information has been derived from other sources, I confirm that this has been indicated in the Thesis.
+
+\vspace{1.5cm}
+\includegraphics[scale=0.25]{declaration_signature}
 
 
-\vspace{3cm}
-This document was compiled with {\LaTeX}; the source code and files are available at: \url{https://github.com/AdrienneEtard}
+%\vspace{3cm}
+
 
 \chapter*{Acknowledgments}
 
 \chapter*{Abstract} %% No more than 300 words
-%This report summarises the work I have achieved throughout the first year of my PhD thesis at the Center for Biodiversity and Environment Research at UCL. Many experts state we have entered a new geological epoch, the Anthropocene, characterised by increasing impacts of human activities on the Earth's systems. Since the industrial revolution in the 18$^{\text{th}}$ century, anthropogenic activities have triggered global changes of planetary climate, and have led to the destruction and alteration of the natural habitat of many species. 
-
-%The impacts on global biodiversity have been dramatic. Vertebrate populations have globally declined by 60\% since 1970. Conserving biodiversity is not just a moral obligation. Biodiversity sustain important ecological processes that participate in making the planet habitable by humans. In order to put into place efficient conservation measures, it is vital to understand how different species cope with anthropogenic disturbances. Particularly, understanding what makes species sensitive to anthropogenic threats is valuable to conservation planning.
-
-%In the first Chapter, I present how trait-based approaches can be used to understand how species respond to disturbances, and how anthropogenic changes alter the composition of vertebrate communities. After exposing the gaps in our current understanding, I briefly detail the questions I tackled in this report. The second Chapter focuses on the collection of trait data across terrestrial vertebrates. These data were used in the third Chapter, which investigates how global land-use change impacts the functional diversity of local vertebrate communities. Finally, the last Chapter presents research questions I aim to tackle in the future years of my PhD.
 
 \chapter*{Impact statement}%% No more than 500 words
 
 \chapter*{Data and code access}
-The data used in this Thesis is freely accessible and sources are referenced throughout.
-The code for the analyses is accessible at: [add github url].
 
-\chapter*{Authorship and contributions}
+\section*{Code access}
+The main pieces of R code for Chapters 2, 3, 4 and 5 are available at: \url{https://github.com/AdrienneEtard/PhD_thesis_code}.\\
+\\
+This document was compiled with {\LaTeX}; the source code and files are available at: \url{https://github.com/AdrienneEtard/Thesis}
+
+\section*{Data}
+
+The data used in this Thesis are freely accessible and sources are referenced throughout. In particular: 
+\begin{itemize}
+\item the PREDICTS database \citep{Hudson2014, Hudson2017} can be downloaded from: \url{https://data.nhm.ac.uk/dataset/the-2016-release-of-the-predicts-database};
+\item the trait datasets I compiled in Chapter 2 are available at: \url{https://figshare.com/articles/dataset/Global_gaps_in_terrestrial_vertebrate_trait_data/10075421}.
+
+\end{itemize}
+
+\chapter*{Thesis outline of contents, authorship and collaborations}
 
 
 %\vspace{1cm}
@@ -196,7 +206,7 @@ The code for the analyses is accessible at: [add github url].
 %\chapter*{List of abbreviations}
 %\input{Abbreviations}
 
-\begin{refsection}
+
 
 \linenumbers
 
