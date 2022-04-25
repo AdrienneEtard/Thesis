@@ -7,7 +7,7 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{verbatim}
-\usepackage{lscape}
+\usepackage{pdflscape}
 \usepackage{mdframed}
 \usepackage{xcolor}
 
@@ -1076,12 +1076,12 @@ Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\
 %% Synthesis table
 \begin{landscape}
 \subsection{Synthesis table}
-\begin{figure}[h!]
+\begin{table}[h!]
 \centering
-\includegraphics[scale=0.7]{Figures/SynthesisTableValidation}
 \caption[]{\textbf{Summary of the effects of the species-level predictors (all except primary diet) on (a) species responses to disturbed land uses (within land-use type effects) and on (b) species climate-change sensitivity, in each class, \textit{estimated from the models fitted on complete trait data subsets (excluding imputed trait values)}}. The symbol \textbf{–} is drawn where a predictor is found to have a negative effect on occurrence probability within a disturbed land use, or where the predictor renders the species more sensitive to climate change. A \textbf{+} indicates a positive effect of a predictor on occurrence probability in a land-use type and also indicates significantly lower sensitivity to climate change. For the land-use effects, we report  `within land-use type effects' here, that is, given a disturbed land use, whether there were significant differences in occurrence probability for different trait values. These effects were derived from the interactive terms of the full, all-predictor models. }
+\includegraphics[scale=0.7]{Figures/SynthesisTableValidation}
 \label{}
-\end{figure}
+\end{table}
 \end{landscape}
 
 \begin{comment}
@@ -1223,5 +1223,8 @@ Diel activity: Non-nocturnal & $$-$0.118$ & $0.080$ & $$-$1.486$ & $0.143$ \\
 \end{tabular} 
 \end{center}
 \end{table} 
+
+\clearpage
+\printbibliography
 
 \end{document}
