@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="99.015388mm"
+   height="70.705406mm"
+   viewBox="0 0 99.015388 70.705406"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Figure2_conceptual.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24849" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24846" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1472"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1209"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4753"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4750"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4738"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4741"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4750-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4753-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4750-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4753-67"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24846-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24849-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24846-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path24849-4" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="128.03683"
+     inkscape:cy="113.38962"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.052637,-37.007242)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.173863;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4485"
+       width="98.821159"
+       height="36.705959"
+       x="69.158829"
+       y="37.094173" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.166898;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4485-3"
+       width="98.848488"
+       height="33.815075"
+       x="69.136086"
+       y="73.814125" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="70.255989"
+       y="39.580402"
+       id="text4558"><tspan
+         sodipodi:role="line"
+         id="tspan4556"
+         x="70.255989"
+         y="39.580402"
+         style="font-size:2.46944px;stroke-width:0.264583">(a) Assessing the effects of categorical traits on land-use responses </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.153503"
+       y="76.532219"
+       id="text4558-6"><tspan
+         sodipodi:role="line"
+         id="tspan4556-5"
+         x="71.153503"
+         y="76.532219"
+         style="font-size:2.46944px;stroke-width:0.264583">(b) Assessing the effects of continuous traits on land-use responses </tspan></text>
+    <g
+       id="g4699">
+      <g
+         id="g1167"
+         transform="translate(-8.4666671,1.0583333)">
+        <rect
+           y="64.66584"
+           x="112.47147"
+           height="5.735281"
+           width="20.853693"
+           id="rect4679"
+           style="fill:#f2f2f2;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.184757;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4599-3-3"
+           cx="114.21004"
+           cy="66.181091"
+           r="0.8018086" />
+        <circle
+           style="fill:#ff9955;fill-opacity:1;stroke:#ff9955;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4599-3-6"
+           cx="114.27351"
+           cy="69.127769"
+           r="0.8018086" />
+        <text
+           transform="rotate(0.40673651)"
+           id="text4537-2-2"
+           y="66.083504"
+           x="116.3103"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4535-9-6"
+             style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+             y="66.083504"
+             x="116.3103"
+             sodipodi:role="line">Reference trait level</tspan></text>
+        <text
+           transform="rotate(0.40673651)"
+           id="text4537-2-2-5"
+           y="68.971123"
+           x="116.35152"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4535-9-6-4"
+             style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+             y="68.971123"
+             x="116.35152"
+             sodipodi:role="line">Other level</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:63.3748;fill:#ff4c00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="104.28988"
+         y="55.299816"
+         id="text4537-2-2-5-8"
+         transform="rotate(0.40673651,223.36095,-75.335593)"><tspan
+           x="104.28988"
+           y="55.299816"
+           id="tspan18875"><tspan
+   style="font-weight:bold"
+   id="tspan18873">&quot;Within land-use type&quot; effects:</tspan>
+</tspan><tspan
+           x="104.28988"
+           y="57.95472"
+           id="tspan18879"><tspan
+   style="font-weight:bold"
+   id="tspan18877">Interactive effect</tspan> between land-use type and trait: effect of other trait </tspan><tspan
+           x="104.28988"
+           y="60.609624"
+           id="tspan18883">level on occurrence probability <tspan
+   style="font-weight:bold"
+   id="tspan18881">within land-use types</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:61.7224;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="104.24683"
+         y="45.592968"
+         id="text4537-2-2-5-8-7"
+         transform="rotate(0.40673651,148.8191,-75.07101)"><tspan
+           x="104.24683"
+           y="45.592968"
+           id="tspan18887"><tspan
+             style="font-weight:bold"
+             id="tspan18885">&quot;Among land-use types&quot; effects:
+</tspan></tspan><tspan
+           x="104.24683"
+           y="48.247872"
+           id="tspan18893"><tspan
+   style="font-weight:bold"
+   id="tspan18889">Main effect </tspan>of trait level on occurrence probability, <tspan
+   style="font-weight:bold"
+   id="tspan18891">among land-use </tspan></tspan><tspan
+           x="104.24683"
+           y="50.902776"
+           id="tspan18897"><tspan
+             style="font-weight:bold"
+             id="tspan18895">types</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#aa0000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 88.198943,92.07109 c 0.538489,0.918313 -0.452076,1.908309 -1.202714,1.403163"
+         id="path8908"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#800000;stroke:#aa0000;stroke-width:0.219768px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 85.592727,92.1212 2.760451,-0.0031"
+         id="path8912"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 93.277397,87.708527 c 0.543034,0.614277 -0.142307,1.138997 -0.142307,1.138997"
+         id="path8908-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#800000;stroke:#000000;stroke-width:0.219768px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 90.516947,87.711627 2.76045,-0.0031"
+         id="path8912-1"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="23.786989"
+         y="61.268276"
+         id="text8964" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="207.13388"
+         y="130.49107"
+         id="text9002" />
+      <path
+         style="fill:#800000;stroke:#0000ff;stroke-width:0.219768px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 84.246248,97.952571 3.027721,-0.0031"
+         id="path8912-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 87.975553,97.147667 c 0.01891,0.03026 0.525938,1.308257 -0.701584,0.801804"
+         id="path8908-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.354728;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect230"
+         width="34.222"
+         height="26.962763"
+         x="70.602783"
+         y="79.629204" />
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.368328;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect230-1"
+         width="32.070587"
+         height="31.020277"
+         x="69.783066"
+         y="41.835484" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion1171"
+           style="font-size:16px"><rect
+             id="rect1173"
+             width="89.398499"
+             height="28.789347"
+             x="205.06096"
+             y="95.194557"
+             style="font-size:16px;" /></flowRegion><flowPara
+           id="flowPara1175" /></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2088"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion2090"><rect
+             id="rect2092"
+             width="18.687822"
+             height="14.142136"
+             x="417.69809"
+             y="380.05756" /></flowRegion><flowPara
+           id="flowPara2094" /></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2096"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,88.198944,-21.456105)"><flowRegion
+           id="flowRegion2098"><rect
+             id="rect2100"
+             width="107.07619"
+             height="73.236076"
+             x="80.307129"
+             y="402.28091" /></flowRegion><flowPara
+           id="flowPara2102"
+           style="fill:#aa0000"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan2138">1: more negative</flowSpan> in disturbed than in reference land-use type:</flowPara><flowPara
+           id="flowPara2104"
+           style="fill:#aa0000">more negative effects of predictor on occurrence probability than in reference land-use type</flowPara><flowPara
+           id="flowPara2106" /></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2096-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,118.47269,-21.465348)"><flowRegion
+           id="flowRegion2098-2"><rect
+             id="rect2100-4"
+             width="101.52035"
+             height="131.31985"
+             x="80.307129"
+             y="402.28091" /></flowRegion><flowPara
+           id="flowPara2102-0"
+           style="fill:#0000ff"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan2140">2: more positive</flowSpan> in disturbed than in reference land-use type:</flowPara><flowPara
+           id="flowPara2104-6"
+           style="fill:#0000ff">more positive effects of predictor on occurrence probability than in reference land-use type</flowPara><flowPara
+           id="flowPara2106-3"
+           style="fill:#0000ff" /></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2096-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,95.150317,-4.8535021)"><flowRegion
+           id="flowRegion2098-3"><rect
+             id="rect2100-2"
+             width="215.16252"
+             height="27.274155"
+             x="58.588848"
+             y="402.78598" /></flowRegion><flowPara
+           id="flowPara2106-6"
+           style="font-style:italic">(Does not inform on absolute changes in occurrence probability among land-use types)</flowPara></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2175"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion2177"><rect
+             id="rect2179"
+             width="44.951786"
+             height="52.022854"
+             x="276.7818"
+             y="415.918" /></flowRegion><flowPara
+           id="flowPara2181" /></flowRoot>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2096-8-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,93.390286,-27.674017)"><flowRegion
+           id="flowRegion2098-3-1"><rect
+             id="rect2100-2-4"
+             width="215.16252"
+             height="27.274155"
+             x="58.588848"
+             y="402.78598" /></flowRegion><flowPara
+           id="flowPara2106-6-3"
+           style="font-weight:bold">Slope of the relationship between continuous predictor &amp; occurrence probability:</flowPara></flowRoot>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="104.20751"
+         y="46.430576"
+         id="text4537-2-2-5-8-7-0"
+         transform="rotate(0.40673651)"><tspan
+           sodipodi:role="line"
+           x="104.20751"
+           y="46.430576"
+           style="font-weight:bold;font-size:2.11667px;line-height:0.5;fill:#000000;stroke-width:0.264583"
+           id="tspan8806-5" /></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.223372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.283108,79.966255 -0.01367,23.141495 25.435352,-0.20012"
+       id="path4504-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       transform="rotate(-89.247316)"
+       id="text4537-8"
+       y="74.240204"
+       x="-99.778046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan4535-2"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         y="74.240204"
+         x="-99.778046"
+         sodipodi:role="line">Occurrence probability</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.230509px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.761621,81.746252 22.052854,10.37214"
+       id="path8848"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.728386"
+       y="105.06512"
+       id="text4537-2-2-6"
+       transform="rotate(0.40673651)"><tspan
+         sodipodi:role="line"
+         x="78.728386"
+         y="105.06512"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         id="tspan4535-9-6-7">Trait value (continuous)</tspan></text>
+    <path
+       style="fill:#800000;stroke:#aa0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.902528,85.635709 94.021576,100.18772"
+       id="path8883"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.684052"
+       y="93.944656"
+       id="text4537-2-2-0-5"
+       transform="rotate(0.40673651)"><tspan
+         sodipodi:role="line"
+         x="76.684052"
+         y="93.944656"
+         style="font-size:2.11667px;line-height:0.2;fill:#aa0000;stroke-width:0.264583"
+         id="tspan4535-9-6-5-6">Disturbed 1</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 79.512683,98.68601 100.62698,95.077871"
+       id="path119"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.519966"
+       y="100.28489"
+       id="text4537-2-2-0-5-2"
+       transform="rotate(0.40673651)"><tspan
+         sodipodi:role="line"
+         x="80.519966"
+         y="100.28489"
+         style="font-size:2.11667px;line-height:0.2;fill:#0000ff;stroke-width:0.264583"
+         id="tspan4535-9-6-5-6-6">Disturbed 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="86.987289"
+       y="82.861015"
+       id="text4537-2-2-0"
+       transform="rotate(0.40673651)"><tspan
+         sodipodi:role="line"
+         x="86.987289"
+         y="82.861015"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         id="tspan4535-9-6-5">Undisturbed ref.</tspan><tspan
+         sodipodi:role="line"
+         x="86.987289"
+         y="84.819443"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         id="tspan9112"> (primary vegetation)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.223372px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.163392,42.747091 -0.01367,23.141568 25.435348,-0.20012"
+       id="path4504"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.886905,65.725818 v 1.795385"
+       id="path4539"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.108259,65.820313 v 1.795385"
+       id="path4539-7"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="rotate(0.27220986)"
+       id="text4537-2"
+       y="69.461105"
+       x="91.991455"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan4535-9"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         y="69.461105"
+         x="91.991455"
+         sodipodi:role="line">Disturbed</tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4599-3"
+       cx="93.688713"
+       cy="52.849285"
+       r="0.8018086" />
+    <path
+       style="fill:none;stroke:#999999;stroke-width:0.238894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.238894, 0.238894;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 75.311659,45.13927 C 100.3517,45.069231 100.3517,44.999199 100.3517,44.999199"
+       id="path4734"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff9955;stroke:#ff9955;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.286109,57.313773 c 0,5.102677 0,5.102677 0,5.102677"
+       id="path5310-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.67797,50.292575 c 0,5.102677 0,5.102677 0,5.102677"
+       id="path5310-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 100.35268,52.298213 H 94.612165"
+       id="path5333"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.25818,60.727082 -2.008,0.04725"
+       id="path5333-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4599"
+       cx="79.518059"
+       cy="45.269711"
+       r="0.8018086" />
+    <path
+       style="fill:#ff9955;stroke:#ff9955;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.257066,45.107215 c 0,5.102677 0,5.102677 0,5.102677"
+       id="path5310"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="0.8018086"
+       cy="47.808765"
+       cx="82.319016"
+       id="path4599-3-6-6"
+       style="fill:#ff9955;fill-opacity:1;stroke:#ff9955;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.8018086"
+       cy="60.1992"
+       cx="97.28611"
+       id="path4599-3-6-8"
+       style="fill:#ff9955;fill-opacity:1;stroke:#ff9955;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.922203"
+       y="69.670769"
+       id="text4508"
+       transform="rotate(0.14520126)"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="71.922203"
+         y="69.670769"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583">Undisturbed ref.</tspan><tspan
+         sodipodi:role="line"
+         x="71.922203"
+         y="71.629196"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         id="tspan4510">(primary vegetation)</tspan></text>
+    <text
+       transform="rotate(-89.247316)"
+       id="text4537"
+       y="73.42244"
+       x="-62.6325"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan4535"
+         style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+         y="73.42244"
+         x="-62.6325"
+         sodipodi:role="line">Occurrence probability</tspan></text>
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0.201378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 100.88185,52.77725 v 7.840726"
+       id="path24758" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-3);marker-end:url(#Arrow1Mend-8)"
+       d="m 100.88185,45.44178 v 6.687456"
+       id="path24758-3" />
+  </g>
+</svg>
