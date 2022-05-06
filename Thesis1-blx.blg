@@ -3,13 +3,13 @@ The style file: biblatex.bst
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
 Biblatex version: 3.11
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2658 of file biblatex.bst
-*Please notify the bibstyle designer*
 Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
 while executing--line 2658 of file biblatex.bst
 *Please notify the bibstyle designer*
 Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
+while executing--line 2658 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
 while executing--line 2658 of file biblatex.bst
 *Please notify the bibstyle designer*
 Warning--you've exceeded 250, the entry-string-size, for entry Stephens2019

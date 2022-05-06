@@ -2,7 +2,7 @@ library(dplyr)
 library(viridis)
 library(ggplot2)
 
-LU <- read.csv("../Desktop/LU_ourworldindata.csv")
+LU <- read.csv("LU_ourworldindata.csv")
 LU <- subset(LU, Entity=="World")
 LU <- subset(LU, Year>=-2000)
 LU$Built.up.Area..HYDE..2017.. <- LU$Built.up.Area..HYDE..2017../1e9

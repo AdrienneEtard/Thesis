@@ -241,14 +241,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="128.03683"
-     inkscape:cy="113.38962"
+     inkscape:cx="82.57997"
+     inkscape:cy="106.31855"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4699"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:lockguides="true"
@@ -297,7 +297,7 @@
          id="tspan4556"
          x="70.255989"
          y="39.580402"
-         style="font-size:2.46944px;stroke-width:0.264583">(a) Assessing the effects of categorical traits on land-use responses </tspan></text>
+         style="font-size:2.46944px;stroke-width:0.264583">(a) Assessing the effects of categorical ecological characteristics on land-use responses </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -308,55 +308,67 @@
          id="tspan4556-5"
          x="71.153503"
          y="76.532219"
-         style="font-size:2.46944px;stroke-width:0.264583">(b) Assessing the effects of continuous traits on land-use responses </tspan></text>
+         style="font-size:2.46944px;stroke-width:0.264583">(b) Assessing the effects of continuous ecological characteristics on land-use responses </tspan></text>
     <g
        id="g4699">
       <g
          id="g1167"
          transform="translate(-8.4666671,1.0583333)">
         <rect
-           y="64.66584"
-           x="112.47147"
-           height="5.735281"
-           width="20.853693"
+           y="62.69305"
+           x="111.58387"
+           height="9.3330021"
+           width="25.157173"
            id="rect4679"
-           style="fill:#f2f2f2;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.184757;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="fill:#f2f2f2;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.258864;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <circle
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4599-3-3"
            cx="114.21004"
-           cy="66.181091"
+           cy="67.768593"
            r="0.8018086" />
         <circle
            style="fill:#ff9955;fill-opacity:1;stroke:#ff9955;stroke-width:0.2;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4599-3-6"
            cx="114.27351"
-           cy="69.127769"
+           cy="70.715271"
            r="0.8018086" />
         <text
            transform="rotate(0.40673651)"
            id="text4537-2-2"
-           y="66.083504"
-           x="116.3103"
+           y="67.670959"
+           x="116.32156"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            xml:space="preserve"><tspan
              id="tspan4535-9-6"
              style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
-             y="66.083504"
-             x="116.3103"
-             sodipodi:role="line">Reference trait level</tspan></text>
+             y="67.670959"
+             x="116.32156"
+             sodipodi:role="line">level 1 </tspan></text>
         <text
            transform="rotate(0.40673651)"
            id="text4537-2-2-5"
-           y="68.971123"
-           x="116.35152"
+           y="70.558578"
+           x="116.36277"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            xml:space="preserve"><tspan
              id="tspan4535-9-6-4"
              style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
-             y="68.971123"
-             x="116.35152"
-             sodipodi:role="line">Other level</tspan></text>
+             y="70.558578"
+             x="116.36277"
+             sodipodi:role="line">level 2</tspan></text>
+        <text
+           transform="rotate(0.40673651)"
+           id="text4537-2-2-3"
+           y="64.536919"
+           x="114.26569"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4535-9-6-53"
+             style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
+             y="64.536919"
+             x="114.26569"
+             sodipodi:role="line">Categorical characteristic:</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -367,20 +379,23 @@
          transform="rotate(0.40673651,223.36095,-75.335593)"><tspan
            x="104.28988"
            y="55.299816"
-           id="tspan18875"><tspan
+           id="tspan41508"><tspan
    style="font-weight:bold"
-   id="tspan18873">&quot;Within land-use type&quot; effects:</tspan>
+   id="tspan41506">&quot;Within land-use type&quot; effects:</tspan>
 </tspan><tspan
            x="104.28988"
            y="57.95472"
-           id="tspan18879"><tspan
+           id="tspan41512"><tspan
    style="font-weight:bold"
-   id="tspan18877">Interactive effect</tspan> between land-use type and trait: effect of other trait </tspan><tspan
+   id="tspan41510">Interactive effect</tspan> between land-use type and characteristic: difference in </tspan><tspan
            x="104.28988"
            y="60.609624"
-           id="tspan18883">level on occurrence probability <tspan
-   style="font-weight:bold"
-   id="tspan18881">within land-use types</tspan></tspan></text>
+           id="tspan41514">occurrence probability for two different values of the characteristic, </tspan><tspan
+           x="104.28988"
+           y="63.264527"
+           id="tspan41518"><tspan
+             style="font-weight:bold"
+             id="tspan41516">within land-use types</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:61.7224;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -390,22 +405,24 @@
          transform="rotate(0.40673651,148.8191,-75.07101)"><tspan
            x="104.24683"
            y="45.592968"
-           id="tspan18887"><tspan
+           id="tspan41522"><tspan
              style="font-weight:bold"
-             id="tspan18885">&quot;Among land-use types&quot; effects:
+             id="tspan41520">&quot;Among land-use types&quot; effects:
 </tspan></tspan><tspan
            x="104.24683"
            y="48.247872"
-           id="tspan18893"><tspan
+           id="tspan41528"><tspan
    style="font-weight:bold"
-   id="tspan18889">Main effect </tspan>of trait level on occurrence probability, <tspan
+   id="tspan41524">Main effect </tspan>of given characteristic on occurrence probability, <tspan
    style="font-weight:bold"
-   id="tspan18891">among land-use </tspan></tspan><tspan
+   id="tspan41526">among </tspan></tspan><tspan
            x="104.24683"
            y="50.902776"
-           id="tspan18897"><tspan
+           id="tspan41534"><tspan
              style="font-weight:bold"
-             id="tspan18895">types</tspan></tspan></text>
+             id="tspan41530">land-use </tspan><tspan
+             style="font-weight:bold"
+             id="tspan41532">types</tspan></tspan></text>
       <path
          style="fill:none;stroke:#aa0000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
          d="m 88.198943,92.07109 c 0.538489,0.918313 -0.452076,1.908309 -1.202714,1.403163"
@@ -506,7 +523,7 @@
    style="font-weight:bold"
    id="flowSpan2138">1: more negative</flowSpan> in disturbed than in reference land-use type:</flowPara><flowPara
            id="flowPara2104"
-           style="fill:#aa0000">more negative effects of predictor on occurrence probability than in reference land-use type</flowPara><flowPara
+           style="fill:#aa0000">more negative effects of characteristic on occurrence probability than in reference land-use type</flowPara><flowPara
            id="flowPara2106" /></flowRoot>
       <flowRoot
          xml:space="preserve"
@@ -524,7 +541,7 @@
    style="font-weight:bold"
    id="flowSpan2140">2: more positive</flowSpan> in disturbed than in reference land-use type:</flowPara><flowPara
            id="flowPara2104-6"
-           style="fill:#0000ff">more positive effects of predictor on occurrence probability than in reference land-use type</flowPara><flowPara
+           style="fill:#0000ff">more positive effects of characteristic on occurrence probability than in reference land-use type</flowPara><flowPara
            id="flowPara2106-3"
            style="fill:#0000ff" /></flowRoot>
       <flowRoot
@@ -563,7 +580,7 @@
              x="58.588848"
              y="402.78598" /></flowRegion><flowPara
            id="flowPara2106-6-3"
-           style="font-weight:bold">Slope of the relationship between continuous predictor &amp; occurrence probability:</flowPara></flowRoot>
+           style="font-weight:bold">Slope of the relationship between continuous characteristic &amp; occurrence probability:</flowPara></flowRoot>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -604,15 +621,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="78.728386"
-       y="105.06512"
+       x="75.024323"
+       y="105.09138"
        id="text4537-2-2-6"
        transform="rotate(0.40673651)"><tspan
          sodipodi:role="line"
-         x="78.728386"
-         y="105.06512"
+         x="75.024323"
+         y="105.09138"
          style="font-size:2.11667px;line-height:0.2;stroke-width:0.264583"
-         id="tspan4535-9-6-7">Trait value (continuous)</tspan></text>
+         id="tspan4535-9-6-7">Characteristic value (continuous)</tspan></text>
     <path
        style="fill:#800000;stroke:#aa0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 78.902528,85.635709 94.021576,100.18772"

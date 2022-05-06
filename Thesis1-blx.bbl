@@ -2294,6 +2294,66 @@
     \field{year}{2011}
   \endentry
 
+  \entry{Capdevila2022}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CP}{%
+         family={Capdevila},
+         familyi={C\bibinitperiod},
+         given={Pol},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NN}{%
+         family={Noviello},
+         familyi={N\bibinitperiod},
+         given={Nicola},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={McRae},
+         familyi={M\bibinitperiod},
+         given={Louise},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Clements},
+         familyi={C\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Laboratory}%
+    }
+    \strng{namehash}{CP+1}
+    \strng{fullhash}{CPNNMLFRCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1101/2022.02.04.479091
+    \endverb
+    \verb{eprint}
+    \verb https://www.biorxiv.org/content/early/2022/02/06/2022.02.04.479091.fu
+    \verb ll.pdf
+    \endverb
+    \field{title}{Body mass and latitude as global predictors of vertebrate
+  populations exposure to multiple threats}
+    \verb{url}
+    \verb https://www.biorxiv.org/content/early/2022/02/06/2022.02.04.479091
+    \endverb
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2022}
+  \endentry
+
   \entry{Cardoso2017}{article}{}
     \name{author}{44}{}{%
       {{hash=CD}{%
@@ -4832,6 +4892,71 @@
     \endverb
     \field{journaltitle}{Ecology Letters}
     \field{year}{2021}
+  \endentry
+
+  \entry{Etard2022}{article}{}
+    \name{author}{3}{}{%
+      {{hash=EA}{%
+         family={Etard},
+         familyi={E\bibinitperiod},
+         given={Adrienne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PAL}{%
+         family={Pigot},
+         familyi={P\bibinitperiod},
+         given={Alex\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{functional diversity, land use, terrestrial vertebrates, traits}
+    \strng{namehash}{EA+1}
+    \strng{fullhash}{EAPALNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{year}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    Abstract Land-use change is the leading driver of global biodiversity loss
+  thus characterising its impacts on the functional structure of ecological
+  communities is an urgent challenge. Using a database describing vertebrate
+  assemblages in different land uses, we assess how the type and intensity of
+  land use affect the functional diversity of vertebrates globally. We find
+  that human land uses alter local functional structure by driving declines in
+  functional diversity, with the strongest effects in the most disturbed land
+  uses (intensely used urban sites, cropland and pastures), and among
+  amphibians and birds. Both tropical and temperate areas experience important
+  functional losses, which are only partially offset by functional gains.
+  Tropical assemblages are more likely to show decreases in functional
+  diversity that exceed those expected from species loss alone. Our results
+  indicate that land-use change non-randomly reshapes the functional structure
+  of vertebrate assemblages, raising concerns about the continuation of
+  ecological processes sustained by vertebrates.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1111/ele.13926
+    \endverb
+    \verb{eprint}
+    \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13926
+    \endverb
+    \field{number}{2}
+    \field{pages}{330\bibrangedash 343}
+    \field{title}{Intensive human land uses negatively affect vertebrate
+  functional diversity}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13926
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2022}
   \endentry
 
   \entry{Evans2018}{article}{}
@@ -16958,6 +17083,66 @@
     \endverb
     \field{journaltitle}{Global Ecology and Conservation}
     \field{year}{2017}
+  \endentry
+
+  \entry{Rinnan2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RDS}{%
+         family={Rinnan},
+         familyi={R\bibinitperiod},
+         given={D.\bibnamedelima Scott},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lawler},
+         familyi={L\bibinitperiod},
+         given={Joshua},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{climate change, ecological-niche factor analysis (ENFA), exposure,
+  Marmota flaviventris, Ochotona princeps, sensitivity, vulnerability,
+  vulnerability assessment}
+    \strng{namehash}{RDSLJ1}
+    \strng{fullhash}{RDSLJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Climate change vulnerability assessments are an important tool for
+  understanding the threat that climate change poses to species and
+  populations, but do not generally yield insight into the spatial variation in
+  vulnerability throughout a species’ habitat. We demonstrate how to adapt
+  the method of ecological-niche factor analysis (ENFA) to objectively quantify
+  aspects of species sensitivity to climate change. We then expand ENFA to
+  quantify aspects of exposure and vulnerability to climate change as well,
+  using future projections of global climate models. This approach provides
+  spatially-explicit insight into geographic patterns of vulnerability, relies
+  only on readily-available spatial data, is suitable for a wide range of
+  species and habitats, and invites comparison between different species. We
+  apply our methods to a case study of two species of montane mammals, the
+  American pika Ochotona princeps and the yellow-bellied marmot Marmota
+  flaviventris.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1111/ecog.03937
+    \endverb
+    \verb{eprint}
+    \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.03937
+    \endverb
+    \field{number}{9}
+    \field{pages}{1494\bibrangedash 1503}
+    \field{title}{Climate-niche factor analysis: a spatial approach to
+  quantifying species vulnerability to climate change}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.03937
+    \endverb
+    \field{volume}{42}
+    \field{journaltitle}{Ecography}
+    \field{year}{2019}
   \endentry
 
   \entry{Ripple2017}{article}{}
