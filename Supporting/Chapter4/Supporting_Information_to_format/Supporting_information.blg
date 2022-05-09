@@ -3,3 +3,16 @@ The style file: biblatex.bst
 Database file #1: Supporting_information-blx.bib
 Database file #2: LIBRARY.bib
 Biblatex version: 3.11
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
+while executing--line 2658 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
+while executing--line 2658 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
+while executing--line 2686 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
+while executing--line 2686 of file biblatex.bst
+*Please notify the bibstyle designer*
+(There were 4 warnings)

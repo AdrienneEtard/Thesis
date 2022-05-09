@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.22)  25 APR 2022 14:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.22)  9 MAY 2022 12:15
 entering extended mode
 **./Supporting_information.tex
 (Supporting_information.tex
@@ -1405,140 +1405,7 @@ Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
 (biblatex)                Setting 'uniquename=init' on input line 69.
 
-(Supporting_information.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-)
+(Supporting_information.aux)
 \openout1 = `Supporting_information.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
@@ -1764,17 +1631,35 @@ Package pdftex.def Info: Figures/Imputation_congruence.pdf  used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [6 <./Figures/Imputation_errors.pdf>] [7 <./Figures/Imputation_congruence.pdf>]
-<Figures/Sample_size_figure.pdf, id=203, 650.43pt x 722.7pt>
+
+Overfull \hbox (4.51398pt too wide) in paragraph at lines 221--233
+ [] 
+ []
+
+<Figures/Sample_size_figure.pdf, id=207, 650.43pt x 722.7pt>
 File: Figures/Sample_size_figure.pdf Graphic file (type pdf)
 <use Figures/Sample_size_figure.pdf>
-Package pdftex.def Info: Figures/Sample_size_figure.pdf  used on input line 215
+Package pdftex.def Info: Figures/Sample_size_figure.pdf  used on input line 241
 .
 (pdftex.def)             Requested size: 455.2979pt x 505.88655pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [8
 
- <./Figures/Sample_size_figure.pdf>]
+] [9 <./Figures/Sample_size_figure.pdf>]
+Overfull \hbox (4.15704pt too wide) in paragraph at lines 247--247
+|[]\T1/ptm/b/n/14.4 Land-use re-sponses: mul-ti-collinear-ity checks among the 
+mod-els' ex-plana-
+ []
+
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 228.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 254.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1782,381 +1667,382 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[10
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+]
 
-[9
+LaTeX Warning: Text page 11 contains only floats.
 
-] [10]
-Overfull \hbox (12.65358pt too wide) in paragraph at lines 397--397
+
+Overfull \vbox (1.61397pt too high) has occurred while \output is active []
+
+
+[11] [12]
+Overfull \hbox (12.65358pt too wide) in paragraph at lines 423--423
 |[]\T1/ptm/b/n/14.4 Implementing Climate-niche Fac-tor Anal-y-sis (CENFA; []Rin
 -nan and Lawler
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\citet' on input line 397.
+(hyperref)                removing `\citet' on input line 423.
 
-<Figures/ClimVars_groups.pdf, id=233, 505.89pt x 505.89pt>
+<Figures/ClimVars_groups.pdf, id=248, 505.89pt x 505.89pt>
 File: Figures/ClimVars_groups.pdf Graphic file (type pdf)
 <use Figures/ClimVars_groups.pdf>
-Package pdftex.def Info: Figures/ClimVars_groups.pdf  used on input line 403.
+Package pdftex.def Info: Figures/ClimVars_groups.pdf  used on input line 429.
 (pdftex.def)             Requested size: 379.41655pt x 342.07242pt.
-[11
-
- <./Figures/ClimVars_groups.pdf>]
-<Figures/ResolutionConcept.png, id=259, 567.3195pt x 436.029pt>
-File: Figures/ResolutionConcept.png Graphic file (type png)
-<use Figures/ResolutionConcept.png>
-Package pdftex.def Info: Figures/ResolutionConcept.png  used on input line 419.
-
-(pdftex.def)             Requested size: 340.39432pt x 261.61942pt.
- [12 <./Figures/ResolutionConcept.png>]
-<Figures/CENFA_allres.pdf, id=267, 578.16pt x 505.89pt>
-File: Figures/CENFA_allres.pdf Graphic file (type pdf)
-<use Figures/CENFA_allres.pdf>
-Package pdftex.def Info: Figures/CENFA_allres.pdf  used on input line 456.
-(pdftex.def)             Requested size: 462.52863pt x 404.71254pt.
-
 [13
 
- <./Figures/CENFA_allres.pdf>]
+ <./Figures/ClimVars_groups.pdf>]
+<Figures/ResolutionConcept.png, id=276, 567.3195pt x 436.029pt>
+File: Figures/ResolutionConcept.png Graphic file (type png)
+<use Figures/ResolutionConcept.png>
+Package pdftex.def Info: Figures/ResolutionConcept.png  used on input line 445.
+
+(pdftex.def)             Requested size: 340.39432pt x 261.61942pt.
+ [14 <./Figures/ResolutionConcept.png>]
+<Figures/CENFA_allres.png, id=283, 782.925pt x 680.5425pt>
+File: Figures/CENFA_allres.png Graphic file (type png)
+<use Figures/CENFA_allres.png>
+Package pdftex.def Info: Figures/CENFA_allres.png  used on input line 482.
+(pdftex.def)             Requested size: 469.75862pt x 408.32864pt.
+
+[15
+
+ <./Figures/CENFA_allres.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14
-
-] [15]
-<Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf, id=294, 867.24
-pt x 794.97pt>
-File: Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf Graphic fi
-le (type pdf)
-<use Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf>
-Package pdftex.def Info: Figures/Full_LU_models_effects/Land_use_categorical_tr
-aits.pdf  used on input line 604.
-(pdftex.def)             Requested size: 520.34802pt x 476.98569pt.
-
-Overfull \hbox (48.31679pt too wide) in paragraph at lines 604--605
- [][] 
- []
-
-<Figures/Full_LU_models_effects/Slopes_LU.pdf, id=295, 578.16pt x 722.7pt>
-File: Figures/Full_LU_models_effects/Slopes_LU.pdf Graphic file (type pdf)
-<use Figures/Full_LU_models_effects/Slopes_LU.pdf>
-Package pdftex.def Info: Figures/Full_LU_models_effects/Slopes_LU.pdf  used on 
-input line 612.
-(pdftex.def)             Requested size: 462.52863pt x 578.16078pt.
-
-LaTeX Warning: Float too large for page by 9.45456pt on input line 615.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [16
 
- <./Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf>]
-[17 <./Figures/Full_LU_models_effects/Slopes_LU.pdf>]
-<Figures/Partial_models_predictions/Specialisation.pdf, id=318, 722.7pt x 505.8
-9pt>
-File: Figures/Partial_models_predictions/Specialisation.pdf Graphic file (type 
-pdf)
-<use Figures/Partial_models_predictions/Specialisation.pdf>
-Package pdftex.def Info: Figures/Partial_models_predictions/Specialisation.pdf 
- used on input line 624.
-(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
+] [17]
+<Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf, id=305, 867.24
+pt x 794.97pt>
+File: Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf Graphic fi
+le (type pdf)
+<use Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf>
+Package pdftex.def Info: Figures/Full_LU_models_effects/Land_use_categorical_tr
+aits.pdf  used on input line 630.
+(pdftex.def)             Requested size: 520.34802pt x 476.98569pt.
 
-Overfull \hbox (33.85532pt too wide) in paragraph at lines 624--625
+Overfull \hbox (48.31679pt too wide) in paragraph at lines 630--631
  [][] 
  []
 
-<Figures/Partial_models_predictions/Diel_activity.pdf, id=319, 722.7pt x 505.89
-pt>
-File: Figures/Partial_models_predictions/Diel_activity.pdf Graphic file (type p
-df)
-<use Figures/Partial_models_predictions/Diel_activity.pdf>
-Package pdftex.def Info: Figures/Partial_models_predictions/Diel_activity.pdf  
-used on input line 632.
-(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
+<Figures/Full_LU_models_effects/Slopes_LU.pdf, id=306, 578.16pt x 722.7pt>
+File: Figures/Full_LU_models_effects/Slopes_LU.pdf Graphic file (type pdf)
+<use Figures/Full_LU_models_effects/Slopes_LU.pdf>
+Package pdftex.def Info: Figures/Full_LU_models_effects/Slopes_LU.pdf  used on 
+input line 638.
+(pdftex.def)             Requested size: 462.52863pt x 578.16078pt.
 
-Overfull \hbox (33.85532pt too wide) in paragraph at lines 632--633
- [][] 
- []
+LaTeX Warning: Float too large for page by 9.45456pt on input line 641.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18
 
- <./Figures/Partial_models_predictions/Specialisation.pdf>] [19 <./Figures/Part
-ial_models_predictions/Diel_activity.pdf>]
-<Figures/LU_Diag_amphibians.pdf, id=345, 739.76375pt x 499.8675pt>
-File: Figures/LU_Diag_amphibians.pdf Graphic file (type pdf)
-<use Figures/LU_Diag_amphibians.pdf>
-Package pdftex.def Info: Figures/LU_Diag_amphibians.pdf  used on input line 644
-.
-(pdftex.def)             Requested size: 369.88097pt x 249.93314pt.
-<Figures/LU_Diag_birds.pdf, id=348, 739.76375pt x 499.8675pt>
-File: Figures/LU_Diag_birds.pdf Graphic file (type pdf)
-<use Figures/LU_Diag_birds.pdf>
-Package pdftex.def Info: Figures/LU_Diag_birds.pdf  used on input line 651.
-(pdftex.def)             Requested size: 369.88097pt x 249.93314pt.
-<Figures/LU_Diag_mammals.pdf, id=351, 739.76375pt x 499.8675pt>
-File: Figures/LU_Diag_mammals.pdf Graphic file (type pdf)
-<use Figures/LU_Diag_mammals.pdf>
-Package pdftex.def Info: Figures/LU_Diag_mammals.pdf  used on input line 658.
-(pdftex.def)             Requested size: 369.88097pt x 249.93314pt.
+ <./Figures/Full_LU_models_effects/Land_use_categorical_traits.pdf>]
+[19 <./Figures/Full_LU_models_effects/Slopes_LU.pdf>]
+<Figures/Partial_models_predictions/Specialisation.pdf, id=330, 722.7pt x 505.8
+9pt>
+File: Figures/Partial_models_predictions/Specialisation.pdf Graphic file (type 
+pdf)
+<use Figures/Partial_models_predictions/Specialisation.pdf>
+Package pdftex.def Info: Figures/Partial_models_predictions/Specialisation.pdf 
+ used on input line 650.
+(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
 
+Overfull \hbox (33.85532pt too wide) in paragraph at lines 650--651
+ [][] 
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+<Figures/Partial_models_predictions/Diel_activity.pdf, id=331, 722.7pt x 505.89
+pt>
+File: Figures/Partial_models_predictions/Diel_activity.pdf Graphic file (type p
+df)
+<use Figures/Partial_models_predictions/Diel_activity.pdf>
+Package pdftex.def Info: Figures/Partial_models_predictions/Diel_activity.pdf  
+used on input line 658.
+(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
 
-<Figures/LU_Diag_reptiles.pdf, id=354, 739.76375pt x 499.8675pt>
-File: Figures/LU_Diag_reptiles.pdf Graphic file (type pdf)
-<use Figures/LU_Diag_reptiles.pdf>
-Package pdftex.def Info: Figures/LU_Diag_reptiles.pdf  used on input line 665.
-(pdftex.def)             Requested size: 369.88097pt x 249.93314pt.
+Overfull \hbox (33.85532pt too wide) in paragraph at lines 658--659
+ [][] 
+ []
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [20
 
- <./Figures/LU_Diag_amphibians.pdf> <./Figures/LU_Diag_birds.pdf>] [21 <./Figur
+ <./Figures/Partial_models_predictions/Specialisation.pdf>] [21 <./Figures/Part
+ial_models_predictions/Diel_activity.pdf>]
+<Figures/LU_Diag_amphibians.png, id=356, 813.79031pt x 560.0925pt>
+File: Figures/LU_Diag_amphibians.png Graphic file (type png)
+<use Figures/LU_Diag_amphibians.png>
+Package pdftex.def Info: Figures/LU_Diag_amphibians.png  used on input line 670
+.
+(pdftex.def)             Requested size: 366.20226pt x 252.03929pt.
+<Figures/LU_Diag_birds.png, id=359, 811.53188pt x 556.32843pt>
+File: Figures/LU_Diag_birds.png Graphic file (type png)
+<use Figures/LU_Diag_birds.png>
+Package pdftex.def Info: Figures/LU_Diag_birds.png  used on input line 677.
+(pdftex.def)             Requested size: 365.18597pt x 250.34547pt.
+<Figures/LU_Diag_mammals.pdf, id=362, 739.76375pt x 499.8675pt>
+File: Figures/LU_Diag_mammals.pdf Graphic file (type pdf)
+<use Figures/LU_Diag_mammals.pdf>
+Package pdftex.def Info: Figures/LU_Diag_mammals.pdf  used on input line 684.
+(pdftex.def)             Requested size: 369.88097pt x 249.93314pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/LU_Diag_reptiles.pdf, id=365, 739.76375pt x 499.8675pt>
+File: Figures/LU_Diag_reptiles.pdf Graphic file (type pdf)
+<use Figures/LU_Diag_reptiles.pdf>
+Package pdftex.def Info: Figures/LU_Diag_reptiles.pdf  used on input line 691.
+(pdftex.def)             Requested size: 369.88097pt x 249.93314pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22
+
+ <./Figures/LU_Diag_amphibians.png> <./Figures/LU_Diag_birds.png>] [23 <./Figur
 es/LU_Diag_mammals.pdf> <./Figures/LU_Diag_reptiles.pdf>]
-Overfull \hbox (15.85054pt too wide) in paragraph at lines 672--672
+Overfull \hbox (15.85054pt too wide) in paragraph at lines 698--698
 |[]\T1/ptm/b/n/14.4 Land-use re-sponses: es-ti-mated ef-fects from a Bayesian f
 rame-work (MCM-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\citep' on input line 672.
+(hyperref)                removing `\citep' on input line 698.
 
-<Figures/MCMCglmm_Land_use_categorical_traits.pdf, id=395, 867.24pt x 794.97pt>
+<Figures/MCMCglmm_Land_use_categorical_traits.pdf, id=396, 867.24pt x 794.97pt>
 
 File: Figures/MCMCglmm_Land_use_categorical_traits.pdf Graphic file (type pdf)
 <use Figures/MCMCglmm_Land_use_categorical_traits.pdf>
 Package pdftex.def Info: Figures/MCMCglmm_Land_use_categorical_traits.pdf  used
- on input line 679.
+ on input line 705.
 (pdftex.def)             Requested size: 520.34802pt x 476.98569pt.
 
-Overfull \hbox (48.31679pt too wide) in paragraph at lines 679--680
+Overfull \hbox (48.31679pt too wide) in paragraph at lines 705--706
  [][] 
  []
 
-<Figures/Slopes_LU_mcmcglmm.pdf, id=398, 578.16pt x 722.7pt>
+<Figures/Slopes_LU_mcmcglmm.pdf, id=399, 578.16pt x 722.7pt>
 File: Figures/Slopes_LU_mcmcglmm.pdf Graphic file (type pdf)
 <use Figures/Slopes_LU_mcmcglmm.pdf>
-Package pdftex.def Info: Figures/Slopes_LU_mcmcglmm.pdf  used on input line 689
+Package pdftex.def Info: Figures/Slopes_LU_mcmcglmm.pdf  used on input line 715
 .
 (pdftex.def)             Requested size: 433.61893pt x 542.02367pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22
+[24
 
- <./Figures/MCMCglmm_Land_use_categorical_traits.pdf>] [23 <./Figures/Slopes_LU
+ <./Figures/MCMCglmm_Land_use_categorical_traits.pdf>] [25 <./Figures/Slopes_LU
 _mcmcglmm.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 724.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 724.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 724.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 698.
+(hyperref)                removing `superscript' on input line 724.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 724.
 
-<Figures/PGLS_diag_amphibians.pdf, id=424, 505.89pt x 433.62pt>
+<Figures/PGLS_diag_amphibians.pdf, id=426, 505.89pt x 433.62pt>
 File: Figures/PGLS_diag_amphibians.pdf Graphic file (type pdf)
 <use Figures/PGLS_diag_amphibians.pdf>
 Package pdftex.def Info: Figures/PGLS_diag_amphibians.pdf  used on input line 7
-42.
+68.
 (pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
-[24
+[26
 
  <./Figures/PGLS_diag_amphibians.pdf>]
-<Figures/PGLS_diag_birds.pdf, id=441, 505.89pt x 433.62pt>
+<Figures/PGLS_diag_birds.pdf, id=443, 505.89pt x 433.62pt>
 File: Figures/PGLS_diag_birds.pdf Graphic file (type pdf)
 <use Figures/PGLS_diag_birds.pdf>
-Package pdftex.def Info: Figures/PGLS_diag_birds.pdf  used on input line 793.
+Package pdftex.def Info: Figures/PGLS_diag_birds.pdf  used on input line 819.
 (pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
- [25
+ [27
 
  <./Figures/PGLS_diag_birds.pdf>]
-<Figures/PGLS_diag_mammals.pdf, id=457, 505.89pt x 433.62pt>
+<Figures/PGLS_diag_mammals.pdf, id=458, 505.89pt x 433.62pt>
 File: Figures/PGLS_diag_mammals.pdf Graphic file (type pdf)
 <use Figures/PGLS_diag_mammals.pdf>
-Package pdftex.def Info: Figures/PGLS_diag_mammals.pdf  used on input line 843.
+Package pdftex.def Info: Figures/PGLS_diag_mammals.pdf  used on input line 869.
 
 (pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/PGLS_diag_reptiles.pdf, id=459, 505.89pt x 433.62pt>
+<Figures/PGLS_diag_reptiles.pdf, id=460, 505.89pt x 433.62pt>
 File: Figures/PGLS_diag_reptiles.pdf Graphic file (type pdf)
 <use Figures/PGLS_diag_reptiles.pdf>
-Package pdftex.def Info: Figures/PGLS_diag_reptiles.pdf  used on input line 892
+Package pdftex.def Info: Figures/PGLS_diag_reptiles.pdf  used on input line 918
 .
 (pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[26
-
- <./Figures/PGLS_diag_mammals.pdf>] [27 <./Figures/PGLS_diag_reptiles.pdf>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 900.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leqslant' on input line 900.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 900.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 900.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 900.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 900.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [28
 
-] [29] [30] [31]
+ <./Figures/PGLS_diag_mammals.pdf>] [29 <./Figures/PGLS_diag_reptiles.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1064.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1064.
+(hyperref)                removing `math shift' on input line 926.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1064.
+(hyperref)                removing `\leqslant' on input line 926.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1064.
+(hyperref)                removing `math shift' on input line 926.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1064.
+(hyperref)                removing `math shift' on input line 926.
 
-<Figures/ClimateChangeModelsEstimates.pdf, id=508, 433.62pt x 578.16pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 926.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 926.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30
+
+] [31] [32] [33]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1090.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1090.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1090.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1090.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1090.
+
+<Figures/ClimateChangeModelsEstimates.pdf, id=509, 433.62pt x 578.16pt>
 File: Figures/ClimateChangeModelsEstimates.pdf Graphic file (type pdf)
 <use Figures/ClimateChangeModelsEstimates.pdf>
 Package pdftex.def Info: Figures/ClimateChangeModelsEstimates.pdf  used on inpu
-t line 1069.
+t line 1095.
 (pdftex.def)             Requested size: 390.2544pt x 520.33919pt.
-[32
+[34
 
- <./Figures/ClimateChangeModelsEstimates.pdf>] [33]
-<Figures/SynthesisTableValidation.png, id=526, 956.82469pt x 381.67593pt>
+ <./Figures/ClimateChangeModelsEstimates.pdf>] [35]
+<Figures/SynthesisTableValidation.png, id=527, 956.82469pt x 381.67593pt>
 File: Figures/SynthesisTableValidation.png Graphic file (type png)
 <use Figures/SynthesisTableValidation.png>
 Package pdftex.def Info: Figures/SynthesisTableValidation.png  used on input li
-ne 1082.
+ne 1109.
 (pdftex.def)             Requested size: 669.77272pt x 267.17133pt.
 
-Overfull \hbox (17.0665pt too wide) in paragraph at lines 1082--1084
+Overfull \hbox (17.0665pt too wide) in paragraph at lines 1109--1110
  [][] 
  []
 
-[34
+[36
 
  <./Figures/SynthesisTableValidation.png>]
-<Figures/Partial_models_predictions/Validations/Diet.pdf, id=533, 794.97pt x 72
+<Figures/Partial_models_predictions/Validations/Diet.pdf, id=534, 794.97pt x 72
 2.7pt>
 File: Figures/Partial_models_predictions/Validations/Diet.pdf Graphic file (typ
 e pdf)
 <use Figures/Partial_models_predictions/Validations/Diet.pdf>
 Package pdftex.def Info: Figures/Partial_models_predictions/Validations/Diet.pd
-f  used on input line 1100.
+f  used on input line 1126.
 (pdftex.def)             Requested size: 516.72438pt x 469.74944pt.
 
-Overfull \hbox (44.69315pt too wide) in paragraph at lines 1100--1101
+Overfull \hbox (44.69315pt too wide) in paragraph at lines 1126--1127
  [][] 
  []
 
-[35
+[37
 
  <./Figures/Partial_models_predictions/Validations/Diet.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[36
+[38
 
-] [37]
+] [39]
 
 Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
 (biblatex)                Using 'family-given' now.
 
 
-Overfull \hbox (20.67032pt too wide) in paragraph at lines 1229--1229
+Overfull \hbox (20.67032pt too wide) in paragraph at lines 1255--1255
 [][]\T1/ptm/m/n/10.95 Santos, T. (2018). Pack-age ` PVR '. Phy-lo-ge-netic Eige
 n-vec-tors Re-gres-sion and Phy-lo-gen-tic Signal-Representation
  []
 
-[38
+[40
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1230.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1230.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1256.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1256.
  (Supporting_information.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1230.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1230.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1256.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1256.
 
 Package rerunfilecheck Info: File `Supporting_information.out' has not changed.
 
-(rerunfilecheck)             Checksum: D7B30E8A45CA3B42B2ED723D254D55D9;3118.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: 9BF5B0FCE4B1FCDA4AEDEF9684A188DE;3308.
 Package logreq Info: Writing requests to 'Supporting_information.run.xml'.
 \openout1 = `Supporting_information.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37411 strings out of 492946
- 719891 string characters out of 3124934
+ 37476 strings out of 492946
+ 720971 string characters out of 3124934
  1136208 words of memory out of 3000000
- 40633 multiletter control sequences out of 15000+200000
+ 40693 multiletter control sequences out of 15000+200000
  581260 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,77p,3853b,1941s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,14n,77p,3854b,2070s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
 enc}<C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/
@@ -2175,9 +2061,9 @@ fb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/u
 tmbi8a.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
 /times/utmr8a.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on Supporting_information.pdf (38 pages, 12085364 bytes).
+Output written on Supporting_information.pdf (40 pages, 6228634 bytes).
 PDF statistics:
- 649 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
+ 652 PDF objects out of 1000 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
  387 words of extra memory for PDF output out of 10000 (max. 10000000)
 
