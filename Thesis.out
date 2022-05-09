@@ -43,31 +43,30 @@
 \BOOKMARK [2][-]{subsection.5.3.2}{Effects of land use, land-use intensity, trophic group and residual RMR on species\220 occurrence probability}{section.5.3}% 43
 \BOOKMARK [1][-]{section.5.4}{Discussion}{chapter.5}% 44
 \BOOKMARK [0][-]{chapter.6}{General discussion}{}% 45
-\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 46
-\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 47
-\BOOKMARK [0][-]{chapter*.40}{Appendices}{}% 48
-\BOOKMARK [0][-]{chapter*.41}{Appendix 1: Supporting information for Chapter 2}{}% 49
-\BOOKMARK [1][-]{section.7.1}{Taxonomic corrections}{chapter*.41}% 50
-\BOOKMARK [1][-]{section.7.2}{Additional information for trait compilation}{chapter*.41}% 51
-\BOOKMARK [1][-]{section.7.3}{Cutting distribution maps by altitudinal limits}{chapter*.41}% 52
-\BOOKMARK [1][-]{section.7.4}{Impact of taxonomic corrections on trait coverage}{chapter*.41}% 53
-\BOOKMARK [1][-]{section.7.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.41}% 54
-\BOOKMARK [1][-]{section.7.6}{Phylogenetic patterns in trait completeness}{chapter*.41}% 55
-\BOOKMARK [1][-]{section.7.7}{Model coefficients for Range size against Number of sampled traits \(Poisson model\).}{chapter*.41}% 56
-\BOOKMARK [1][-]{section.7.8}{Spatial models summaries}{chapter*.41}% 57
-\BOOKMARK [1][-]{section.7.9}{Trait coverage and taxonomic matching}{chapter*.41}% 58
-\BOOKMARK [0][-]{figure.caption.65}{Appendix 2: Supporting information for Chapter 3}{}% 59
-\BOOKMARK [1][-]{section.7.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.65}% 60
-\BOOKMARK [1][-]{section.7.2}{Trait data \046 imputation of missing trait values}{figure.caption.65}% 61
-\BOOKMARK [2][-]{subsection.7.2.1}{Choice of imputation technique}{section.7.2}% 62
-\BOOKMARK [2][-]{subsection.7.2.2}{Phylogenetic signal in traits}{section.7.2}% 63
-\BOOKMARK [2][-]{subsection.7.2.3}{Implementation of missForest imputations}{section.7.2}% 64
-\BOOKMARK [1][-]{section.7.3}{Degree of multicollinearity among traits}{figure.caption.65}% 65
-\BOOKMARK [1][-]{section.7.4}{Imputation performance}{figure.caption.65}% 66
-\BOOKMARK [1][-]{section.7.5}{Functional loss and functional gain}{figure.caption.65}% 67
-\BOOKMARK [1][-]{section.7.6}{Diagnostic plots}{figure.caption.65}% 68
-\BOOKMARK [1][-]{section.7.7}{Model robustness}{figure.caption.65}% 69
-\BOOKMARK [1][-]{section.7.8}{Model robustness \205 time since land-use conversion}{figure.caption.65}% 70
-\BOOKMARK [0][-]{table.caption.98}{Appendix 3: Supporting information for Chapter 4}{}% 71
-\BOOKMARK [0][-]{chapter*.99}{Appendix 4: Supporting information for Chapter 5}{}% 72
-\BOOKMARK [0][-]{figure.caption.109}{Bibliography for the Appendices}{}% 73
+\BOOKMARK [0][-]{chapter.6}{Bibliography}{}% 46
+\BOOKMARK [0][-]{chapter*.40}{Appendices}{}% 47
+\BOOKMARK [0][-]{chapter*.41}{Appendix 1: Supporting information for Chapter 2}{}% 48
+\BOOKMARK [1][-]{section.6.1}{Taxonomic corrections}{chapter*.41}% 49
+\BOOKMARK [1][-]{section.6.2}{Additional information for trait compilation}{chapter*.41}% 50
+\BOOKMARK [1][-]{section.6.3}{Cutting distribution maps by altitudinal limits}{chapter*.41}% 51
+\BOOKMARK [1][-]{section.6.4}{Impact of taxonomic corrections on trait coverage}{chapter*.41}% 52
+\BOOKMARK [1][-]{section.6.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.41}% 53
+\BOOKMARK [1][-]{section.6.6}{Phylogenetic patterns in trait completeness}{chapter*.41}% 54
+\BOOKMARK [1][-]{section.6.7}{Model coefficients for Range size against Number of sampled traits \(Poisson model\).}{chapter*.41}% 55
+\BOOKMARK [1][-]{section.6.8}{Spatial models summaries}{chapter*.41}% 56
+\BOOKMARK [1][-]{section.6.9}{Trait coverage and taxonomic matching}{chapter*.41}% 57
+\BOOKMARK [0][-]{figure.caption.65}{Appendix 2: Supporting information for Chapter 3}{}% 58
+\BOOKMARK [1][-]{section.6.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.65}% 59
+\BOOKMARK [1][-]{section.6.2}{Trait data \046 imputation of missing trait values}{figure.caption.65}% 60
+\BOOKMARK [2][-]{subsection.6.2.1}{Choice of imputation technique}{section.6.2}% 61
+\BOOKMARK [2][-]{subsection.6.2.2}{Phylogenetic signal in traits}{section.6.2}% 62
+\BOOKMARK [2][-]{subsection.6.2.3}{Implementation of missForest imputations}{section.6.2}% 63
+\BOOKMARK [1][-]{section.6.3}{Degree of multicollinearity among traits}{figure.caption.65}% 64
+\BOOKMARK [1][-]{section.6.4}{Imputation performance}{figure.caption.65}% 65
+\BOOKMARK [1][-]{section.6.5}{Functional loss and functional gain}{figure.caption.65}% 66
+\BOOKMARK [1][-]{section.6.6}{Diagnostic plots}{figure.caption.65}% 67
+\BOOKMARK [1][-]{section.6.7}{Model robustness}{figure.caption.65}% 68
+\BOOKMARK [1][-]{section.6.8}{Model robustness \205 time since land-use conversion}{figure.caption.65}% 69
+\BOOKMARK [0][-]{table.caption.98}{Appendix 3: Supporting information for Chapter 4}{}% 70
+\BOOKMARK [0][-]{chapter*.99}{Appendix 4: Supporting information for Chapter 5}{}% 71
+\BOOKMARK [0][-]{figure.caption.109}{Bibliography for the Appendices}{}% 72
