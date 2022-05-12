@@ -6,7 +6,7 @@
 %% bibtex Thesis2-blx.aux
 %% pdflatex Thesis
 
-%%%%%%%% compile like this TWICE
+%%%%%%%% compile like this TWICE for correct compilation of references
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -52,6 +52,9 @@
 % chapter 5 ~ 5190
 
 \documentclass[11pt]{report}
+% fancy colors
+\usepackage[dvipsnames]{xcolor}
+
 \usepackage{graphicx}
 %%\usepackage[left=1.5in, right=0.75in]{geometry} %% preivously 2.5cm (0,75 in = 2cm)
 \usepackage[margin=2.5cm]{geometry}
@@ -63,7 +66,6 @@
 \usepackage{verbatim}
 \usepackage{pdflscape}
 \usepackage{mdframed}
-\usepackage{xcolor}
 
 % checkmarks
 \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
@@ -73,6 +75,8 @@
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{20pt}}
 \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+
 
 % captions
 \usepackage[labelfont=bf]{caption}

@@ -1,4 +1,5 @@
 \documentclass[11pt]{article}
+\usepackage[dvipsnames]{xcolor}
 \usepackage{graphicx}
 \usepackage[margin = 2.5cm]{geometry}
 \usepackage[T1]{fontenc}
@@ -9,7 +10,6 @@
 \usepackage{verbatim}
 \usepackage{pdflscape}
 \usepackage{mdframed}
-\usepackage{xcolor}
 
 % checkmarks
 \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
@@ -681,14 +681,14 @@ Primary diet & $3.6$ \\
 
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.5]{Figures/LU_Diag_mammals}
+\includegraphics[scale=0.5]{Figures/LU_Diag_mammals.png}
 \caption[Land-use responses: diagnostic plots for the mixed-effects model fitted on mammals]{\textbf{Diagnostic plots for the mixed-effects model fitted on mammals}, looking at the effects of land use, land-use intensity and the species-level ecological characteristics on species occurrence probability (all-predictor model). The diagnostic plots were obtained from the `DHARMa' R package \citep{DHARMa}.}
 \label{SI_4_Figure14}
 \end{figure}
 
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.5]{Figures/LU_Diag_reptiles}
+\includegraphics[scale=0.5]{Figures/LU_Diag_reptiles.png}
 \caption[Land-use responses: diagnostic plots for the mixed-effects model fitted on reptiles]{\textbf{Diagnostic plots for the mixed-effects model fitted on reptiles}, looking at the effects of land use, land-use intensity and the species-level ecological characteristics on species occurrence probability (all-predictor model). The diagnostic plots were obtained from the `DHARMa' R package \citep{DHARMa}.}
 \label{SI_4_Figure15}
 \end{figure}
@@ -1105,8 +1105,8 @@ Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\
 \label{SI_4_Table_22}
 \begin{table}[h!]
 \centering
-\caption[Summary of the effects of the ecological characteristics (except for diet) on (a) species responses to disturbed land uses (within land-use type effects) and on (b) species climate-change sensitivity: from validation models using empirical, non imputed trait values]{\textbf{Summary of the effects of the ecological characteristics (except for diet) on (a) species responses to disturbed land uses (within land-use type effects) and on (b) species climate-change sensitivity, for each class of terrestrial vertebrates, \textit{from the models fitted on empirical trait values (excluding all imputed values)}.} The symbol \textcolor{red}{\textbf{–}} indicates where a characteristic has a significant  negative effect on occurrence probability within a disturbed land use, or where the characteristic renders species significantly  more sensitive to climate change. A \textcolor{green}{\textbf{+}} indicates a significantly  positive effect of a characteristic on occurrence probability in a land-use type, or significantly lower sensitivity to climate change. For the land-use effects, we report  "within land-use type effects" here, that is, within a disturbed land use whether there were significant differences in occurrence probability among species with different trait values. These effects were derived from the interactive terms of the full, all-predictor models.}
-\includegraphics[scale=0.7]{Figures/SynthesisTableValidation}
+\caption[Summary of the effects of the ecological characteristics (except for diet) on (a) species responses to disturbed land uses (within land-use type effects) and on (b) species climate-change sensitivity: from validation models using empirical, non imputed trait values]{\textbf{Summary of the effects of the ecological characteristics (except for diet) on (a) species responses to disturbed land uses (within land-use type effects) and on (b) species climate-change sensitivity, for each class of terrestrial vertebrates, \textit{from the models fitted on empirical trait values (excluding all imputed values)}.} The symbol \colorbox{Salmon}{\textcolor{BrickRed}{\textbf{--}}} indicates where a characteristic has a significant  negative effect on occurrence probability within a disturbed land use, or where the characteristic renders species significantly  more sensitive to climate change. A \colorbox{YellowGreen}{\textcolor{ForestGreen}{\textbf{+}}} indicates a significantly  positive effect of a characteristic on occurrence probability in a land-use type, or significantly lower sensitivity to climate change. For the land-use effects, we report  "within land-use type effects" here, that is, within a disturbed land use whether there were significant differences in occurrence probability among species with different trait values. These effects were derived from the interactive terms of the full, all-predictor models.}
+\includegraphics[scale=0.8]{Figures/SynthesisTableValidation2}
 \end{table}
 \end{landscape}
 

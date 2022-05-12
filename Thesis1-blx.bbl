@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -37,7 +37,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2005}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
     \field{abstract}{%
@@ -126,7 +126,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
     \field{abstract}{%
@@ -185,7 +185,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1996}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -232,7 +232,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -304,7 +304,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -455,7 +455,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -532,7 +532,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -568,7 +568,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -649,7 +649,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -926,7 +926,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -978,7 +978,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -1018,6 +1018,48 @@
     \field{year}{2010}
   \endentry
 
+  \entry{spatialreg2}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BR}{%
+         family={Bivand},
+         familyi={B\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hauke},
+         familyi={H\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kossowski},
+         familyi={K\bibinitperiod},
+         given={Tomasz},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BR+1}
+    \strng{fullhash}{BRHJKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{150\bibrangedash 179}
+    \field{title}{Computing the Jacobian in Gaussian spatial autoregressive
+  models: An illustrated comparison of available methods}
+    \verb{url}
+    \verb https://doi.org/10.1111/gean.12008
+    \endverb
+    \field{volume}{45}
+    \field{journaltitle}{Geographical Analysis}
+    \field{year}{2013}
+  \endentry
+
   \entry{spatialreg1}{article}{}
     \name{author}{2}{}{%
       {{hash=BR}{%
@@ -1038,7 +1080,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{number}{18}
@@ -1074,7 +1116,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{number}{3}
@@ -1087,48 +1129,6 @@
     \field{volume}{27}
     \field{journaltitle}{TEST}
     \field{year}{2018}
-  \endentry
-
-  \entry{spatialreg2}{article}{}
-    \name{author}{3}{}{%
-      {{hash=BR}{%
-         family={Bivand},
-         familyi={B\bibinitperiod},
-         given={Roger},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=HJ}{%
-         family={Hauke},
-         familyi={H\bibinitperiod},
-         given={Jan},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=KT}{%
-         family={Kossowski},
-         familyi={K\bibinitperiod},
-         given={Tomasz},
-         giveni={T\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BR+1}
-    \strng{fullhash}{BRHJKT1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2013}
-    \field{extradate}{1}
-    \field{labeldatesource}{year}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{number}{2}
-    \field{pages}{150\bibrangedash 179}
-    \field{title}{Computing the Jacobian in Gaussian spatial autoregressive
-  models: An illustrated comparison of available methods}
-    \verb{url}
-    \verb https://doi.org/10.1111/gean.12008
-    \endverb
-    \field{volume}{45}
-    \field{journaltitle}{Geographical Analysis}
-    \field{year}{2013}
   \endentry
 
   \entry{spatialreg3}{book}{}
@@ -1161,7 +1161,7 @@
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
     \field{extradate}{2}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{title}{Applied spatial data analysis with {R}, Second edition}
@@ -1229,7 +1229,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -1311,7 +1311,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -1401,7 +1401,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -1600,7 +1600,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -1632,108 +1632,6 @@
   evolutionary analysis}}
     \field{journaltitle}{PLoS Computational Biology}
     \field{year}{2019}
-  \endentry
-
-  \entry{Bregman2015}{article}{}
-    \name{author}{8}{}{%
-      {{hash=BTP}{%
-         family={Bregman},
-         familyi={B\bibinitperiod},
-         given={Tom\bibnamedelima P.},
-         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=LAC}{%
-         family={Lees},
-         familyi={L\bibinitperiod},
-         given={Alexander\bibnamedelima C.},
-         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
-      }}%
-      {{hash=SN}{%
-         family={Seddon},
-         familyi={S\bibinitperiod},
-         given={Nathalie},
-         giveni={N\bibinitperiod},
-      }}%
-      {{hash=MHE}{%
-         family={Macgregor},
-         familyi={M\bibinitperiod},
-         given={Hannah\bibnamedelima E.A.},
-         giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-      {{hash=DB}{%
-         family={Darski},
-         familyi={D\bibinitperiod},
-         given={Bianca},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=AA}{%
-         family={Aleixo},
-         familyi={A\bibinitperiod},
-         given={Alexandre},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=BMB}{%
-         family={Bonsall},
-         familyi={B\bibinitperiod},
-         given={Michael\bibnamedelima B.},
-         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-      {{hash=TJA}{%
-         family={Tobias},
-         familyi={T\bibinitperiod},
-         given={Joseph\bibnamedelima A.},
-         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-    }
-    \keyw{Avian communities,Biodiversity conservation,Community
-  disassembly,Diet and morphology,Ecosystem services,Fragmentation,Functional
-  traits,Habitat filtering,Interspecific competition,Limiting similarity,Mato
-  Grosso, Brazil,Tropical rain forest}
-    \strng{namehash}{BTP+1}
-    \strng{fullhash}{BTPLACSNMHEDBAABMBTJA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
-    \field{labeldatesource}{year}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{abstract}{%
-    Competitive interactions among species with similar ecological niches are
-  known to regulate the assembly of biological communities. However, it is not
-  clear whether such forms of competition can predict the collapse of
-  communities and associated shifts in ecosystem function in the face of
-  environmental change. Here, we use phylogenetic and functional trait data to
-  test whether communities of two ecologically important guilds of tropical
-  birds (frugivores and insectivores) are structured by species interactions in
-  a fragmented Amazonian forest landscape. In both guilds, we found that forest
-  patch size, quality, and degree of isolation influence the phylogenetic and
-  functional trait structure of communities, with small, degraded, or isolated
-  forest patches having an increased signature of competition (i.e.,
-  phylogenetic and functional trait overdispersion in relation to null models).
-  These results suggest that local extinctions in the context of fragmentation
-  are nonrandom, with a consistent bias toward more densely occupied regions of
-  niche space. We conclude that the loss of biodiversity in fragmented
-  landscapes is mediated by niche-based competitive interactions among species,
-  with potentially far-reaching implications for key ecosystem processes,
-  including seed dispersal and plant damage by phytophagous insects.%
-    }
-    \verb{doi}
-    \verb 10.1890/14-1731.1
-    \endverb
-    \field{issn}{00129658}
-    \field{number}{10}
-    \field{pages}{2692\bibrangedash 2704}
-    \field{title}{{Species interactions regulate the collapse of biodiversity
-  and ecosystem function in tropical forest fragments}}
-    \field{volume}{96}
-    \verb{file}
-    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
-    \verb ded/Bregman et al. - 2015 - Species interactions regulate the collaps
-    \verb e of biodiversity and ecosystem function in tropical forest fragments
-    \verb .pdf:pdf
-    \endverb
-    \field{journaltitle}{Ecology}
-    \field{year}{2015}
   \endentry
 
   \entry{Bregman2016}{article}{}
@@ -1796,7 +1694,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -1842,6 +1740,108 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Bregman2015}{article}{}
+    \name{author}{8}{}{%
+      {{hash=BTP}{%
+         family={Bregman},
+         familyi={B\bibinitperiod},
+         given={Tom\bibnamedelima P.},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LAC}{%
+         family={Lees},
+         familyi={L\bibinitperiod},
+         given={Alexander\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Seddon},
+         familyi={S\bibinitperiod},
+         given={Nathalie},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MHE}{%
+         family={Macgregor},
+         familyi={M\bibinitperiod},
+         given={Hannah\bibnamedelima E.A.},
+         giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Darski},
+         familyi={D\bibinitperiod},
+         given={Bianca},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Aleixo},
+         familyi={A\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BMB}{%
+         family={Bonsall},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=TJA}{%
+         family={Tobias},
+         familyi={T\bibinitperiod},
+         given={Joseph\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Avian communities,Biodiversity conservation,Community
+  disassembly,Diet and morphology,Ecosystem services,Fragmentation,Functional
+  traits,Habitat filtering,Interspecific competition,Limiting similarity,Mato
+  Grosso, Brazil,Tropical rain forest}
+    \strng{namehash}{BTP+1}
+    \strng{fullhash}{BTPLACSNMHEDBAABMBTJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Competitive interactions among species with similar ecological niches are
+  known to regulate the assembly of biological communities. However, it is not
+  clear whether such forms of competition can predict the collapse of
+  communities and associated shifts in ecosystem function in the face of
+  environmental change. Here, we use phylogenetic and functional trait data to
+  test whether communities of two ecologically important guilds of tropical
+  birds (frugivores and insectivores) are structured by species interactions in
+  a fragmented Amazonian forest landscape. In both guilds, we found that forest
+  patch size, quality, and degree of isolation influence the phylogenetic and
+  functional trait structure of communities, with small, degraded, or isolated
+  forest patches having an increased signature of competition (i.e.,
+  phylogenetic and functional trait overdispersion in relation to null models).
+  These results suggest that local extinctions in the context of fragmentation
+  are nonrandom, with a consistent bias toward more densely occupied regions of
+  niche space. We conclude that the loss of biodiversity in fragmented
+  landscapes is mediated by niche-based competitive interactions among species,
+  with potentially far-reaching implications for key ecosystem processes,
+  including seed dispersal and plant damage by phytophagous insects.%
+    }
+    \verb{doi}
+    \verb 10.1890/14-1731.1
+    \endverb
+    \field{issn}{00129658}
+    \field{number}{10}
+    \field{pages}{2692\bibrangedash 2704}
+    \field{title}{{Species interactions regulate the collapse of biodiversity
+  and ecosystem function in tropical forest fragments}}
+    \field{volume}{96}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Bregman et al. - 2015 - Species interactions regulate the collaps
+    \verb e of biodiversity and ecosystem function in tropical forest fragments
+    \verb .pdf:pdf
+    \endverb
+    \field{journaltitle}{Ecology}
+    \field{year}{2015}
+  \endentry
+
   \entry{Brischoux2017}{article}{}
     \name{author}{5}{}{%
       {{hash=BF}{%
@@ -1880,7 +1880,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -1947,7 +1947,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -2002,7 +2002,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -2088,7 +2088,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -2147,7 +2147,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -2173,53 +2173,6 @@
     \field{title}{{MICE: multivariate imputation by chained equations}}
     \field{journaltitle}{R package version}
     \field{year}{2007}
-  \endentry
-
-  \entry{Cadotte2017}{article}{}
-    \name{author}{2}{}{%
-      {{hash=CMW}{%
-         family={Cadotte},
-         familyi={C\bibinitperiod},
-         given={Marc\bibnamedelima W.},
-         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
-      }}%
-      {{hash=TCM}{%
-         family={Tucker},
-         familyi={T\bibinitperiod},
-         given={Caroline\bibnamedelima M.},
-         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{CMWTCM1}
-    \strng{fullhash}{CMWTCM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2017}
-    \field{labeldatesource}{year}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{abstract}{%
-    Environmental filtering, where the environment selects against certain
-  species, is thought to be a major mechanism structuring communities. However,
-  recent criticisms cast doubt on our ability to accurately infer filtering
-  because competition can give rise to patterns identical to those caused by
-  environmental filtering. While experiments can distinguish mechanisms,
-  observational patterns are especially problematic. The environment determines
-  community composition not only directly via survival, but also by influencing
-  competition. If species population growth rates covary with environmental
-  gradients, then outcomes of competitive exclusion will also vary with the
-  environment. Here, we argue that observational studies remain valuable, but
-  inferences about the importance of the environment cannot rely on
-  compositional data alone, and that species abundances, population growth, or
-  traits must be correlated with the environment.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.tree.2017.03.004
-    \endverb
-    \field{issn}{01695347}
-    \field{title}{{Should Environmental Filtering be Abandoned?}}
-    \field{journaltitle}{Trends in Ecology and Evolution}
-    \field{year}{2017}
   \endentry
 
   \entry{Cadotte2011}{article}{}
@@ -2251,7 +2204,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -2292,6 +2245,53 @@
   ecological processes and services}}
     \field{journaltitle}{Journal of Applied Ecology}
     \field{year}{2011}
+  \endentry
+
+  \entry{Cadotte2017}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CMW}{%
+         family={Cadotte},
+         familyi={C\bibinitperiod},
+         given={Marc\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=TCM}{%
+         family={Tucker},
+         familyi={T\bibinitperiod},
+         given={Caroline\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CMWTCM1}
+    \strng{fullhash}{CMWTCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Environmental filtering, where the environment selects against certain
+  species, is thought to be a major mechanism structuring communities. However,
+  recent criticisms cast doubt on our ability to accurately infer filtering
+  because competition can give rise to patterns identical to those caused by
+  environmental filtering. While experiments can distinguish mechanisms,
+  observational patterns are especially problematic. The environment determines
+  community composition not only directly via survival, but also by influencing
+  competition. If species population growth rates covary with environmental
+  gradients, then outcomes of competitive exclusion will also vary with the
+  environment. Here, we argue that observational studies remain valuable, but
+  inferences about the importance of the environment cannot rely on
+  compositional data alone, and that species abundances, population growth, or
+  traits must be correlated with the environment.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.tree.2017.03.004
+    \endverb
+    \field{issn}{01695347}
+    \field{title}{{Should Environmental Filtering be Abandoned?}}
+    \field{journaltitle}{Trends in Ecology and Evolution}
+    \field{year}{2017}
   \endentry
 
   \entry{Capdevila2022}{article}{}
@@ -2335,7 +2335,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2022}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -2643,7 +2643,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -2699,7 +2699,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{note}{R package version 0.5.0}
@@ -2730,7 +2730,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -2791,7 +2791,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -2858,7 +2858,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -2910,7 +2910,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2004}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -2972,7 +2972,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -3013,78 +3013,6 @@
   species and habitat degradation on species-poor freshwater fish assemblages}}
     \field{journaltitle}{Science of the Total Environment}
     \field{year}{2018}
-  \endentry
-
-  \entry{Collen2008}{article}{}
-    \name{author}{4}{}{%
-      {{hash=CB}{%
-         family={Collen},
-         familyi={C\bibinitperiod},
-         given={Ben},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=RM}{%
-         family={Ram},
-         familyi={R\bibinitperiod},
-         given={Mala},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=ZT}{%
-         family={Zamin},
-         familyi={Z\bibinitperiod},
-         given={Tara},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=ML}{%
-         family={McRae},
-         familyi={M\bibinitperiod},
-         given={Louise},
-         giveni={L\bibinitperiod},
-      }}%
-    }
-    \keyw{biodiversity monitoring,convention on biological diversity,indicators
-  for 2010 target,population decline,threatened species}
-    \strng{namehash}{CB+1}
-    \strng{fullhash}{CBRMZTML1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2008}
-    \field{labeldatesource}{year}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
-    \field{abstract}{%
-    Nations around the world are required to measure their progress towards key
-  biodiversity goals. One important example of this, the Convention on
-  Biological Diversity's 2010 target, is soon approaching. The target set is to
-  significantly reduce the rate of biodiversity loss by the year 2010. However,
-  to what extent are the data, especially for tropical countries, available to
-  indicate biodiversity change and to what extent is current knowledge of
-  biodiversity change truly a global picture? While species richness is
-  greatest in the tropics, biodiversity data richness is skewed towards the
-  poles. This not only provides a significant challenge for global indicators
-  to accurately represent biodiversity, but also for individual countries that
-  are responsible under such legislation for measuring their own impact on
-  biodiversity. We examine the coverage of biodiversity data using four global
-  biodiversity datasets, and look at how effective current efforts are at
-  addressing this discrepancy, and what countries might be able to do in time
-  for 2010 and beyond. We conclude by suggesting a number of activities which
-  might provide impetus for improved biodiversity monitoring in tropical
-  nations.%
-    }
-    \verb{doi}
-    \verb 10.1177/194008290800100202
-    \endverb
-    \field{issn}{1940-0829}
-    \field{number}{2}
-    \field{pages}{75\bibrangedash 88}
-    \field{title}{{The Tropical Biodiversity Data Gap: Addressing Disparity in
-  Global Monitoring}}
-    \field{volume}{1}
-    \verb{file}
-    \verb :C\:/Users/adrie/Downloads/194008290800100202.pdf:pdf
-    \endverb
-    \field{journaltitle}{Tropical Conservation Science}
-    \field{year}{2008}
   \endentry
 
   \entry{Collen2016}{article}{}
@@ -3187,7 +3115,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -3215,6 +3143,78 @@
     \endverb
     \field{journaltitle}{Biology Letters}
     \field{year}{2016}
+  \endentry
+
+  \entry{Collen2008}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Ram},
+         familyi={R\bibinitperiod},
+         given={Mala},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZT}{%
+         family={Zamin},
+         familyi={Z\bibinitperiod},
+         given={Tara},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={McRae},
+         familyi={M\bibinitperiod},
+         given={Louise},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \keyw{biodiversity monitoring,convention on biological diversity,indicators
+  for 2010 target,population decline,threatened species}
+    \strng{namehash}{CB+1}
+    \strng{fullhash}{CBRMZTML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Nations around the world are required to measure their progress towards key
+  biodiversity goals. One important example of this, the Convention on
+  Biological Diversity's 2010 target, is soon approaching. The target set is to
+  significantly reduce the rate of biodiversity loss by the year 2010. However,
+  to what extent are the data, especially for tropical countries, available to
+  indicate biodiversity change and to what extent is current knowledge of
+  biodiversity change truly a global picture? While species richness is
+  greatest in the tropics, biodiversity data richness is skewed towards the
+  poles. This not only provides a significant challenge for global indicators
+  to accurately represent biodiversity, but also for individual countries that
+  are responsible under such legislation for measuring their own impact on
+  biodiversity. We examine the coverage of biodiversity data using four global
+  biodiversity datasets, and look at how effective current efforts are at
+  addressing this discrepancy, and what countries might be able to do in time
+  for 2010 and beyond. We conclude by suggesting a number of activities which
+  might provide impetus for improved biodiversity monitoring in tropical
+  nations.%
+    }
+    \verb{doi}
+    \verb 10.1177/194008290800100202
+    \endverb
+    \field{issn}{1940-0829}
+    \field{number}{2}
+    \field{pages}{75\bibrangedash 88}
+    \field{title}{{The Tropical Biodiversity Data Gap: Addressing Disparity in
+  Global Monitoring}}
+    \field{volume}{1}
+    \verb{file}
+    \verb :C\:/Users/adrie/Downloads/194008290800100202.pdf:pdf
+    \endverb
+    \field{journaltitle}{Tropical Conservation Science}
+    \field{year}{2008}
   \endentry
 
   \entry{Coogan2018}{article}{}
@@ -3251,7 +3251,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -3320,7 +3320,7 @@
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
     \field{extradate}{1}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -3362,7 +3362,7 @@
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
     \field{extradate}{2}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -3426,7 +3426,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -3467,7 +3467,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2006}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -3517,7 +3517,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{pages}{563\bibrangedash 566}
@@ -3560,7 +3560,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -3676,7 +3676,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -3766,7 +3766,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -3841,7 +3841,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -3927,7 +3927,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -4188,7 +4188,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -4251,7 +4251,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -4314,7 +4314,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -4394,7 +4394,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -4478,7 +4478,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{abstract}{%
@@ -4666,7 +4666,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{abstract}{%
@@ -4726,7 +4726,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{abstract}{%
@@ -4764,7 +4764,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{title}{ArcGIS desktop: Release 10.}
@@ -4800,7 +4800,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{abstract}{%
@@ -4876,7 +4876,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \verb{doi}
@@ -4921,7 +4921,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2022}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{abstract}{%
@@ -4994,7 +4994,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \field{abstract}{%
@@ -5089,7 +5089,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -5159,7 +5159,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -5210,7 +5210,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -5253,7 +5253,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5331,7 +5331,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5429,7 +5429,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5499,7 +5499,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5584,7 +5584,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5671,7 +5671,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5724,7 +5724,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5790,7 +5790,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -5867,7 +5867,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \verb{doi}
@@ -5912,7 +5912,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \field{abstract}{%
@@ -5966,7 +5966,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \field{abstract}{%
@@ -6060,7 +6060,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \field{abstract}{%
@@ -6115,64 +6115,6 @@
     \field{year}{2020}
   \endentry
 
-  \entry{GonzalezSuarez2012a}{article}{}
-    \name{author}{2}{}{%
-      {{hash=GSM}{%
-         family={Gonz{\'{a}}lez-Su{\'{a}}rez},
-         familyi={G\bibinithyphendelim S\bibinitperiod},
-         given={Manuela},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=RE}{%
-         family={Revilla},
-         familyi={R\bibinitperiod},
-         given={Eloy},
-         giveni={E\bibinitperiod},
-      }}%
-    }
-    \keyw{Comparative studies, intraspecific variation, mammalia, PanTHERIA,
-  Red List, taxonomically informed regression, vulnerability}
-    \strng{namehash}{GSMRE1}
-    \strng{fullhash}{GSMRE1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2012}
-    \field{labeldatesource}{year}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
-    \field{abstract}{%
-    Abstract Anthropogenic degradation of the world's ecosystems is leading to
-  a widespread and accelerating loss of biodiversity. However, not all species
-  respond equally to existing threats, raising the question: what makes a
-  species more vulnerable to extinction? We propose that higher intraspecific
-  variability may reduce the risk of extinction, as different individuals and
-  populations within a species may respond differently to occurring threats.
-  Supporting this prediction, our results show that mammalian species with more
-  variable adult body masses, litter sizes, sexual maturity ages and population
-  densities are less vulnerable to extinction. Our findings reveal the role of
-  local variation among populations, particularly of large mammals, as a
-  buffering mechanism against extinction, and emphasise the importance of
-  considering trait variation in comparative analyses and conservation
-  management.%
-    }
-    \verb{doi}
-    \verb 10.1111/ele.12035
-    \endverb
-    \verb{eprint}
-    \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12035
-    \endverb
-    \field{number}{2}
-    \field{pages}{242\bibrangedash 251}
-    \field{title}{Variability in life-history and ecological traits is a buffer
-  against extinction in mammals}
-    \verb{url}
-    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12035
-    \endverb
-    \field{volume}{16}
-    \field{journaltitle}{Ecology Letters}
-    \field{year}{2012}
-  \endentry
-
   \entry{Gonzalez-Suarez2012}{article}{}
     \name{author}{3}{}{%
       {{hash=GSM}{%
@@ -6201,7 +6143,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \field{abstract}{%
@@ -6249,6 +6191,64 @@
     \field{year}{2012}
   \endentry
 
+  \entry{GonzalezSuarez2012a}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GSM}{%
+         family={Gonz{\'{a}}lez-Su{\'{a}}rez},
+         familyi={G\bibinithyphendelim S\bibinitperiod},
+         given={Manuela},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Revilla},
+         familyi={R\bibinitperiod},
+         given={Eloy},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \keyw{Comparative studies, intraspecific variation, mammalia, PanTHERIA,
+  Red List, taxonomically informed regression, vulnerability}
+    \strng{namehash}{GSMRE1}
+    \strng{fullhash}{GSMRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Abstract Anthropogenic degradation of the world's ecosystems is leading to
+  a widespread and accelerating loss of biodiversity. However, not all species
+  respond equally to existing threats, raising the question: what makes a
+  species more vulnerable to extinction? We propose that higher intraspecific
+  variability may reduce the risk of extinction, as different individuals and
+  populations within a species may respond differently to occurring threats.
+  Supporting this prediction, our results show that mammalian species with more
+  variable adult body masses, litter sizes, sexual maturity ages and population
+  densities are less vulnerable to extinction. Our findings reveal the role of
+  local variation among populations, particularly of large mammals, as a
+  buffering mechanism against extinction, and emphasise the importance of
+  considering trait variation in comparative analyses and conservation
+  management.%
+    }
+    \verb{doi}
+    \verb 10.1111/ele.12035
+    \endverb
+    \verb{eprint}
+    \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12035
+    \endverb
+    \field{number}{2}
+    \field{pages}{242\bibrangedash 251}
+    \field{title}{Variability in life-history and ecological traits is a buffer
+  against extinction in mammals}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12035
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2012}
+  \endentry
+
   \entry{Gonzalez2018}{article}{}
     \name{author}{3}{}{%
       {{hash=GSM}{%
@@ -6277,7 +6277,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \field{abstract}{%
@@ -6371,7 +6371,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
     \field{abstract}{%
@@ -6442,7 +6442,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{abstract}{%
@@ -6526,7 +6526,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -6616,7 +6616,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{abstract}{%
@@ -6705,7 +6705,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{abstract}{%
@@ -6763,7 +6763,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{abstract}{%
@@ -8288,11 +8288,11 @@
     }
     \keyw{Data sharing,Global change,Habitat destruction,Land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{abstract}{%
@@ -9798,11 +9798,11 @@
     \keyw{data sharing,global biodiversity modeling,global change,habitat
   destruction,land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{abstract}{%
@@ -9873,7 +9873,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{abstract}{%
@@ -9942,7 +9942,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2004}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{abstract}{%
@@ -9989,7 +9989,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2006}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{abstract}{%
@@ -10034,7 +10034,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{title}{{The IUCN Red List of Threatened Species.
@@ -10078,7 +10078,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -10165,7 +10165,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -10197,7 +10197,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -10268,7 +10268,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -10465,7 +10465,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -10521,7 +10521,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -11376,11 +11376,11 @@
   diversity,Global analysis,Global change,Interspecific variation,Intraspecific
   variation,Plant attribute,Plant functional type,Plant trait,Vegetation model}
     \strng{namehash}{KJ+1}
-  \strng{fullhash}{KJDSLSPICLPBGGEWMRPBWIJCJHVCHSPVPMRMEBJSNAADDAMAOBMBTRBDBRBCCBBBWJBRBDECFCBJCJQCFSCJCDCWKCJMDBHDLDWEJEGEMFWFFJFMFFAFBFOFHFDFGTFNMGRVGWAGAGHTHSIHJGJAJSJCAKAJKDKKKMKSKJMKKKIKHLDLTDLMLFLTLSLLJLJLFMSMMDMPMTMBEMJMATMSCNKNSNUNSNAOROJOVGOYOJOGOWAPSPSPJGPJPO}
+  \strng{fullhash}{KJDSLSPICLPBGGEWMRPBWIJCJHVCHSPVPMRMEBJSNAADDAMAOBMBTRBDBRBCCBBBWJBRBDECFCBJCJQCFSCJCDCWKCJMDBHDLDWEJEGEMFWFFJFMFFAFBFOFHFDFGTFNMGRVGWAGAGHTHSIHJGJAJSJCAKAJKDKKKMKSKJMKKKIKHLDLTDLMLFLTLSLLJLJLFMSMMDMPMTMBEMJMATMSCNKNSNUNSNAOROJOVGOYOJOGOWAPSPSPJGPJPOLPVPHPLPPPAPRRARSRBSLSNBSJSSSBSASESJFSESNTKTPWMWEWMWSWSJYBZSZAEWC1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
     \field{abstract}{%
@@ -11606,7 +11606,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
     \field{abstract}{%
@@ -11695,7 +11695,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
     \verb{doi}
@@ -11773,7 +11773,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
     \field{abstract}{%
@@ -11933,7 +11933,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
     \field{abstract}{%
@@ -12043,7 +12043,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12116,7 +12116,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12180,7 +12180,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12218,7 +12218,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2002}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12337,7 +12337,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12403,7 +12403,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12479,7 +12479,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12546,7 +12546,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12619,7 +12619,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \field{abstract}{%
@@ -12728,7 +12728,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -12871,7 +12871,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -12965,7 +12965,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13035,7 +13035,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13087,7 +13087,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13155,7 +13155,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13234,7 +13234,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13273,7 +13273,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13310,7 +13310,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1986}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{issn}{00129615}
@@ -13357,7 +13357,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \verb{doi}
@@ -13394,7 +13394,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \verb{doi}
@@ -13438,7 +13438,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13499,7 +13499,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13698,7 +13698,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13873,7 +13873,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \verb{doi}
@@ -13934,7 +13934,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2004}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -13991,7 +13991,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -14163,7 +14163,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \verb{doi}
@@ -14204,7 +14204,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -14316,7 +14316,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -14406,7 +14406,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -14456,7 +14456,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \field{abstract}{%
@@ -14511,7 +14511,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \field{abstract}{%
@@ -14554,6 +14554,398 @@
     \endverb
     \field{journaltitle}{Evolution}
     \field{year}{2013}
+  \endentry
+
+  \entry{Newbold2019}{article}{}
+    \name{author}{11}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AGL}{%
+         family={Adams},
+         familyi={A\bibinitperiod},
+         given={Georgina\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RGA}{%
+         family={Robles},
+         familyi={R\bibinitperiod},
+         given={Gonzalo\bibnamedelima Albaladejo},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BEH}{%
+         family={Boakes},
+         familyi={B\bibinitperiod},
+         given={Elizabeth\bibnamedelima H.},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FGB}{%
+         family={Ferreira},
+         familyi={F\bibinitperiod},
+         given={Guilherme\bibnamedelima Braga},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CAS}{%
+         family={Chapman},
+         familyi={C\bibinitperiod},
+         given={Abbie\bibnamedelima S.A.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Etard},
+         familyi={E\bibinitperiod},
+         given={Adrienne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gibb},
+         familyi={G\bibinitperiod},
+         given={Rory},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Millard},
+         familyi={M\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OCL}{%
+         family={Outhwaite},
+         familyi={O\bibinitperiod},
+         given={Charlotte\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WJJ}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Jessica\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTAGLRGABEHFGBCASEAGRMJOCLWJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Biodiversity continues to decline under the effect of multiple human
+  pressures. We give a brief overview of the main pressures on biodiversity,
+  before focusing on the two that have a predominant effect: Land-use and
+  climate change. We discuss how interactions between land-use and climate
+  change in terrestrial systems are likely to have greater impacts than
+  expected when only considering these pressures in isolation. Understanding
+  biodiversity changes is complicated by the fact that such changes are likely
+  to be uneven among different geographic regions and species. We review the
+  evidence for variation in terrestrial biodiversity changes, relating
+  differences among species to key ecological characteristics, and explaining
+  how disproportionate impacts on certain species are leading to a spatial
+  homogenisation of ecological communities. Finally, we explain how the overall
+  losses and homogenisation of biodiversity, and the larger impacts upon
+  certain types of species, are likely to lead to strong negative consequences
+  for the functioning of ecosystems, and consequently for human well-being.%
+    }
+    \verb{doi}
+    \verb 10.1042/ETLS20180135
+    \endverb
+    \field{issn}{23978562}
+    \field{number}{2}
+    \field{pages}{207\bibrangedash 219}
+    \field{title}{{Climate and land-use change homogenise terrestrial
+  biodiversity, with consequences for ecosystem functioning and human
+  well-being}}
+    \field{volume}{3}
+    \verb{file}
+    \verb :C\:/Users/adrie/Downloads/etls-2018-0135c.pdf:pdf
+    \endverb
+    \field{journaltitle}{Emerging Topics in Life Sciences}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Newbold2020a}{article}{}
+    \name{author}{9}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BLF}{%
+         family={Bentley},
+         familyi={B\bibinitperiod},
+         given={Laura\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=HSL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha\bibnamedelima L.L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=EMJ}{%
+         family={Edgar},
+         familyi={E\bibinitperiod},
+         given={Melanie\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Horton},
+         familyi={H\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Geoffrey},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=eCH}{%
+         family={Şekercioğlu},
+         familyi={e\bibinitperiod},
+         given={{\c{C}}ağan\bibnamedelima H.},
+         giveni={{\c{C}}\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTBLFHSLEMJHMSGeCHCBPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Human land use has caused substantial declines in global species richness.
+  Evidence from different taxonomic groups and geographic regions suggests that
+  land use does not equally impact all organisms within terrestrial ecological
+  communities, and that different functional groups of species may respond
+  differently. In particular, we expect large carnivores to decline more in
+  disturbed land uses than other animal groups. We present the first global
+  synthesis of responses to land use across functional groups using data from a
+  wide set of animal species, including herbivores, omnivores, carnivores,
+  fungivores and detritivores; and ranging in body mass from 2 × 10−6 g (an
+  oribatid mite) to 3,825 kg (the African elephant). We show that the abundance
+  of large endotherms, small ectotherms, carnivores and fungivores (although in
+  the last case, not significantly) are reduced disproportionately in human
+  land uses compared with the abundance of other functional groups. The
+  results, suggesting that certain functional groups are consistently favoured
+  over others in land used by humans, imply a substantial restructuring of
+  ecological communities. Given that different functional groups make unique
+  contributions to ecological processes, it is likely that there will be
+  substantial impacts on the functioning of ecosystems. A free Plain Language
+  Summary can be found within the Supporting Information of this article.%
+    }
+    \verb{doi}
+    \verb 10.1111/1365-2435.13500
+    \endverb
+    \field{issn}{13652435}
+    \field{number}{3}
+    \field{pages}{684\bibrangedash 693}
+    \field{title}{{Global effects of land use on biodiversity differ among
+  functional groups}}
+    \field{volume}{34}
+    \field{journaltitle}{Functional Ecology}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Newbold2018a}{article}{}
+    \name{author}{10}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Contu},
+         familyi={C\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HSL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha\bibnamedelima L.L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yunhui},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Carsten},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PHR}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Helen\bibnamedelima R.P.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Scharlemann},
+         familyi={S\bibinitperiod},
+         given={J{\"{o}}rn\bibnamedelima P.W.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTHLNCSHSLBJLYMCPHRSJPPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Human use of the land (for agriculture and settlements) has a substantial
+  negative effect on biodiversity globally. However, not all species are
+  adversely affected by land use, and indeed, some benefit from the creation of
+  novel habitat. Geographically rare species may be more negatively affected by
+  land use than widespread species, but data limitations have so far prevented
+  global multi-clade assessments of land-use effects on narrow-ranged and
+  widespread species. We analyse a large, global database to show consistent
+  differences in assemblage composition. Compared with natural habitat,
+  assemblages in disturbed habitats have more widespread species on average,
+  especially in urban areas and the tropics. All else being equal, this result
+  means that human land use is homogenizing assemblage composition across
+  space. Disturbed habitats show both reduced abundances of narrow-ranged
+  species and increased abundances of widespread species. Our results are very
+  important for biodiversity conservation because narrow-ranged species are
+  typically at higher risk of extinction than widespread species. Furthermore,
+  the shift to more widespread species may also affect ecosystem functioning by
+  reducing both the contribution of rare species and the diversity of species'
+  responses to environmental changes among local assemblages.%
+    }
+    \verb{doi}
+    \verb 10.1371/journal.pbio.2006841
+    \endverb
+    \field{issn}{15457885}
+    \field{title}{{Widespread winners and narrow-ranged losers: Land use
+  homogenizes biodiversity in local assemblages worldwide}}
+    \field{journaltitle}{PLoS Biology}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Newbold2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=OP}{%
+         family={Oppenheimer},
+         familyi={O\bibinitperiod},
+         given={Philippa},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Etard},
+         familyi={E\bibinitperiod},
+         given={Adrienne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WJJ}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Jessica\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTOPEAWJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Global biodiversity is undergoing rapid declines, driven in large part by
+  changes to land use and climate. Global models help us to understand the
+  consequences of environmental changes for biodiversity, but tend to neglect
+  important geographical variation in the sensitivity of biodiversity to these
+  changes. Here we test whether biodiversity responses to climate change and
+  land-use change differ among biomes (geographical units that have marked
+  differences in environment and species composition). We find the strongest
+  negative responses to both pressures in tropical biomes and in the
+  Mediterranean. A further analysis points towards similar underlying drivers
+  for the sensitivity to each pressure: we find both greater reductions in
+  species richness in the types of land use most disturbed by humans and more
+  negative predicted responses to climate change in areas of lower climatic
+  seasonality, and in areas where a greater proportion of species are near
+  their upper temperature limit. Within the land most modified by humans,
+  reductions in biodiversity were particularly large in regions where humans
+  have come to dominate the land more recently. Our results will help to
+  improve predictions of how biodiversity is likely to change with ongoing
+  climatic and land-use changes, pointing toward particularly large declines in
+  the tropics where much future agricultural expansion is expected to occur.
+  This finding could help to inform the development of the post-2020
+  biodiversity framework, by highlighting the under-studied regions where
+  biodiversity losses are likely to be greatest.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41559-020-01303-0
+    \endverb
+    \field{isbn}{4155902001}
+    \field{issn}{2397334X}
+    \field{title}{{Tropical and Mediterranean biodiversity is
+  disproportionately sensitive to land-use and climate change}}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Newbold et al. - 2020 - Tropical and Mediterranean biodiversity i
+    \verb s disproportionately sensitive to land-use and climate change(2).pdf:
+    \verb pdf;:C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Dow
+    \verb nloaded/Newbold et al. - 2020 - Tropical and Mediterranean biodiversi
+    \verb ty is disproportionately sensitive to land-use and climate change.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Nature Ecology and Evolution}
+    \field{year}{2020}
   \endentry
 
   \entry{Newbold2013}{article}{}
@@ -14610,7 +15002,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \field{abstract}{%
@@ -14903,7 +15295,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \field{abstract}{%
@@ -14936,398 +15328,6 @@
     \field{year}{2015}
   \endentry
 
-  \entry{Newbold2018a}{article}{}
-    \name{author}{10}{}{%
-      {{hash=NT}{%
-         family={Newbold},
-         familyi={N\bibinitperiod},
-         given={Tim},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=HLN}{%
-         family={Hudson},
-         familyi={H\bibinitperiod},
-         given={Lawrence\bibnamedelima N.},
-         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
-      }}%
-      {{hash=CS}{%
-         family={Contu},
-         familyi={C\bibinitperiod},
-         given={Sara},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=HSL}{%
-         family={Hill},
-         familyi={H\bibinitperiod},
-         given={Samantha\bibnamedelima L.L.},
-         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=BJ}{%
-         family={Beck},
-         familyi={B\bibinitperiod},
-         given={Jan},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=LY}{%
-         family={Liu},
-         familyi={L\bibinitperiod},
-         given={Yunhui},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=MC}{%
-         family={Meyer},
-         familyi={M\bibinitperiod},
-         given={Carsten},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=PHR}{%
-         family={Phillips},
-         familyi={P\bibinitperiod},
-         given={Helen\bibnamedelima R.P.},
-         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=SJP}{%
-         family={Scharlemann},
-         familyi={S\bibinitperiod},
-         given={J{\"{o}}rn\bibnamedelima P.W.},
-         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-      }}%
-      {{hash=PA}{%
-         family={Purvis},
-         familyi={P\bibinitperiod},
-         given={Andy},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{NT+1}
-    \strng{fullhash}{NTHLNCSHSLBJLYMCPHRSJPPA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2018}
-    \field{labeldatesource}{year}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
-    \field{abstract}{%
-    Human use of the land (for agriculture and settlements) has a substantial
-  negative effect on biodiversity globally. However, not all species are
-  adversely affected by land use, and indeed, some benefit from the creation of
-  novel habitat. Geographically rare species may be more negatively affected by
-  land use than widespread species, but data limitations have so far prevented
-  global multi-clade assessments of land-use effects on narrow-ranged and
-  widespread species. We analyse a large, global database to show consistent
-  differences in assemblage composition. Compared with natural habitat,
-  assemblages in disturbed habitats have more widespread species on average,
-  especially in urban areas and the tropics. All else being equal, this result
-  means that human land use is homogenizing assemblage composition across
-  space. Disturbed habitats show both reduced abundances of narrow-ranged
-  species and increased abundances of widespread species. Our results are very
-  important for biodiversity conservation because narrow-ranged species are
-  typically at higher risk of extinction than widespread species. Furthermore,
-  the shift to more widespread species may also affect ecosystem functioning by
-  reducing both the contribution of rare species and the diversity of species'
-  responses to environmental changes among local assemblages.%
-    }
-    \verb{doi}
-    \verb 10.1371/journal.pbio.2006841
-    \endverb
-    \field{issn}{15457885}
-    \field{title}{{Widespread winners and narrow-ranged losers: Land use
-  homogenizes biodiversity in local assemblages worldwide}}
-    \field{journaltitle}{PLoS Biology}
-    \field{year}{2018}
-  \endentry
-
-  \entry{Newbold2019}{article}{}
-    \name{author}{11}{}{%
-      {{hash=NT}{%
-         family={Newbold},
-         familyi={N\bibinitperiod},
-         given={Tim},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=AGL}{%
-         family={Adams},
-         familyi={A\bibinitperiod},
-         given={Georgina\bibnamedelima L.},
-         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=RGA}{%
-         family={Robles},
-         familyi={R\bibinitperiod},
-         given={Gonzalo\bibnamedelima Albaladejo},
-         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=BEH}{%
-         family={Boakes},
-         familyi={B\bibinitperiod},
-         given={Elizabeth\bibnamedelima H.},
-         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-      {{hash=FGB}{%
-         family={Ferreira},
-         familyi={F\bibinitperiod},
-         given={Guilherme\bibnamedelima Braga},
-         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-      {{hash=CAS}{%
-         family={Chapman},
-         familyi={C\bibinitperiod},
-         given={Abbie\bibnamedelima S.A.},
-         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
-      }}%
-      {{hash=EA}{%
-         family={Etard},
-         familyi={E\bibinitperiod},
-         given={Adrienne},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=GR}{%
-         family={Gibb},
-         familyi={G\bibinitperiod},
-         given={Rory},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=MJ}{%
-         family={Millard},
-         familyi={M\bibinitperiod},
-         given={Joseph},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=OCL}{%
-         family={Outhwaite},
-         familyi={O\bibinitperiod},
-         given={Charlotte\bibnamedelima L.},
-         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=WJJ}{%
-         family={Williams},
-         familyi={W\bibinitperiod},
-         given={Jessica\bibnamedelima J.},
-         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{NT+1}
-    \strng{fullhash}{NTAGLRGABEHFGBCASEAGRMJOCLWJJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2019}
-    \field{labeldatesource}{year}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
-    \field{abstract}{%
-    Biodiversity continues to decline under the effect of multiple human
-  pressures. We give a brief overview of the main pressures on biodiversity,
-  before focusing on the two that have a predominant effect: Land-use and
-  climate change. We discuss how interactions between land-use and climate
-  change in terrestrial systems are likely to have greater impacts than
-  expected when only considering these pressures in isolation. Understanding
-  biodiversity changes is complicated by the fact that such changes are likely
-  to be uneven among different geographic regions and species. We review the
-  evidence for variation in terrestrial biodiversity changes, relating
-  differences among species to key ecological characteristics, and explaining
-  how disproportionate impacts on certain species are leading to a spatial
-  homogenisation of ecological communities. Finally, we explain how the overall
-  losses and homogenisation of biodiversity, and the larger impacts upon
-  certain types of species, are likely to lead to strong negative consequences
-  for the functioning of ecosystems, and consequently for human well-being.%
-    }
-    \verb{doi}
-    \verb 10.1042/ETLS20180135
-    \endverb
-    \field{issn}{23978562}
-    \field{number}{2}
-    \field{pages}{207\bibrangedash 219}
-    \field{title}{{Climate and land-use change homogenise terrestrial
-  biodiversity, with consequences for ecosystem functioning and human
-  well-being}}
-    \field{volume}{3}
-    \verb{file}
-    \verb :C\:/Users/adrie/Downloads/etls-2018-0135c.pdf:pdf
-    \endverb
-    \field{journaltitle}{Emerging Topics in Life Sciences}
-    \field{year}{2019}
-  \endentry
-
-  \entry{Newbold2020a}{article}{}
-    \name{author}{9}{}{%
-      {{hash=NT}{%
-         family={Newbold},
-         familyi={N\bibinitperiod},
-         given={Tim},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=BLF}{%
-         family={Bentley},
-         familyi={B\bibinitperiod},
-         given={Laura\bibnamedelima F.},
-         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
-      }}%
-      {{hash=HSL}{%
-         family={Hill},
-         familyi={H\bibinitperiod},
-         given={Samantha\bibnamedelima L.L.},
-         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=EMJ}{%
-         family={Edgar},
-         familyi={E\bibinitperiod},
-         given={Melanie\bibnamedelima J.},
-         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=HM}{%
-         family={Horton},
-         familyi={H\bibinitperiod},
-         given={Matthew},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=SG}{%
-         family={Su},
-         familyi={S\bibinitperiod},
-         given={Geoffrey},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=eCH}{%
-         family={Şekercioğlu},
-         familyi={e\bibinitperiod},
-         given={{\c{C}}ağan\bibnamedelima H.},
-         giveni={{\c{C}}\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-      {{hash=CB}{%
-         family={Collen},
-         familyi={C\bibinitperiod},
-         given={Ben},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=PA}{%
-         family={Purvis},
-         familyi={P\bibinitperiod},
-         given={Andy},
-         giveni={A\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{NT+1}
-    \strng{fullhash}{NTBLFHSLEMJHMSGeCHCBPA1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2020}
-    \field{extradate}{1}
-    \field{labeldatesource}{year}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
-    \field{abstract}{%
-    Human land use has caused substantial declines in global species richness.
-  Evidence from different taxonomic groups and geographic regions suggests that
-  land use does not equally impact all organisms within terrestrial ecological
-  communities, and that different functional groups of species may respond
-  differently. In particular, we expect large carnivores to decline more in
-  disturbed land uses than other animal groups. We present the first global
-  synthesis of responses to land use across functional groups using data from a
-  wide set of animal species, including herbivores, omnivores, carnivores,
-  fungivores and detritivores; and ranging in body mass from 2 × 10−6 g (an
-  oribatid mite) to 3,825 kg (the African elephant). We show that the abundance
-  of large endotherms, small ectotherms, carnivores and fungivores (although in
-  the last case, not significantly) are reduced disproportionately in human
-  land uses compared with the abundance of other functional groups. The
-  results, suggesting that certain functional groups are consistently favoured
-  over others in land used by humans, imply a substantial restructuring of
-  ecological communities. Given that different functional groups make unique
-  contributions to ecological processes, it is likely that there will be
-  substantial impacts on the functioning of ecosystems. A free Plain Language
-  Summary can be found within the Supporting Information of this article.%
-    }
-    \verb{doi}
-    \verb 10.1111/1365-2435.13500
-    \endverb
-    \field{issn}{13652435}
-    \field{number}{3}
-    \field{pages}{684\bibrangedash 693}
-    \field{title}{{Global effects of land use on biodiversity differ among
-  functional groups}}
-    \field{volume}{34}
-    \field{journaltitle}{Functional Ecology}
-    \field{year}{2020}
-  \endentry
-
-  \entry{Newbold2020}{article}{}
-    \name{author}{4}{}{%
-      {{hash=NT}{%
-         family={Newbold},
-         familyi={N\bibinitperiod},
-         given={Tim},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=OP}{%
-         family={Oppenheimer},
-         familyi={O\bibinitperiod},
-         given={Philippa},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=EA}{%
-         family={Etard},
-         familyi={E\bibinitperiod},
-         given={Adrienne},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=WJJ}{%
-         family={Williams},
-         familyi={W\bibinitperiod},
-         given={Jessica\bibnamedelima J.},
-         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{NT+1}
-    \strng{fullhash}{NTOPEAWJJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2020}
-    \field{extradate}{2}
-    \field{labeldatesource}{year}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
-    \field{abstract}{%
-    Global biodiversity is undergoing rapid declines, driven in large part by
-  changes to land use and climate. Global models help us to understand the
-  consequences of environmental changes for biodiversity, but tend to neglect
-  important geographical variation in the sensitivity of biodiversity to these
-  changes. Here we test whether biodiversity responses to climate change and
-  land-use change differ among biomes (geographical units that have marked
-  differences in environment and species composition). We find the strongest
-  negative responses to both pressures in tropical biomes and in the
-  Mediterranean. A further analysis points towards similar underlying drivers
-  for the sensitivity to each pressure: we find both greater reductions in
-  species richness in the types of land use most disturbed by humans and more
-  negative predicted responses to climate change in areas of lower climatic
-  seasonality, and in areas where a greater proportion of species are near
-  their upper temperature limit. Within the land most modified by humans,
-  reductions in biodiversity were particularly large in regions where humans
-  have come to dominate the land more recently. Our results will help to
-  improve predictions of how biodiversity is likely to change with ongoing
-  climatic and land-use changes, pointing toward particularly large declines in
-  the tropics where much future agricultural expansion is expected to occur.
-  This finding could help to inform the development of the post-2020
-  biodiversity framework, by highlighting the under-studied regions where
-  biodiversity losses are likely to be greatest.%
-    }
-    \verb{doi}
-    \verb 10.1038/s41559-020-01303-0
-    \endverb
-    \field{isbn}{4155902001}
-    \field{issn}{2397334X}
-    \field{title}{{Tropical and Mediterranean biodiversity is
-  disproportionately sensitive to land-use and climate change}}
-    \verb{file}
-    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
-    \verb ded/Newbold et al. - 2020 - Tropical and Mediterranean biodiversity i
-    \verb s disproportionately sensitive to land-use and climate change(2).pdf:
-    \verb pdf;:C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Dow
-    \verb nloaded/Newbold et al. - 2020 - Tropical and Mediterranean biodiversi
-    \verb ty is disproportionately sensitive to land-use and climate change.pdf
-    \verb :pdf
-    \endverb
-    \field{journaltitle}{Nature Ecology and Evolution}
-    \field{year}{2020}
-  \endentry
-
   \entry{Novosolov2013}{article}{}
     \name{author}{3}{}{%
       {{hash=NM}{%
@@ -15356,7 +15356,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \verb{doi}
@@ -15420,7 +15420,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \verb{doi}
@@ -15431,6 +15431,91 @@
     \field{title}{{Population density–range size relationship revisited}}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2017}
+  \endentry
+
+  \entry{Nowakowski2018a}{article}{}
+    \name{author}{5}{}{%
+      {{hash=NAJ}{%
+         family={Nowakowski},
+         familyi={N\bibinitperiod},
+         given={A.\bibnamedelima Justin},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FLO}{%
+         family={Frishkoff},
+         familyi={F\bibinitperiod},
+         given={Luke\bibnamedelima O.},
+         giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=TME}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={Michelle\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=STM}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Tatiana\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TBD}{%
+         family={Todd},
+         familyi={T\bibinitperiod},
+         given={Brian\bibnamedelima D.},
+         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{Anthropocene biogeography,Biodiversity,Habitat loss,Land
+  use,Phylogenetic generalized linear mixed model}
+    \strng{namehash}{NAJ+1}
+    \strng{fullhash}{NAJFLOTMESTMTBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Habitat conversion is driving biodiversity loss and restructuring species
+  assemblages across the globe. Responses to habitat conversion vary widely,
+  however, and little is known about the degree to which shared evolutionary
+  history underlies changes in species richness and composition. We analyzed
+  data from 48 studies, comprising 438 species on five continents, to
+  understand how taxonomic and phylogenetic diversity of amphibian assemblages
+  shifts in response to habitat conversion. We found that evolutionary history
+  explains the majority of variation in species' responses to habitat
+  conversion, with specific clades scattered across the amphibian tree of life
+  being favored by human land uses. Habitat conversion led to an average loss
+  of 139 million years of amphibian evolutionary history within assemblages,
+  high species and lineage turnover at landscape scales, and phylogenetic
+  homogenization at the global scale (despite minimal taxonomic
+  homogenization). Lineage turnover across habitats was greatest in lowland
+  tropical regions where large species pools and stable climates have perhaps
+  given rise to many microclimatically specialized species. Together, our
+  results indicate that strong phylogenetic clustering of species' responses to
+  habitat conversion mediates nonrandom structuring of local assemblages and
+  loss of global phylogenetic diversity. In an age of rapid global change,
+  identifying clades that are most sensitive to habitat conversion will help
+  prioritize use of limited conservation resources.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1714891115
+    \endverb
+    \field{issn}{10916490}
+    \field{number}{15}
+    \field{pages}{E3454\bibrangedash E3462}
+    \field{title}{{Phylogenetic homogenization of amphibian assemblages in
+  human-altered habitats across the globe}}
+    \field{volume}{115}
+    \verb{file}
+    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
+    \verb ded/Nowakowski et al. - 2018 - Phylogenetic homogenization of amphibi
+    \verb an assemblages in human-altered habitats across the globe.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2018}
   \endentry
 
   \entry{Nowakowski2017}{article}{}
@@ -15467,7 +15552,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{N}
     \field{sortinithash}{N}
     \field{abstract}{%
@@ -15513,91 +15598,6 @@
     \field{year}{2017}
   \endentry
 
-  \entry{Nowakowski2018a}{article}{}
-    \name{author}{5}{}{%
-      {{hash=NAJ}{%
-         family={Nowakowski},
-         familyi={N\bibinitperiod},
-         given={A.\bibnamedelima Justin},
-         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=FLO}{%
-         family={Frishkoff},
-         familyi={F\bibinitperiod},
-         given={Luke\bibnamedelima O.},
-         giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
-      }}%
-      {{hash=TME}{%
-         family={Thompson},
-         familyi={T\bibinitperiod},
-         given={Michelle\bibnamedelima E.},
-         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
-      }}%
-      {{hash=STM}{%
-         family={Smith},
-         familyi={S\bibinitperiod},
-         given={Tatiana\bibnamedelima M.},
-         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=TBD}{%
-         family={Todd},
-         familyi={T\bibinitperiod},
-         given={Brian\bibnamedelima D.},
-         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
-      }}%
-    }
-    \keyw{Anthropocene biogeography,Biodiversity,Habitat loss,Land
-  use,Phylogenetic generalized linear mixed model}
-    \strng{namehash}{NAJ+1}
-    \strng{fullhash}{NAJFLOTMESTMTBD1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2018}
-    \field{labeldatesource}{year}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
-    \field{abstract}{%
-    Habitat conversion is driving biodiversity loss and restructuring species
-  assemblages across the globe. Responses to habitat conversion vary widely,
-  however, and little is known about the degree to which shared evolutionary
-  history underlies changes in species richness and composition. We analyzed
-  data from 48 studies, comprising 438 species on five continents, to
-  understand how taxonomic and phylogenetic diversity of amphibian assemblages
-  shifts in response to habitat conversion. We found that evolutionary history
-  explains the majority of variation in species' responses to habitat
-  conversion, with specific clades scattered across the amphibian tree of life
-  being favored by human land uses. Habitat conversion led to an average loss
-  of 139 million years of amphibian evolutionary history within assemblages,
-  high species and lineage turnover at landscape scales, and phylogenetic
-  homogenization at the global scale (despite minimal taxonomic
-  homogenization). Lineage turnover across habitats was greatest in lowland
-  tropical regions where large species pools and stable climates have perhaps
-  given rise to many microclimatically specialized species. Together, our
-  results indicate that strong phylogenetic clustering of species' responses to
-  habitat conversion mediates nonrandom structuring of local assemblages and
-  loss of global phylogenetic diversity. In an age of rapid global change,
-  identifying clades that are most sensitive to habitat conversion will help
-  prioritize use of limited conservation resources.%
-    }
-    \verb{doi}
-    \verb 10.1073/pnas.1714891115
-    \endverb
-    \field{issn}{10916490}
-    \field{number}{15}
-    \field{pages}{E3454\bibrangedash E3462}
-    \field{title}{{Phylogenetic homogenization of amphibian assemblages in
-  human-altered habitats across the globe}}
-    \field{volume}{115}
-    \verb{file}
-    \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
-    \verb ded/Nowakowski et al. - 2018 - Phylogenetic homogenization of amphibi
-    \verb an assemblages in human-altered habitats across the globe.pdf:pdf
-    \endverb
-    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
-  United States of America}
-    \field{year}{2018}
-  \endentry
-
   \entry{Oliveira2017}{article}{}
     \name{author}{5}{}{%
       {{hash=OBF}{%
@@ -15636,7 +15636,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \field{abstract}{%
@@ -15781,7 +15781,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \field{abstract}{%
@@ -15948,7 +15948,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \verb{doi}
@@ -15978,7 +15978,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16016,7 +16016,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16089,7 +16089,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1998}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16216,7 +16216,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16317,7 +16317,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16406,7 +16406,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16483,7 +16483,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2004}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16544,7 +16544,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2000}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16676,7 +16676,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -16759,7 +16759,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{Q}
     \field{sortinithash}{Q}
     \field{abstract}{%
@@ -16807,7 +16807,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{title}{R: A Language and Environment for Statistical Computing}
@@ -16851,7 +16851,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -16936,7 +16936,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17046,7 +17046,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17095,7 +17095,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{217\bibrangedash 223}
@@ -17144,7 +17144,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17219,7 +17219,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17300,7 +17300,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17362,7 +17362,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17645,7 +17645,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \verb{doi}
@@ -17678,7 +17678,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -17739,7 +17739,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -17819,7 +17819,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -17911,7 +17911,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -17979,7 +17979,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -18032,7 +18032,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{{Package ‘ PVR '. Phylogenetic Eigenvectors Regression and
@@ -18071,7 +18071,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -18192,7 +18192,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -18276,7 +18276,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -18358,7 +18358,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -18468,7 +18468,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -18524,7 +18524,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -18577,7 +18577,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -18914,7 +18914,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -18975,7 +18975,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -19045,7 +19045,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -19127,7 +19127,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -19165,58 +19165,6 @@
     \field{year}{2020}
   \endentry
 
-  \entry{Stark2018}{article}{}
-    \name{author}{5}{}{%
-      {{hash=SG}{%
-         family={Stark},
-         familyi={S\bibinitperiod},
-         given={Gavin},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=TK}{%
-         family={Tamar},
-         familyi={T\bibinitperiod},
-         given={Karin},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=IY}{%
-         family={Itescu},
-         familyi={I\bibinitperiod},
-         given={Yuval},
-         giveni={Y\bibinitperiod},
-      }}%
-      {{hash=FA}{%
-         family={Feldman},
-         familyi={F\bibinitperiod},
-         given={Anat},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=MS}{%
-         family={Meiri},
-         familyi={M\bibinitperiod},
-         given={Shai},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SG+1}
-    \strng{fullhash}{SGTKIYFAMS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2018}
-    \field{labeldatesource}{year}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \verb{doi}
-    \verb 10.1093/biolinnean/bly153/5145102
-    \endverb
-    \field{isbn}{153/5145102}
-    \field{issn}{1461-6742}
-    \field{title}{{Cold and isolated ectotherms: drivers of reptilian
-  longevity}}
-    \field{journaltitle}{Biological Journal of the Linnean Society}
-    \field{year}{2018}
-  \endentry
-
   \entry{Stark2020}{article}{}
     \name{author}{3}{}{%
       {{hash=SG}{%
@@ -19245,7 +19193,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -19290,6 +19238,58 @@
     \field{volume}{29}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2020}
+  \endentry
+
+  \entry{Stark2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SG}{%
+         family={Stark},
+         familyi={S\bibinitperiod},
+         given={Gavin},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Tamar},
+         familyi={T\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=IY}{%
+         family={Itescu},
+         familyi={I\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Anat},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Meiri},
+         familyi={M\bibinitperiod},
+         given={Shai},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SG+1}
+    \strng{fullhash}{SGTKIYFAMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1093/biolinnean/bly153/5145102
+    \endverb
+    \field{isbn}{153/5145102}
+    \field{issn}{1461-6742}
+    \field{title}{{Cold and isolated ectotherms: drivers of reptilian
+  longevity}}
+    \field{journaltitle}{Biological Journal of the Linnean Society}
+    \field{year}{2018}
   \endentry
 
   \entry{Stehfest2019}{article}{}
@@ -19409,7 +19409,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -19464,7 +19464,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -19530,7 +19530,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -20300,11 +20300,11 @@
       }}%
     }
     \strng{namehash}{SL+2}
-  \strng{fullhash}{SLFDBNRTGNKAMBACGBCMDTDKDJJLRPRJDTHAMJALSMMAMASAGBMTBTBFBTBPIJNGCJMDACCNMCJCPRCRACMCADLLSdDJFDWEEKJEJMEDFAFPFGFRFSMFRGEGSGRCDJHJHPHPHKAHCIJWJAKJGKBKCKTRLFLDLGALMJLHBLSJAMSMRMJMMSMMDMAVMMMGMJNANSPTMPCEPLRARRSRGRKSRSVSPSPSOSIASASRJSRNSMLSMJSKMTJTTLUSUM}
+  \strng{fullhash}{SLFDBNRTGNKAMBACGBCMDTDKDJJLRPRJDTHAMJALSMMAMASAGBMTBTBFBTBPIJNGCJMDACCNMCJCPRCRACMCADLLSdDJFDWEEKJEJMEDFAFPFGFRFSMFRGEGSGRCDJHJHPHPHKAHCIJWJAKJGKBKCKTRLFLDLGALMJLHBLSJAMSMRMJMMSMMDMAVMMMGMJNANSPTMPCEPLRARRSRGRKSRSVSPSPSOSIASASRJSRNSMLSMJSKMTJTTLUSUMCWMHWCWPRWDKWNZMZABEMSPJTAKJOGMJKKEE1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -20374,7 +20374,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -20439,7 +20439,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2000}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -20510,7 +20510,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1994}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -20570,7 +20570,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -20622,7 +20622,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -20709,7 +20709,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -20787,7 +20787,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -20881,7 +20881,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -20953,7 +20953,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -21012,7 +21012,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{U}
     \field{sortinithash}{U}
     \field{abstract}{%
@@ -21158,7 +21158,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{abstract}{%
@@ -21212,7 +21212,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1995}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{title}{Python tutorial}
@@ -21249,7 +21249,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{abstract}{%
@@ -21343,7 +21343,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \verb{doi}
@@ -21383,7 +21383,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2008}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{abstract}{%
@@ -21477,7 +21477,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{abstract}{%
@@ -21550,7 +21550,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -21627,7 +21627,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -21678,7 +21678,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -21743,7 +21743,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2003}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -21803,7 +21803,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -21868,7 +21868,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -21956,7 +21956,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \verb{doi}
@@ -21999,7 +21999,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{abstract}{%
@@ -22073,7 +22073,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \field{isbn}{978-2-940529-99-5}
@@ -22121,7 +22121,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{Y}
     \field{sortinithash}{Y}
     \field{abstract}{%
@@ -22189,7 +22189,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{Z}
     \field{sortinithash}{Z}
     \field{abstract}{%
@@ -22281,7 +22281,7 @@
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
     \field{extradate}{1}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{Z}
     \field{sortinithash}{Z}
     \field{abstract}{%
@@ -22373,7 +22373,7 @@
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
     \field{extradate}{2}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{Z}
     \field{sortinithash}{Z}
     \field{abstract}{%
@@ -22465,7 +22465,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{Z}
     \field{sortinithash}{Z}
     \field{abstract}{%

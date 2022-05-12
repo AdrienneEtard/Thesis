@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="99.015388mm"
    height="70.705406mm"
    viewBox="0 0 99.015388 70.705406"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="Figure2_conceptual.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Figure2_conceptual.svg">
   <defs
      id="defs2">
     <marker
@@ -240,16 +240,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="82.57997"
-     inkscape:cy="106.31855"
+     inkscape:zoom="2.8"
+     inkscape:cx="155.53824"
+     inkscape:cy="141.6334"
      inkscape:document-units="mm"
      inkscape:current-layer="g4699"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
@@ -380,9 +380,8 @@
            x="104.28988"
            y="55.299816"
            id="tspan41508"><tspan
-   style="font-weight:bold"
-   id="tspan41506">&quot;Within land-use type&quot; effects:</tspan>
-</tspan><tspan
+             style="font-weight:bold"
+             id="tspan41506">&quot;Within land-use type&quot; effects:</tspan></tspan><tspan
            x="104.28988"
            y="57.95472"
            id="tspan41512"><tspan
@@ -398,7 +397,7 @@
              id="tspan41516">within land-use types</tspan></tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:61.7224;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666989px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
          x="104.24683"
          y="45.592968"
          id="text4537-2-2-5-8-7"
@@ -407,17 +406,17 @@
            y="45.592968"
            id="tspan41522"><tspan
              style="font-weight:bold"
-             id="tspan41520">&quot;Among land-use types&quot; effects:
+             id="tspan41520">&quot;Among land-use type&quot; effects:
 </tspan></tspan><tspan
            x="104.24683"
-           y="48.247872"
+           y="48.247871"
            id="tspan41528"><tspan
    style="font-weight:bold"
    id="tspan41524">Main effect </tspan>of given characteristic on occurrence probability, <tspan
    style="font-weight:bold"
    id="tspan41526">among </tspan></tspan><tspan
            x="104.24683"
-           y="50.902776"
+           y="50.902775"
            id="tspan41534"><tspan
              style="font-weight:bold"
              id="tspan41530">land-use </tspan><tspan
@@ -495,8 +494,7 @@
              x="205.06096"
              y="95.194557"
              style="font-size:16px;" /></flowRegion><flowPara
-           id="flowPara1175" /></flowRoot>
-      <flowRoot
+           id="flowPara1175" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2088"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -506,8 +504,7 @@
              height="14.142136"
              x="417.69809"
              y="380.05756" /></flowRegion><flowPara
-           id="flowPara2094" /></flowRoot>
-      <flowRoot
+           id="flowPara2094" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2096"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -524,8 +521,7 @@
    id="flowSpan2138">1: more negative</flowSpan> in disturbed than in reference land-use type:</flowPara><flowPara
            id="flowPara2104"
            style="fill:#aa0000">more negative effects of characteristic on occurrence probability than in reference land-use type</flowPara><flowPara
-           id="flowPara2106" /></flowRoot>
-      <flowRoot
+           id="flowPara2106" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2096-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -543,8 +539,7 @@
            id="flowPara2104-6"
            style="fill:#0000ff">more positive effects of characteristic on occurrence probability than in reference land-use type</flowPara><flowPara
            id="flowPara2106-3"
-           style="fill:#0000ff" /></flowRoot>
-      <flowRoot
+           style="fill:#0000ff" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2096-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -556,8 +551,7 @@
              x="58.588848"
              y="402.78598" /></flowRegion><flowPara
            id="flowPara2106-6"
-           style="font-style:italic">(Does not inform on absolute changes in occurrence probability among land-use types)</flowPara></flowRoot>
-      <flowRoot
+           style="font-style:italic">(Does not inform on absolute changes in occurrence probability among land-use types)</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2175"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -567,8 +561,7 @@
              height="52.022854"
              x="276.7818"
              y="415.918" /></flowRegion><flowPara
-           id="flowPara2181" /></flowRoot>
-      <flowRoot
+           id="flowPara2181" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot2096-8-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -580,8 +573,7 @@
              x="58.588848"
              y="402.78598" /></flowRegion><flowPara
            id="flowPara2106-6-3"
-           style="font-weight:bold">Slope of the relationship between continuous characteristic &amp; occurrence probability:</flowPara></flowRoot>
-      <text
+           style="font-weight:bold">Slope of the relationship between continuous characteristic &amp; occurrence probability:</flowPara></flowRoot>      <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0.2;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="104.20751"
