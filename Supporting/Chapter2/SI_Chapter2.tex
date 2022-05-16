@@ -1,18 +1,18 @@
 \section{Taxonomic corrections}
-Across the different sources, similar species could appear under different binomial names. This was a problem when matching datasets by species. Moreover, it is possible that within a source, a given species was appearing under two or more different, synonymic names. As such, taxonomic synonymy created duplicated rows for the same species, overall falsely increasing the total number of species and potentially inflating the number of missing trait values. Taxonomic synonymy was hence a major issue. Due to the large number of species across datasets, extensive manual checks could not be applied. The presence of typos in species names had the same effect as synonymy, erroneously duplicating species. We attempted to correct for taxonomy first by correcting for typos, and second by identifying species which were entered under non-accepted names and replacing these with the accepted name. To this end, we developed an automated procedure, complemented with a few manual entries where errors were opportunistically spotted. Such errors in taxonomy were notably spotted when attempting to retrieve trait data for subsets of species, for analyses not directly related to the work conducted here. Taxonomic synonymy was as such checked manually for 91 species (56 birds, 7 mammals and 28 reptiles); in that case, information was extracted from other diverse sources (such as the Reptile Database (\url{http://www.reptile-database.org/}); Avibase (\url{https://avibase.bsc-eoc.org/avibase.jsp?lang=EN\&pg=home}); AmphibiaWeb (\url{https://amphibiaweb.org/}); and additional manual checks using the IUCN Red List for mammals). A column in the Synonym dataset mentions where manual checks were applied (in which case the Synonym dataset was manually corrected). 
+Across the different sources of trait data, similar species could appear under different binomial names. This was a problem when matching datasets by species. Moreover, it is possible that within a source, a given species was appearing under two or more different, synonymic names. As such, taxonomic synonymy created duplicated rows for the same species, overall falsely increasing the total number of species and potentially inflating the number of missing trait values. Taxonomic synonymy was hence a major issue. Due to the large number of species across datasets, extensive manual checks could not be applied. The presence of typos in species names had the same effect as synonymy, erroneously duplicating species. I attempted to correct for taxonomy first by correcting for typos, and second by identifying species which were entered under non-accepted names and replacing these with the accepted name. To this end, I developed an automated procedure, complemented with a few manual entries where errors were opportunistically spotted. Such errors in taxonomy were notably spotted when attempting to retrieve trait data for subsets of species, for analyses not directly related to the work conducted here. Taxonomic synonymy was as such checked manually for 91 species (56 birds, 7 mammals and 28 reptiles); in that case, information was extracted from other diverse sources (such as the Reptile Database (\url{http://www.reptile-database.org/}); Avibase (\url{https://avibase.bsc-eoc.org/avibase.jsp?lang=EN\&pg=home}); AmphibiaWeb (\url{https://amphibiaweb.org/}); and additional manual checks using the IUCN Red List for mammals). A column in the Synonym dataset mentions where manual checks were applied (in which case the Synonym dataset was manually corrected). 
 
 
-\subsection*{Automated procedure and outputs.}
-\paragraph{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS).}
-The objectives of the automated procedure were to (1) extract species synonymic binomial names from the IUCN Red List or from ITIS, using the `rredlist' \citep{rredlist} and `taxize' \citep{Chamberlain2013} R packages; and (2) identify the status of each name (accepted or not accepted). We started by generating a list of all names featuring in any of the sources. These `original' names were corrected for typos (using `gnr$\textunderscore$resolve' function in the `taxize' package). Then, the IUCN Red List was queried and any listed synonyms were stored, as well as the status of each synonym (accepted or not accepted). When species were not found in the IUCN Red List, synonyms were extracted from ITIS. When species were not found in ITIS either, corrected names (original names corrected for typos) were used. Family and order designations were extracted using the same procedure and some entries were retrieved from the Global Biodiversity Information Facility taxonomic backbone when not available in the Red List or in ITIS (GBIF, \url{https://www.gbif.org/tools/species-lookup}).\\
+\subsection*{Automated procedure and outputs}
+\paragraph{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS)}
+The objectives of the automated procedure were to (1) extract species synonymic binomial names from the IUCN Red List or from the ITIS, using the `rredlist' \citep{rredlist} and `taxize' \citep{Chamberlain2013} R packages; and (2) identify the status of each name (accepted or not accepted). I started by generating a list of all names featuring in any of the sources. These `original' names were corrected for typos (using the `gnr$\textunderscore$resolve' function in the `taxize' package). Then, the IUCN Red List was queried and any listed synonyms were stored, as well as the status of each synonym (accepted or not accepted). When species were not found in the IUCN Red List, synonyms were extracted from the ITIS. When species were not found in the ITIS either, corrected names (original names corrected for typos) were used. Family and order designations were extracted using the same procedure and some entries were retrieved from the Global Biodiversity Information Facility taxonomic backbone when not available in the IUCN Red List or in the ITIS (GBIF, \url{https://www.gbif.org/tools/species-lookup}).\\
 \textbf{NB:} for species entered with the forms \textit{Genus cf.}, \textit{Genus aff.} or \textit{Genus spp.}, the accepted binomial name was left empty.
 
-\paragraph{Output.} We generated a `Synonym' dataset containing records of binomial names (14,124 recorded names for birds; 8,743 for amphibians; 6,090 for mammals; and 11,678 for reptiles), and for each we recorded their status and their potential synonyms.
+\paragraph{Output.} I generated a `Synonym' dataset containing records of binomial names (14,124 recorded names for birds; 8,743 for amphibians; 6,090 for mammals; and 11,678 for reptiles), and for each I recorded their status and their potential synonyms.
 
 %% number to check and figure 2.1 as well
 
 \paragraph{Harmonising taxonomy in trait datasets.}
-Taxonomy across datasets was finally homogenised by replacing synonyms with a uniquely identified accepted name. As a consequence, the total number of identified unique species decreased (Figure \ref{SI2_taxcor} ). The species presenting the highest number of synonyms was the East African mole rat (\textit{Tachyoryctes splendens}), for which we found 12 synonymic names (Figure \ref{SI2_taxcor}B).
+Taxonomy across datasets was finally homogenised by replacing synonyms with a uniquely identified accepted name. As a consequence, the total number of identified unique species decreased (Figure \ref{SI2_taxcor}a). The species presenting the highest number of synonyms was the East African mole rat (\textit{Tachyoryctes splendens}), for which I found 12 synonymic names (Figure \ref{SI2_taxcor}b).
 
 % figure: distribution of names and differences in species number
 \vspace{0.5cm}
@@ -24,7 +24,7 @@ Taxonomy across datasets was finally homogenised by replacing synonyms with a un
 
 %Decrease by 2,323 unique binomial names for birds. The diminution was of 632 unique identified species for reptiles, of 1,666 for amphibians and of 488 for mammals.
 
-The automated procedure was not perfect, and taxonomic errors are likely to have persisted in the trait datasets. The Red List and the ITIS were not comprehensive taxonomic sources, and for clades with high degrees of synonymy in names, such as reptiles or amphibians, neither the Red List or the ITIS contained enough information.Taxonomy may be further improved by using class-specific sources in an automated procedure. 
+The automated procedure was not perfect, and taxonomic errors are likely to have persisted in the trait datasets. The IUCN Red List and the ITIS were not comprehensive taxonomic sources, and for clades with high degrees of synonymy in names, such as reptiles or amphibians, neither the IUCN Red List or the ITIS contained enough information. Taxonomy may be further improved by using class-specific sources in an automated procedure. 
 
 \clearpage
 
@@ -89,15 +89,15 @@ http://amphibiaweb.org/
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.85]{Supporting/Chapter2/Figures/Correlations/MatLong_BMBL_amphibians}
-\caption[(a) Body mass versus body length and (b) longevity versus age at sexual maturity in amphibians]{\textbf{(a) Body mass versus body length and (b) longevity versus age at sexual maturity in amphibians.} The Pearson's correlation coefficient was 0.71 in (a) and 0.55 in (b) (order was not included in these coefficients).} 
+\caption[(a) Body mass versus body length and (b) longevity versus age at sexual maturity in amphibians]{\textbf{(a) Body mass versus body length and (b) longevity versus age at sexual maturity in amphibians.} Pearson's correlation coefficient was 0.71 in (a) and 0.55 in (b) (taxonomic order was considered in these coefficients).} 
 \label{SI2_amphibians}
 \end{figure}
 
 % Birds: Longevity VS Generation length
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.85]{Supporting/Chapter2/Figures/Correlations/GL_Longe_birds_mammals}
-\caption[Generation length versus longevity data in birds]{\textbf{Generation length versus longevity data in mammals and birds.} The Pearson's correlation coefficient was 0.74 in (a) and 0.70 in (b).} 
+\includegraphics[scale=0.75]{Supporting/Chapter2/Figures/Correlations/GL_Longe_birds_mammals}
+\caption[Generation length versus longevity data in mammals and birds]{\textbf{Generation length versus longevity data in (a) mammals and (b) birds.} Pearson's correlation coefficient was 0.74 in (a) and 0.70 in (b).} 
 \label{SI2_birdsmammals}
 \end{figure}
 
@@ -107,9 +107,9 @@ http://amphibiaweb.org/
 \subsection{Habitat affinities and use of artificial habitats}
 
 \paragraph{Habitat breadth.}
-The IUCN Red List habitat data records habitat types in which species are found to occur. Habitats are classified into 96 categories, which we pooled into 13 broader habitat variables: 
+The IUCN Red List habitat data records habitat types in which species are found to occur. Habitats are classified into 96 categories, which I pooled into 13 broader habitat variables: 
 Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterranean, Desert, Marine, Marine intertidal or coastal/supratidal, Artificial, Introduced vegetation and Other/Unknown (level two of the IUCN Habitat Classification Scheme). Species habitat preferences were described using these variables as binary (taking 1 if a species was known to occur in the habitat and 0 otherwise). Habitat breadth was then calculated as the number of habitats recorded to be used by a species. Information regarding habitat suitability and habitat importance is also available in the IUCN Red List habitat data, so it is possible to use a weighted sum to calculate habitat breadth. Weights can be assigned to account for the suitability and importance of each habitat.
-%Suitability was classified in three categories in the IUCN Red List: `suitable', `marginal' or  `unknown'. Suitable habitats were recorded to be either of major importance, not of major importance or of unknown importance. We used the weights provided in Table \ref{weights} to produce weighted sums of the number of habitats used by each species. Note that the weighting system used in this work does not impact coverage or completeness (as the amount of information across species remains similar regardless of the weights). Moreover, habitat breadth was not highly sensitive to the choice of weights (see Figure.)
+%Suitability was classified in three categories in the IUCN Red List: `suitable', `marginal' or  `unknown'. Suitable habitats were recorded to be either of major importance, not of major importance or of unknown importance. I used the weights provided in Table \ref{weights} to produce weighted sums of the number of habitats used by each species. Note that the weighting system used in this work does not impact coverage or completeness (as the amount of information across species remains similar regardless of the weights). Moreover, habitat breadth was not highly sensitive to the choice of weights (see Figure.)
 
 % table of weigths used for habitat breadth calculations
 \begin{table}[h!]
@@ -138,14 +138,14 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter2/Figures/Rangesizes/Elevation_data_amount}
-\caption[Availability of altitudinal limits across species]{\textbf{Availability of altitudinal limits across species.} Upper and lower altitudinal limits were extracted from the IUCN Red List.}
+\caption[Availability of altitudinal limits across species]{\textbf{Availability of altitudinal limits across species.} Upper and lower altitudinal limits were extracted from the IUCN Red List \citep{IUCN2020}.}
 \label{SI2_elev_limits}
 \end{figure}
 
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.7]{Supporting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts}
-\caption[Range sizes before versus after cutting by altitudinal limits]{\textbf{Range sizes before versus after cutting by altitudinal limits.}}
+\includegraphics[scale=0.5]{Supporting/Chapter2/Figures/Rangesizes/RangeSizes_before_aftercuts.png}
+\caption[Range sizes before versus after cutting by altitudinal limits]{\textbf{Range sizes before versus after cutting the range maps by altitudinal limits.}}
 \label{SI2_cutalt_ranges}
 \end{figure}
 
@@ -156,7 +156,7 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter2/Figures/Coverage/DeltaCoverage}
-\caption[Trait coverage when no taxonomic correction is applied before matching sources by binomial names, versus when we applied the described procedure]{\textbf{Trait coverage when no taxonomic correction is applied before matching sources by binomial names, versus when we applied the described procedure.} Identification of synonyms allowed to increase trait coverage in most cases.}
+\caption[Trait coverage when no taxonomic correction is applied before matching sources by binomial names, versus when I applied the described procedure]{\textbf{Trait coverage when no taxonomic correction is applied before matching sources by binomial names, versus when I applied the described procedure.} The identification of synonymic names resulted in an increase in trait coverage in most cases.}
 \label{SI_2_deltaCov_taxcor}
 \end{figure}
 
@@ -199,7 +199,7 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.8]{Supporting/Chapter2/Figures/Maps/sd_SR.png}
-\caption[Assemblage-level species richness against standard deviation in completeness in each class]{\textbf{Assemblage-level species richness against standard deviation in completeness in each class.}}
+\caption[Assemblage-level species richness against standard deviation in trait completeness in each class]{\textbf{Assemblage-level species richness against standard deviation in trait completeness in each class.}}
 \label{SI2_sdcomp_sr}
 \end{figure}
 
@@ -212,11 +212,11 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 \newpage
 \pagebreak
 
-\begin{landscape}
+
 
 \section{Phylogenetic patterns in trait completeness}
 
-
+\begin{landscape}
 \begin{figure}[h!]
 \centering
 % [scale=1, clip, trim=110 200 100 200] #left bottom right top
@@ -245,7 +245,7 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 \begin{figure}[]
 \centering
 \includegraphics[scale=0.5, clip, trim=0 0 0 0]{Supporting/Chapter2/Figures/Phylogenies/Circular_herptiles_SD}
-\caption[Within-family standard deviation in completeness]{\textbf{Within-family standard deviation in completeness (herptiles).}}
+\caption[Within-family standard deviation in trait completeness (herptiles)]{\textbf{Within-family standard deviation in trait completeness (herptiles).}}
 \label{SI2_sd_phylo_herptiles}
 \end{figure}
 
@@ -255,16 +255,17 @@ Forest, Savanna, Grassland, Shrubland, Wetland, Rocky areas, Caves and subterran
 \begin{figure}[h]
 \centering
 \includegraphics[scale=.6]{Supporting/Chapter2/Figures/Phylogenies/SD_VS_SR}
-\caption[Within-family species richness against the within-family standard deviation of completeness]{\textbf{Within-family species richness against the within-family standard deviation of completeness.}}
+\caption[Within-family species richness against the within-family standard deviation of trait completeness]{\textbf{Within-family species richness against the within-family standard deviation of trait completeness.}}
 \label{SI2_sd_sr_herptiles}
 \end{figure}
 
 \clearpage
-\section{Model coefficients for Range size against Number of sampled traits (Poisson model).}
+\section{Poisson model summaries}
 
 %% New model coefficients:
-\begin{table}[!htbp] \centering 
-  \caption[Coefficients of the model investigating whether species range size explained the number of sampled traits]{\textbf{Coefficients of the model investigating whether species range size explained the number of sampled traits.} Class was added as an interacting predictor. The reference level for class is mammals. The model was fitted using Poisson error distribution.} 
+\begin{table}[!htbp] 
+\begin{center}\fontsize{9}{11}\selectfont
+  \caption[Coefficients of the model investigating whether species range size explained the number of sampled traits]{\textbf{Coefficients of the model investigating whether species range size explained the number of sampled traits.} Class was added as an interacting predictor. The reference level for class is mammals. The model was fitted using a Poisson error distribution.} 
   \label{SI2_summary_RS} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
@@ -281,13 +282,15 @@ log Range Size:Class Amphibians & $0.017$ & $0.003$ & $6.427$ & $ 1.30e-10$ \\
 log Range Size:Class Reptiles & $0.026$ & $0.002$ & $11.159$ & $< 2e-16$ \\ 
 \hline \\[-1.8ex] 
 \end{tabular} 
+\end{center}
 \end{table}
 
 
 %\clearpage
 
-\begin{table}[!htbp] \centering 
-  \caption[Coefficients of the model investigating whether species range size explained the number of sampled traits, using range maps not cut by altitudinal limits]{\textbf{Coefficients of the model investigating whether species range size explained the number of sampled traits, \textit{using range maps not cut by altitudinal limits.}} Class was added as an interacting predictor. The reference level for class is mammals. The model was fitted using Poisson error distribution.} 
+\begin{table}[!htbp]
+\begin{center}\fontsize{9}{11}\selectfont
+  \caption[Coefficients of the model investigating whether species range size explained the number of sampled traits, using range maps not cut by altitudinal limits]{\textbf{Coefficients of the model investigating whether species range size explained the number of sampled traits, \textit{using range maps not cut by altitudinal limits.}} Class was added as an interacting predictor. The reference level for class is mammals. The model was fitted using a Poisson error distribution.} 
   \label{SI2_summary_RS_notcut} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
@@ -304,27 +307,23 @@ log Range Size:Class Amphibians & $0.018$ & $0.003$ & $6.564$ & $5.24e-11$ \\
 log Range Size:Class Reptiles & $0.031$ & $0.002$ & $12.630$ & $< 2e-16$ \\ 
 \hline \\[-1.8ex] 
 \end{tabular} 
+\end{center}
 \end{table} 
 
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.7]{Supporting/Chapter2/Figures/Plot_BeforeCuttingRS}
-\caption[ Relationship between number of sampled traits and geographical range size using distribution maps not cut by altitudinal limits]{\textbf{Relationship between number of sampled traits and geographical range size \textit{using distribution maps not cut by altitudinal limits}.} Models were fitted using a Poisson error distribution. Class was added as a predictor interacting with range size. Rates of increase were not significantly different for mammals and birds, but differed for reptiles and amphibians, with steeper rates of increase for reptiles overall. Cutting range maps by altitudinal limits had little effects on the results (see Figure 2.5 in Main text).} 
+\includegraphics[scale=0.5]{Supporting/Chapter2/Figures/Plot_BeforeCuttingRS}
+\caption[Relationships between number of sampled traits and geographical range size using distribution maps not cut by altitudinal limits]{\textbf{Relationship between number of sampled traits and geographical range size \textit{using distribution maps not cut by altitudinal limits}.} The model was fitted using a Poisson error distribution. Class was added as a predictor interacting with range size. Rates of increase were not significantly different for mammals and birds, but differed for reptiles and amphibians, with steeper rates of increase for reptiles overall.} 
 \label{SI2_plot_RS_notcut}
 \end{figure}
 
-
-\newpage
-\pagebreak
 \clearpage
-
-
-
 % sample for spatial analyses
-\section{Spatial models summaries}
+\section{Spatial model summaries}
 
 % model summaries - amphibians
-  \begin{table}[!htbp] \centering 
+  \begin{table}[!htbp]
+  \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Spatial model summary for amphibians]{\textbf{Spatial model summary for amphibians.} The spatial model was fitted to explain assemblage-level median completeness with species richness. Biogeographic realm was added as an interacting explanatory variable.} 
   \label{SI2_summary_spatial_amphibians} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
@@ -345,10 +344,12 @@ log(Species richness):Neotropic & $0.0144$ & $0.0026$ & $5.6454$ & $0.000000$ \\
 log(Species richness):Palearctic & $0.0109$ & $0.0029$ & $3.7358$ & $0.0002$ \\ 
 \hline \\[-1.8ex] 
 \end{tabular}  
+\end{center}
 \end{table} 
 
 % model summary - reptiles
-\begin{table}[!htbp] \centering 
+\begin{table}[!htbp] 
+\begin{center}\fontsize{9}{11}\selectfont
   \caption[Spatial model summary for reptiles]{\textbf{Spatial model summary for reptiles.} The spatial model was fitted to explain assemblage-level median completeness with species richness. Biogeographic realm was added as an interacting explanatory variable.} 
   \label{SI2_summary_spatial_reptiles} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
@@ -370,6 +371,7 @@ log(Species richness):Neotropic & $0.0220$ & $0.0034$ & $6.4231$ & $0$ \\
 log(Species richness):Palearctic & $0.0286$ & $0.0033$ & $8.6153$ & $0$ \\ 
 \hline \\[-1.8ex] 
 \end{tabular}  
+\end{center}
 \end{table} 
 
 \newpage
@@ -377,11 +379,11 @@ log(Species richness):Palearctic & $0.0286$ & $0.0033$ & $8.6153$ & $0$ \\
 
 \section{Trait coverage and taxonomic matching}
 
-Here, we briefly explore the robustness of our work to taxonomic uncertainty by comparing trait coverage obtained with our procedure for taxonomic matching against trait coverage obtained when extracting synonyms from class-specific sources, which could contain more information, notably for herptiles. We aligned taxonomy again using the `rangeBuilder' R package \citep{RangeBuilder}, which allows the extraction of accepted names from class-specific sources. Overall, our results are robust to the use of different taxonomic backbones; the main conclusions are likely to be unaffected by taxonomic uncertainty.
+Here, I briefly explore the robustness of my work to taxonomic uncertainty by comparing trait coverage obtained with the procedure I developed for taxonomic matching against trait coverage obtained when extracting synonyms from class-specific sources, which could potentially contain more taxonomic information than the ITIS or the IUCN Red List, notably for herptiles. I corrected the datasets for taxonomy again using the `rangeBuilder' R package \citep{RangeBuilder}, which allows to extract accepted names from class-specific sources. Overall, my results are robust to the use of a different taxonomic backbone (Figure \ref{SI2_taxcor_rangebuilder}); the main conclusions of this work are likely unaffected by taxonomic uncertainty.
 
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.6]{Supporting/Chapter2/Figures/Coverage/DeltaCov_F3}
-\caption[Comparison of trait coverage among datasets corrected for taxonomy in different ways]{\textbf{Comparison of trait coverage among datasets corrected for taxonomy in different ways:} using the described procedure (purple bars), datasets corrected using the `rangeBuilder' package (extraction of synonyms from class-specific sources, yellow bars; \citet{RangeBuilder}) and datasets where no taxonomic correction was applied when matching sources (green bars).}
+\caption[Comparison of trait coverage among datasets corrected for taxonomy in different ways]{\textbf{Comparison of trait coverage among datasets corrected for taxonomy in different ways:} using the described procedure (purple bars); using datasets corrected for taxonomy with the `rangeBuilder' package (yellow bars; \citet{RangeBuilder}); and using datasets uncorrected for taxonomy (green bars).}
 \label{SI2_taxcor_rangebuilder}
 \end{figure}

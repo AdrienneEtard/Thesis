@@ -4268,6 +4268,27 @@
     \field{year}{2017}
   \endentry
 
+  \entry{IUCN2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={IUCN},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{{The IUCN Red List of Threatened Species.
+  http://www.iucnredlist.org.}}
+    \field{volume}{Version 2020.1.}
+    \field{year}{2020}
+  \endentry
+
   \entry{Jetz2012}{article}{}
     \name{author}{5}{}{%
       {{hash=JW}{%

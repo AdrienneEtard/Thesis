@@ -17,7 +17,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 10699 items.
+Reallocating 'field_info' (item size: 4) to 10838 items.
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
 Biblatex version: 3.13
@@ -36,45 +36,45 @@ Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
 while executing--line 2717 of file biblatex.bst
 *Please notify the bibstyle designer*
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 41 entries,
+You've used 42 entries,
             6365 wiz_defined-function locations,
-            1531 strings with 65499 characters,
-and the built_in function-call counts, 1207504 in all, are:
-= -- 112417
-> -- 10105
-< -- 1421
-+ -- 34352
-- -- 5409
-* -- 104426
-:= -- 161247
+            1536 strings with 65604 characters,
+and the built_in function-call counts, 1210551 in all, are:
+= -- 112544
+> -- 10183
+< -- 1441
++ -- 34389
+- -- 5433
+* -- 104626
+:= -- 161464
 add.period$ -- 0
-call.type$ -- 41
-change.case$ -- 425
+call.type$ -- 42
+change.case$ -- 436
 chr.to.int$ -- 44
-cite$ -- 80
-duplicate$ -- 102487
-empty$ -- 101580
-format.name$ -- 9450
-if$ -- 232245
+cite$ -- 82
+duplicate$ -- 102857
+empty$ -- 101920
+format.name$ -- 9496
+if$ -- 232938
 int.to.chr$ -- 0
-int.to.str$ -- 85
+int.to.str$ -- 87
 missing$ -- 0
-newline$ -- 4961
-num.names$ -- 1667
-pop$ -- 23079
+newline$ -- 4981
+num.names$ -- 1708
+pop$ -- 23405
 preamble$ -- 1
-purify$ -- 1752
+purify$ -- 1765
 quote$ -- 0
-skip$ -- 10570
+skip$ -- 10729
 stack$ -- 0
-substring$ -- 246943
-swap$ -- 14986
-text.length$ -- 2052
-text.prefix$ -- 43
+substring$ -- 247046
+swap$ -- 15099
+text.length$ -- 2072
+text.prefix$ -- 44
 top$ -- 1
-type$ -- 1382
+type$ -- 1416
 warning$ -- 0
-while$ -- 19332
+while$ -- 19362
 width$ -- 0
-write$ -- 4921
+write$ -- 4940
 (There were 4 warnings)
