@@ -1,80 +1,18 @@
-This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: Thesis2-blx.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis2-blx.aux
 The style file: biblatex.bst
-Reallocating 'glb_str_end' (item size: 4) to 20 items.
-Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
-Reallocating 'global_strs' (item size: 1) to 4000000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 10838 items.
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
-Biblatex version: 3.13
-Reallocating 'wiz_functions' (item size: 4) to 9000 items.
-Reallocating 'str_pool' (item size: 1) to 130000 items.
-Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
-while executing--line 2689 of file biblatex.bst
+Biblatex version: 3.11
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
+while executing--line 2658 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 500, the entry-string-size, for entry Hudson2017
-while executing--line 2689 of file biblatex.bst
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
+while executing--line 2658 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 500, the entry-string-size, for entry Hudson2017
-while executing--line 2717 of file biblatex.bst
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
+while executing--line 2686 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
-while executing--line 2717 of file biblatex.bst
+Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
+while executing--line 2686 of file biblatex.bst
 *Please notify the bibstyle designer*
-Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 42 entries,
-            6365 wiz_defined-function locations,
-            1536 strings with 65604 characters,
-and the built_in function-call counts, 1210551 in all, are:
-= -- 112544
-> -- 10183
-< -- 1441
-+ -- 34389
-- -- 5433
-* -- 104626
-:= -- 161464
-add.period$ -- 0
-call.type$ -- 42
-change.case$ -- 436
-chr.to.int$ -- 44
-cite$ -- 82
-duplicate$ -- 102857
-empty$ -- 101920
-format.name$ -- 9496
-if$ -- 232938
-int.to.chr$ -- 0
-int.to.str$ -- 87
-missing$ -- 0
-newline$ -- 4981
-num.names$ -- 1708
-pop$ -- 23405
-preamble$ -- 1
-purify$ -- 1765
-quote$ -- 0
-skip$ -- 10729
-stack$ -- 0
-substring$ -- 247046
-swap$ -- 15099
-text.length$ -- 2072
-text.prefix$ -- 44
-top$ -- 1
-type$ -- 1416
-warning$ -- 0
-while$ -- 19362
-width$ -- 0
-write$ -- 4940
 (There were 4 warnings)
