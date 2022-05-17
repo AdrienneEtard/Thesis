@@ -3746,6 +3746,68 @@
     \field{year}{2022}
   \endentry
 
+  \entry{Capurucho2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CJM}{%
+         family={Capurucho},
+         familyi={C\bibinitperiod},
+         given={Jo{\~{a}}o\bibnamedelima M.G.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AMV}{%
+         family={Ashley},
+         familyi={A\bibinitperiod},
+         given={Mary\bibnamedelima V.},
+         giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=TBR}{%
+         family={Tsuru},
+         familyi={T\bibinitperiod},
+         given={Brian\bibnamedelima R.},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CJC}{%
+         family={Cooper},
+         familyi={C\bibinitperiod},
+         given={Jacob\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BJM}{%
+         family={Bates},
+         familyi={B\bibinitperiod},
+         given={John\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{ecological niche models,geographical distribution,hand-wing
+  index,range evolution,white-sand ecosystems}
+    \strng{namehash}{CJM+1}
+    \strng{fullhash}{CJMAMVTBRCJCBJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1098/rspb.2020.1450rspb20201450
+    \endverb
+    \field{issn}{14712954}
+    \field{number}{1939}
+    \field{title}{{Dispersal ability correlates with range size in Amazonian
+  habitat-restricted birds}}
+    \field{volume}{287}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/AppData/Local/Mendeley Ltd./Mendeley Desktop/Down
+    \verb loaded/Capurucho et al. - 2020 - Dispersal ability correlates with ra
+    \verb nge size in Amazonian habitat-restricted birds Correlates of range si
+    \verb ze in.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2020}
+  \endentry
+
   \entry{Cardoso2017}{article}{}
     \name{author}{44}{}{%
       {{hash=CD}{%
@@ -9159,6 +9221,39 @@
     \field{year}{2016}
   \endentry
 
+  \entry{Fox1992}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FJ}{%
+         family={Fox},
+         familyi={F\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Monette},
+         familyi={M\bibinitperiod},
+         given={Georges},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{Canonical correlation,Joint confidence regions,Variance inflation}
+    \strng{namehash}{FJMG1}
+    \strng{fullhash}{FJMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1080/01621459.1992.10475190
+    \endverb
+    \field{issn}{1537274X}
+    \field{title}{{Generalized collinearity diagnostics}}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{year}{1992}
+  \endentry
+
   \entry{Freeman2021}{article}{}
     \name{author}{2}{}{%
       {{hash=FBG}{%
@@ -10198,6 +10293,35 @@
     \field{year}{2016}
   \endentry
 
+  \entry{mcmcglmm}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJD}{%
+         family={Hadfield},
+         familyi={H\bibinitperiod},
+         given={Jarrod\bibnamedelima D},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJD1}
+    \strng{fullhash}{HJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 22}
+    \field{title}{MCMC Methods for Multi-Response Generalized Linear Mixed
+  Models: The {MCMCglmm} {R} Package}
+    \verb{url}
+    \verb http://www.jstatsoft.org/v33/i02/
+    \endverb
+    \field{volume}{33}
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{year}{2010}
+  \endentry
+
   \entry{Hatfield2018}{article}{}
     \name{author}{3}{}{%
       {{hash=HJH}{%
@@ -10331,6 +10455,31 @@
     \field{volume}{7}
     \field{journaltitle}{Ecology and Evolution}
     \field{year}{2017}
+  \endentry
+
+  \entry{rasterpackage}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=HRJ}{%
+         family={Hijmans},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRJ1}
+    \strng{fullhash}{HRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{R package version 3.5-15}
+    \field{title}{raster: Geographic Data Analysis and Modeling}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=raster
+    \endverb
+    \field{year}{2022}
   \endentry
 
   \entry{Hirons2016}{article}{}
@@ -17789,6 +17938,50 @@
     \field{year}{2015}
   \endentry
 
+  \entry{virtualspecies}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LB}{%
+         family={Leroy},
+         familyi={L\bibinitperiod},
+         given={Boris},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MCN}{%
+         family={Meynard},
+         familyi={M\bibinitperiod},
+         given={Christine\bibnamedelima N},
+         giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bellard},
+         familyi={B\bibinitperiod},
+         given={Celine},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Courchamp},
+         familyi={C\bibinitperiod},
+         given={Franck},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LB+1}
+    \strng{fullhash}{LBMCNBCCF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1111/ecog.01388
+    \endverb
+    \field{title}{virtualspecies, an R package to generate virtual species
+  distributions}
+    \field{journaltitle}{Ecography}
+    \field{year}{2015}
+  \endentry
+
   \entry{Letnic2012}{article}{}
     \name{author}{3}{}{%
       {{hash=LM}{%
@@ -17898,7 +18091,7 @@
     \list{publisher}{1}{%
       {Springer US}%
     }
-    \strng{namehash}{LB+1}
+    \strng{namehash}{LB+2}
     \strng{fullhash}{LBHALGDAMBDMFR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -22124,6 +22317,68 @@
     \field{year}{2015}
   \endentry
 
+  \entry{caper}{manual}{}
+    \name{author}{7}{}{%
+      {{hash=OD}{%
+         family={Orme},
+         familyi={O\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Freckleton},
+         familyi={F\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Gavin},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Petzoldt},
+         familyi={P\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fritz},
+         familyi={F\bibinitperiod},
+         given={Susanne},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=IN}{%
+         family={Isaac},
+         familyi={I\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=PW}{%
+         family={Pearse},
+         familyi={P\bibinitperiod},
+         given={Will},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OD+1}
+    \strng{fullhash}{ODFRTGPTFSINPW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{note}{R package version 1.0.1}
+    \field{title}{caper: Comparative Analyses of Phylogenetics and Evolution in
+  R}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=caper
+    \endverb
+    \field{year}{2018}
+  \endentry
+
   \entry{Pacifici2015}{article}{}
     \name{author}{22}{}{%
       {{hash=PM}{%
@@ -23913,6 +24168,31 @@
     \endverb
     \field{journaltitle}{Global Ecology and Conservation}
     \field{year}{2017}
+  \endentry
+
+  \entry{CENFA}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=RDS}{%
+         family={Rinnan},
+         familyi={R\bibinitperiod},
+         given={D.\bibnamedelima Scott},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RDS1}
+    \strng{fullhash}{RDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{note}{R package version 1.1.1}
+    \field{title}{CENFA: Climate and Ecological Niche Factor Analysis}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=CENFA
+    \endverb
+    \field{year}{2021}
   \endentry
 
   \entry{Rinnan2019}{article}{}

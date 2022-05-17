@@ -88,100 +88,146 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.4}Discussion}{69}{section.3.4}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {4}Geographical range area, habitat breadth and specialisation on natural habitats explain land-use responses and climate-change sensitivity more consistently than life-history and dietary traits in terrestrial vertebrates}{73}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Geographical range area, habitat breadth and specialisation on natural habitats are associated with land-use responses and climate-change sensitivity more consistently than life-history and dietary traits in terrestrial vertebrates}{73}{chapter.4}% 
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {4.1}Introduction}{73}{section.4.1}% 
 \defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {4.2}Methods}{75}{section.4.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.3}Results}{75}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.2.1}Ecological characteristics (Figure \ref {chap4_fig1}a)}{75}{subsection.4.2.1}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.4}Discussion}{82}{section.4.4}% 
+\contentsline {subsubsection}{Traits}{75}{subsubsection*.35}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {5}Energetic constraints and trophic group explain species persistence in disturbed land uses}{83}{chapter.5}% 
+\contentsline {subsubsection}{Geographical range area}{76}{subsubsection*.36}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.1}Introduction}{84}{section.5.1}% 
+\contentsline {subsubsection}{Phylogenies}{76}{subsubsection*.37}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.2}Methods}{89}{section.5.2}% 
+\contentsline {section}{\numberline {4.3}Imputations of missing trait values}{76}{section.4.3}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Vertebrate assemblage composition }{89}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {4.3.1}Characterizing the influence of traits on species land-use responses (Figure \ref {chap4_fig1}b)}{77}{subsection.4.3.1}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Energy availability by land-use type and land-use intensity}{89}{subsection.5.2.2}% 
+\contentsline {subsubsection}{Vertebrate assemblage composition}{77}{subsubsection*.38}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Resting Metabolic Rates (RMR) \& imputations of missing RMR values}{90}{subsection.5.2.3}% 
+\contentsline {subsubsection}{Full models (all-predictor models)}{77}{subsubsection*.39}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.4}Trophic group and body mass information}{91}{subsection.5.2.4}% 
+\contentsline {subsubsection}{Partial models (single-predictor models)}{78}{subsubsection*.40}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.5}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR (prediction 1; Figure \ref {chap5_fig2}a)}{91}{subsection.5.2.5}% 
+\contentsline {subsubsection}{Effects of categorical ecological characteristics on species' occurrence probability (Figure \ref {chap4_fig2}a)}{78}{subsubsection*.41}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.6}Effects of land use, land-use intensity, trophic group and residual RMR on species occurrence probability (prediction 2; Figure \ref {chap5_fig2}b)}{92}{subsection.5.2.6}% 
+\contentsline {subsubsection}{Effects of continuous ecological characteristics on species\IeC {\textquoteright } occurrence probability (Figure \ref {chap4_fig2}b)}{79}{subsubsection*.42}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.3}Results}{93}{section.5.3}% 
+\contentsline {subsubsection}{Validation on complete trait data subset (no imputed trait values)}{80}{subsubsection*.44}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR}{93}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Characterizing the influence of traits on species sensitivity to climate change (Figure \ref {chap4_fig1}c)}{81}{subsection.4.3.2}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.3.2}Effects of land use, land-use intensity, trophic group and residual RMR on species\IeC {\textquoteright } occurrence probability}{94}{subsection.5.3.2}% 
+\contentsline {subsubsection}{Historical climate data}{81}{subsubsection*.45}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.4}Discussion}{97}{section.5.4}% 
+\contentsline {subsubsection}{Estimating climate-change sensitivity from CENFA}{81}{subsubsection*.46}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {6}General discussion}{100}{chapter.6}% 
+\contentsline {subsubsection}{Climate-change sensitivity models}{82}{subsubsection*.47}% 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Bibliography}{101}{chapter.6}% 
+\contentsline {subsubsection}{Models' robustness}{82}{subsubsection*.48}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {4.4}Results}{83}{section.4.4}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Land-use responses}{83}{subsection.4.4.1}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{`Within land-use type' effects (Table \ref {chap4_table1}a)}{83}{subsubsection*.49}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Effects of diet on species' occurrence probability (Figure \ref {chap4_fig3})}{85}{subsubsection*.51}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Explanatory power for the full models \& variance explained by each characteristic (Figure \ref {chap4_fig4})}{85}{subsubsection*.52}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Climate-change sensitivity}{88}{subsection.4.4.2}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Robustness of the PGLS models}{90}{subsubsection*.57}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {4.5}Discussion}{92}{section.4.5}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{\numberline {5}Energetic constraints and trophic group explain species persistence in disturbed land uses}{93}{chapter.5}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{94}{section.5.1}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {5.2}Methods}{99}{section.5.2}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Vertebrate assemblage composition }{99}{subsection.5.2.1}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Energy availability by land-use type and land-use intensity}{99}{subsection.5.2.2}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Resting Metabolic Rates (RMR) \& imputations of missing RMR values}{100}{subsection.5.2.3}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.2.4}Trophic group and body mass information}{101}{subsection.5.2.4}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.2.5}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR (prediction 1; Figure \ref {chap5_fig2}a)}{101}{subsection.5.2.5}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.2.6}Effects of land use, land-use intensity, trophic group and residual RMR on species occurrence probability (prediction 2; Figure \ref {chap5_fig2}b)}{102}{subsection.5.2.6}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {5.3}Results}{103}{section.5.3}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR}{103}{subsection.5.3.1}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Effects of land use, land-use intensity, trophic group and residual RMR on species\IeC {\textquoteright } occurrence probability}{104}{subsection.5.3.2}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {5.4}Discussion}{107}{section.5.4}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{\numberline {6}General discussion}{110}{chapter.6}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{Bibliography}{111}{chapter.6}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendices}{124}{chapter*.47}% 
+\contentsline {chapter}{Appendices}{134}{chapter*.64}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 1: Supporting information for Chapter 2}{125}{chapter*.48}% 
+\contentsline {chapter}{Appendix 1: Supporting information for Chapter 2}{135}{chapter*.65}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.1}Taxonomic corrections}{125}{section.6.1}% 
+\contentsline {section}{\numberline {S2.1}Taxonomic corrections}{135}{section.6.1}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS)}{125}{paragraph*.50}% 
+\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS)}{135}{paragraph*.67}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Output.}{126}{paragraph*.51}% 
+\contentsline {paragraph}{Output.}{136}{paragraph*.68}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{126}{paragraph*.52}% 
+\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{136}{paragraph*.69}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.2}Additional information for trait compilation}{128}{section.6.2}% 
+\contentsline {section}{\numberline {S2.2}Additional information for trait compilation}{138}{section.6.2}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.3}Cutting distribution maps by altitudinal limits}{129}{section.6.3}% 
+\contentsline {section}{\numberline {S2.3}Cutting distribution maps by altitudinal limits}{139}{section.6.3}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.4}Impact of taxonomic corrections on trait coverage}{130}{section.6.4}% 
+\contentsline {section}{\numberline {S2.4}Impact of taxonomic corrections on trait coverage}{140}{section.6.4}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.5}Assemblage-level median, mean and standard deviation of trait completeness (maps)}{131}{section.6.5}% 
+\contentsline {section}{\numberline {S2.5}Assemblage-level median, mean and standard deviation of trait completeness (maps)}{141}{section.6.5}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.6}Phylogenetic patterns in trait completeness}{136}{section.6.6}% 
+\contentsline {section}{\numberline {S2.6}Phylogenetic patterns in trait completeness}{146}{section.6.6}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.7}Poisson model summaries}{141}{section.6.7}% 
+\contentsline {section}{\numberline {S2.7}Poisson model summaries}{151}{section.6.7}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.8}Spatial model summaries}{142}{section.6.8}% 
+\contentsline {section}{\numberline {S2.8}Spatial model summaries}{152}{section.6.8}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.9}Trait coverage and taxonomic matching}{143}{section.6.9}% 
+\contentsline {section}{\numberline {S2.9}Trait coverage and taxonomic matching}{153}{section.6.9}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 2: Supporting information for Chapter 3}{143}{figure.caption.72}% 
+\contentsline {chapter}{Appendix 2: Supporting information for Chapter 3}{153}{figure.caption.89}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.1}Land-use categories in PREDICTS and sample sizes}{144}{section.6.1}% 
+\contentsline {section}{\numberline {S3.1}Land-use categories in PREDICTS and sample sizes}{154}{section.6.1}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.2}Trait data \& imputation of missing trait values}{147}{section.6.2}% 
+\contentsline {section}{\numberline {S3.2}Trait data \& imputation of missing trait values}{157}{section.6.2}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.1}Choice of imputation technique}{149}{subsection.6.2.1}% 
+\contentsline {subsection}{\numberline {S3.2.1}Choice of imputation technique}{159}{subsection.6.2.1}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.2}Phylogenetic signal in traits}{149}{subsection.6.2.2}% 
+\contentsline {subsection}{\numberline {S3.2.2}Phylogenetic signal in traits}{159}{subsection.6.2.2}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.3}Implementation of missForest imputations}{150}{subsection.6.2.3}% 
+\contentsline {subsection}{\numberline {S3.2.3}Implementation of missForest imputations}{160}{subsection.6.2.3}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.3}Degree of multicollinearity among traits}{151}{section.6.3}% 
+\contentsline {section}{\numberline {S3.3}Degree of multicollinearity among traits}{161}{section.6.3}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.4}Imputation performance}{152}{section.6.4}% 
+\contentsline {section}{\numberline {S3.4}Imputation performance}{162}{section.6.4}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.5}Functional loss and functional gain}{155}{section.6.5}% 
+\contentsline {section}{\numberline {S3.5}Functional loss and functional gain}{165}{section.6.5}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.6}Diagnostic plots}{158}{section.6.6}% 
+\contentsline {section}{\numberline {S3.6}Diagnostic plots}{168}{section.6.6}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.7}Model robustness}{167}{section.6.7}% 
+\contentsline {section}{\numberline {S3.7}Model robustness}{177}{section.6.7}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.8}Model robustness -- time since land-use conversion}{174}{section.6.8}% 
+\contentsline {section}{\numberline {S3.8}Model robustness -- time since land-use conversion}{184}{section.6.8}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 3: Supporting information for Chapter 4}{175}{table.caption.105}% 
+\contentsline {chapter}{Appendix 3: Supporting information for Chapter 4}{185}{table.caption.122}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 4: Supporting information for Chapter 5}{177}{chapter*.106}% 
+\contentsline {chapter}{Appendix 4: Supporting information for Chapter 5}{187}{chapter*.123}% 
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Bibliography for the Appendices}{186}{figure.caption.116}% 
+\contentsline {chapter}{Bibliography for the Appendices}{196}{figure.caption.133}% 

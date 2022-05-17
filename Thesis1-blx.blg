@@ -2,9 +2,13 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis1-blx.aux
 The style file: biblatex.bst
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
-Repeated entry---line 1410 of file LIBRARY.bib
+Repeated entry---line 1449 of file LIBRARY.bib
  :   @article{Clarke2004a
  :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1798 of file LIBRARY.bib
+ :   @article{virtualspecies
+ :                          ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Zhang2018a"
 Biblatex version: 3.11
@@ -34,4 +38,4 @@ while executing--line 2686 of file biblatex.bst
 *Please notify the bibstyle designer*
 Too many commas in name 2 of "Almond, R.E.A., Grooten M. and Petersen, T. (Eds). WWF, Gland, Switzerland." for entry WWF2020
 while executing---line 2774 of file biblatex.bst
-(There were 2 error messages)
+(There were 3 error messages)
