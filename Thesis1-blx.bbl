@@ -302,6 +302,96 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Angert2011}{article}{}
+    \name{author}{6}{}{%
+      {{hash=AAL}{%
+         family={Angert},
+         familyi={A\bibinitperiod},
+         given={Amy\bibnamedelima L.},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CLG}{%
+         family={Crozier},
+         familyi={C\bibinitperiod},
+         given={Lisa\bibnamedelima G.},
+         giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RLJ}{%
+         family={Rissler},
+         familyi={R\bibinitperiod},
+         given={Leslie\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GSE}{%
+         family={Gilman},
+         familyi={G\bibinitperiod},
+         given={Sarah\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=TJJ}{%
+         family={Tewksbury},
+         familyi={T\bibinitperiod},
+         given={Josh\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CAJ}{%
+         family={Chunco},
+         familyi={C\bibinitperiod},
+         given={Amanda\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Dispersal,Global climate change,Life history,Range expansion}
+    \strng{namehash}{AAL+1}
+    \strng{fullhash}{AALCLGRLJGSETJJCAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Although some organisms have moved to higher elevations and latitudes in
+  response to recent climate change, there is little consensus regarding the
+  capacity of different species to track rapid climate change via range shifts.
+  Understanding species' abilities to shift ranges has important implications
+  for assessing extinction risk and predicting future community structure. At
+  an expanding front, colonization rates are determined jointly by rates of
+  reproduction and dispersal. In addition, establishment of viable populations
+  requires that individuals find suitable resources in novel habitats. Thus,
+  species with greater dispersal ability, reproductive rate and ecological
+  generalization should be more likely to expand into new regions under climate
+  change. Here, we assess current evidence for the relationship between
+  leading-edge range shifts and species' traits. We found expected
+  relationships for several datasets, including diet breadth in North American
+  Passeriformes and egg-laying habitat in British Odonata. However, models
+  generally had low explanatory power. Thus, even statistically and
+  biologically meaningful relationships are unlikely to be of predictive
+  utility for conservation and management. Trait-based range shift forecasts
+  face several challenges, including quantifying relevant natural history
+  variation across large numbers of species and coupling these data with
+  extrinsic factors such as habitat fragmentation and availability.%
+    }
+    \field{booktitle}{Ecology Letters}
+    \verb{doi}
+    \verb 10.1111/j.1461-0248.2011.01620.x
+    \endverb
+    \verb{eprint}
+    \verb arXiv:1011.1669v3
+    \endverb
+    \field{isbn}{1461-0248}
+    \field{issn}{1461023X}
+    \field{title}{{Do species' traits predict recent shifts at expanding range
+  edges?}}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/AppData/Local/Mendeley Ltd./Mendeley Desktop/Down
+    \verb loaded/Angert et al. - 2011 - Do species' traits predict recent shift
+    \verb s at expanding range edges.pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2011}
+  \endentry
+
   \entry{Aronson2017}{article}{}
     \name{author}{8}{}{%
       {{hash=AMF}{%
@@ -3686,6 +3776,68 @@
     \field{year}{2013}
   \endentry
 
+  \entry{Cannistra2021}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CAF}{%
+         family={Cannistra},
+         familyi={C\bibinitperiod},
+         given={Anthony\bibnamedelima F},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=BLB}{%
+         family={Buckley},
+         familyi={B\bibinitperiod},
+         given={Lauren\bibnamedelima B},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAFBLB1}
+    \strng{fullhash}{CAFBLB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Accurately predicting species' range shifts in response to environmental
+  change is a central ecological objective and applied imperative. In synthetic
+  analyses, traits emerge as significant but weak predictors of species' range
+  shifts across recent climate change. These studies assume linearity in the
+  relationship between a trait and its function, while detailed empirical work
+  often reveals unimodal relationships, thresholds, and other nonlinearities in
+  many trait-function relationships. We hypothesize that the use of linear
+  modeling approaches fails to capture these nonlinearities and therefore may
+  be under-powering traits to predict range shifts. We evaluate the predictive
+  performance of four different machine learning approaches that can capture
+  nonlinear relationships (ridge-regularized linear regression,
+  ridge-regularized kernel regression, support vector regression, and random
+  forests). We validate our models using four multi-decadal range shift
+  datasets in montane plants, montane small mammals, and marine fish. We show
+  that nonlinear approaches perform substantially better than least-squares
+  linear modeling in reproducing historical range shifts. In addition, using
+  novel model observation and interrogation techniques, the trait classes (e.g.
+  dispersal-or diet-related traits) that we identify as primary drivers of
+  model predictions are consistent with expectations. However, disagreements
+  among models in the directionality of trait predictors suggests limits to
+  trait-based statistical predictive frameworks.Competing Interest StatementThe
+  authors have declared no competing interest.%
+    }
+    \verb{doi}
+    \verb 10.1101/2021.02.15.431292
+    \endverb
+    \field{pages}{2021.02.15.431292}
+    \field{title}{{Improving range shift predictions: enhancing the power of
+  traits}}
+    \verb{url}
+    \verb http://biorxiv.org/content/early/2021/02/16/2021.02.15.431292.abstrac
+    \verb t
+    \endverb
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{Capdevila2022}{article}{}
     \name{author}{5}{}{%
       {{hash=CP}{%
@@ -4137,6 +4289,65 @@
   United States of America}
     \field{year}{2017}
     \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Carlson2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CSM}{%
+         family={Carlson},
+         familyi={C\bibinitperiod},
+         given={Stephanie\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CCJ}{%
+         family={Cunningham},
+         familyi={C\bibinitperiod},
+         given={Curry\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WPA}{%
+         family={Westley},
+         familyi={W\bibinitperiod},
+         given={Peter\bibnamedelima A.H.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier Ltd}%
+    }
+    \strng{namehash}{CSM+1}
+    \strng{fullhash}{CSMCCJWPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Evolutionary rescue occurs when adaptive evolutionary change restores
+  positive growth to declining populations and prevents extinction. Here we
+  outline the diagnostic features of evolutionary rescue and distinguish this
+  phenomenon from demographic and genetic rescue. We then synthesize the
+  rapidly accumulating theoretical and experimental studies of evolutionary
+  rescue, highlighting the demographic, genetic, and extrinsic factors that
+  affect the probability of rescue. By doing so, we clarify the factors to
+  target through management and conservation. Additionally, we identify several
+  putative cases of evolutionary rescue in nature, but conclude that compelling
+  evidence remains elusive. We conclude with a horizon scan of where the field
+  might develop, highlighting areas of potential application, and suggest areas
+  where experimental evaluation will help to evaluate theoretical predictions.
+  {\textcopyright} 2014 The Authors.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.tree.2014.06.005
+    \endverb
+    \field{issn}{01695347}
+    \field{number}{9}
+    \field{pages}{521\bibrangedash 530}
+    \field{title}{{Evolutionary rescue in a changing world}}
+    \field{volume}{29}
+    \field{journaltitle}{Trends in Ecology and Evolution}
+    \field{year}{2014}
   \endentry
 
   \entry{Caro2022}{article}{}
@@ -10322,6 +10533,143 @@
     \field{year}{2010}
   \endentry
 
+  \entry{Hamilton2020}{article}{}
+    \name{author}{12}{}{%
+      {{hash=HAT}{%
+         family={Hamilton},
+         familyi={H\bibinitperiod},
+         given={Anna\bibnamedelima T.},
+         giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SRB}{%
+         family={Sch{\"{a}}fer},
+         familyi={S\bibinitperiod},
+         given={Ralf\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PMI}{%
+         family={Pyne},
+         familyi={P\bibinitperiod},
+         given={Matthew\bibnamedelima I.},
+         giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Chessman},
+         familyi={C\bibinitperiod},
+         given={Bruce},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kakouei},
+         familyi={K\bibinitperiod},
+         given={Karan},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BKS}{%
+         family={Boersma},
+         familyi={B\bibinitperiod},
+         given={Kate\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VPF}{%
+         family={Verdonschot},
+         familyi={V\bibinitperiod},
+         given={Piet\bibnamedelima F.M.},
+         giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=VRC}{%
+         family={Verdonschot},
+         familyi={V\bibinitperiod},
+         given={Ralf\bibnamedelima C.M.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mims},
+         familyi={M\bibinitperiod},
+         given={Meryl},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Khamis},
+         familyi={K\bibinitperiod},
+         given={Kieran},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Bierwagen},
+         familyi={B\bibinitperiod},
+         given={Britta},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Stamp},
+         familyi={S\bibinitperiod},
+         given={Jen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{bioassessment,climate stressor responses,freshwater
+  invertebrates,invertebrate traits,stressor assessment,trait-based assessment}
+    \strng{namehash}{HAT+1}
+    \strng{fullhash}{HATSRBPMICBKKBKSVPFVRCMMKKBBSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    The appeal of trait-based approaches for assessing environmental
+  vulnerabilities arises from the potential insight they provide into the
+  mechanisms underlying the changes in populations and community structure.
+  Traits can provide ecologically based explanations for observed responses to
+  environmental changes, along with predictive power gained by developing
+  relationships between traits and environmental variables. Despite these
+  potential benefits, questions remain regarding the utility and limitations of
+  these approaches, which we explore focusing on the following questions: (a)
+  How reliable are predictions of biotic responses to changing conditions based
+  on single trait–environment relationships? (b) What factors constrain
+  detection of single trait–environment relationships, and how can they be
+  addressed? (c) Can we use information on meta-community processes to reveal
+  conditions when assumptions underlying trait-based studies are not met? We
+  address these questions by reviewing published literature on aquatic
+  invertebrate communities from stream ecosystems. Our findings help to define
+  factors that influence the successful application of trait-based approaches
+  in addressing the complex, multifaceted effects of changing climate
+  conditions on hydrologic and thermal regimes in stream ecosystems. Key
+  conclusions are that observed relationships between traits and environmental
+  stressors are often inconsistent with predefined hypotheses derived from
+  current trait-based thinking, particularly related to single
+  trait–environment relationships. Factors that can influence findings of
+  trait-based assessments include intercorrelations of among traits and among
+  environmental variables, spatial scale, strength of biotic interactions,
+  intensity of habitat disturbance, degree of abiotic stress, and methods of
+  trait characterization. Several recommendations are made for practice and
+  further study to address these concerns, including using phylogenetic
+  relatedness to address intercorrelation. With proper consideration of these
+  issues, trait-based assessment of organismal vulnerability to environmental
+  changes can become a useful tool to conserve threatened populations into the
+  future.%
+    }
+    \verb{doi}
+    \verb 10.1111/gcb.14846
+    \endverb
+    \field{issn}{13652486}
+    \field{number}{2}
+    \field{pages}{364\bibrangedash 379}
+    \field{title}{{Limitations of trait-based approaches for stressor
+  assessment: The case of freshwater invertebrates and climate drivers}}
+    \field{volume}{26}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/AppData/Local/Mendeley Ltd./Mendeley Desktop/Down
+    \verb loaded/Hamilton et al. - 2020 - Limitations of trait-based approaches
+    \verb  for stressor assessment The case of freshwater invertebrates and cli
+    \verb mate.pdf:pdf
+    \endverb
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2020}
+  \endentry
+
   \entry{Hatfield2018}{article}{}
     \name{author}{3}{}{%
       {{hash=HJH}{%
@@ -10480,6 +10828,93 @@
     \verb https://CRAN.R-project.org/package=raster
     \endverb
     \field{year}{2022}
+  \endentry
+
+  \entry{Hillaert2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HJ}{%
+         family={Hillaert},
+         familyi={H\bibinitperiod},
+         given={Jasmijn},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hovestadt},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=VML}{%
+         family={Vandegehuchte},
+         familyi={V\bibinitperiod},
+         given={Martijn\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bonte},
+         familyi={B\bibinitperiod},
+         given={Dries},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{allometric scaling,body size distributions,eco-evolutionary
+  dynamics,habitat fragmentation,isolation,metabolic theory,optimal
+  size,size-dependent movement}
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJHTVMLBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Body size is a fundamental trait known to allometrically scale with
+  metabolic rate and therefore a key determinant of individual development,
+  life history, and consequently fitness. In spatially structured environments,
+  movement is an equally important driver of fitness. Because movement is
+  tightly coupled with body size, we expect habitat fragmentation to induce a
+  strong selection pressure on size variation across and within species.
+  Changes in body size distributions are then, in turn, expected to alter food
+  web dynamics. However, no consensus has been reached on how spatial isolation
+  and resource growth affect consumer body size distributions. Our aim was to
+  investigate how these two factors shape the body size distribution of
+  consumers under scenarios of size-dependent and size-independent consumer
+  movement by applying a mechanistic, individual-based resource–consumer
+  model. We also assessed the consequences of altered body size distributions
+  for important ecosystem traits such as resource abundance and consumer
+  stability. Finally, we determined those factors that explain most variation
+  in size distributions. We demonstrate that decreasing connectivity and
+  resource growth select for communities (or populations) consisting of larger
+  species (or individuals) due to strong selection for the ability to move over
+  longer distances if the movement is size-dependent. When including
+  size-dependent movement, intermediate levels of connectivity result in
+  increases in local size diversity. Due to this elevated functional diversity,
+  resource uptake is maximized at the metapopulation or metacommunity level. At
+  these intermediate levels of connectivity, size-dependent movement explains
+  most of the observed variation in size distributions. Interestingly, local
+  and spatial stability of consumer biomass is lowest when isolation and
+  resource growth are high. Finally, we highlight that size-dependent movement
+  is of vital importance for the survival of populations or communities within
+  highly fragmented landscapes. Our results demonstrate that considering
+  size-dependent movement is essential to understand how habitat fragmentation
+  and resource growth shape body size distributions—and the resulting
+  metapopulation or metacommunity dynamics—of consumers.%
+    }
+    \verb{doi}
+    \verb 10.1002/ece3.4524
+    \endverb
+    \field{issn}{20457758}
+    \field{number}{22}
+    \field{pages}{10754\bibrangedash 10767}
+    \field{title}{{Size-dependent movement explains why bigger is better in
+  fragmented landscapes}}
+    \field{volume}{8}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/Downloads/ECE3-8-10754.pdf:pdf
+    \endverb
+    \field{journaltitle}{Ecology and Evolution}
+    \field{year}{2018}
   \endentry
 
   \entry{Hirons2016}{article}{}
@@ -11025,7 +11460,7 @@
          giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{HJ+1}
+    \strng{namehash}{HJ+2}
     \strng{fullhash}{HJBFdDFJAFLTMLJMLRJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -14768,6 +15203,176 @@
     \field{journaltitle}{Proceedings of the National Academy of Sciences of the
   United States of America}
     \field{year}{2013}
+  \endentry
+
+  \entry{Jenkins2007}{article}{}
+    \name{author}{18}{}{%
+      {{hash=JDG}{%
+         family={Jenkins},
+         familyi={J\bibinitperiod},
+         given={David\bibnamedelima G.},
+         giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BCR}{%
+         family={Brescacin},
+         familyi={B\bibinitperiod},
+         given={Camille\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=DCV}{%
+         family={Duxbury},
+         familyi={D\bibinitperiod},
+         given={Craig\bibnamedelima V.},
+         giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=EJA}{%
+         family={Elliott},
+         familyi={E\bibinitperiod},
+         given={Jennifer\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EJA}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Jennafer\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GKR}{%
+         family={Grablow},
+         familyi={G\bibinitperiod},
+         given={Katherine\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hillegass},
+         familyi={H\bibinitperiod},
+         given={Melissa},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LBN}{%
+         family={Lyon},
+         familyi={L\bibinitperiod},
+         given={Boyd\bibnamedelima N.},
+         giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MGA}{%
+         family={Metzger},
+         familyi={M\bibinitperiod},
+         given={Genevieve\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=OML}{%
+         family={Olandese},
+         familyi={O\bibinitperiod},
+         given={Michelle\bibnamedelima L.},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pepe},
+         familyi={P\bibinitperiod},
+         given={Diana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SGA}{%
+         family={Silvers},
+         familyi={S\bibinitperiod},
+         given={Greg\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SHN}{%
+         family={Suresch},
+         familyi={S\bibinitperiod},
+         given={Hiliary\bibnamedelima N.},
+         giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=TTN}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={Tracy\bibnamedelima N.},
+         giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=TCM}{%
+         family={Trexler},
+         familyi={T\bibinitperiod},
+         given={Christina\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WGE}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Graham\bibnamedelima E.},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WNC}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Natalie\bibnamedelima C.},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WSE}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Sara\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Active dispersal,Allometry,Fragmentation,Latitudinal species
+  richness,Mass,Metacommunity,Microbial biogeography,Neutral theory,Passive
+  dispersal}
+    \strng{namehash}{JDG+1}
+    \strng{fullhash}{JDGBCRDCVEJAEJAGKRHMLBNMGAOMLPDSGASHNTTNTCMWGEWNCWSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    Aim: The aim of this study is to answer the questions: (1) do small
+  organisms disperse farther than large, or vice versa; and (2) does the
+  observed pattern differ for passive and active dispersers? These questions
+  are central to several themes in biogeography (including microbial
+  biogeography), macroecology, metacommunity ecology and conservation biology.
+  Location: The meta-analysis was conducted using published data collected
+  worldwide. Methods: We collected and analysed 795 data values in the
+  peer-reviewed literature for direct observations of both maximal dispersal
+  distance and mass of the dispersing organisms (e.g. seeds, not trees).
+  Analysed taxa ranged in size from bacteria to whales. We applied macroecology
+  analyses based on null models (using Monte Carlo randomizations) to test
+  patterns relative to specific hypotheses. Results: Collected dispersal
+  distance and mass data spanned 9 and 21 orders of magnitude, respectively.
+  Active dispersers dispersed significantly farther (P < 0.001) and were
+  significantly greater in mass (P < 0.001) than passive dispersers. Overall,
+  size matters: larger active dispersers attained greater maximum observed
+  dispersal distances than smaller active dispersers. In contrast,
+  passive-disperser distances were random with respect to propagule mass, but
+  not uniformly random, in part due to sparse data available for tiny
+  propagules. Conclusions: Size is important to maximal dispersal distance for
+  active dispersers, but not for passive dispersers. Claims that microbes
+  disperse widely cannot be tested by current data based on direct observations
+  of dispersal: indirect approaches will need to be applied. Distance-mass
+  relationships should contribute to a resolution of neutral and niche-based
+  metacommunity theories by helping scale expectations for dispersal
+  limitation. Also, distance-mass relationships should inform analyses of
+  latitudinal species richness and conservation biology topics such as
+  fragmentation, umbrella species and taxonomic homogenization.
+  {\textcopyright} 2007 The Authors Journal compilation {\textcopyright} 2007
+  Blackwell Publishing Ltd.%
+    }
+    \verb{doi}
+    \verb 10.1111/j.1466-8238.2007.00312.x
+    \endverb
+    \field{issn}{1466822X}
+    \field{number}{4}
+    \field{pages}{415\bibrangedash 425}
+    \field{title}{{Does size matter for dispersal distance?}}
+    \field{volume}{16}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/Downloads/Global Ecology and Biogeography - 2007
+    \verb - Jenkins - Does size matter for dispersal distance.pdf:pdf
+    \endverb
+    \field{journaltitle}{Global Ecology and Biogeography}
+    \field{year}{2007}
   \endentry
 
   \entry{Jesse2018}{article}{}
@@ -24400,6 +25005,162 @@
     \field{year}{2021}
   \endentry
 
+  \entry{Rodrigues2006}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RAS}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Ana\bibnamedelima S.L.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PJD}{%
+         family={Pilgrim},
+         familyi={P\bibinitperiod},
+         given={John\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LJF}{%
+         family={Lamoreux},
+         familyi={L\bibinitperiod},
+         given={John\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hoffmann},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BTM}{%
+         family={Brooks},
+         familyi={B\bibinitperiod},
+         given={Thomas\bibnamedelima M.},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RAS+1}
+    \strng{fullhash}{RASPJDLJFHMBTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The IUCN Red List of Threatened Species is the most comprehensive resource
+  detailing the global conservation status of plants and animals. The 2004
+  edition represents a milestone in the four-decade long history of the Red
+  List, including the first Global Amphibian Assessment and a near doubling in
+  assessed species since 2000. Moreover, the Red List assessment process itself
+  has developed substantially over the past decade, extending the value of the
+  Red List far beyond the assignation of threat status. We highlight here how
+  the Red List, in conjunction with the comprehensive data compiled to support
+  it and in spite of several important limitations, has become an increasingly
+  powerful tool for conservation planning, management, monitoring and decision
+  making. {\textcopyright} 2005 Elsevier Ltd. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.tree.2005.10.010
+    \endverb
+    \field{issn}{01695347}
+    \field{number}{2}
+    \field{pages}{71\bibrangedash 76}
+    \field{title}{{The value of the IUCN Red List for conservation}}
+    \field{volume}{21}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/AppData/Local/Mendeley Ltd./Mendeley Desktop/Down
+    \verb loaded/Rodrigues et al. - 2006 - The value of the IUCN Red List for c
+    \verb onservation.pdf:pdf
+    \endverb
+    \field{journaltitle}{Trends in Ecology and Evolution}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Rohr2018}{article}{}
+    \name{author}{6}{}{%
+      {{hash=RJR}{%
+         family={Rohr},
+         familyi={R\bibinitperiod},
+         given={Jason\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CDJ}{%
+         family={Civitello},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CJM}{%
+         family={Cohen},
+         familyi={C\bibinitperiod},
+         given={Jeremy\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=REA}{%
+         family={Roznik},
+         familyi={R\bibinitperiod},
+         given={Elizabeth\bibnamedelima A.},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Sinervo},
+         familyi={S\bibinitperiod},
+         given={Barry},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DAI}{%
+         family={Dell},
+         familyi={D\bibinitperiod},
+         given={Anthony\bibnamedelima I.},
+         giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJR+1}
+    \strng{fullhash}{RJRCDJCJMREASBDAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Thermal acclimation capacity, the degree to which organisms can alter their
+  optimal performance temperature and critical thermal limits with changing
+  temperatures, reflects their ability to respond to temperature variability
+  and thus might be important for coping with global climate change. Here, we
+  combine simulation modelling with analysis of published data on thermal
+  acclimation and breadth (range of temperatures over which organisms perform
+  well) to develop a framework for predicting thermal plasticity across taxa,
+  latitudes, body sizes, traits, habitats and methodological factors. Our
+  synthesis includes > 2000 measures of acclimation capacities from > 500
+  species of ectotherms spanning fungi, invertebrates, and vertebrates from
+  freshwater, marine and terrestrial habitats. We find that body size,
+  latitude, and methodological factors often interact to shape acclimation
+  responses and that acclimation rate scales negatively with body size,
+  contributing to a general negative association between body size and thermal
+  breadth across species. Additionally, we reveal that acclimation capacity
+  increases with body size, increases with latitude (to mid-latitudinal zones)
+  and seasonality for smaller but not larger organisms, decreases with thermal
+  safety margin (upper lethal temperature minus maximum environmental
+  temperatures), and is regularly underestimated because of experimental
+  artefacts. We then demonstrate that our framework can predict the
+  contribution of acclimation plasticity to the IUCN threat status of
+  amphibians globally, suggesting that phenotypic plasticity is already
+  buffering some species from climate change.%
+    }
+    \verb{doi}
+    \verb 10.1111/ele.13107
+    \endverb
+    \field{issn}{14610248}
+    \field{number}{9}
+    \field{pages}{1425\bibrangedash 1439}
+    \field{title}{{The complex drivers of thermal acclimation and breadth in
+  ectotherms}}
+    \field{volume}{21}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2018}
+  \endentry
+
   \entry{Roll2017}{article}{}
     \name{author}{39}{}{%
       {{hash=RU}{%
@@ -30231,6 +30992,154 @@
   assemblage of ecological communities: synthesizing taxonomic divides}}
     \field{journaltitle}{Ecography}
     \field{year}{2019}
+  \endentry
+
+  \entry{Wheatley2017}{article}{}
+    \name{author}{6}{}{%
+      {{hash=WCJ}{%
+         family={Wheatley},
+         familyi={W\bibinitperiod},
+         given={Christopher\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BCM}{%
+         family={Beale},
+         familyi={B\bibinitperiod},
+         given={Colin\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BRB}{%
+         family={Bradbury},
+         familyi={B\bibinitperiod},
+         given={Richard\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PHJW}{%
+         family={Pearce-Higgins},
+         familyi={P\bibinithyphendelim H\bibinitperiod},
+         given={James\bibnamedelima W.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Critchlow},
+         familyi={C\bibinitperiod},
+         given={Rob},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TCD}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Chris\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{biodiversity,climate change,conservation prioritization,policy,risk
+  assessment,species conservation,vulnerability assessment}
+    \strng{namehash}{WCJ+1}
+    \strng{fullhash}{WCJBCMBRBPHJWCRTCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Climate change vulnerability assessments are commonly used to identify
+  species at risk from global climate change, but the wide range of
+  methodologies available makes it difficult for end users, such as
+  conservation practitioners or policymakers, to decide which method to use as
+  a basis for decision-making. In this study, we evaluate whether different
+  assessments consistently assign species to the same risk categories and
+  whether any of the existing methodologies perform well at identifying
+  climate-threatened species. We compare the outputs of 12 climate change
+  vulnerability assessment methodologies, using both real and simulated
+  species, and validate the methods using historic data for British birds and
+  butterflies (i.e. using historical data to assign risks and more recent data
+  for validation). Our results show that the different vulnerability assessment
+  methods are not consistent with one another; different risk categories are
+  assigned for both the real and simulated sets of species. Validation of the
+  different vulnerability assessments suggests that methods incorporating
+  historic trend data into the assessment perform best at predicting
+  distribution trends in subsequent time periods. This study demonstrates that
+  climate change vulnerability assessments should not be used interchangeably
+  due to the poor overall agreement between methods when considering the same
+  species. The results of our validation provide more support for the use of
+  trend-based rather than purely trait-based approaches, although further
+  validation will be required as data become available.%
+    }
+    \verb{doi}
+    \verb 10.1111/gcb.13759
+    \endverb
+    \field{issn}{13652486}
+    \field{title}{{Climate change vulnerability for species—Assessing the
+  assessments}}
+    \field{journaltitle}{Global Change Biology}
+    \field{year}{2017}
+  \endentry
+
+  \entry{White2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WCR}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Craig\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier B.V.}%
+    }
+    \keyw{Independent contrasts,Mammals,Metabolism,Ordinary least
+  squares,Reduced major axis,Scaling}
+    \strng{namehash}{WCR1}
+    \strng{fullhash}{WCR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    The relationship between body mass (M) and metabolic rate (MR) typically
+  accounts for most (>90%) of the inter-specific variation in MR. As such, when
+  measurement of a species of interest is not possible, its MR can often be
+  predicted using M. However, choosing an appropriate relationship to make such
+  predictions is critical, and the choice is complicated by ongoing debate
+  about the structure of the relationship between M and MR. The present study
+  examines a range of methods including ordinary least squares (OLS), reduced
+  major axis (RMA), and phylogenetically-informed (PI) approaches for
+  estimating log(MR) from log(M), as well as non-linear approaches for
+  estimating the relationship between MR and M without the need for
+  log-transformation. Using data for the basal metabolic rates of mammals, it
+  is shown that RMA regression overestimates the scaling exponent of MR (b,
+  where MR=aMb), suggesting that OLS regression is appropriate for these data.
+  PI approaches are preferred over non-PI ones, and the best estimates of
+  log(MR) are obtained by including information on body temperature, climate,
+  habitat, island endemism, and use of torpor in addition to log(M). However,
+  the use of log-transformed data introduces bias into estimates of MR, while
+  the use of non-linear regression underestimates MR for small mammals. This
+  suggests that no single relationship is appropriate for describing the
+  relationship between MR and M for all mammals, and that relationships for
+  more narrow taxonomic groups or body mass ranges should be used when
+  predicting MR from M. {\textcopyright} 2010.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cbpa.2010.10.004
+    \endverb
+    \field{issn}{15314332}
+    \field{number}{3}
+    \field{pages}{346\bibrangedash 357}
+    \field{title}{{Allometric estimation of metabolic rates in animals}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/j.cbpa.2010.10.004
+    \endverb
+    \field{volume}{158}
+    \verb{file}
+    \verb :C\:/Users/Adrienne/Downloads/1-s2.0-S109564331000509X-main.pdf:pdf
+    \endverb
+    \field{journaltitle}{Comparative Biochemistry and Physiology - A Molecular
+  and Integrative Physiology}
+    \field{year}{2011}
   \endentry
 
   \entry{White2013}{article}{}
