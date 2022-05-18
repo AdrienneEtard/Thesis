@@ -1,89 +1,96 @@
-\BOOKMARK [0][-]{section*.9}{List of Tables}{}% 1
-\BOOKMARK [0][-]{section*.10}{List of Figures}{}% 2
-\BOOKMARK [0][-]{chapter.1}{General introduction}{}% 3
-\BOOKMARK [1][-]{section.1.1}{Major drivers of global biodiversity change}{chapter.1}% 4
-\BOOKMARK [2][-]{subsection.1.1.1}{Land-use change}{section.1.1}% 5
-\BOOKMARK [2][-]{subsection.1.1.2}{Climate change}{section.1.1}% 6
-\BOOKMARK [2][-]{subsection.1.1.3}{The future of biodiversity in the Anthropocene}{section.1.1}% 7
-\BOOKMARK [1][-]{section.1.2}{Ecological importance of terrestrial vertebrates and current threats}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.3}{Using trait-based approaches to understand global biodiversity change}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.3.1}{Traits as common currencies across species}{section.1.3}% 10
-\BOOKMARK [2][-]{subsection.1.3.2}{Using ecological traits to assess which species are at most risk from human-driven changes}{section.1.3}% 11
-\BOOKMARK [2][-]{subsection.1.3.3}{Using physiological traits to understand land-use impacts on biodiversity and ecosystem functioning}{section.1.3}% 12
-\BOOKMARK [2][-]{subsection.1.3.4}{Thesis aims}{section.1.3}% 13
-\BOOKMARK [1][-]{section.1.4}{Detailed aims, hypotheses and outline of the following Chapters}{chapter.1}% 14
-\BOOKMARK [0][-]{chapter.2}{Global gaps and biases in trait data for terrestrial vertebrates}{}% 15
-\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.1}{Trait data collection}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.2}{Investigating gaps and biases in trait data}{section.2.2}% 19
-\BOOKMARK [1][-]{section.2.3}{Results}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.2.3.1}{Taxonomic biases in trait information}{section.2.3}% 21
-\BOOKMARK [2][-]{subsection.2.3.2}{Phylogenetic biases in trait completeness}{section.2.3}% 22
-\BOOKMARK [2][-]{subsection.2.3.3}{Spatial biases in trait completeness}{section.2.3}% 23
-\BOOKMARK [1][-]{section.2.4}{Discussion}{chapter.2}% 24
-\BOOKMARK [0][-]{chapter.3}{Intensive human land uses negatively affect vertebrate functional diversity}{}% 25
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 27
-\BOOKMARK [2][-]{subsection.3.2.1}{Vertebrate assemblages}{section.3.2}% 28
-\BOOKMARK [2][-]{subsection.3.2.2}{Functional traits and diversity metrics}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.3}{Effects of land use and land-use intensity on FRic and FDis \(Hypothesis 1\)}{section.3.2}% 30
-\BOOKMARK [2][-]{subsection.3.2.4}{Investigating functional under-dispersion \(Hypothesis 2\)}{section.3.2}% 31
-\BOOKMARK [2][-]{subsection.3.2.5}{Functional loss and functional gain \(Hypothesis 3\)}{section.3.2}% 32
-\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 33
-\BOOKMARK [2][-]{subsection.3.3.1}{Effects of land use on FRic and FDis}{section.3.3}% 34
-\BOOKMARK [2][-]{subsection.3.3.2}{Changes in the probability of occurrence of functional under-dispersion}{section.3.3}% 35
-\BOOKMARK [2][-]{subsection.3.3.3}{Functional loss and gain}{section.3.3}% 36
-\BOOKMARK [1][-]{section.3.4}{Discussion}{chapter.3}% 37
-\BOOKMARK [0][-]{chapter.4}{Geographical range area, habitat breadth and specialisation on natural habitats are associated with land-use responses and climate-change sensitivity more consistently than life-history and dietary traits in terrestrial vertebrates}{}% 38
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 39
-\BOOKMARK [1][-]{section.4.2}{Methods}{chapter.4}% 40
-\BOOKMARK [2][-]{subsection.4.2.1}{Ecological characteristics \(Figure 4.1a\)}{section.4.2}% 41
-\BOOKMARK [1][-]{section.4.3}{Imputations of missing trait values}{chapter.4}% 42
-\BOOKMARK [2][-]{subsection.4.3.1}{Characterizing the influence of traits on species land-use responses \(Figure 4.1b\)}{section.4.3}% 43
-\BOOKMARK [2][-]{subsection.4.3.2}{Characterizing the influence of traits on species sensitivity to climate change \(Figure 4.1c\)}{section.4.3}% 44
-\BOOKMARK [1][-]{section.4.4}{Results}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.4.1}{Land-use responses}{section.4.4}% 46
-\BOOKMARK [2][-]{subsection.4.4.2}{Climate-change sensitivity}{section.4.4}% 47
-\BOOKMARK [1][-]{section.4.5}{Discussion}{chapter.4}% 48
-\BOOKMARK [0][-]{chapter.5}{Energetic constraints and trophic group explain species persistence in disturbed land uses}{}% 49
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 50
-\BOOKMARK [1][-]{section.5.2}{Methods}{chapter.5}% 51
-\BOOKMARK [2][-]{subsection.5.2.1}{Vertebrate assemblage composition }{section.5.2}% 52
-\BOOKMARK [2][-]{subsection.5.2.2}{Energy availability by land-use type and land-use intensity}{section.5.2}% 53
-\BOOKMARK [2][-]{subsection.5.2.3}{Resting Metabolic Rates \(RMR\) \046 imputations of missing RMR values}{section.5.2}% 54
-\BOOKMARK [2][-]{subsection.5.2.4}{Trophic group and body mass information}{section.5.2}% 55
-\BOOKMARK [2][-]{subsection.5.2.5}{Effects of land use, land-use intensity and trophic group on assemblage-level total RMR \(prediction 1; Figure 5.2a\)}{section.5.2}% 56
-\BOOKMARK [2][-]{subsection.5.2.6}{Effects of land use, land-use intensity, trophic group and residual RMR on species occurrence probability \(prediction 2; Figure 5.2b\)}{section.5.2}% 57
-\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 58
-\BOOKMARK [2][-]{subsection.5.3.1}{Effects of land use, land-use intensity and trophic group on assemblage-level total RMR}{section.5.3}% 59
-\BOOKMARK [2][-]{subsection.5.3.2}{Effects of land use, land-use intensity, trophic group and residual RMR on species\220 occurrence probability}{section.5.3}% 60
-\BOOKMARK [1][-]{section.5.4}{Discussion}{chapter.5}% 61
-\BOOKMARK [0][-]{chapter.6}{General discussion}{}% 62
-\BOOKMARK [0][-]{chapter.6}{Bibliography}{}% 63
-\BOOKMARK [0][-]{chapter*.64}{Appendices}{}% 64
-\BOOKMARK [0][-]{chapter*.65}{Appendix 1: Supporting information for Chapter 2}{}% 65
-\BOOKMARK [1][-]{section.6.1}{Taxonomic corrections}{chapter*.65}% 66
-\BOOKMARK [1][-]{section.6.2}{Additional information for trait compilation}{chapter*.65}% 67
-\BOOKMARK [1][-]{section.6.3}{Cutting distribution maps by altitudinal limits}{chapter*.65}% 68
-\BOOKMARK [1][-]{section.6.4}{Impact of taxonomic corrections on trait coverage}{chapter*.65}% 69
-\BOOKMARK [1][-]{section.6.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.65}% 70
-\BOOKMARK [1][-]{section.6.6}{Phylogenetic patterns in trait completeness}{chapter*.65}% 71
-\BOOKMARK [1][-]{section.6.7}{Poisson model summaries}{chapter*.65}% 72
-\BOOKMARK [1][-]{section.6.8}{Spatial model summaries}{chapter*.65}% 73
-\BOOKMARK [1][-]{section.6.9}{Trait coverage and taxonomic matching}{chapter*.65}% 74
-\BOOKMARK [0][-]{figure.caption.89}{Appendix 2: Supporting information for Chapter 3}{}% 75
-\BOOKMARK [1][-]{section.6.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.89}% 76
-\BOOKMARK [1][-]{section.6.2}{Trait data \046 imputation of missing trait values}{figure.caption.89}% 77
-\BOOKMARK [2][-]{subsection.6.2.1}{Choice of imputation technique}{section.6.2}% 78
-\BOOKMARK [2][-]{subsection.6.2.2}{Phylogenetic signal in traits}{section.6.2}% 79
-\BOOKMARK [2][-]{subsection.6.2.3}{Implementation of missForest imputations}{section.6.2}% 80
-\BOOKMARK [1][-]{section.6.3}{Degree of multicollinearity among traits}{figure.caption.89}% 81
-\BOOKMARK [1][-]{section.6.4}{Imputation performance}{figure.caption.89}% 82
-\BOOKMARK [1][-]{section.6.5}{Functional loss and functional gain}{figure.caption.89}% 83
-\BOOKMARK [1][-]{section.6.6}{Diagnostic plots}{figure.caption.89}% 84
-\BOOKMARK [1][-]{section.6.7}{Model robustness}{figure.caption.89}% 85
-\BOOKMARK [1][-]{section.6.8}{Model robustness \205 time since land-use conversion}{figure.caption.89}% 86
-\BOOKMARK [0][-]{table.caption.122}{Appendix 3: Supporting information for Chapter 4}{}% 87
-\BOOKMARK [0][-]{chapter*.123}{Appendix 4: Supporting information for Chapter 5}{}% 88
-\BOOKMARK [0][-]{figure.caption.133}{Bibliography for the Appendices}{}% 89
+\BOOKMARK [0][-]{Declaration.0}{Declaration}{}% 1
+\BOOKMARK [0][-]{Acknowledgements.0}{Acknowledgements}{}% 2
+\BOOKMARK [0][-]{Abstract.0}{Abstract}{}% 3
+\BOOKMARK [0][-]{Impact statement.0}{Impact statement}{}% 4
+\BOOKMARK [0][-]{Thesis outline of contents, authorship and collaborations.0}{Thesis outline of contents, authorship and collaborations}{}% 5
+\BOOKMARK [0][-]{Data and code access.0}{Data and code access}{}% 6
+\BOOKMARK [0][-]{Contents.0}{Contents}{}% 7
+\BOOKMARK [0][-]{section*.9}{List of Tables}{}% 8
+\BOOKMARK [0][-]{section*.10}{List of Figures}{}% 9
+\BOOKMARK [0][-]{chapter.1}{General introduction}{}% 10
+\BOOKMARK [1][-]{section.1.1}{Major drivers of global biodiversity change}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.1}{Land-use change}{section.1.1}% 12
+\BOOKMARK [2][-]{subsection.1.1.2}{Climate change}{section.1.1}% 13
+\BOOKMARK [2][-]{subsection.1.1.3}{The future of biodiversity in the Anthropocene}{section.1.1}% 14
+\BOOKMARK [1][-]{section.1.2}{Ecological importance of terrestrial vertebrates and current threats}{chapter.1}% 15
+\BOOKMARK [1][-]{section.1.3}{Using trait-based approaches to understand global biodiversity change}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.3.1}{Traits as common currencies across species}{section.1.3}% 17
+\BOOKMARK [2][-]{subsection.1.3.2}{Using ecological traits to assess which species are at most risk from human-driven changes}{section.1.3}% 18
+\BOOKMARK [2][-]{subsection.1.3.3}{Using physiological traits to understand land-use impacts on biodiversity and ecosystem functioning}{section.1.3}% 19
+\BOOKMARK [2][-]{subsection.1.3.4}{Thesis aims}{section.1.3}% 20
+\BOOKMARK [1][-]{section.1.4}{Detailed aims, hypotheses and outline of the following Chapters}{chapter.1}% 21
+\BOOKMARK [0][-]{chapter.2}{Global gaps and biases in trait data for terrestrial vertebrates}{}% 22
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.2}{Methods}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.1}{Trait data collection}{section.2.2}% 25
+\BOOKMARK [2][-]{subsection.2.2.2}{Investigating gaps and biases in trait data}{section.2.2}% 26
+\BOOKMARK [1][-]{section.2.3}{Results}{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.3.1}{Taxonomic biases in trait information}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.2}{Phylogenetic biases in trait completeness}{section.2.3}% 29
+\BOOKMARK [2][-]{subsection.2.3.3}{Spatial biases in trait completeness}{section.2.3}% 30
+\BOOKMARK [1][-]{section.2.4}{Discussion}{chapter.2}% 31
+\BOOKMARK [0][-]{chapter.3}{Intensive human land uses negatively affect vertebrate functional diversity}{}% 32
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.2}{Methods}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.2.1}{Vertebrate assemblages}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.2}{Functional traits and diversity metrics}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.3}{Effects of land use and land-use intensity on FRic and FDis \(Hypothesis 1\)}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.4}{Investigating functional under-dispersion \(Hypothesis 2\)}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.5}{Functional loss and functional gain \(Hypothesis 3\)}{section.3.2}% 39
+\BOOKMARK [1][-]{section.3.3}{Results}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.3.1}{Effects of land use on FRic and FDis}{section.3.3}% 41
+\BOOKMARK [2][-]{subsection.3.3.2}{Changes in the probability of occurrence of functional under-dispersion}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.3}{Functional loss and gain}{section.3.3}% 43
+\BOOKMARK [1][-]{section.3.4}{Discussion}{chapter.3}% 44
+\BOOKMARK [0][-]{chapter.4}{Geographical range area, habitat breadth and specialisation on natural habitats are associated with land-use responses and climate-change sensitivity more consistently than life-history and dietary traits in terrestrial vertebrates}{}% 45
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.2}{Methods}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.2.1}{Ecological characteristics \(Figure 4.1a\)}{section.4.2}% 48
+\BOOKMARK [2][-]{subsection.4.2.2}{Imputations of missing trait values}{section.4.2}% 49
+\BOOKMARK [2][-]{subsection.4.2.3}{Characterizing the influence of traits on species land-use responses \(Figure 4.1b\)}{section.4.2}% 50
+\BOOKMARK [2][-]{subsection.4.2.4}{Characterizing the influence of traits on species sensitivity to climate change \(Figure 4.1c\)}{section.4.2}% 51
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.3.1}{Land-use responses}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.2}{Climate-change sensitivity}{section.4.3}% 54
+\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 55
+\BOOKMARK [0][-]{chapter.5}{Energetic constraints and trophic group explain species persistence in disturbed land uses}{}% 56
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.2}{Methods}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.2.1}{Vertebrate assemblage composition }{section.5.2}% 59
+\BOOKMARK [2][-]{subsection.5.2.2}{Energy availability by land-use type and land-use intensity}{section.5.2}% 60
+\BOOKMARK [2][-]{subsection.5.2.3}{Resting Metabolic Rates \(RMR\) \046 imputations of missing RMR values}{section.5.2}% 61
+\BOOKMARK [2][-]{subsection.5.2.4}{Trophic group and body mass information}{section.5.2}% 62
+\BOOKMARK [2][-]{subsection.5.2.5}{Effects of land use, land-use intensity and trophic group on assemblage-level total RMR \(prediction 1; Figure 5.2a\)}{section.5.2}% 63
+\BOOKMARK [2][-]{subsection.5.2.6}{Effects of land use, land-use intensity, trophic group and residual RMR on species occurrence probability \(prediction 2; Figure 5.2b\)}{section.5.2}% 64
+\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 65
+\BOOKMARK [2][-]{subsection.5.3.1}{Effects of land use, land-use intensity and trophic group on assemblage-level total RMR}{section.5.3}% 66
+\BOOKMARK [2][-]{subsection.5.3.2}{Effects of land use, land-use intensity, trophic group and residual RMR on species\220 occurrence probability}{section.5.3}% 67
+\BOOKMARK [1][-]{section.5.4}{Discussion}{chapter.5}% 68
+\BOOKMARK [0][-]{chapter.6}{General discussion}{}% 69
+\BOOKMARK [0][-]{chapter.6}{Bibliography}{}% 70
+\BOOKMARK [0][-]{chapter*.64}{Appendices}{}% 71
+\BOOKMARK [0][-]{chapter*.65}{Appendix 1: Supporting information for Chapter 2}{}% 72
+\BOOKMARK [1][-]{section.6.1}{Taxonomic corrections}{chapter*.65}% 73
+\BOOKMARK [1][-]{section.6.2}{Additional information for trait compilation}{chapter*.65}% 74
+\BOOKMARK [1][-]{section.6.3}{Cutting distribution maps by altitudinal limits}{chapter*.65}% 75
+\BOOKMARK [1][-]{section.6.4}{Impact of taxonomic corrections on trait coverage}{chapter*.65}% 76
+\BOOKMARK [1][-]{section.6.5}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{chapter*.65}% 77
+\BOOKMARK [1][-]{section.6.6}{Phylogenetic patterns in trait completeness}{chapter*.65}% 78
+\BOOKMARK [1][-]{section.6.7}{Poisson model summaries}{chapter*.65}% 79
+\BOOKMARK [1][-]{section.6.8}{Spatial model summaries}{chapter*.65}% 80
+\BOOKMARK [1][-]{section.6.9}{Trait coverage and taxonomic matching}{chapter*.65}% 81
+\BOOKMARK [0][-]{figure.caption.89}{Appendix 2: Supporting information for Chapter 3}{}% 82
+\BOOKMARK [1][-]{section.6.1}{Land-use categories in PREDICTS and sample sizes}{figure.caption.89}% 83
+\BOOKMARK [1][-]{section.6.2}{Trait data \046 imputation of missing trait values}{figure.caption.89}% 84
+\BOOKMARK [2][-]{subsection.6.2.1}{Choice of imputation technique}{section.6.2}% 85
+\BOOKMARK [2][-]{subsection.6.2.2}{Phylogenetic signal in traits}{section.6.2}% 86
+\BOOKMARK [2][-]{subsection.6.2.3}{Implementation of missForest imputations}{section.6.2}% 87
+\BOOKMARK [1][-]{section.6.3}{Degree of multicollinearity among traits}{figure.caption.89}% 88
+\BOOKMARK [1][-]{section.6.4}{Imputation performance}{figure.caption.89}% 89
+\BOOKMARK [1][-]{section.6.5}{Functional loss and functional gain}{figure.caption.89}% 90
+\BOOKMARK [1][-]{section.6.6}{Diagnostic plots}{figure.caption.89}% 91
+\BOOKMARK [1][-]{section.6.7}{Model robustness}{figure.caption.89}% 92
+\BOOKMARK [1][-]{section.6.8}{Model robustness \205 time since land-use conversion}{figure.caption.89}% 93
+\BOOKMARK [0][-]{table.caption.122}{Appendix 3: Supporting information for Chapter 4}{}% 94
+\BOOKMARK [0][-]{chapter*.123}{Appendix 4: Supporting information for Chapter 5}{}% 95
+\BOOKMARK [0][-]{figure.caption.133}{Bibliography for the Appendices}{}% 96

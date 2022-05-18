@@ -13,8 +13,6 @@
 %%%%% PhD word limit = 100,000 words
 
 %% TO DO
-
-% General introduction - revise and format for thesis
 % Chapter 4 - revise and format for thesis
 % General discussion 
 
@@ -141,7 +139,8 @@
 
 %\maketitle
 
-% Declarations and acknowledgements here
+% Declaration
+\pdfbookmark{Declaration}{Declaration}
 \chapter*{Declaration}
 
 I, Adrienne Etard, confirm that the work presented in this thesis is my own. Some parts have been conducted in collaboration with other researchers, and the contributions of co-authors to specific Chapters are described in the \textit{Thesis outline of contents} on page 6. All else is appropriately referenced, and where information has been derived from other sources, I confirm that this has been indicated in the Thesis.
@@ -152,7 +151,7 @@ I, Adrienne Etard, confirm that the work presented in this thesis is my own. Som
 
 %\vspace{3cm}
 
-
+\pdfbookmark{Acknowledgements}{Acknowledgements}
 \chapter*{Acknowledgements}
 
 \begin{comment}
@@ -167,15 +166,24 @@ To my friends in London and elsewhere who put up with my shenaniggans. In partic
 And, last but not least, a very special thank to Tea Trains, Coffee Breaks \& Journal Club Cookies. 
 \end{comment}
 
+%\addcontentsline{toc}{chapter}{Thesis abstract}
+\pdfbookmark{Abstract}{Abstract}
 \chapter*{Abstract} %% No more than 300 words
 \input{Chapters/General_abstract}
 
+
+%\addcontentsline{toc}{chapter}{Impact statement}
+\pdfbookmark{Impact statement}{Impact statement}
 \chapter*{Impact statement}%% No more than 500 words
 \input{Chapters/Impact_statement}
 
+%\addcontentsline{toc}{chapter}{Thesis outline of contents, authorship and collaborations}
+\pdfbookmark{Thesis outline of contents, authorship and collaborations}{Thesis outline of contents, authorship and collaborations}
 \chapter*{Thesis outline of contents, authorship and collaborations}
 \input{Chapters/Thesis_outline}
 
+%\addcontentsline{toc}{chapter}{Data and code access}
+\pdfbookmark{Data and code access}{Data and code access}
 \chapter*{Data and code access}
 
 \section*{Code access}
@@ -200,6 +208,7 @@ The data used in this thesis are freely accessible and sources are referenced th
 
 % CONTENTS
 \clearpage
+\pdfbookmark{\contentsname}{Contents}
 \tableofcontents
 
 \clearpage
@@ -274,6 +283,7 @@ The data used in this thesis are freely accessible and sources are referenced th
 
 \clearpage
 
+
 \addcontentsline{toc}{chapter}{Appendices}
 \chapter*{Appendices}
 \clearpage
@@ -284,6 +294,7 @@ The data used in this thesis are freely accessible and sources are referenced th
 
 %\addcontentsline{toc}{chapter}{Appendix 0: Supporting information for Chapter 1}
 %\chapter*{Appendix 0: Supporting information for Chapter 1}
+
 
 \addcontentsline{toc}{chapter}{Appendix 1: Supporting information for Chapter 2}
 \addcontentsline{lof}{chapter}{Appendix 1}
