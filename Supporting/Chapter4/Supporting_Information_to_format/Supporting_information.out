@@ -11,12 +11,9 @@
 \BOOKMARK [2][-]{subsection.5.2}{CENFA estimation and resolution}{section.5}% 11
 \BOOKMARK [1][-]{section.6}{Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{}% 12
 \BOOKMARK [1][-]{section.7}{Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{}% 13
-\BOOKMARK [1][-]{section.8}{Land-use responses: diagnostic plots for the full \(all-predictor\) models}{}% 14
+\BOOKMARK [1][-]{section.8}{Land-use responses: diagnostic plots for the full models}{}% 14
 \BOOKMARK [1][-]{section.9}{Climate-change sensitivity: model summaries and diagnostic plots}{}% 15
 \BOOKMARK [2][-]{subsection.9.1}{Summaries \046 diagnostic plots for models fitted on species with range area >100 km2\)}{section.9}% 16
 \BOOKMARK [2][-]{subsection.9.2}{Summaries for the PGLS models fitted on all species \(including those with range area 100 km2\)}{section.9}% 17
-\BOOKMARK [2][-]{subsection.9.3}{Models estimates for the PGLS models fitted on all species, against models estimates for the PGLS models fitted on species whose range area >100 km2}{section.9}% 18
+\BOOKMARK [2][-]{subsection.9.3}{Effects for the PGLS models fitted on all species, against effects for the PGLS models fitted on species whose range area was >100 km2}{section.9}% 18
 \BOOKMARK [1][-]{section.10}{Validations on complete trait data subsets}{}% 19
-\BOOKMARK [2][-]{subsection.10.1}{Synthesis table}{section.10}% 20
-\BOOKMARK [2][-]{subsection.10.2}{Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions, in each class \(validation on empirical trait data subsets \(excluding imputed trait values\) using partial models\)}{section.10}% 21
-\BOOKMARK [2][-]{subsection.10.3}{PGLS climate-change sensitivity models, validations on empirical trait data subsets: PGLS model summaries}{section.10}% 22

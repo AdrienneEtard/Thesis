@@ -2,6 +2,10 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis2-blx.aux
 The style file: biblatex.bst
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
+Repeated entry---line 2112 of file LIBRARY.bib
+ :   @article{virtualspecies
+ :                          ,
+I'm skipping whatever remains of this entry
 Biblatex version: 3.11
 Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
 while executing--line 2658 of file biblatex.bst
@@ -15,4 +19,4 @@ while executing--line 2686 of file biblatex.bst
 Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
 while executing--line 2686 of file biblatex.bst
 *Please notify the bibstyle designer*
-(There were 4 warnings)
+(There was 1 error message)

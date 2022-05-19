@@ -47,8 +47,8 @@
 \BOOKMARK [1][-]{section.4.2}{Methods}{chapter.4}% 47
 \BOOKMARK [2][-]{subsection.4.2.1}{Ecological characteristics \(Figure 4.1a\)}{section.4.2}% 48
 \BOOKMARK [2][-]{subsection.4.2.2}{Imputations of missing trait values}{section.4.2}% 49
-\BOOKMARK [2][-]{subsection.4.2.3}{Characterizing the influence of traits on species land-use responses \(Figure 4.1b\)}{section.4.2}% 50
-\BOOKMARK [2][-]{subsection.4.2.4}{Characterizing the influence of traits on species sensitivity to climate change \(Figure 4.1c\)}{section.4.2}% 51
+\BOOKMARK [2][-]{subsection.4.2.3}{Characterizing the influence of traits on species' land-use responses \(Figure 4.1b\)}{section.4.2}% 50
+\BOOKMARK [2][-]{subsection.4.2.4}{Characterizing the influence of traits on species' sensitivity to climate change \(Figure 4.1c\)}{section.4.2}% 51
 \BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 52
 \BOOKMARK [2][-]{subsection.4.3.1}{Land-use responses}{section.4.3}% 53
 \BOOKMARK [2][-]{subsection.4.3.2}{Climate-change sensitivity}{section.4.3}% 54
@@ -92,5 +92,24 @@
 \BOOKMARK [1][-]{section.6.7}{Model robustness}{figure.caption.89}% 92
 \BOOKMARK [1][-]{section.6.8}{Model robustness \205 time since land-use conversion}{figure.caption.89}% 93
 \BOOKMARK [0][-]{table.caption.122}{Appendix 3: Supporting information for Chapter 4}{}% 94
-\BOOKMARK [0][-]{chapter*.123}{Appendix 4: Supporting information for Chapter 5}{}% 95
-\BOOKMARK [0][-]{figure.caption.133}{Bibliography for the Appendices}{}% 96
+\BOOKMARK [1][-]{section.6.1}{Compiling diet information}{table.caption.122}% 95
+\BOOKMARK [1][-]{section.6.2}{Imputing missing trait values}{table.caption.122}% 96
+\BOOKMARK [2][-]{subsection.6.2.1}{Trait data coverage}{section.6.2}% 97
+\BOOKMARK [2][-]{subsection.6.2.2}{Phylogenetic signal in traits}{section.6.2}% 98
+\BOOKMARK [2][-]{subsection.6.2.3}{Implementation of missing value imputations}{section.6.2}% 99
+\BOOKMARK [2][-]{subsection.6.2.4}{Imputation error}{section.6.2}% 100
+\BOOKMARK [1][-]{section.6.3}{Land-use types in PREDICTS and sample sizes \(number of sampled sites across classes\)}{table.caption.122}% 101
+\BOOKMARK [1][-]{section.6.4}{Land-use responses: multicollinearity checks among the models' explanatory variables}{table.caption.122}% 102
+\BOOKMARK [1][-]{section.6.5}{Implementing Climate-niche Factor Analysis across terrestrial vertebrates}{table.caption.122}% 103
+\BOOKMARK [2][-]{subsection.6.5.1}{Historical climate data: groups of intercorrelated variables}{section.6.5}% 104
+\BOOKMARK [2][-]{subsection.6.5.2}{CENFA estimation and resolution}{section.6.5}% 105
+\BOOKMARK [1][-]{section.6.6}{Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{table.caption.122}% 106
+\BOOKMARK [1][-]{section.6.7}{Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{table.caption.122}% 107
+\BOOKMARK [1][-]{section.6.8}{Land-use responses: diagnostic plots for the full models}{table.caption.122}% 108
+\BOOKMARK [1][-]{section.6.9}{Climate-change sensitivity: model summaries and diagnostic plots}{table.caption.122}% 109
+\BOOKMARK [2][-]{subsection.6.9.1}{Summaries \046 diagnostic plots for models fitted on species with range area >100 km2\)}{section.6.9}% 110
+\BOOKMARK [2][-]{subsection.6.9.2}{Summaries for the PGLS models fitted on all species \(including those with range area 100 km2\)}{section.6.9}% 111
+\BOOKMARK [2][-]{subsection.6.9.3}{Effects for the PGLS models fitted on all species, against effects for the PGLS models fitted on species whose range area was >100 km2}{section.6.9}% 112
+\BOOKMARK [1][-]{section.6.10}{Validations on complete trait data subsets}{table.caption.122}% 113
+\BOOKMARK [0][-]{table.caption.167}{Appendix 4: Supporting information for Chapter 5}{}% 114
+\BOOKMARK [0][-]{figure.caption.177}{Bibliography for the Appendices}{}% 115
