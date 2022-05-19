@@ -264,10 +264,12 @@ The data used in this thesis are freely accessible and sources are referenced th
 
 
 \clearpage
+\phantomsection
 \addcontentsline{toc}{chapter}{Bibliography}
-\chapter*{Bibliography}
+%\chapter{Bibliography}
 \renewcommand{\baselinestretch}{1}
-\printbibliography[heading=none]
+\printbibliography[title={Bibliography}]
+\clearpage
 
 \end{refsection}
 
@@ -275,19 +277,9 @@ The data used in this thesis are freely accessible and sources are referenced th
 %%%%%%%%%%%%%%%%%%%%%%%
 %% APPENDICES %% Structured by chapters
 \begin{refsection}
-
 % line spacing
 \renewcommand{\baselinestretch}{1.15}
-
-% figure and section numbering -- start with S for the appendices
-
-\clearpage
-
-
-\addcontentsline{toc}{chapter}{Appendices}
-\chapter*{Appendices}
-\clearpage
-
+\renewcommand{\theHsection}{section.\thesection}
 %% if ignoring figures and tables from there on in the list of tables and list of figures	
 %\captionsetup[figure]{list=no}
 %\captionsetup[table]{list=no}
@@ -295,7 +287,8 @@ The data used in this thesis are freely accessible and sources are referenced th
 %\addcontentsline{toc}{chapter}{Appendix 0: Supporting information for Chapter 1}
 %\chapter*{Appendix 0: Supporting information for Chapter 1}
 
-
+\cleardoublepage
+\phantomsection
 \addcontentsline{toc}{chapter}{Appendix 1: Supporting information for Chapter 2}
 \addcontentsline{lof}{chapter}{Appendix 1}
 \addcontentsline{lot}{chapter}{Appendix 1}
@@ -305,6 +298,8 @@ The data used in this thesis are freely accessible and sources are referenced th
 \renewcommand{\thesection}{S2.\arabic{section}}
 \input{Supporting/Chapter2/SI_Chapter2}
 
+\cleardoublepage
+\phantomsection
 \addcontentsline{toc}{chapter}{Appendix 2: Supporting information for Chapter 3}
 \addcontentsline{lof}{chapter}{Appendix 2}
 \addcontentsline{lot}{chapter}{Appendix 2}
@@ -317,6 +312,8 @@ The data used in this thesis are freely accessible and sources are referenced th
 \renewcommand{\thesection}{S3.\arabic{section}}
 \input{Supporting/Chapter3/SI_Chapter3}
 
+\cleardoublepage
+\phantomsection
 \addcontentsline{toc}{chapter}{Appendix 3: Supporting information for Chapter 4}
 \addcontentsline{lof}{chapter}{Appendix 3}
 \addcontentsline{lot}{chapter}{Appendix 3}
@@ -329,7 +326,8 @@ The data used in this thesis are freely accessible and sources are referenced th
 \renewcommand{\thesection}{S4.\arabic{section}}
 \input{Supporting/Chapter4/SI_Chapter4}
 
-
+\cleardoublepage
+\phantomsection
 \addcontentsline{toc}{chapter}{Appendix 4: Supporting information for Chapter 5}
 \addcontentsline{lof}{chapter}{Appendix 4}
 \addcontentsline{lot}{chapter}{Appendix 4}
@@ -343,11 +341,11 @@ The data used in this thesis are freely accessible and sources are referenced th
 \input{Supporting/Chapter5/SI_Chapter5}
 
 
-\clearpage
+\cleardoublepage
+\phantomsection
 \addcontentsline{toc}{chapter}{Bibliography for the Appendices}
-\chapter*{Bibliography for the Appendices}
 \renewcommand{\baselinestretch}{1}
-\printbibliography[heading=none]
+\printbibliography[title={Bibliography for the Appendices}]
 \end{refsection}
 
 \end{document}
