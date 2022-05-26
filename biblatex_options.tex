@@ -16,8 +16,9 @@
 % remove point after volume number, and issue number
 \renewbibmacro*{volume+number+eid}{%
   \printfield{volume}%
-  \setunit*{\adddot}% DELETED (point)
-  \printfield{number}% DELETED (issue number)
+  %\setunit*{\adddot}% DELETED (point)
+  %\setunit*{\addcolon}% DELETED (point)
+  \printfield[parens]{number}% DELETED (issue number)
   \setunit{\addcomma\space}% DELETED
   \printfield{eid} % DELETED
   }
