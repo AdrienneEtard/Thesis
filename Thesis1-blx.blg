@@ -1,40 +1,92 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis1-blx.aux
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis1-blx.aux
 The style file: biblatex.bst
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'field_info' (item size: 4) to 55735 items.
 Database file #1: Thesis-blx.bib
 Database file #2: LIBRARY.bib
-You're missing a field part---line 3718 of file LIBRARY.bib
- : number=
- :        (4)
+Reallocating 'str_pool' (item size: 1) to 130000 items.
+"{" immediately follows a field name---line 737 of file LIBRARY.bib
+ : pages
+ :      {770-781}
 I'm skipping whatever remains of this entry
-You're missing a field part---line 5083 of file LIBRARY.bib
- : number=
- :        (4)
-I'm skipping whatever remains of this entry
-Biblatex version: 3.11
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
-while executing--line 2658 of file biblatex.bst
+Reallocating 'str_pool' (item size: 1) to 195000 items.
+Reallocating 'str_pool' (item size: 1) to 260000 items.
+Reallocating 'str_pool' (item size: 1) to 325000 items.
+Reallocating 'str_pool' (item size: 1) to 390000 items.
+Reallocating 'str_pool' (item size: 1) to 455000 items.
+Reallocating 'str_pool' (item size: 1) to 520000 items.
+Biblatex version: 3.13
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
+while executing--line 2689 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
-while executing--line 2658 of file biblatex.bst
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2017
+while executing--line 2689 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2658 of file biblatex.bst
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2017
+while executing--line 2717 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Stephens2019
-while executing--line 2658 of file biblatex.bst
+Warning--you've exceeded 500, the entry-string-size, for entry Hudson2014
+while executing--line 2717 of file biblatex.bst
 *Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Stephens2019
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Kattge2011
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2017
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry Hudson2014
-while executing--line 2686 of file biblatex.bst
-*Please notify the bibstyle designer*
+Reallocating 'singl_function' (item size: 4) to 100 items.
 Too many commas in name 2 of "Almond, R.E.A., Grooten M. and Petersen, T. (Eds). WWF, Gland, Switzerland." for entry WWF2020
-while executing---line 2774 of file biblatex.bst
-(There were 3 error messages)
+while executing---line 2805 of file biblatex.bst
+You've used 365 entries,
+            6365 wiz_defined-function locations,
+            4363 strings with 487901 characters,
+and the built_in function-call counts, 6057934 in all, are:
+= -- 521477
+> -- 69385
+< -- 14679
++ -- 164288
+- -- 35979
+* -- 531953
+:= -- 758750
+add.period$ -- 0
+call.type$ -- 365
+change.case$ -- 5092
+chr.to.int$ -- 78
+cite$ -- 728
+duplicate$ -- 539320
+empty$ -- 515736
+format.name$ -- 52987
+if$ -- 1192935
+int.to.chr$ -- 0
+int.to.str$ -- 859
+missing$ -- 0
+newline$ -- 28511
+num.names$ -- 16458
+pop$ -- 160748
+preamble$ -- 1
+purify$ -- 11262
+quote$ -- 0
+skip$ -- 85013
+stack$ -- 0
+substring$ -- 1100915
+swap$ -- 100375
+text.length$ -- 16228
+text.prefix$ -- 366
+top$ -- 1
+type$ -- 12392
+warning$ -- 0
+while$ -- 92906
+width$ -- 0
+write$ -- 28147
+(There were 2 error messages)

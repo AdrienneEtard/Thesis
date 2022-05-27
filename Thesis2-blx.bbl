@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -51,7 +51,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -126,7 +126,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -229,36 +229,14 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    We present a new open source, extensible and flexible software platform for
-  Bayesian evolutionary analysis called BEAST 2. This software platform is a
-  re-design of the popular BEAST 1 platform to correct structural deficiencies
-  that became evident as the BEAST 1 software evolved. Key among those
-  deficiencies was the lack of post-deployment extensibility. BEAST 2 now has a
-  fully developed package management system that allows third party developers
-  to write additional functionality that can be directly installed to the BEAST
-  2 analysis platform via a package manager without requiring a new software
-  release of the platform. This package architecture is showcased with a number
-  of recently published new models encompassing birth-death-sampling tree
-  priors, phylodynamics and model averaging for substitution models and site
-  partitioning. A second major improvement is the ability to read/write the
-  entire state of the MCMC chain to/from disk allowing it to be easily shared
-  between multiple instances of the BEAST software. This facilitates
-  checkpointing and better support for multi-processor and high-end computing
-  extensions. Finally, the functionality in new packages can be easily added to
-  the user interface (BEAUti 2) by a simple XML template-based mechanism
-  because BEAST 2 has been re-designed to provide greater integration between
-  the analysis engine and the user interface so that, for example BEAST and
-  BEAUti use exactly the same XML file format. {\textcopyright} 2014 Bouckaert
-  et al.%
-    }
     \verb{doi}
     \verb 10.1371/journal.pcbi.1003537
     \endverb
     \field{issn}{15537358}
+    \field{number}{4}
     \field{title}{{BEAST 2: A Software Platform for Bayesian Evolutionary
   Analysis}}
     \field{volume}{10}
@@ -297,35 +275,19 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    A wealth of information on metabolic parameters of a species can be
-  inferred from observations on species that are phylogenetically related.
-  Phylogeny-based information can complement direct empirical evidence, and is
-  particularly valuable if experiments on the species of interest are not
-  feasible. The PhyloPars web server provides a statistically consistent method
-  that combines an incomplete set of empirical observations with the species
-  phylogeny to produce a complete set of parameter estimates for all species.
-  It builds upon a state-of-the-art evolutionary model, extended with the
-  ability to handle missing data. The resulting approach makes optimal use of
-  all available information to produce estimates that can be an order of
-  magnitude more accurate than ad-hoc alternatives. Uploading a phylogeny and
-  incomplete feature matrix suffices to obtain estimates of all missing values,
-  along with a measure of certainty. Real-time cross-validation provides
-  further insight in the accuracy and bias expected for estimated values. The
-  server allows for easy, efficient estimation of metabolic parameters, which
-  can benefit a wide range of fields including systems biology and ecology.
-  PhyloPars is available at: http://www.ibi.vu.nl/programs/phylopars/.%
-    }
     \verb{doi}
     \verb 10.1093/nar/gkp370
     \endverb
     \field{isbn}{03051048 (ISSN)}
     \field{issn}{03051048}
+    \field{number}{suppl2}
+    \field{pages}{W179\bibrangedash W184}
     \field{title}{{PhyloPars: Estimation of missing parameter values using
   phylogeny}}
+    \field{volume}{37}
     \field{journaltitle}{Nucleic Acids Research}
     \field{year}{2009}
   \endentry
@@ -359,45 +321,19 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{abstract}{%
-    1. The goal of conservation and restoration activities is to maintain
-  biological diversity and the ecosystem services that this diversity provides.
-  These activities traditionally focus on the measures of species diversity
-  that include only information on the presence and abundance of species. Yet
-  how diversity influences ecosystem function depends on the traits and niches
-  filled by species. 2. Biological diversity can be quantified in ways that
-  account for functional and phenotypic differences. A number of such measures
-  of functional diversity (FD) have been created, quantifying the distribution
-  of traits in a community or the relative magnitude of species similarities
-  and differences. We review FD measures and why they are intuitively useful
-  for understanding ecological patterns and are important for management. 3. In
-  order for FD to be meaningful and worth measuring, it must be correlated with
-  ecosystem function, and it should provide information above and beyond what
-  species richness or diversity can explain. We review these two propositions,
-  examining whether the strength of the correlation between FD and species
-  richness varies across differing environmental gradients and whether FD
-  offers greater explanatory power of ecosystem function than species richness.
-  4. Previous research shows that the relationship between FD and richness is
-  complex and context dependent. Different functional traits can show
-  individual responses to different gradients, meaning that important changes
-  in diversity can occur with minimal change in richness. Further, FD can
-  explain variation in ecosystem function even when richness does not. 5.
-  Synthesis and applications. FD measures those aspects of diversity that
-  potentially affect community assembly and function. Given this explanatory
-  power, FD should be incorporated into conservation and restoration
-  decision-making, especially for those efforts attempting to reconstruct or
-  preserve healthy, functioning ecosystems.%
-    }
     \verb{doi}
     \verb 10.1111/j.1365-2664.2011.02048.x
     \endverb
     \field{isbn}{0021-8901}
     \field{issn}{00218901}
+    \field{number}{5}
+    \field{pages}{1079\bibrangedash 1087}
     \field{title}{{Beyond species: Functional diversity and the maintenance of
   ecological processes and services}}
+    \field{volume}{48}
     \field{journaltitle}{Journal of Applied Ecology}
     \field{year}{2011}
   \endentry
@@ -417,7 +353,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1983}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -449,7 +385,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{note}{R package version 0.5.0}
@@ -480,7 +416,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -500,8 +436,10 @@
     \verb{doi}
     \verb 10.12688/f1000research.2-191.v2
     \endverb
+    \field{number}{191}
     \field{title}{{taxize : taxonomic search and retrieval in R [version 2;
   referees: 3 approved]}}
+    \field{volume}{2}
     \field{journaltitle}{F1000Research}
     \field{year}{2013}
   \endentry
@@ -533,13 +471,13 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
     \verb 10.1016/j.ecoinf.2021.101315
     \endverb
-    \field{number}{April}
+    \field{pages}{101315}
     \field{title}{{Ecological Informatics Using phylogenetic information to
   impute missing functional trait values in ecological databases}}
     \field{volume}{63}
@@ -603,7 +541,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -611,8 +549,10 @@
     \endverb
     \field{isbn}{1600-0587}
     \field{issn}{09067590}
+    \field{pages}{239\bibrangedash 249}
     \field{title}{{On the selection of phylogenetic eigenvectors for ecological
   analyses}}
+    \field{volume}{35}
     \verb{file}
     \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
     \verb ded/Diniz-Filho et al. - 2012 - On the selection of phylogenetic eige
@@ -738,7 +678,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -818,7 +758,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{number}{2}
@@ -860,47 +800,17 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
-    \field{abstract}{%
-    Aim: Trait data are increasingly being used in studies investigating the
-  impacts of global changes on the structure and functioning of ecological
-  communities. Despite a growing number of trait data collations for
-  terrestrial vertebrates, there is to date no global assessment of the gaps
-  and biases the data present. Here, we assess whether terrestrial vertebrate
-  trait data are taxonomically, spatially and phylogenetically biased.
-  Location: Global. Time period: Present. Major taxa studied: Terrestrial
-  vertebrates. Methods: We compile seven ecological traits and quantify
-  coverage as the proportion of species for which an estimate is available. For
-  a species, we define completeness as the proportion of non-missing values
-  across traits. We assess whether coverage and completeness differ across
-  classes and examine phylogenetic biases in trait data. To investigate spatial
-  biases, we test whether wider-ranging species have more complete trait data
-  than narrow-ranging species. Additionally, we test whether species-rich
-  regions, which are of most concern for conservation, are less well sampled
-  than species-poor regions. Results: Mammals and birds are well sampled even
-  in species-rich regions. For reptiles and amphibians (herptiles), only body
-  size presents a high coverage (>80%), in addition to habitat-related
-  variables (amphibians). Herptiles are poorly sampled for other traits. The
-  shortfalls are particularly acute in some species-rich regions and for
-  certain clades. Across all classes, geographically rarer species have less
-  complete trait information. Main conclusions: Trait information is less
-  available on average in some of the most diverse areas and in geographically
-  rarer species, both of which crucial for biodiversity conservation. Gaps in
-  trait data might impede our ability to conduct large-scale analyses, whereas
-  biases can impact the validity of extrapolations. A short-term solution to
-  the problem is to estimate missing trait data using imputation techniques,
-  whereas a longer-term and more robust filling of existing gaps requires
-  continued data-collection efforts.%
-    }
     \verb{doi}
     \verb 10.1111/geb.13184
     \endverb
     \field{issn}{14668238}
-    \field{number}{November 2019}
-    \field{pages}{1\bibrangedash 16}
+    \field{number}{12}
+    \field{pages}{2143\bibrangedash 2158}
     \field{title}{{Global gaps in trait data for terrestrial vertebrates}}
+    \field{volume}{29}
     \verb{file}
     \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
     \verb ded/Etard, Morrill, Newbold - 2020 - Global gaps in trait data for te
@@ -956,7 +866,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -1026,7 +936,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -1058,7 +968,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1992}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -1116,7 +1026,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -1170,7 +1080,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{number}{2}
@@ -1199,7 +1109,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{note}{R package version 0.4.1}
@@ -2676,11 +2586,11 @@
     }
     \keyw{Data sharing,Global change,Habitat destruction,Land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4160,11 +4070,11 @@
     \keyw{data sharing,global biodiversity modeling,global change,habitat
   destruction,land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4190,7 +4100,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{title}{{The IUCN Red List of Threatened Species.
@@ -4237,7 +4147,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4269,7 +4179,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -4340,7 +4250,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -4537,7 +4447,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \field{abstract}{%
@@ -4605,7 +4515,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4652,7 +4562,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4705,7 +4615,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4740,7 +4650,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -4826,7 +4736,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \field{abstract}{%
@@ -4872,7 +4782,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -4957,7 +4867,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -5056,7 +4966,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{11484}
@@ -5081,7 +4991,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{217\bibrangedash 223}
@@ -5115,7 +5025,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -5186,7 +5096,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5239,7 +5149,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{{Package ‘ PVR '. Phylogenetic Eigenvectors Regression and
@@ -5280,7 +5190,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5341,7 +5251,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5407,7 +5317,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5492,7 +5402,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -5586,7 +5496,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -5643,7 +5553,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{number}{3}
@@ -5700,7 +5610,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \verb{doi}
