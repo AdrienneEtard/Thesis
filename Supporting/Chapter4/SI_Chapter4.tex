@@ -5,10 +5,10 @@ For mammals and birds, diet information was obtained from the EltonTraits databa
  For each species, I calculated diet breadth as the number of consumed food items (regardless of the percent use of those items; I kept vertebrate food items grouped together in the calculation of diet breadth, such that I did not count carrion as a separate food item). %Trophic levels for birds were also inferred from the primary diet (with fruit/nectar and plant/seed eaters considered herbivores, invertebrates/vertebrate eaters considered carnivores, and the remaining species considered omnivores).
 
 
-For amphibians, diet information was partly extracted from the AmphiBIO database \citep{Oliveira2017}, and partly compiled from the literature (see next section). In AmphiBIO, diet information was recorded as the consumption of six food items (leaves, flowers, seeds, fruit, arthropods and vertebrates), but the percent use of these items was not recorded (only whether they were consumed or not). From AmphiBIO, I classified amphibians into the different diet categories, depending on the combinations of consumed food items. 
+For amphibians, diet information was partly extracted from the AmphiBIO database \citep{Oliveira2017}, and partly compiled from the literature (see next paragraph). In AmphiBIO, diet information was recorded as the consumption of six food items (leaves, flowers, seeds, fruit, arthropods and vertebrates), but the percent use of these items was not recorded (only whether they were consumed or not). From AmphiBIO, I classified amphibians into the different diet categories, depending on the combinations of consumed food items (with species consuming both plant and animal matter classified as omnivores; and species consuming both vertebrates and invertebrates also classified as omnivores; and species consuming a plant or seed, fruit or nectar, vertebrates only or invertebrates only classified into the corresponding groups). 
 
 %\subsection{Diet data complements for amphibians and reptiles}
-To increase diet data coverage for amphibians, I compiled data from published papers and from the grey literature, targeting species occurring in the PREDICTS database (which I used for inferring land-use responses). I was able to collect diet information for an additional 108 amphibians from 26 published sources (all found to be invertebrate eaters; see below for the list of sources). For reptiles, there was no readily available diet information (except for trophic level information, see \citet{Etard2020}). Thus, I collected diet data from the literature, again specifically targeting reptiles occurring in the PREDICTS database. From the literature, I added diet information for 239 reptiles. Finally, diet breadth was calculated across amphibians and reptiles from the recorded food items. The compiled diet data are available at:
+To increase diet data coverage for amphibians, I used data compiled by Rhiannon Osborne-Tonner, collected during her MSci project at UCL. Rhiannon Osborne-Tonner collected data from published papers and from the grey literature, targeting species occurring in the PREDICTS database (which I used for inferring land-use responses). Using these data, I was able to supplement my datasets with diet information for an additional 108 amphibians from 26 published sources (all found to be invertebrate eaters; see below for the list of sources). For reptiles, there was no readily available diet information (except for trophic level information, see \citet{Etard2020}). Thus, I used diet data compiled by Rhiannon Osborne-Tonner, collected from the literature, again specifically targeting reptiles occurring in the PREDICTS database. I was thus able to add diet information for 239 reptiles. Finally, I calculated diet breadth across amphibians and reptiles from the recorded food items. The diet data compiled by Rhiannon Osborne-Tonner are available at:
 \url{https://figshare.com/articles/Reptile_Diet_csv/12024309} (DOI: 10.6084/m9.figshare.12024309.v1) and
 \url{https://figshare.com/articles/Untitled_Item/12024312} (DOI: 10.6084/m9.figshare.12024312.v4).
 
@@ -107,7 +107,7 @@ Following \citet{Penone2014}, I included the first ten phylogenetic eigenvectors
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter4/Figures/Imputation_errors}
-\caption[Out-of-bag estimation of imputation errors for the traits included in the analyses]{\textbf{Out-of-bag estimation of imputation errors for the traits included in the analyses.} \textbf{(a)} For the categorical traits, I show the proportion of falsely classified traits (`PFC', out-of-bag estimates); \textbf{(b)} For the continuous traits, I calculate the normalised root-mean-squared error (NRMSE), from the out-of-bag mean square error that I divide by the standard deviation of the known trait distribution. The lower the NRMSE, the lower the imputation error, with values close to 0 indicating low imputation error and values close to 1 tending to indicate high imputation error.} 
+\caption[Out-of-bag estimation of imputation errors for the traits included in the analyses]{\textbf{Out-of-bag estimation of imputation errors for the traits included in the analyses.} \textbf{(a)} For the categorical traits, I show the proportion of falsely classified traits (`PFC', out-of-bag estimates); \textbf{(b)} For the continuous traits, I calculate the normalised root-mean-squared error (NRMSE), from the out-of-bag mean square error that I divide by the standard deviation of the known trait distribution. The lower the NRMSE, the lower the imputation error, with values close to 0 indicating lower imputation error and values close to 1 tending to indicate higher imputation error.} 
 % ($\text{NRMSE}=\frac{\sqrt{\text{mean}(\text{X}_{\text{true}}-\text{X}_{\text{imputed}})^2}}{\text{standard deviation (X}_\text{true})}$, where X represents values of a trait distribution).}
 \label{SI_4_Figure2}
 \end{figure}
@@ -348,16 +348,17 @@ Land-use intensity & $3.4$ \\
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.9, trim={0 1.75cm 0 2cm},clip]{Supporting/Chapter4/Figures/ClimVars_groups2}
-\caption[Groups of intercorrelated climatic variables using a cutoff of 0.65 for Pearson's correlation coefficient]{\textbf{Groups of intercorrelated climatic variables using a cutoff of 0.65 for Pearson's correlation coefficient}, obtained using the `removeCollinearity' R function (`virtualspecies' package, \citet{virtualspecies}).}
+\caption[Groups of intercorrelated climatic variables using a cutoff of 0.65 for Pearson's correlation coefficient]{\textbf{Groups of intercorrelated climatic variables using a cutoff of 0.65 for Pearson's correlation coefficient}, obtained using the `removeCollinearity' R function (`virtualspecies' package, \citet{virtualspecies}). Variables figuring in the same red boxes were correlated with Pearson's correlation coefficient > 0.65.}
 \label{SI_4_Figure5}
 \end{figure}
 
 
 \subsection{CENFA estimation and resolution}
-I estimated climate-change sensitivity across terrestrial vertebrates with the CENFA framework using three different resolutions for the species distribution files and the climatic variables: 50 km$^2$, 10 km$^2$ and 5 km$^2$. Indeed, the finer the resolution, the better species distribution is likely to be captured, particularly for narrow-ranging species (Figure \ref{SI_4_Figure6}). When working with coarser resolutions, the actual geographical distribution of a narrow-ranging species might be overestimated (Figure \ref{SI_4_Figure6}), such that the climatic niche breadth of the species might also be overestimated, and consequently its climate-change sensitivity might be underestimated. However, finer resolutions are more computationally demanding, which can be limiting when working across several thousand species. 
+I estimated climate-change sensitivity across terrestrial vertebrates with the CENFA framework using three different resolutions for the species distribution files and the climatic variables: 50 km$^2$, 10 km$^2$ and 5 km$^2$. The finer the resolution, the better the species' distribution is likely to be captured, particularly for narrow-ranging species (Figure \ref{SI_4_Figure6}). When working with coarser resolutions, the actual geographical distribution of a narrow-ranging species might be overestimated (Figure \ref{SI_4_Figure6}), such that the climatic niche breadth of the species might also be overestimated; consequently, its climate-change sensitivity may be underestimated. However, finer resolutions are more computationally demanding, which can be limiting when working across several thousand species. 
 
-Thus, I looked for a resolution that provided the best estimations of climate-change sensitivity for the narrow-ranging species while requiring acceptable computational load. With a resolution of 50 km$^2$, climate-change sensitivity tended to be overestimated for a larger number of narrow-ranging species than at 10 km$^2$ (Figure \ref{SI_4_Figure7}); and at 10 km$^2$, climate-change sensitivity tended to be overestimated for a larger number of narrow-ranging species than at 5 km$^2$ (Figure \ref{SI_4_Figure7}). Below 5 km$^2$, I deemed the computational load not acceptable for a global estimation of climate-change sensitivity across terrestrial vertebrates.
-
+Thus, I looked for a resolution that provided the best compromise between accuracy of sensitivity estimation and computational load (Figure \ref{SI_4_Figure7}).
+% With a resolution of 50 km$^2$, climate-change sensitivity tended to be overestimated for a larger number of narrow-ranging species than at 10 km$^2$ (Figure \ref{SI_4_Figure7}); and at 10 km$^2$, climate-change sensitivity tended to be overestimated for a larger number of narrow-ranging species than at 5 km$^2$ (Figure \ref{SI_4_Figure7}). 
+%Below 5 km$^2$, I deemed the computational load not acceptable for a global estimation of climate-change sensitivity across terrestrial vertebrates.
 Hence, I chose to work with a resolution of 5 km$^2$. At this resolution, there were still some narrow-ranging species for which sensitivity was likely overestimated (Figure \ref{SI_4_Figure7}). To prevent any impact of these species on the analyses, I removed species with the smallest geographical range areas, using a conservative threshold of 100 km$^2$ for geographical range area (Figure \ref{SI_4_Figure7}).
 
 \vspace{0.5cm}
@@ -655,7 +656,7 @@ Primary diet & $3.6$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont
   \caption[Summary for the PGLS model fitted on amphibians]{\textbf{Summary for the PGLS model fitted on amphibians, investigating associations between species-level ecological characteristics and climate-change sensitivity,} excluding species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=4,537).} 
-  \label{SI_4_Table_14} 
+  \label{SI_4_Table14} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -703,7 +704,7 @@ Primary diet: Vertebrates & $0.13$ & $0.15$ & $0.87$ & $0.39$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont
   \caption[Summary for the PGLS model fitted on birds]{\textbf{Summary for the PGLS model fitted on birds, investigating associations between species-level ecological characteristics and climate-change sensitivity,} excluding species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=10,198).} 
-  \label{SI_4_Table_15} 
+  \label{SI_4_Table15} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -754,7 +755,7 @@ Primary diet: Vertebrates & $0.01$ & $0.02$ & $0.83$ & $0.41$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on mammals]{\textbf{Summary for the PGLS model fitted on mammals, investigating associations between species-level ecological characteristics and climate-change sensitivity,} excluding species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=4,712).} 
-  \label{SI_4_Table_16} 
+  \label{SI_4_Table16} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -804,7 +805,7 @@ Primary diet: Vertebrates & $$-$0.04$ & $0.04$ & $$-$0.98$ & $0.33$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on reptiles]{\textbf{Summary for the PGLS model fitted on reptiles, looking at the effects of species-level ecological characteristics on climate-change sensitivity,} excluding species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=7,330).} 
-  \label{SI_4_Table_17} 
+  \label{SI_4_Table17} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -849,6 +850,7 @@ Primary diet: Vertebrates & $$-$0.02$ & $0.02$ & $$-$1.05$ & $0.30$ \\
 
 \clearpage
 
+\begin{comment}
 \subsection{Summaries for the PGLS models fitted on all species (including those with range area $\leqslant$100 km\textbf{$^2$})}
 
 \begin{table}[!h]
@@ -856,7 +858,7 @@ Primary diet: Vertebrates & $$-$0.02$ & $0.02$ & $$-$1.05$ & $0.30$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on amphibians, with all species (including species whose range area was $\leqslant$100 km\textbf{$^2$})]{\textbf{Summary for the PGLS model fitted on amphibians, investigating associations between species-level ecological characteristics and climate-change sensitivity,} including species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=5,197).} 
-  \label{SI_4_Table_18} 
+  \label{SI_4_Table18} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -893,7 +895,7 @@ Primary diet: Vertebrates & $0.20$ & $0.18$ & $1.14$ & $0.26$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on birds, with all species (including species whose range area was $\leqslant$100 km\textbf{$^2$})]{\textbf{Summary for the PGLS model fitted on birds, investigating associations between species-level ecological characteristics and climate-change sensitivity,} including species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=10,340).} 
-  \label{SI_4_Table_19} 
+  \label{SI_4_Table19} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -934,7 +936,7 @@ Primary diet: Vertebrates & $0.02$ & $0.02$ & $0.85$ & $0.39$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on mammals, with all species (including species whose range area was $\leqslant$100 km\textbf{$^2$})]{\textbf{Summary for the PGLS model fitted on mammals, investigating associations between species-level ecological characteristics and climate-change sensitivity,} including species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=4,841).} 
-  \label{SI_4_Table_20} 
+  \label{SI_4_Table20} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -977,7 +979,7 @@ Primary diet: Vertebrates & $$-$0.06$ & $0.04$ & $$-$1.59$ & $0.11$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on reptiles, with all species (including species whose range area was $\leqslant$100 km\textbf{$^2$})]{\textbf{Summary for the PGLS model fitted on reptiles, investigating associations between species-level ecological characteristics and climate-change sensitivity,} including species whose range area was $\leqslant$100 km\textbf{$^2$} (sample size: n=7,945).} 
-  \label{SI_4_Table_21} 
+  \label{SI_4_Table21} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -1013,14 +1015,16 @@ Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\
 
 \clearpage
 
+\end{comment}
+
 \subsection{Effects for the PGLS models fitted on all species, against effects for the PGLS models fitted on species whose range area was $>$100 km$^2$}
 
 %%Figures for all species against species >100km2
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.9, trim={0 0 5.5cm 0}, clip]{Supporting/Chapter4/Figures/ClimateChangeModelsEstimates.pdf}
+\includegraphics[scale=0.85, trim={0 0 5.5cm 0}, clip]{Supporting/Chapter4/Figures/ClimateChangeModelsEstimates.pdf}
 \caption[Effects for the PGLS models investigating associations between species-level ecological characteristics and climate-change sensitivity, either fitted on all species (y--axis), or fitted on the species whose range area was $>$100 km$^2$ (x--axis)]{\textbf{Effects for the PGLS models investigating associations between species-level ecological characteristics and climate-change sensitivity}, either fitted on all species (y--axis), or fitted on the species whose range area was $>$100 km$^2$ (x--axis). Overall, the estimates from both sets of models were congruent, except for those estimated for geographical range area (I show the effects for range area separately from the effects of other characteristics). Across all classes, the relationship between sensitivity and geographical range area was reversed between the two sets of models. I found that sensitivity was positively associated with geographical range area when including all species, likely because of the underestimation of climate-change sensitivity for the most narrow-ranging species when working with a resolution of 5 km$^2$ (see Figure \ref{SI_4_Figure7}). The dashed line is the identity line (y=x).}
-\label{SI_4_Figure_22}
+\label{SI_4_Figure22}
 \end{figure}
 
 \clearpage
@@ -1029,10 +1033,10 @@ Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\
 %% Synthesis table
 \begin{landscape}
 %\subsection{Synthesis table}
-\label{SI_4_Table_22}
+\label{SI_4_Table22}
 \begin{table}
 \centering
-\caption[Summary of the effects of the ecological characteristics (except for diet) on (a) species' responses to disturbed land uses (`within land-use type' effects) and on (b) species climate-change sensitivity, for each class of terrestrial vertebrates, from validation models using empirical, non imputed trait values]{\textbf{Summary of the effects of the ecological characteristics (except for diet) on (a) species' responses to disturbed land uses (`within land-use type' effects) and on (b) species climate-change sensitivity, for each class of terrestrial vertebrates, \textit{from the models fitted on empirical trait values (excluding all imputed values)}.} The symbol \colorbox{Salmon}{\textcolor{BrickRed}{\textbf{--}}} indicates where a characteristic has a significant negative effect on occurrence probability within a disturbed land-use type (within any of the land-use intensities), or where the characteristic renders species significantly more sensitive to climate change. A \colorbox{YellowGreen}{\textcolor{ForestGreen}{\textbf{+}}} indicates a significantly positive effect of a characteristic on occurrence probability in a land-use type (within any of the land-use intensities), or significantly lower sensitivity to climate change. For the land-use effects, I report `within land-use type effects' here, that is, within a disturbed land use whether there were significant differences in occurrence probability among species with different trait values. These effects were derived from the interactive terms of the full models.}
+\caption[Summary of the effects of the ecological characteristics (except for diet) on (a) species' responses to disturbed land uses (`within land-use type' effects) and (b) species climate-change sensitivity, for each class of terrestrial vertebrates, from validation models using empirical, non imputed trait values]{\textbf{Summary of the effects of the ecological characteristics (except for diet) on (a) species' responses to disturbed land uses (`within land-use type' effects) and (b) species climate-change sensitivity, for each class of terrestrial vertebrates, \textit{from the models fitted on empirical trait values (excluding all imputed values)}.} The symbol \colorbox{Salmon}{\textcolor{BrickRed}{\textbf{--}}} indicates where a characteristic has a significant negative effect on occurrence probability within a disturbed land-use type (within any of the land-use intensities), or where the characteristic renders species significantly more sensitive to climate change. A \colorbox{YellowGreen}{\textcolor{ForestGreen}{\textbf{+}}} indicates a significantly positive effect of a characteristic on occurrence probability in a land-use type (within any of the land-use intensities), or significantly lower sensitivity to climate change. For the land-use effects, I report `within land-use type effects' here, that is, within a disturbed land use whether there were significant differences in occurrence probability among species with different trait values. These effects were derived from the interactive terms of the full models.}
 \includegraphics[scale=0.8]{Supporting/Chapter4/Figures/SynthesisTableValidation2}
 \end{table}
 \end{landscape}
@@ -1051,10 +1055,12 @@ Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.65]{Supporting/Chapter4/Figures/Partial_models_predictions/Validations/Diet}
-\caption[Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions in each class: from validation models using empirical, non imputed trait values]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions in each class. The predictions were obtained from the partial models fitted in each class for diet, \textit{estimated using empirical trait data subsets (i.e., excluding imputed trait values)}}. Empty plots are drawn where there were no data for a diet category in  given class (e.g., amphibian fruit/nectar eaters). Effects could not be estimated for urban reptiles, as well as for urban vertebrate, fruit/nectar and plant/seed eaters for mammals because there were no sampled species. The predictions are rescaled with reference to minimally-used primary vegetation. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
-\label{SI_4_Figure_23}
+\caption[Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions in each class: from validation models using empirical, non imputed trait values]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions in each class. The predictions were obtained from the partial models fitted in each class for diet, \textit{estimated using empirical trait data subsets (i.e., excluding imputed trait values)}}. Empty plots are drawn where there were no data for a diet category in a given class (e.g., amphibian fruit/nectar eaters). Effects could not be estimated for urban reptiles, as well as for urban vertebrate, fruit/nectar and plant/seed eaters for mammals because there were no sampled species. The predictions are rescaled with reference to minimally-used primary vegetation. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\label{SI_4_Figure23}
 \end{figure}
 
+
+\begin{comment}
 
 %\clearpage
 
@@ -1067,7 +1073,7 @@ Primary diet: Vertebrates & $$-$0.01$ & $0.02$ & $$-$0.64$ & $0.52$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont  
   \caption[Summary for the PGLS model fitted on amphibians: validations using the empirical trait data subset]{\textbf{Summary for the PGLS model fitted on amphibians, \textit{using the empirical trait data subset (i.e., excluding imputed trait values)}}, looking at the association between the species-level ecological characteristics and climate-change sensitivity.} 
-  \label{SI_4_Table_23} 
+  \label{SI_4_Table23} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -1094,7 +1100,7 @@ Diel activity: Non-nocturnal & $$-$0.009$ & $0.044$ & $$-$0.205$ & $0.839$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on birds: validations using the empirical trait data subset]{\textbf{Summary for the PGLS model fitted on birds, \textit{using the empirical trait data subset (i.e, excluding imputed traits values)}}, looking at the association between the species-level ecological characteristics and climate-change sensitivity.} 
-  \label{SI_4_Table_24} 
+  \label{SI_4_Table24} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -1125,7 +1131,7 @@ Primary diet: Vertebrates & $$-$0.005$ & $0.022$ & $$-$0.247$ & $0.805$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on mammals: validations using the empirical trait data subset]{\textbf{Summary for the PGLS model fitted on mammals, \textit{using the empirical trait data subset (i.e., excluding imputed trait values)}}, looking at the association between the species-level ecological characteristics and climate-change sensitivity.} 
-  \label{SI_4_Table_25} 
+  \label{SI_4_Table25} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -1157,7 +1163,7 @@ Primary diet: Vertebrates & $$-$0.039$ & $0.040$ & $$-$0.995$ & $0.320$ \\
 \renewcommand{\arraystretch}{1}
 \begin{center}\fontsize{9}{11}\selectfont 
   \caption[Summary for the PGLS model fitted on reptiles: validations using the empirical trait data subset]{\textbf{Summary for the PGLS model fitted on reptiles, \textit{using the empirical trait data subset (i.e., excluding imputed trait values)}}, looking at the association between the species-level ecological characteristics and climate-change sensitivity.} 
-  \label{SI_4_Table_26} 
+  \label{SI_4_Table26} 
 \begin{tabular}{@{\extracolsep{5pt}} ccccc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -1176,5 +1182,8 @@ Diel activity: Non-nocturnal & $$-$0.118$ & $0.080$ & $$-$1.486$ & $0.143$ \\
 \end{tabular} 
 \end{center}
 \end{table} 
+
+\end{comment}
+
 
 \clearpage

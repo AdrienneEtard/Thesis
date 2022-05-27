@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -51,7 +51,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -126,7 +126,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -229,7 +229,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -275,7 +275,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -321,7 +321,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -353,7 +353,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1983}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -385,7 +385,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{note}{R package version 0.5.0}
@@ -416,7 +416,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -471,7 +471,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -541,7 +541,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -678,7 +678,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{abstract}{%
@@ -758,7 +758,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{number}{2}
@@ -800,7 +800,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \verb{doi}
@@ -866,7 +866,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -936,7 +936,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -968,14 +968,17 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1992}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
     \verb 10.1080/01621459.1992.10475190
     \endverb
     \field{issn}{1537274X}
-    \field{title}{{Generalized collinearity diagnostics}}
+    \field{number}{417}
+    \field{pages}{178\bibrangedash 183}
+    \field{title}{{Generalized Collinearity Diagnostics}}
+    \field{volume}{87}
     \field{journaltitle}{Journal of the American Statistical Association}
     \field{year}{1992}
   \endentry
@@ -1026,7 +1029,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -1080,9 +1083,12 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.18637/jss.v033.i02
+    \endverb
     \field{number}{2}
     \field{pages}{1\bibrangedash 22}
     \field{title}{MCMC Methods for Multi-Response Generalized Linear Mixed
@@ -1109,7 +1115,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{note}{R package version 0.4.1}
@@ -2586,11 +2592,11 @@
     }
     \keyw{Data sharing,Global change,Habitat destruction,Land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -2598,8 +2604,11 @@
     \endverb
     \field{isbn}{2045-7758}
     \field{issn}{20457758}
+    \field{number}{24}
+    \field{pages}{4701\bibrangedash 4735}
     \field{title}{{The PREDICTS database: A global database of how local
   terrestrial biodiversity responds to human impacts}}
+    \field{volume}{4}
     \field{journaltitle}{Ecology and Evolution}
     \field{year}{2014}
   \endentry
@@ -4070,11 +4079,11 @@
     \keyw{data sharing,global biodiversity modeling,global change,habitat
   destruction,land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4082,8 +4091,11 @@
     \endverb
     \field{isbn}{20457758}
     \field{issn}{20457758}
+    \field{number}{1}
+    \field{pages}{145\bibrangedash 188}
     \field{title}{{The database of the PREDICTS (Projecting Responses of
   Ecological Diversity In Changing Terrestrial Systems) project}}
+    \field{volume}{7}
     \field{journaltitle}{Ecology and Evolution}
     \field{year}{2017}
   \endentry
@@ -4100,11 +4112,13 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{I}
     \field{sortinithash}{I}
-    \field{title}{{The IUCN Red List of Threatened Species.
-  http://www.iucnredlist.org.}}
+    \field{title}{{The IUCN Red List of Threatened Species.}}
+    \verb{url}
+    \verb http://www.iucnredlist.org
+    \endverb
     \field{volume}{Version 2020.1.}
     \field{year}{2020}
   \endentry
@@ -4147,14 +4161,16 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
     \verb 10.1038/nature11631
     \endverb
     \field{issn}{00280836}
+    \field{pages}{444\bibrangedash 448}
     \field{title}{{The global diversity of birds in space and time}}
+    \field{volume}{491}
     \field{journaltitle}{Nature}
     \field{year}{2012}
   \endentry
@@ -4179,38 +4195,17 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
-    \field{abstract}{%
-    Human activities continue to Erode the tree of life, requiring us to
-  prioritize research and conservation. Amphibians represent key victims and
-  bellwethers of global change, and the need for action to conserve them is
-  drastically outpacing knowledge. We provide a phylogeny incorporating nearly
-  all extant amphibians (7,238 species). Current amphibian diversity is
-  composed of both older, depauperate lineages and extensive, more recent
-  tropical radiations found in select clades. Frog and salamander
-  diversification increased strongly after the Cretaceous-Palaeogene boundary,
-  preceded by a potential mass-extinction event in salamanders. Diversification
-  rates of subterranean caecilians varied little over time. Biogeographically,
-  the Afro- and Neotropics harbour a particularly high proportion of Gondwanan
-  relicts, comprising species with high evolutionary distinctiveness (ED).
-  These high-ED species represent a large portion of the branches in the
-  present tree: around 28% of all phylogenetic diversity comes from species in
-  the top 10% of ED. The association between ED and imperilment is weak, but
-  many species with high ED are now imperilled or lack formal threat status,
-  suggesting opportunities for integrating evolutionary position and
-  phylogenetic heritage in addressing the current extinction crisis. By
-  providing a phylogenetic estimate for extant amphibians and identifying their
-  threats and ED, we offer a preliminary basis for a quantitatively informed
-  global approach to conserving the amphibian tree of life.%
-    }
     \verb{doi}
     \verb 10.1038/s41559-018-0515-5
     \endverb
     \field{issn}{2397334X}
+    \field{pages}{850\bibrangedash 858}
     \field{title}{{The interplay of past diversification and evolutionary
   isolation with present imperilment across the amphibian tree of life}}
+    \field{volume}{2}
     \field{journaltitle}{Nature Ecology and Evolution}
     \field{year}{2018}
   \endentry
@@ -4250,45 +4245,17 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
-    \field{abstract}{%
-    Aim: Trait data are widely used in ecological and evolutionary phylogenetic
-  comparative studies, but often values are not available for all species of
-  interest. Traditionally, researchers have excluded species without data from
-  analyses, but estimation of missing values using imputation has been proposed
-  as a better approach. However, imputation methods have largely been designed
-  for randomly missing data, whereas trait data are often not missing at random
-  (e.g., more data for bigger species). Here, we evaluate the performance of
-  approaches for handling missing values when considering biased datasets.
-  Location: Any. Time period: Any. Major taxa studied: Any. Methods: We
-  simulated continuous traits and separate response variables to test the
-  performance of nine imputation methods and complete-case analysis (excluding
-  missing values from the dataset) under biased missing data scenarios. We
-  characterized performance by estimating the error in imputed trait values
-  (deviation from the true value) and inferred trait–response relationships
-  (deviation from the true relationship between a trait and response). Results:
-  Generally, Rphylopars imputation produced the most accurate estimate of
-  missing values and best preserved the response–trait slope. However,
-  estimates of missing data were still inaccurate, even with only 5% of values
-  missing. Under severe biases, errors were high with every approach.
-  Imputation was not always the best option, with complete-case analysis
-  frequently outperforming Mice imputation and, to a lesser degree, BHPMF
-  imputation. Mice, a popular approach, performed poorly when the response
-  variable was excluded from the imputation model. Main conclusions: Imputation
-  can handle missing data effectively in some conditions but is not always the
-  best solution. None of the methods we tested could deal effectively with
-  severe biases, which can be common in trait datasets. We recommend rigorous
-  data checking for biases before and after imputation and propose variables
-  that can assist researchers working with incomplete datasets to detect data
-  biases and minimize errors.%
-    }
     \verb{doi}
     \verb 10.1111/geb.13185
     \endverb
     \field{issn}{14668238}
+    \field{number}{1}
+    \field{pages}{51\bibrangedash 62}
     \field{title}{{Handling missing values in trait data}}
+    \field{volume}{30}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2021}
   \endentry
@@ -4447,32 +4414,19 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
-    \field{abstract}{%
-    Analyses of life-history, ecological, and geographic trait differences
-  among species, their causes, correlates, and likely consequences are
-  increasingly important for understanding and conserving biodiversity in the
-  face of rapid global change. Assembling multispecies trait data from diverse
-  literature sources into a single comprehensive data set requires detailed
-  consideration of methods to reliably compile data for particular species, and
-  to derive single estimates from multiple sources based on different
-  techniques and definitions. Here we describe PanTHERIA, a species-level data
-  set compiled for analysis of life history, ecology, and geography of all
-  known extant and recently extinct mammals. PanTHERIA is derived from a
-  database capable of holding multiple geo-referenced values for variables
-  within a species containing 100 740 lines of biological data for extant and
-  recently extinct mammalian species, collected over a period of three years by
-  20 individuals. PanTHERIA also includes spatial databases o...%
-    }
     \verb{doi}
     \verb 10.1890/08-1494.1
     \endverb
     \field{isbn}{0012-9658}
     \field{issn}{0012-9658}
+    \field{number}{9}
+    \field{pages}{2648\bibrangedash 2648}
     \field{title}{{PanTHERIA: a species-level database of life history,
   ecology, and geography of extant and recently extinct mammals}}
+    \field{volume}{90}
     \field{journaltitle}{Ecology}
     \field{year}{2009}
   \endentry
@@ -4515,7 +4469,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4562,14 +4516,17 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
     \verb 10.1111/ecog.01388
     \endverb
+    \field{number}{6}
+    \field{pages}{599\bibrangedash 607}
     \field{title}{virtualspecies, an R package to generate virtual species
   distributions}
+    \field{volume}{39}
     \field{journaltitle}{Ecography}
     \field{year}{2015}
   \endentry
@@ -4615,7 +4572,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4650,7 +4607,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -4736,7 +4693,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \field{abstract}{%
@@ -4782,7 +4739,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -4867,7 +4824,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -4966,7 +4923,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{11484}
@@ -4991,7 +4948,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{217\bibrangedash 223}
@@ -5025,7 +4982,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -5096,7 +5053,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5149,7 +5106,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{title}{{Package ‘ PVR '. Phylogenetic Eigenvectors Regression and
@@ -5190,7 +5147,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5251,7 +5208,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5317,7 +5274,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5402,7 +5359,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -5496,7 +5453,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -5553,7 +5510,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \field{number}{3}
@@ -5610,7 +5567,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \verb{doi}
