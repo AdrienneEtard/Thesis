@@ -45,43 +45,43 @@ Too many commas in name 2 of "Almond, R.E.A., Grooten M. and Petersen, T. (Eds).
 while executing---line 2805 of file biblatex.bst
 You've used 366 entries,
             6365 wiz_defined-function locations,
-            4442 strings with 418231 characters,
-and the built_in function-call counts, 6053685 in all, are:
-= -- 520788
-> -- 69159
-< -- 14478
-+ -- 163835
-- -- 35838
-* -- 532076
-:= -- 757427
+            4481 strings with 418754 characters,
+and the built_in function-call counts, 6062685 in all, are:
+= -- 521543
+> -- 69158
+< -- 14425
++ -- 163993
+- -- 35849
+* -- 533224
+:= -- 758408
 add.period$ -- 0
 call.type$ -- 366
-change.case$ -- 5179
+change.case$ -- 5204
 chr.to.int$ -- 78
 cite$ -- 730
-duplicate$ -- 538909
-empty$ -- 516193
-format.name$ -- 52844
-if$ -- 1192347
+duplicate$ -- 539633
+empty$ -- 517151
+format.name$ -- 52869
+if$ -- 1194075
 int.to.chr$ -- 0
 int.to.str$ -- 859
 missing$ -- 0
-newline$ -- 28584
-num.names$ -- 16455
-pop$ -- 160424
+newline$ -- 28696
+num.names$ -- 16454
+pop$ -- 160270
 preamble$ -- 1
-purify$ -- 11332
+purify$ -- 11361
 quote$ -- 0
-skip$ -- 85092
+skip$ -- 85147
 stack$ -- 0
-substring$ -- 1099643
-swap$ -- 101201
-text.length$ -- 16018
+substring$ -- 1101455
+swap$ -- 101678
+text.length$ -- 15969
 text.prefix$ -- 367
 top$ -- 1
 type$ -- 12426
 warning$ -- 0
-while$ -- 92816
+while$ -- 92964
 width$ -- 0
-write$ -- 28219
+write$ -- 28331
 (There was 1 error message)

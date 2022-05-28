@@ -25784,10 +25784,13 @@
     \field{sortinithash}{S}
     \field{booktitle}{bioRxiv}
     \verb{doi}
-    \verb 10.1101/2019.12.16.878041
+    \verb 10.1371/journal.pone.0227169
     \endverb
+    \field{number}{12}
+    \field{pages}{e0227169}
     \field{title}{{Effects of land-‐use change and related pressures on alien
   and native subsets of island communities}}
+    \field{volume}{15}
     \field{journaltitle}{PLoS ONE}
     \field{year}{2019}
   \endentry
@@ -25855,6 +25858,7 @@
     \endverb
     \field{issn}{14712954}
     \field{number}{1787}
+    \field{pages}{20133254}
     \field{title}{{Global late Quaternary megafauna extinctions linked to
   humans, not climate change}}
     \field{volume}{281}
@@ -26123,8 +26127,11 @@
     \verb 10.1111/geb.12244
     \endverb
     \field{issn}{14668238}
+    \field{number}{4}
+    \field{pages}{396\bibrangedash 405}
     \field{title}{{Late bloomers and baby boomers: Ecological drivers of
   longevity in squamates and the tuatara}}
+    \field{volume}{24}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2015}
   \endentry
@@ -26453,7 +26460,10 @@
     \verb 10.1890/08-2225.1
     \endverb
     \field{issn}{00129615}
+    \field{number}{3}
+    \field{pages}{469\bibrangedash 484}
     \field{title}{{A user's guide to functional diversity indices}}
+    \field{volume}{80}
     \field{journaltitle}{Ecological Monographs}
     \field{year}{2010}
   \endentry
@@ -26512,8 +26522,11 @@
     \endverb
     \field{isbn}{0027-8424}
     \field{issn}{0027-8424}
+    \field{number}{22}
+    \field{pages}{8606\bibrangedash 8611}
     \field{title}{{Dispersal will limit ability of mammals to track climate
   change in the Western Hemisphere}}
+    \field{volume}{109}
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
     \field{year}{2012}
   \endentry
@@ -26622,7 +26635,10 @@
     \verb 10.1111/2041-210X.13288
     \endverb
     \field{issn}{2041210X}
+    \field{number}{12}
+    \field{pages}{2006\bibrangedash 2019}
     \field{title}{{Towards an ecological trait-data standard}}
+    \field{volume}{10}
     \field{journaltitle}{Methods in Ecology and Evolution}
     \field{year}{2019}
   \endentry
@@ -26657,8 +26673,11 @@
     \verb 10.1111/jbi.13067
     \endverb
     \field{issn}{13652699}
+    \field{number}{12}
+    \field{pages}{2808\bibrangedash 2815}
     \field{title}{{The fast-slow life-history continuum in insular lizards: a
   comparison between species with invariant and variable clutch sizes}}
+    \field{volume}{44}
     \field{journaltitle}{Journal of Biogeography}
     \field{year}{2017}
   \endentry
@@ -26741,7 +26760,7 @@
     \field{year}{2016}
   \endentry
 
-  \entry{Seneviratne2012}{article}{}
+  \entry{Seneviratne2012}{inbook}{}
     \name{author}{44}{}{%
       {{hash=SSI}{%
          family={Seneviratne},
@@ -27008,6 +27027,32 @@
          giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
     }
+    \name{editor}{4}{}{%
+      {{hash=FCB}{%
+         family={Field},
+         familyi={F\bibinitperiod},
+         given={Christopher\bibnamedelima B.},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Barros},
+         familyi={B\bibinitperiod},
+         given={Vicente},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=STF}{%
+         family={Stocker},
+         familyi={S\bibinitperiod},
+         given={Thomas\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=DQ}{%
+         family={Dahe},
+         familyi={D\bibinitperiod},
+         given={QinEditors},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
     \keyw{Climate change, disasters, extreme events}
     \strng{namehash}{SSI+1}
   \strng{fullhash}{SSINNEDGCMKSKJLYMJMKRMRMSAVCZXRMSVALVASBGCTCJCDDMPMGMGSGBNHMHCVBKVVKAKAMLGMSMWVGJOBSSTWVAYPZTZTZFW1}
@@ -27017,6 +27062,9 @@
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
+    \field{booktitle}{Managing the Risks of Extreme Events and Disasters to
+  Advance Climate Change Adaptation: Special Report of the Intergovernmental
+  Panel on Climate Change}
     \verb{doi}
     \verb 10.1017/CBO9781139177245.006
     \endverb
@@ -27030,9 +27078,6 @@
     \verb ded/Seneviratne et al. - 2012 - Changes in climate extremes and their
     \verb  impacts on the natural physical environment.pdf:pdf
     \endverb
-    \field{journaltitle}{Managing the Risks of Extreme Events and Disasters to
-  Advance Climate Change Adaptation: Special Report of the Intergovernmental
-  Panel on Climate Change}
     \field{year}{2012}
   \endentry
 
@@ -27071,6 +27116,7 @@
     \verb 10.1146/annurev-environ-100809-125336
     \endverb
     \field{issn}{15435938}
+    \field{number}{1}
     \field{pages}{167\bibrangedash 194}
     \field{title}{{The new geography of contemporary urbanization and the
   environment}}
@@ -27189,6 +27235,9 @@
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1134/S1062359013070054
+    \endverb
     \field{number}{7}
     \field{pages}{571\bibrangedash 579}
     \field{title}{{The Significance of Vertebrates in the Structure and
@@ -27559,8 +27608,11 @@
     \endverb
     \field{isbn}{1466-8238}
     \field{issn}{14668238}
+    \field{number}{11}
+    \field{pages}{1308\bibrangedash 1320}
     \field{title}{{Late Quaternary reptile extinctions: size matters,
   insularity dominates}}
+    \field{volume}{25}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2016}
   \endentry
@@ -27670,8 +27722,11 @@
     \endverb
     \field{isbn}{1932-6203}
     \field{issn}{19326203}
+    \field{number}{2}
+    \field{pages}{e1636}
     \field{title}{{Measuring the meltdown: Drivers of global amphibian
   extinction and decline}}
+    \field{volume}{3}
     \field{journaltitle}{PLoS ONE}
     \field{year}{2008}
   \endentry
@@ -27897,7 +27952,6 @@
     \verb 10.1016/j.landurbplan.2019.103643
     \endverb
     \field{issn}{01692046}
-    \field{number}{August}
     \field{pages}{103643}
     \field{title}{{Impervious surface and heterogeneity are opposite drivers to
   maintain bird richness in a Cerrado city}}
@@ -27949,8 +28003,11 @@
     \verb 10.1111/gcb.14361
     \endverb
     \field{issn}{13652486}
+    \field{number}{10}
+    \field{pages}{4521\bibrangedash 4531}
     \field{title}{{Rapid warming is associated with population decline among
   terrestrial birds and mammals globally}}
+    \field{volume}{24}
     \verb{file}
     \verb :C\:/Users/adrie/Downloads/Global Change Biology - 2018 - Spooner - R
     \verb apid warming is associated with population decline among terrestrial
@@ -28077,12 +28134,15 @@
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
-    \verb 10.1093/biolinnean/bly153/5145102
+    \verb 10.1093/biolinnean/bly153
     \endverb
     \field{isbn}{153/5145102}
     \field{issn}{1461-6742}
+    \field{number}{4}
+    \field{pages}{730\bibrangedash 740}
     \field{title}{{Cold and isolated ectotherms: drivers of reptilian
   longevity}}
+    \field{volume}{125}
     \field{journaltitle}{Biological Journal of the Linnean Society}
     \field{year}{2018}
   \endentry
@@ -28158,7 +28218,10 @@
     \verb 10.1177/2053019614564785
     \endverb
     \field{issn}{2053020X}
+    \field{number}{1}
+    \field{pages}{81\bibrangedash 98}
     \field{title}{{The trajectory of the Anthropocene: The Great Acceleration}}
+    \field{volume}{2}
     \verb{file}
     \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
     \verb ded/Steffen et al. - 2015 - The trajectory of the anthropocene The gr
@@ -28364,8 +28427,7 @@
     \verb 10.1038/s41467-019-09945-w
     \endverb
     \field{issn}{20411723}
-    \field{number}{1}
-    \field{pages}{1\bibrangedash 10}
+    \field{number}{2166}
     \field{title}{{Key determinants of global land-use projections}}
     \verb{url}
     \verb http://dx.doi.org/10.1038/s41467-019-09945-w
@@ -29372,8 +29434,11 @@
     \verb 10.1073/pnas.1316145111
     \endverb
     \field{issn}{10916490}
+    \field{number}{15}
+    \field{pages}{5610\bibrangedash 5615}
     \field{title}{{Thermal-safety margins and the necessity of thermoregulatory
   behavior across latitude and elevation}}
+    \field{volume}{111}
     \field{journaltitle}{Proceedings of the National Academy of Sciences of the
   United States of America}
     \field{year}{2014}
@@ -29452,6 +29517,7 @@
     \endverb
     \field{issn}{17083087}
     \field{number}{1}
+    \field{pages}{16}
     \field{title}{{Scaling of natal dispersal distances in terrestrial birds
   and mammals}}
     \field{volume}{4}
@@ -29701,7 +29767,9 @@
     \endverb
     \field{isbn}{0387946675}
     \field{issn}{00280836}
+    \field{pages}{363\bibrangedash 365}
     \field{title}{{Biodiversity and stability in grasslands}}
+    \field{volume}{367}
     \field{journaltitle}{Nature}
     \field{eprinttype}{arXiv}
     \field{year}{1994}
@@ -29755,8 +29823,11 @@
     \verb 10.1002/ece3.3813
     \endverb
     \field{issn}{20457758}
+    \field{number}{6}
+    \field{pages}{3478\bibrangedash 3490}
     \field{title}{{Land use change has stronger effects on functional diversity
   than taxonomic diversity in tropical Andean hummingbirds}}
+    \field{volume}{8}
     \field{journaltitle}{Ecology and Evolution}
     \field{year}{2018}
   \endentry
@@ -29835,8 +29906,11 @@
     \endverb
     \field{isbn}{1111111111}
     \field{issn}{19326203}
+    \field{number}{12}
+    \field{pages}{e0189577}
     \field{title}{{Scientific research on animal biodiversity is systematically
   biased towards vertebrates and temperate regions}}
+    \field{volume}{12}
     \field{journaltitle}{PLoS ONE}
     \field{year}{2017}
   \endentry
@@ -29905,8 +29979,10 @@
     \endverb
     \field{isbn}{00063207}
     \field{issn}{00063207}
+    \field{pages}{31\bibrangedash 36}
     \field{title}{{Species traits explaining sensitivity of snakes to human
   land use estimated from citizen science data}}
+    \field{volume}{206}
     \field{journaltitle}{Biological Conservation}
     \field{year}{2017}
   \endentry
@@ -30211,6 +30287,8 @@
     }
     \field{booktitle}{UNESCO Global Science Report: Towards 2030}
     \field{isbn}{9789231001291}
+    \field{note}{Available at:
+  \url{http://uis.unesco.org/sites/default/files/documents/unesco-science-report-towards-2030-part1.pdf}}
     \field{title}{{UNESCO Global Science Report: Towards 2030}}
     \field{type}{techreport}
     \field{year}{2015}
@@ -30233,6 +30311,9 @@
     \field{labeldatesource}{}
     \field{sortinit}{U}
     \field{sortinithash}{U}
+    \verb{doi}
+    \verb 10.1126/science.aaa4984
+    \endverb
     \field{number}{6234}
     \field{pages}{571\bibrangedash 573}
     \field{title}{{Accelerating extinction risk from climate change}}
@@ -30556,9 +30637,9 @@
 
   \entry{VanDerKaars2017}{article}{}
     \name{author}{8}{}{%
-      {{hash=VS}{%
-         family={{Van Der Kaars}},
-         familyi={V\bibinitperiod},
+      {{hash=vS}{%
+         family={{van der Kaars}},
+         familyi={v\bibinitperiod},
          given={Sander},
          giveni={S\bibinitperiod},
       }}%
@@ -30605,8 +30686,8 @@
          giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{VS+1}
-    \strng{fullhash}{VSMGHTCSCEJNDSJKAPLSJ1}
+    \strng{namehash}{vS+1}
+    \strng{fullhash}{vSMGHTCSCEJNDSJKAPLSJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
@@ -30633,7 +30714,7 @@
     \verb 10.1038/ncomms14142
     \endverb
     \field{issn}{20411723}
-    \field{pages}{1\bibrangedash 7}
+    \field{number}{14142}
     \field{title}{{Humans rather than climate the primary cause of Pleistocene
   megafaunal extinction in Australia}}
     \field{volume}{8}
@@ -30710,8 +30791,11 @@
     \endverb
     \field{isbn}{2161-9549}
     \field{issn}{2161-9549}
+    \field{number}{2}
+    \field{pages}{531\bibrangedash 547}
     \field{title}{{Delivering on a promise: integrating species traits to
   transform descriptive community ecology into a predictive science}}
+    \field{volume}{32}
     \field{journaltitle}{Freshwater Science}
     \field{year}{2013}
   \endentry
@@ -30799,8 +30883,11 @@
     \verb 10.1111/geb.12643
     \endverb
     \field{issn}{14668238}
+    \field{number}{11}
+    \field{pages}{1316\bibrangedash 1325}
     \field{title}{{The Eurasian hot nightlife: Environmental forces associated
   with nocturnality in lizards}}
+    \field{volume}{26}
     \field{journaltitle}{Global Ecology and Biogeography}
     \field{year}{2017}
   \endentry
@@ -30827,7 +30914,7 @@
          giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{VS+2}
+    \strng{namehash}{VS+1}
     \strng{fullhash}{VSMNWHMD1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
@@ -30869,9 +30956,15 @@
   the structure of species communities. Finally, we propose a general framework
   for applying these three functional diversity indices.%
     }
+    \verb{doi}
+    \verb 10.1890/07-1206.1
+    \endverb
     \field{issn}{0012-9658}
+    \field{number}{8}
+    \field{pages}{2290\bibrangedash 2301}
     \field{title}{{New multidimensional functional diversity indices for a
   multifaceted framework in functional ecology.}}
+    \field{volume}{89}
     \field{journaltitle}{Ecology}
     \field{year}{2008}
   \endentry
@@ -30957,7 +31050,10 @@
     \endverb
     \field{isbn}{0030-1299}
     \field{issn}{16000706}
+    \field{number}{5}
+    \field{pages}{882\bibrangedash 892}
     \field{title}{{Let the concept of trait be functional!}}
+    \field{volume}{116}
     \field{journaltitle}{Oikos}
     \field{year}{2007}
   \endentry
@@ -30979,7 +31075,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
-    \field{number}{437}
+    \verb{doi}
+    \verb 10.1038/534437a
+    \endverb
+    \field{number}{7608}
+    \field{pages}{437}
     \field{title}{{Bring climate change back from the future}}
     \field{volume}{534}
     \verb{file}
@@ -31129,8 +31229,11 @@
     \verb 10.1111/ecog.04387
     \endverb
     \field{issn}{16000587}
+    \field{number}{12}
+    \field{pages}{2012\bibrangedash 2020}
     \field{title}{{Unifying functional trait approaches to understand the
   assemblage of ecological communities: synthesizing taxonomic divides}}
+    \field{volume}{42}
     \field{journaltitle}{Ecography}
     \field{year}{2019}
   \endentry
@@ -31212,8 +31315,11 @@
     \verb 10.1111/gcb.13759
     \endverb
     \field{issn}{13652486}
+    \field{number}{9}
+    \field{pages}{3704\bibrangedash 3715}
     \field{title}{{Climate change vulnerability for species—Assessing the
   assessments}}
+    \field{volume}{23}
     \field{journaltitle}{Global Change Biology}
     \field{year}{2017}
   \endentry
@@ -31395,7 +31501,7 @@
     \field{number}{7}
     \field{pages}{4046\bibrangedash 4049}
     \field{title}{{Mammalian basal metabolic rate is proportional to body
-  mass2/3}}
+  mass\textsuperscript{2/3}}}
     \field{volume}{100}
     \verb{file}
     \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
@@ -31586,8 +31692,11 @@
     \verb 10.1111/ddi.12999
     \endverb
     \field{issn}{14724642}
+    \field{number}{1}
+    \field{pages}{76\bibrangedash 92}
     \field{title}{{Local climatic changes affect biodiversity responses to land
   use: A review}}
+    \field{volume}{26}
     \field{journaltitle}{Diversity and Distributions}
     \field{year}{2020}
   \endentry
@@ -31612,11 +31721,9 @@
          given={Jennifer},
          giveni={J\bibinitperiod},
       }}%
-      {{hash=dlRC}{%
-         prefix={de\bibnamedelima la},
-         prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod},
-         family={Rosa},
-         familyi={R\bibinitperiod},
+      {{hash=dC}{%
+         family={{de la Rosa}},
+         familyi={d\bibinitperiod},
          given={Carolina},
          giveni={C\bibinitperiod},
       }}%
@@ -31634,7 +31741,7 @@
       }}%
     }
     \strng{namehash}{WH+1}
-    \strng{fullhash}{WHBJSJRCdlRMMJW1}
+    \strng{fullhash}{WHBJSJdCRMMJW1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
@@ -31655,7 +31762,7 @@
     \field{year}{2014}
   \endentry
 
-  \entry{Wilson2011}{misc}{}
+  \entry{Wilson2011}{article}{}
     \name{author}{2}{}{%
       {{hash=WEE}{%
          family={Wilson},
@@ -31678,13 +31785,16 @@
     \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
-    \field{booktitle}{Trends in Ecology and Evolution}
     \verb{doi}
     \verb 10.1016/j.tree.2010.12.011
     \endverb
     \field{issn}{01695347}
+    \field{number}{3}
+    \field{pages}{129\bibrangedash 135}
     \field{title}{{Scavenging: How carnivores and carrion structure
   communities}}
+    \field{volume}{26}
+    \field{journaltitle}{Trends in Ecology and Evolution}
     \field{year}{2011}
   \endentry
 
@@ -31770,7 +31880,10 @@
     \verb 10.1111/brv.12488
     \endverb
     \field{issn}{1469185X}
+    \field{number}{3}
+    \field{pages}{999\bibrangedash 1022}
     \field{title}{{Trait-based ecology of terrestrial arthropods}}
+    \field{volume}{94}
     \field{journaltitle}{Biological Reviews}
     \field{year}{2018}
   \endentry

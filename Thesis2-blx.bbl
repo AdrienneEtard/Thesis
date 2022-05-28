@@ -5395,11 +5395,9 @@
          given={Jennifer},
          giveni={J\bibinitperiod},
       }}%
-      {{hash=dlRC}{%
-         prefix={de\bibnamedelima la},
-         prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod},
-         family={Rosa},
-         familyi={R\bibinitperiod},
+      {{hash=dC}{%
+         family={{de la Rosa}},
+         familyi={d\bibinitperiod},
          given={Carolina},
          giveni={C\bibinitperiod},
       }}%
@@ -5417,7 +5415,7 @@
       }}%
     }
     \strng{namehash}{WH+1}
-    \strng{fullhash}{WHBJSJRCdlRMMJW1}
+    \strng{fullhash}{WHBJSJdCRMMJW1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
