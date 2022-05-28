@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -51,7 +51,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -126,43 +126,18 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    MotivationDetermining whether a trait and phylogeny share some degree of
-  phylogenetic signal is a flagship goal in evolutionary biology. Signatures of
-  phylogenetic signal can assist the resolution of a broad range of
-  evolutionary questions regarding the tempo and mode of phenotypic evolution.
-  However, despite the considerable number of strategies to measure it, few and
-  limited approaches exist for categorical traits. Here, we used the concept of
-  Shannon entropy and propose the $\delta$ statistic for evaluating the degree
-  of phylogenetic signal between a phylogeny and categorical traits.ResultsWe
-  validated $\delta$ as a measure of phylogenetic signal: the higher the
-  $\delta$-value the higher the degree of phylogenetic signal between a given
-  tree and a trait. Based on simulated data we proposed a threshold-based
-  classification test to pinpoint cases of phylogenetic signal. The assessment
-  of the test's specificity and sensitivity suggested that the $\delta$
-  approach should only be applied to 20 or more species. We have further tested
-  the performance of $\delta$ in scenarios of branch length and topology
-  uncertainty, unbiased and biased trait evolution and trait saturation. Our
-  results showed that $\delta$ may be applied in a wide range of phylogenetic
-  contexts. Finally, we investigated our method in 14 360 mammalian gene trees
-  and found that olfactory receptor genes are significantly associated with the
-  mammalian activity patterns, a result that is congruent with expectations and
-  experiments from the literature. Our application shows that $\delta$ can
-  successfully detect molecular signatures of phenotypic evolution. We conclude
-  that $\delta$ represents a useful measure of the strength of phylogenetic
-  signal since many phenotypes can only be measured in
-  categories.Availabilityhttps://github.com/mrborges23/delta_statisticSupplementary
-  informationSupplementary data are available at Bioinformatics online.%
-    }
     \verb{doi}
     \verb 10.1093/bioinformatics/bty800
     \endverb
     \field{issn}{1367-4803}
+    \field{number}{11}
+    \field{pages}{1862\bibrangedash 1869}
     \field{title}{{Measuring phylogenetic signal between categorical traits and
   phylogenies}}
+    \field{volume}{35}
     \field{journaltitle}{Bioinformatics}
     \field{year}{2018}
   \endentry
@@ -229,7 +204,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -275,7 +250,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -321,7 +296,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -353,7 +328,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1983}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -366,7 +341,9 @@
     \verb 10.1007/BF02294026
     \endverb
     \field{issn}{00333123}
+    \field{pages}{305\bibrangedash 308}
     \field{title}{{The analytical solution of the additive constant problem}}
+    \field{volume}{48}
     \field{journaltitle}{Psychometrika}
     \field{year}{1983}
   \endentry
@@ -385,11 +362,11 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{note}{R package version 0.5.0}
-    \field{title}{rredlist: 'IUCN' Red List Client}
+    \field{title}{rredlist: `IUCN' Red List Client}
     \verb{url}
     \verb https://CRAN.R-project.org/package=rredlist
     \endverb
@@ -416,7 +393,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -471,15 +448,15 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
     \verb 10.1016/j.ecoinf.2021.101315
     \endverb
     \field{pages}{101315}
-    \field{title}{{Ecological Informatics Using phylogenetic information to
-  impute missing functional trait values in ecological databases}}
+    \field{title}{{Using phylogenetic information to impute missing functional
+  trait values in ecological databases}}
     \field{volume}{63}
     \verb{file}
     \verb :C\:/Users/adrie/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloa
@@ -487,6 +464,7 @@
     \verb ng phylogenetic information to impute missing functional trait values
     \verb  i.pdf:pdf
     \endverb
+    \field{journaltitle}{Ecological Informatics}
     \field{year}{2021}
   \endentry
 
@@ -541,7 +519,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -678,45 +656,9 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
-    \field{abstract}{%
-    Collinearity refers to the non independence of predictor variables, usually
-  in a regression-type analysis. It is a common feature of any descriptive
-  ecological data set and can be a problem for parameter estimation because it
-  inflates the variance of regression parameters and hence potentially leads to
-  the wrong identification of relevant predictors in a statistical model.
-  Collinearity is a severe problem when a model is trained on data from one
-  region or time, and predicted to another with a different or unknown
-  structure of collinearity. To demonstrate the reach of the problem of
-  collinearity in ecology, we show how relationships among predictors differ
-  between biomes, change over spatial scales and through time. Across
-  disciplines, different approaches to addressing collinearity problems have
-  been developed, ranging from clustering of predictors, threshold-based
-  pre-selection, through latent variable methods, to shrinkage and
-  regularisation. Using simulated data with five predictor-response
-  relationships of increasing complexity and eight levels of collinearity we
-  compared ways to address collinearity with standard multiple regression and
-  machine-learning approaches. We assessed the performance of each approach by
-  testing its impact on prediction to new data. In the extreme, we tested
-  whether the methods were able to identify the true underlying relationship in
-  a training dataset with strong collinearity by evaluating its performance on
-  a test dataset without any collinearity. We found that methods specifically
-  designed for collinearity, such as latent variable methods and tree based
-  models, did not outperform the traditional GLM and threshold-based
-  pre-selection. Our results highlight the value of GLM in combination with
-  penalised methods (particularly ridge) and threshold-based pre-selection when
-  omitted variables are considered in the final interpretation. However, all
-  approaches tested yielded degraded predictions under change in collinearity
-  structure and the 'folk lore'-thresholds of correlation coefficients between
-  predictor variables of |r| >0.7 was an appropriate indicator for when
-  collinearity begins to severely distort model estimation and subsequent
-  prediction. The use of ecological understanding of the system in pre-analysis
-  variable selection and the choice of the least sensitive statistical
-  approaches reduce the problems of collinearity, but cannot ultimately solve
-  them. [ABSTRACT FROM AUTHOR]%
-    }
     \verb{doi}
     \verb 10.1111/j.1600-0587.2012.07348.x
     \endverb
@@ -725,8 +667,11 @@
     \endverb
     \field{isbn}{1600-0587}
     \field{issn}{09067590}
+    \field{number}{1}
+    \field{pages}{27\bibrangedash 46}
     \field{title}{{Collinearity: A review of methods to deal with it and a
   simulation study evaluating their performance}}
+    \field{volume}{36}
     \field{journaltitle}{Ecography}
     \field{eprinttype}{arXiv}
     \field{year}{2013}
@@ -758,7 +703,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{number}{2}
@@ -800,7 +745,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \verb{doi}
@@ -866,7 +811,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -936,7 +881,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -968,7 +913,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1992}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -1029,7 +974,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -1083,7 +1028,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -1115,7 +1060,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{note}{R package version 0.4.1}
@@ -2592,11 +2537,11 @@
     }
     \keyw{Data sharing,Global change,Habitat destruction,Land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4079,11 +4024,11 @@
     \keyw{data sharing,global biodiversity modeling,global change,habitat
   destruction,land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4112,7 +4057,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{title}{{The IUCN Red List of Threatened Species.}}
@@ -4161,7 +4106,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4195,7 +4140,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4245,7 +4190,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4414,7 +4359,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4469,7 +4414,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4516,7 +4461,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4572,7 +4517,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4582,7 +4527,7 @@
     \field{number}{3}
     \field{pages}{338\bibrangedash 346}
     \field{title}{{Basal metabolism in tropical birds: Latitude, altitude, and
-  the 'pace of life'}}
+  the `pace of life'}}
     \field{volume}{29}
     \field{journaltitle}{Functional Ecology}
     \field{year}{2015}
@@ -4607,7 +4552,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -4693,7 +4638,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \field{abstract}{%
@@ -4719,8 +4664,10 @@
     \endverb
     \field{isbn}{2052-4463 (Electronic) 2052-4463 (Linking)}
     \field{issn}{20524463}
+    \field{pages}{170123}
     \field{title}{{AmphiBIO, a global database for amphibian ecological
   traits}}
+    \field{volume}{4}
     \field{journaltitle}{Scientific Data}
     \field{year}{2017}
   \endentry
@@ -4739,7 +4686,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -4755,7 +4702,9 @@
     \endverb
     \field{isbn}{0028-0836}
     \field{issn}{00280836}
+    \field{pages}{877\bibrangedash 884}
     \field{title}{{Inferring the historical patterns of biological evolution}}
+    \field{volume}{401}
     \field{journaltitle}{Nature}
     \field{year}{1999}
   \endentry
@@ -4824,51 +4773,19 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{P}
     \field{sortinithash}{P}
-    \field{abstract}{%
-    * Despite efforts in data collection, missing values are commonplace in
-  life-history trait databases. Because these values typically are not missing
-  randomly, the common practice of removing missing data not only reduces
-  sample size, but also introduces bias that can lead to incorrect conclusions.
-  Imputing missing values is a potential solution to this problem. Here, we
-  evaluate the performance of four approaches for estimating missing values in
-  trait databases (K-nearest neighbour (kNN), multivariate imputation by
-  chained equations (mice), missForest and Phylopars), and test whether imputed
-  datasets retain underlying allometric relationships among traits.\n\n*
-  Starting with a nearly complete trait dataset on the mammalian order
-  Carnivora (using four traits), we artificially removed values so that the
-  percent of missing values ranged from 10% to 80%. Using the original values
-  as a reference, we assessed imputation performance using normalized root mean
-  squared error. We also evaluated whether including phylogenetic information
-  improved imputation performance in kNN, mice, and missForest (it is a
-  required input in Phylopars). Finally, we evaluated the extent to which the
-  allometric relationship between two traits (body mass and longevity) was
-  conserved for imputed datasets by looking at the difference (bias) between
-  the slope of the original and the imputed datasets or datasets with missing
-  values removed.\n\n* Three of the tested approaches (mice, missForest and
-  Phylopars), resulted in qualitatively equivalent imputation performance, and
-  all had significantly lower errors than kNN. Adding phylogenetic information
-  into the imputation algorithms improved estimation of missing values for all
-  tested traits. The allometric relationship between body mass and longevity
-  was conserved when up to 60% of data were missing, either with or without
-  phylogenetic information, depending on the approach. This relationship was
-  less biased in imputed datasets compared to datasets with missing values
-  removed, especially when more than 30% of values were missing.\n\n*
-  Imputations provide valuable alternatives to removing missing observations in
-  trait databases as they produce low errors and retain relationships among
-  traits. Although we must continue to prioritize data collection on species
-  traits, imputations can provide a valuable solution for conducting
-  macroecological and evolutionary studies using life-history trait databases.%
-    }
     \verb{doi}
     \verb 10.1111/2041-210X.12232
     \endverb
     \field{isbn}{2041-210x}
     \field{issn}{2041210X}
+    \field{number}{9}
+    \field{pages}{961\bibrangedash 970}
     \field{title}{{Imputation of missing data in life-history trait datasets:
   Which approach performs the best?}}
+    \field{volume}{5}
     \field{journaltitle}{Methods in Ecology and Evolution}
     \field{year}{2014}
   \endentry
@@ -4923,7 +4840,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{11484}
@@ -4948,9 +4865,13 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1111/j.2041-210X.2011.00169.x
+    \endverb
+    \field{number}{2}
     \field{pages}{217\bibrangedash 223}
     \field{title}{phytools: An R package for phylogenetic comparative biology
   (and other things).}
@@ -4982,7 +4903,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -5053,7 +4974,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5092,7 +5013,7 @@
     \field{year}{2018}
   \endentry
 
-  \entry{Santos2018}{article}{}
+  \entry{Santos2018}{manual}{}
     \name{author}{1}{}{%
       {{hash=ST}{%
          family={Santos},
@@ -5106,9 +5027,10 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
+    \field{note}{R package version 0.3.0}
     \field{title}{{Package ‘ PVR '. Phylogenetic Eigenvectors Regression and
   Phylogentic Signal-Representation Curve}}
     \verb{file}
@@ -5147,7 +5069,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5194,7 +5116,7 @@
     \field{year}{2020}
   \endentry
 
-  \entry{Stekhoven2016}{article}{}
+  \entry{Stekhoven2016}{manual}{}
     \name{author}{1}{}{%
       {{hash=SDJ}{%
          family={Stekhoven},
@@ -5208,38 +5130,9 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{abstract}{%
-    MOTIVATION: Modern data acquisition based on high-throughput technology is
-  often facing the problem of missing data. Algorithms commonly used in the
-  analysis of such large-scale data often depend on a complete set. Missing
-  value imputation offers a solution to this problem. However, the majority of
-  available imputation methods are restricted to one type of variable only:
-  continuous or categorical. For mixed-type data, the different types are
-  usually handled separately. Therefore, these methods ignore possible
-  relations between variable types. We propose a non-parametric method which
-  can cope with different types of variables simultaneously. RESULTS: We
-  compare several state of the art methods for the imputation of missing
-  values. We propose and evaluate an iterative imputation method (missForest)
-  based on a random forest. By averaging over many unpruned classification or
-  regression trees, random forest intrinsically constitutes a multiple
-  imputation scheme. Using the built-in out-of-bag error estimates of random
-  forest, we are able to estimate the imputation error without the need of a
-  test set. Evaluation is performed on multiple datasets coming from a diverse
-  selection of biological fields with artificially introduced missing values
-  ranging from 10% to 30%. We show that missForest can successfully handle
-  missing values, particularly in datasets including different types of
-  variables. In our comparative study, missForest outperforms other methods of
-  imputation especially in data settings where complex interactions and
-  non-linear relations are suspected. The out-of-bag imputation error estimates
-  of missForest prove to be adequate in all settings. Additionally, missForest
-  exhibits attractive computational efficiency and can cope with
-  high-dimensional data. AVAILABILITY: The package missForest is freely
-  available from http://stat.ethz.ch/CRAN/. CONTACT:
-  stekhoven@stat.math.ethz.ch; buhlmann@stat.math.ethz.ch%
-    }
     \verb{doi}
     \verb 10.1093/bioinformatics/btr597
     \endverb
@@ -5248,8 +5141,8 @@
     \endverb
     \field{isbn}{1367-4811 (Electronic)\n1367-4803 (Linking)}
     \field{issn}{13674803}
+    \field{note}{R package version 1.5}
     \field{title}{{Nonparametric Missing Value Imputation using Random Forest}}
-    \field{journaltitle}{R Package version 1.4}
     \field{eprinttype}{arXiv}
     \field{year}{2016}
   \endentry
@@ -5274,35 +5167,9 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{abstract}{%
-    Modern data acquisition based on high-throughput technology is often facing
-  the problem of missing data. Algorithms commonly used in the analysis of such
-  large-scale data often depend on a complete set. Missing value imputation
-  offers a solution to this problem. However, the majority of available
-  imputation methods are restricted to one type of variable only: continuous or
-  categorical. For mixed-type data the different types are usually handled
-  separately. Therefore, these methods ignore possible relations between
-  variable types. We propose a nonparametric method which can cope with
-  different types of variables simultaneously. We compare several state of the
-  art methods for the imputation of missing values. We propose and evaluate an
-  iterative imputation method (missForest) based on a random forest. By
-  averaging over many unpruned classification or regression trees random forest
-  intrinsically constitutes a multiple imputation scheme. Using the built-in
-  out-of-bag error estimates of random forest we are able to estimate the
-  imputation error without the need of a test set. Evaluation is performed on
-  multiple data sets coming from a diverse selection of biological fields with
-  artificially introduced missing values ranging from 10% to 30%. We show that
-  missForest can successfully handle missing values, particularly in data sets
-  including different types of variables. In our comparative study missForest
-  outperforms other methods of imputation especially in data settings where
-  complex interactions and nonlinear relations are suspected. The out-of-bag
-  imputation error estimates of missForest prove to be adequate in all
-  settings. Additionally, missForest exhibits attractive computational
-  efficiency and can cope with high-dimensional data.%
-    }
     \verb{doi}
     \verb 10.1093/bioinformatics/btr597
     \endverb
@@ -5311,8 +5178,11 @@
     \endverb
     \field{isbn}{1367-4811 (Electronic)\n1367-4803 (Linking)}
     \field{issn}{13674803}
+    \field{number}{1}
+    \field{pages}{112\bibrangedash 118}
     \field{title}{{Missforest-Non-parametric missing value imputation for
   mixed-type data}}
+    \field{volume}{28}
     \field{journaltitle}{Bioinformatics}
     \field{eprinttype}{arXiv}
     \field{year}{2012}
@@ -5359,7 +5229,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -5391,8 +5261,10 @@
     \verb 10.1016/j.biocon.2016.03.039
     \endverb
     \field{issn}{00063207}
+    \field{pages}{23\bibrangedash 31}
     \field{title}{{Fully-sampled phylogenies of squamates reveal evolutionary
   patterns in threat status}}
+    \field{volume}{204, Part A}
     \field{journaltitle}{Biological Conservation}
     \field{year}{2016}
   \endentry
@@ -5453,39 +5325,18 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
-    \field{abstract}{%
-    MOTIVATION: Gene expression microarray experiments can generate data sets
-  with multiple missing expression values. Unfortunately, many algorithms for
-  gene expression analysis require a complete matrix of gene array values as
-  input. For example, methods such as hierarchical clustering and K-means
-  clustering are not robust to missing data, and may lose effectiveness even
-  with a few missing values. Methods for imputing missing data are needed,
-  therefore, to minimize the effect of incomplete data sets on analyses, and to
-  increase the range of data sets to which these algorithms can be applied. In
-  this report, we investigate automated methods for estimating missing data.
-  RESULTS: We present a comparative study of several methods for the estimation
-  of missing values in gene microarray data. We implemented and evaluated three
-  methods: a Singular Value Decomposition (SVD) based method (SVDimpute),
-  weighted K-nearest neighbors (KNNimpute), and row average. We evaluated the
-  methods using a variety of parameter settings and over different real data
-  sets, and assessed the robustness of the imputation methods to the amount of
-  missing data over the range of 1--20% missing values. We show that KNNimpute
-  appears to provide a more robust and sensitive method for missing value
-  estimation than SVDimpute, and both SVDimpute and KNNimpute surpass the
-  commonly used row average method (as well as filling missing values with
-  zeros). We report results of the comparative experiments and provide
-  recommendations and tools for accurate estimation of missing microarray data
-  under a variety of conditions.%
-    }
     \verb{doi}
     \verb 10.1093/bioinformatics/17.6.520
     \endverb
     \field{isbn}{1367-4803 (Print)\r1367-4803}
     \field{issn}{13674803}
+    \field{number}{6}
+    \field{pages}{520\bibrangedash 525}
     \field{title}{{Missing value estimation methods for DNA microarrays}}
+    \field{volume}{17}
     \field{journaltitle}{Bioinformatics}
     \field{year}{2001}
   \endentry
@@ -5510,9 +5361,12 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
+    \verb{doi}
+    \verb 10.18637/jss.v045.i03
+    \endverb
     \field{number}{3}
     \field{pages}{1\bibrangedash 67}
     \field{title}{{MICE: Multivariate Imputation by Chained Equations in R}}
@@ -5567,7 +5421,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{year}
+    \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \verb{doi}
@@ -5575,8 +5429,11 @@
     \endverb
     \field{isbn}{0012-9658}
     \field{issn}{0012-9658}
+    \field{number}{7}
+    \field{pages}{2027\bibrangedash 2027}
     \field{title}{{EltonTraits 1.0: Species-level foraging attributes of the
   world's birds and mammals}}
+    \field{volume}{95}
     \field{journaltitle}{Ecology}
     \field{year}{2014}
   \endentry
