@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -51,7 +51,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \field{abstract}{%
@@ -126,7 +126,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -204,7 +204,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -250,7 +250,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{B}
     \field{sortinithash}{B}
     \verb{doi}
@@ -296,7 +296,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2011}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \verb{doi}
@@ -328,7 +328,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1983}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -362,7 +362,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{note}{R package version 0.5.0}
@@ -393,7 +393,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{C}
     \field{sortinithash}{C}
     \field{abstract}{%
@@ -448,7 +448,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -519,7 +519,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -656,7 +656,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2013}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \verb{doi}
@@ -703,7 +703,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{D}
     \field{sortinithash}{D}
     \field{number}{2}
@@ -745,7 +745,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{E}
     \field{sortinithash}{E}
     \verb{doi}
@@ -811,7 +811,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -881,7 +881,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -913,7 +913,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1992}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \verb{doi}
@@ -974,7 +974,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{F}
     \field{sortinithash}{F}
     \field{abstract}{%
@@ -1028,7 +1028,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2010}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -1060,7 +1060,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \field{note}{R package version 0.4.1}
@@ -2537,11 +2537,11 @@
     }
     \keyw{Data sharing,Global change,Habitat destruction,Land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4024,11 +4024,11 @@
     \keyw{data sharing,global biodiversity modeling,global change,habitat
   destruction,land use}
     \strng{namehash}{HLN+1}
-  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDGADGJHMEHTHNRHJEHCHAJHJAHLHFHDDHBHFGHRHKICPIMJCTJVJJBJMJTSKVKVKEKMKEKAKALTLVLVLGLJPLSGLNALQCALMLGLLBMELVHMKMTMNAMSEMEJMEMMMMGMJCMJRMCLMMNMMNRNANSNPGNDANELNNNONJANNMONOWOBCOCOOLMPJPHAPNPCAPASPTPBPTKPKPEFPSJPVQMQCRDNARJLRYTRDBRBARMJRCARJRDLPRLRSJRTHRLSJ}
+  \strng{fullhash}{HLNNTCSHSLLIDAPHRSRABDJBHCACDLDJELSGMHMLIDJJMKVKLMCDPYWHJAJASAGBABVAMAAMACEAIABAABBLBABJEBJBPBAJBEMBPBABNJBJEBJHBGKBTBCBJBFQBIBJBGBECGJCCMCSACEMCTFCALCHCLAACRCACMCFMCDFCSPDBSPGdDBDJDADTDHYDCFDBDSGDMELEZEMHFNFTMFAFAMFGFFBKFSJFLHFDFDGJUGJGGCCGPGSGMSGDG}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{H}
     \field{sortinithash}{H}
     \verb{doi}
@@ -4057,7 +4057,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{I}
     \field{sortinithash}{I}
     \field{title}{{The IUCN Red List of Threatened Species.}}
@@ -4106,7 +4106,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4140,7 +4140,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4190,7 +4190,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4359,7 +4359,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{J}
     \field{sortinithash}{J}
     \verb{doi}
@@ -4414,7 +4414,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2021}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4461,7 +4461,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4517,7 +4517,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2015}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{L}
     \field{sortinithash}{L}
     \verb{doi}
@@ -4552,7 +4552,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2009}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \field{abstract}{%
@@ -4638,7 +4638,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2017}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{O}
     \field{sortinithash}{O}
     \field{abstract}{%
@@ -4686,7 +4686,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{1999}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \field{abstract}{%
@@ -4773,7 +4773,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \verb{doi}
@@ -4840,7 +4840,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{pages}{11484}
@@ -4865,7 +4865,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \verb{doi}
@@ -4903,7 +4903,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2019}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \field{abstract}{%
@@ -4974,7 +4974,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5027,7 +5027,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2018}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{note}{R package version 0.3.0}
@@ -5069,7 +5069,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2020}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{abstract}{%
@@ -5130,7 +5130,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -5167,7 +5167,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2012}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \verb{doi}
@@ -5229,7 +5229,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \field{abstract}{%
@@ -5325,7 +5325,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2001}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{T}
     \field{sortinithash}{T}
     \verb{doi}
@@ -5361,7 +5361,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2007}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{V}
     \field{sortinithash}{V}
     \verb{doi}
@@ -5419,7 +5419,7 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2014}
-    \field{labeldatesource}{}
+    \field{labeldatesource}{year}
     \field{sortinit}{W}
     \field{sortinithash}{W}
     \verb{doi}
