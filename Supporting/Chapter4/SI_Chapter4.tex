@@ -68,7 +68,7 @@ I measured the phylogenetic signal in traits using Pagel's $\lambda$ (for contin
 \renewcommand{\baselinestretch}{1}
 \renewcommand{\arraystretch}{1.2}
 \begin{center}\fontsize{9}{11}\selectfont
-\caption[Phylogenetic signal in continuous and categorical traits]{\textbf{Phylogenetic signal in continuous and categorical traits.} BM: body mass; BL: body length; GL: generation length; MA: age at sexual maturity; ML: maximum longevity; L: longevity; LCS: litter/clutch size; HB: habitat breadth; DA: diel activity; UA: use of artificial habitats. Continuous traits were log-10 transformed to improve normality before estimating Pagel’s $\lambda$ – except for habitat breadth which was square-rooted. A star indicates a significant signal (P<0.05 for the log-likelihood ratio test in the case of $\lambda$; and a significant difference from the simulated null distribution of $\delta$ for categorical traits). ‘NA’ indicates traits that were not considered for a given class. %All traits showed significant phylogenetic signal, with signals for BM, BL, L, GL, MA and LCS being particularly strong (above 0.8) across the four classes. 
+\caption[Phylogenetic signal in continuous and categorical traits]{\textbf{Phylogenetic signal in continuous and categorical traits.} BM: body mass; BL: body length; GL: generation length; MA: age at sexual maturity; ML: maximum longevity; L: longevity; LCS: litter/clutch size; HB: habitat breadth; DA: diel activity; UA: use of artificial habitats. Continuous traits were log-10 transformed to improve normality before estimating Pagel’s $\lambda$ – except for habitat breadth and diet breadth which were square-rooted. A star indicates a significant signal (P<0.05 for the log-likelihood ratio test in the case of $\lambda$; and a significant difference from the simulated null distribution of $\delta$ for categorical traits). ‘NA’ indicates traits that were not considered for a given class. %All traits showed significant phylogenetic signal, with signals for BM, BL, L, GL, MA and LCS being particularly strong (above 0.8) across the four classes. 
 }
 \label{SI_4_Table1}  
 \begin{tabular}{l|c|c|c|c|c|c|c|c|c|c|c|c|}
@@ -94,7 +94,7 @@ I measured the phylogenetic signal in traits using Pagel's $\lambda$ (for contin
 
 
 \subsection{Implementation of missing value imputations}
-I imputed missing trait values using random forest algorithms, as implemented in R with missForest \citep{Stekhoven2012, Stekhoven2016}. Phylogenetic relationships were included as additional predictors in the form of phylogenetic eigenvectors \citep{DinizFilho2012}, extracted from the phylogenies using the PVR package \citep{Santos2018}. I used class-specific phylogenetic trees from \url{https://zenodo.org/record/3690867#.Xyc5wyhKhPZ} for mammals (Phylacine 1.2; Faurby et al. (2018, 2020)); and from \url{https://data.vertlife.org/} for amphibians (Jetz \& Pyron 2018), birds (Jetz et al. 2012) and squamates (Tonini et al. 2016). For each class, I used a consensus tree obtained with the TreeAnnotator programme of the BEAST software (Bouckaert et al. 2014), from an available distribution of 1000 trees. 
+I imputed missing trait values using random forest algorithms, as implemented in R with `missForest' \citep{Stekhoven2012, Stekhoven2016}. Phylogenetic relationships were included as additional predictors in the form of phylogenetic eigenvectors \citep{DinizFilho2012}, extracted from the phylogenies using the PVR package \citep{Santos2018}. I used class-specific phylogenetic trees from \url{https://zenodo.org/record/3690867#.Xyc5wyhKhPZ} for mammals (Phylacine 1.2; Faurby et al. (2018, 2020)); and from \url{https://data.vertlife.org/} for amphibians (Jetz \& Pyron 2018), birds (Jetz et al. 2012) and squamates (Tonini et al. 2016). For each class, I used a consensus tree obtained with the TreeAnnotator programme of the BEAST software (Bouckaert et al. 2014), from an available distribution of 1000 trees. 
 
 Following \citet{Penone2014}, I included the first ten phylogenetic eigenvectors as additional predictors of missing trait values in each class. As not all species were represented in the phylogenies, I also added taxonomic order as a predictor for all species. All traits in Table \ref{SI_4_Table1} were included in the imputations. Habitat \& diet breadth were considered as categorical variables for the imputations (and so, discretised), in order to ensure that only integer estimates were obtained from the imputations for these traits. Tuning parameters of `missforest' were set to ten maximum iterations and to one hundred trees grown in each forest.
 
@@ -209,7 +209,7 @@ Primary diet & $23.6$ \\
 Predictor & GVIF \\ 
 \hline \\[-1.8ex] 
 Diel activity & $1.6$ \\ 
-Diet breadth (sqrt) & $1.7$ \\ 
+Diet breadth (square-root) & $1.7$ \\ 
 Lifespan proxy (log$_{10}$) & $1.8$ \\ 
 Specialisation & $1.8$ \\ 
 Range area (log$_{10}$) & $1.9$ \\ 
@@ -572,7 +572,7 @@ Primary diet & $3.6$ \\
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter4/Figures/Partial_models_predictions/Specialisation}
-\caption[Predicted occurrence probability as a function of land use, land-use intensity, artificial habitat use and their interactions in each class]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, artificial habitat use and their interactions, for each class of terrestrial vertebrates} (median $\pm$95\% confidence interval; the predictions are rescaled with reference to minimally-used primary vegetation). The predictions were obtained from the partial models fitted in each class for artificial habitat use. Effects could not be estimated for urban reptiles, as there weren't any sampled sites. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\caption[Predicted occurrence probability as a function of land use, land-use intensity, artificial habitat use and their interactions in each class]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, artificial habitat use and their interactions, for each class of terrestrial vertebrates} (mean $\pm$95\% confidence interval; the predictions are rescaled with reference to minimally-used primary vegetation). The predictions were obtained from the partial models fitted in each class for artificial habitat use. Effects could not be estimated for urban reptiles, as there weren't any sampled sites. Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
 \label{SI_4_Figure10}
 \end{figure}
 
@@ -580,7 +580,7 @@ Primary diet & $3.6$ \\
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.7]{Supporting/Chapter4/Figures/Partial_models_predictions/Diel_activity}
-\caption[Predicted occurrence probability as a function of land use, land-use intensity, diel activity and their interactions in each class]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, diel activity and their interactions, for each class of terrestrial vertebrates} (median $\pm$95\% confidence interval; the predictions are rescaled with reference to minimally-used primary vegetation). The predictions were obtained from the partial models fitted in each class for diel activity. Effects could not be estimated for urban reptiles, as there weren't any sampled sites. Error bars are large for non-nocturnal urban mammals because there were very few sampled species (only five).  Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
+\caption[Predicted occurrence probability as a function of land use, land-use intensity, diel activity and their interactions in each class]{\textbf{Predicted occurrence probability as a function of land use, land-use intensity, diel activity and their interactions, for each class of terrestrial vertebrates} (mean $\pm$95\% confidence interval; the predictions are rescaled with reference to minimally-used primary vegetation). The predictions were obtained from the partial models fitted in each class for diel activity. Effects could not be estimated for urban reptiles, as there weren't any sampled sites. Error bars are large for non-nocturnal urban mammals because there were very few sampled species (only five).  Primary: primary vegetation; Secondary: secondary vegetation; plantation: plantation forest; agricultural: cropland and pasture.}
 \label{SI_4_Figure11}
 \end{figure}
 
