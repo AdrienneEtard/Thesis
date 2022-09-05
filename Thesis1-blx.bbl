@@ -10965,28 +10965,6 @@
     \field{year}{2016}
   \endentry
 
-  \entry{Krauss2010}{article}{}
-    \keyw{Conservation,Extinction cascades,Extinction debt,Grassland
-  communities,Habitat loss,Habitat management,Landscape change,Relaxation
-  time,Species longevity}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2010}
-    \field{labeldatesource}{}
-    \field{sortinit}{H}
-    \field{sortinithash}{H}
-    \verb{doi}
-    \verb 10.1111/j.1461-0248.2010.01457.x
-    \endverb
-    \field{issn}{14610248}
-    \field{number}{5}
-    \field{pages}{597\bibrangedash 605}
-    \field{title}{{Habitat fragmentation causes immediate and time-delayed
-  biodiversity loss at different trophic levels}}
-    \field{volume}{13}
-    \field{journaltitle}{Ecology Letters}
-    \field{year}{2010}
-  \endentry
-
   \entry{mcmcglmm}{article}{}
     \name{author}{1}{}{%
       {{hash=HJD}{%
@@ -18243,6 +18221,134 @@
     \field{journaltitle}{Proceedings of the National Academy of Sciences of the
   United States of America}
     \field{year}{2013}
+  \endentry
+
+  \entry{Krauss2010}{article}{}
+    \name{author}{17}{}{%
+      {{hash=KJ}{%
+         family={Krauss},
+         familyi={K\bibinitperiod},
+         given={Jochen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bommarco},
+         familyi={B\bibinitperiod},
+         given={Riccardo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Guardiola},
+         familyi={G\bibinitperiod},
+         given={Moisès},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HRK}{%
+         family={Heikkinen},
+         familyi={H\bibinitperiod},
+         given={Risto\bibnamedelima K.},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Helm},
+         familyi={H\bibinitperiod},
+         given={Aveliina},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kuussaari},
+         familyi={K\bibinitperiod},
+         given={Mikko},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Lindborg},
+         familyi={L\bibinitperiod},
+         given={Regina},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=cE}{%
+         family={Öckinger},
+         familyi={c\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pärtel},
+         familyi={P\bibinitperiod},
+         given={Meelis},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pino},
+         familyi={P\bibinitperiod},
+         given={Joan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pöyry},
+         familyi={P\bibinitperiod},
+         given={Juha},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RKM}{%
+         family={Raatikainen},
+         familyi={R\bibinitperiod},
+         given={Katja\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sang},
+         familyi={S\bibinitperiod},
+         given={Anu},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Stefanescu},
+         familyi={S\bibinitperiod},
+         given={Constantí},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Teder},
+         familyi={T\bibinitperiod},
+         given={Tiit},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZM}{%
+         family={Zobel},
+         familyi={Z\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SDI}{%
+         family={Steffan-Dewenter},
+         familyi={S\bibinithyphendelim D\bibinitperiod},
+         given={Ingolf},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{Conservation, extinction cascades, extinction debt, grassland
+  communities, habitat loss, habitat management, landscape change, relaxation
+  time, species longevity}
+    \strng{namehash}{KJ+2}
+    \strng{fullhash}{KJBRGMHRKHAKMLRcEPMPJPJRKMSASCTTZMSDI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb https://doi.org/10.1111/j.1461-0248.2010.01457.x
+    \endverb
+    \field{number}{5}
+    \field{pages}{597\bibrangedash 605}
+    \field{title}{Habitat fragmentation causes immediate and time-delayed
+  biodiversity loss at different trophic levels}
+    \field{volume}{13}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2010}
   \endentry
 
   \entry{LaSorte2018}{article}{}

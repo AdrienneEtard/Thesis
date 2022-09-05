@@ -127,9 +127,22 @@ $\log_{10}\text{(climate-change sensitivity)}  \sim  \text{poly(log\textsubscrip
 
 
 \subsubsection{Models' robustness}
-To check whether the results were robust to the exclusion of species whose range area was $\leq$100 km$^2$, I repeated the models on all species (including those with range area $\leq$100 km$^2$: n=5,208 for amphibians; n=10,340 for birds; n=4,844 for mammals; n=7,951 for reptiles). 
 
-Finally, to assess the degree to which the results were robust to trait imputation uncertainty, I fitted the models again for the subset of species for which I had empirical (i.e., non-imputed) trait estimates. Diet was excluded for amphibians and reptiles on the basis of high collinearity (GVIF$>$5). I fitted first-order polynomials here because of the substantially reduced sample size compared to the main models.
+\begin{itemize}
+
+% exclusion of species with RS>100km2
+\item To check whether the results were robust to the exclusion of species whose range area was $\leq$100 km$^2$, I repeated the models on all species (including those with range area $\leq$100 km$^2$: n=5,208 for amphibians; n=10,340 for birds; n=4,844 for mammals; n=7,951 for reptiles). 
+
+% Minor corrections  - breeding range vs non-breeding range
+\item For birds and mammals, I further checked whether the results were robust to the exclusion of migratory species, for which breeding and non-breeding ranges could differ, possibly impacting the definition of species climatic niche spaces. I identified migratory mammals using the dataset from \citet{Gnanadesikan2017}, and migratory birds from BirdLife international (check how to cite / acknowledge). 
+
+% Minor corrections - different resolutions
+\item I further checked whether the results were sensitive to different resolutions. Resolution can have an impact on climate-change sensitivity (e.g., coarser resolutions tend to underestimate climate-change sensitivity of narrow-ranging species Figure S\ref{}). 
+
+% robustness to imputations
+\item Finally, to assess the degree to which the results were robust to trait imputation uncertainty, I fitted the models again for the subset of species for which I had empirical (i.e., non-imputed) trait estimates. Diet was excluded for amphibians and reptiles on the basis of high collinearity (GVIF$>$5). I fitted first-order polynomials here because of the substantially reduced sample size compared to the main models.
+
+\end{itemize}
 
 
 
