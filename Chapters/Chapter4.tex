@@ -126,7 +126,7 @@ $\log_{10}\text{(climate-change sensitivity)}  \sim  \text{poly(log\textsubscrip
 \text{phylogenetic random effects}$.
 
 
-\subsubsection{Models' robustness}
+\subsubsection{Models' robustness checks}
 
 \begin{itemize}
 
@@ -134,13 +134,13 @@ $\log_{10}\text{(climate-change sensitivity)}  \sim  \text{poly(log\textsubscrip
 \item To check whether the results were robust to the exclusion of species whose range area was $\leq$100 km$^2$, I repeated the models on all species (including those with range area $\leq$100 km$^2$: n=5,208 for amphibians; n=10,340 for birds; n=4,844 for mammals; n=7,951 for reptiles). 
 
 % Minor corrections  - breeding range vs non-breeding range
-\item For birds and mammals, I further checked whether the results were robust to the exclusion of migratory species, for which breeding and non-breeding ranges could differ, possibly impacting the definition of species climatic niche spaces. I identified migratory mammals using the dataset from \citet{Gnanadesikan2017}, and migratory birds from BirdLife international (check how to cite / acknowledge). 
+\item For birds and mammals, I further checked whether the results were robust to the exclusion of migratory species, as the breeding range and the non-breeding range of a migratory species can differ, possibly impacting the definition of the species climatic niche space and thus the estimation of climate-change sensitivity. I identified migratory mammals using the dataset from \citet{Gnanadesikan2017}, and migratory birds from BirdLife international (check how to cite / acknowledge). I ran the models again after excluding 1,882 bird species and 155 mammal species identified to be migratory.
 
 % Minor corrections - different resolutions
 \item I further checked whether the results were sensitive to different resolutions. Resolution can have an impact on climate-change sensitivity (e.g., coarser resolutions tend to underestimate climate-change sensitivity of narrow-ranging species Figure S\ref{}). 
 
-% robustness to imputations
-\item Finally, to assess the degree to which the results were robust to trait imputation uncertainty, I fitted the models again for the subset of species for which I had empirical (i.e., non-imputed) trait estimates. Diet was excluded for amphibians and reptiles on the basis of high collinearity (GVIF$>$5). I fitted first-order polynomials here because of the substantially reduced sample size compared to the main models.
+\subsubsection{Validations on complete trait data}
+Finally, to assess the degree to which the results were robust to trait imputation uncertainty, I fitted the models again for the subset of species for which I had empirical (i.e., non-imputed) trait estimates. Diet was excluded for amphibians and reptiles on the basis of high collinearity (GVIF$>$5). I fitted first-order polynomials here because of the substantially reduced sample size compared to the main models.
 
 \end{itemize}
 
@@ -222,7 +222,20 @@ The PGLS models explained an important proportion of the overall variation in es
 \end{figure}
 
 \subsubsection{Robustness of the PGLS models}
-The PGLS models were robust to distributional assumptions (Figures \ref{SI_4_Figure18}-\ref{SI_4_Figure21}). When fitting the models on all species (including those with range area $\leq$100km$^2$), I found that the relationship between climate-change sensitivity and geographical range area was reversed in all classes (with smaller-ranging species estimated to be less sensitive). This result is likely an artefact caused by the underestimation of climate-change sensitivity for the most narrow-ranging species, which would support the exclusion of such species from the analysis. Other results were generally not sensitive to the exclusion of species whose range area was $\leq$100 km$^2$ (Figure \ref{SI_4_Figure22}).
+The PGLS models were robust to distributional assumptions (Figures \ref{SI_4_Figure18}-\ref{SI_4_Figure21}). Further, I found that the results were robust to the different robustness checks, that is, to:
+
+\begin{itemize}
+\item 
+the exclusion of species whose range area was $\leq$100km$^2$. When fitting the models on all species (including those with range area $\leq$100km$^2$), I found that the relationship between climate-change sensitivity and geographical range area was reversed in all classes (with smaller-ranging species estimated to be less sensitive). This result is likely an artefact caused by the underestimation of climate-change sensitivity for the most narrow-ranging species, which would support the exclusion of such species from the analysis. Other results were generally not sensitive to the exclusion of species whose range area was $\leq$100 km$^2$ (Figure \ref{SI_4_Figure22}).
+
+\item 
+the exclusion of migratory birds and mammals. The models' coefficients and effects were congruent with those estimated from the main models which included the migratory species (Figures \ref{SI_4_migratory_coefs}, \ref{SI_4_migratory_cat}, \ref{SI_4_migratory_cont}).
+
+\item 
+the use of different resolutions;
+\end{itemize} 
+
+
 
 % models' summaries shown in Tables \ref{SI_4_Table17}-\ref{SI_4_Table20}.
 
