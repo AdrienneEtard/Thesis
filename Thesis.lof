@@ -196,6 +196,12 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {figure}{\numberline {S4.17}{\ignorespaces Effects for the PGLS models investigating associations between species-level ecological characteristics and climate-change sensitivity, either fitted on all species (y--axis), or fitted on the species whose range area was $>$100 km$^2$ (x--axis)}}{238}{figure.caption.162}% 
 \defcounter {refsection}{2}\relax 
+\contentsline {figure}{\numberline {S4.18}{\ignorespaces Effects for the PGLS models investigating associations between species-level ecological characteristics and climate-change sensitivity, either fitted on all birds and mammals (y--axis), or on the subset of bird and mammal species that were found not to be migratory (x--axis)}}{239}{figure.caption.163}% 
+\defcounter {refsection}{2}\relax 
+\contentsline {figure}{\numberline {S4.19}{\ignorespaces Estimated effects of the categorical traits on climate-change sensitivity, from the PGLS models fitted on birds and mammals, excluding species identified as migratory.}}{240}{figure.caption.164}% 
+\defcounter {refsection}{2}\relax 
+\contentsline {figure}{\numberline {S4.20}{\ignorespaces Effects of the continuous ecological characteristics on climate-change sensitivity, estimated from the PGLS models fitted on birds and mammals, excluding species identified as migratory.}}{241}{figure.caption.165}% 
+\defcounter {refsection}{2}\relax 
 \contentsline {figure}{\numberline {S4.21}{\ignorespaces Predicted occurrence probability as a function of land use, land-use intensity, diet and their interactions in each class: from validation models using empirical, non imputed trait values}}{244}{figure.caption.167}% 
 \defcounter {refsection}{2}\relax 
 \contentsline {chapter}{Appendix 4}{245}{section*.168}% 
