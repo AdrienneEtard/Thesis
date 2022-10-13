@@ -68,55 +68,56 @@
 \BOOKMARK [2][-]{subsection.5.3.2}{Effects of land use, land-use intensity, trophic group and residual RMR on species' occurrence probability}{section.5.3}% 68
 \BOOKMARK [1][-]{section.5.4}{Discussion}{chapter.5}% 69
 \BOOKMARK [0][-]{chapter.6}{General discussion}{}% 70
-\BOOKMARK [1][-]{section.6.1}{Gaps and biases in the knowledge of terrestrial vertebrates}{chapter.6}% 71
-\BOOKMARK [1][-]{section.6.2}{Functional reshaping of local vertebrate assemblages under land-use change}{chapter.6}% 72
-\BOOKMARK [2][-]{subsection.6.2.1}{Functional diversity and functional composition \(Chapter 3\)}{section.6.2}% 73
-\BOOKMARK [2][-]{subsection.6.2.2}{Energetic requirements \(Chapter 5\)}{section.6.2}% 74
-\BOOKMARK [1][-]{section.6.3}{Uneven sensitivity of vertebrate species to land-use and climate change}{chapter.6}% 75
-\BOOKMARK [2][-]{subsection.6.3.1}{Ecological characteristics \(Chapter 4\)}{section.6.3}% 76
-\BOOKMARK [2][-]{subsection.6.3.2}{Mass-independent energetic requirements \(Chapter 5\)}{section.6.3}% 77
-\BOOKMARK [1][-]{section.6.4}{Relevance of the findings to conservation}{chapter.6}% 78
-\BOOKMARK [1][-]{section.6.5}{Conclusion}{chapter.6}% 79
-\BOOKMARK [0][-]{section*.66}{Bibliography}{}% 80
-\BOOKMARK [0][-]{section*.68}{Appendix 1: Supporting information for Chapter 2}{}% 81
-\BOOKMARK [1][-]{section.section.S2.6}{Taxonomic corrections}{section*.68}% 82
-\BOOKMARK [1][-]{section.section.S2.7}{Additional information for trait compilation}{section*.68}% 83
-\BOOKMARK [1][-]{section.section.S2.8}{Cutting distribution maps by altitudinal limits}{section*.68}% 84
-\BOOKMARK [1][-]{section.section.S2.9}{Impact of taxonomic corrections on trait coverage}{section*.68}% 85
-\BOOKMARK [1][-]{section.section.S2.10}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{section*.68}% 86
-\BOOKMARK [1][-]{section.section.S2.11}{Phylogenetic patterns in trait completeness}{section*.68}% 87
-\BOOKMARK [1][-]{section.section.S2.12}{Poisson model summaries}{section*.68}% 88
-\BOOKMARK [1][-]{section.section.S2.13}{Spatial model summaries}{section*.68}% 89
-\BOOKMARK [1][-]{section.section.S2.14}{Trait coverage and taxonomic matching}{section*.68}% 90
-\BOOKMARK [0][-]{section*.93}{Appendix 2: Supporting information for Chapter 3}{}% 91
-\BOOKMARK [1][-]{section.section.S3.1}{Land-use categories in PREDICTS and sample sizes}{section*.93}% 92
-\BOOKMARK [1][-]{section.section.S3.2}{Trait data \046 imputation of missing trait values}{section*.93}% 93
+\BOOKMARK [1][-]{section.6.1}{Key findings}{chapter.6}% 71
+\BOOKMARK [2][-]{subsection.6.1.1}{Gaps and biases in the knowledge of terrestrial vertebrates}{section.6.1}% 72
+\BOOKMARK [2][-]{subsection.6.1.2}{Functional reshaping of local vertebrate assemblages under land-use change}{section.6.1}% 73
+\BOOKMARK [2][-]{subsection.6.1.3}{Uneven sensitivity of vertebrate species to land-use and climate change}{section.6.1}% 74
+\BOOKMARK [1][-]{section.6.2}{Implications \046 relevance of the findings to conservation}{chapter.6}% 75
+\BOOKMARK [2][-]{subsection.6.2.1}{Gaps and biases in trait data}{section.6.2}% 76
+\BOOKMARK [2][-]{subsection.6.2.2}{Functional reshaping of vertebrate communities under global change and uneven sensitivity to human pressures}{section.6.2}% 77
+\BOOKMARK [2][-]{subsection.6.2.3}{Limitations and further developments}{section.6.2}% 78
+\BOOKMARK [1][-]{section.6.3}{Conclusion}{chapter.6}% 79
+\BOOKMARK [0][-]{section*.70}{Bibliography}{}% 80
+\BOOKMARK [0][-]{section*.72}{Appendix 1: Supporting information for Chapter 2}{}% 81
+\BOOKMARK [1][-]{section.section.S2.4}{Taxonomic corrections}{section*.72}% 82
+\BOOKMARK [1][-]{section.section.S2.5}{Additional information for trait compilation}{section*.72}% 83
+\BOOKMARK [1][-]{section.section.S2.6}{Cutting distribution maps by altitudinal limits}{section*.72}% 84
+\BOOKMARK [1][-]{section.section.S2.7}{Impact of taxonomic corrections on trait coverage}{section*.72}% 85
+\BOOKMARK [1][-]{section.section.S2.8}{Assemblage-level median, mean and standard deviation of trait completeness \(maps\)}{section*.72}% 86
+\BOOKMARK [1][-]{section.section.S2.9}{Phylogenetic patterns in trait completeness}{section*.72}% 87
+\BOOKMARK [1][-]{section.section.S2.10}{Poisson model summaries}{section*.72}% 88
+\BOOKMARK [1][-]{section.section.S2.11}{Spatial model summaries}{section*.72}% 89
+\BOOKMARK [1][-]{section.section.S2.12}{Trait coverage and taxonomic matching}{section*.72}% 90
+\BOOKMARK [0][-]{section*.97}{Appendix 2: Supporting information for Chapter 3}{}% 91
+\BOOKMARK [1][-]{section.section.S3.1}{Land-use categories in PREDICTS and sample sizes}{section*.97}% 92
+\BOOKMARK [1][-]{section.section.S3.2}{Trait data \046 imputation of missing trait values}{section*.97}% 93
 \BOOKMARK [2][-]{subsection.section.S3.2.1}{Choice of imputation technique}{section.section.S3.2}% 94
 \BOOKMARK [2][-]{subsection.section.S3.2.2}{Phylogenetic signal in traits}{section.section.S3.2}% 95
 \BOOKMARK [2][-]{subsection.section.S3.2.3}{Implementation of `missforest' imputations}{section.section.S3.2}% 96
-\BOOKMARK [1][-]{section.section.S3.3}{Degree of multicollinearity among traits}{section*.93}% 97
-\BOOKMARK [1][-]{section.section.S3.4}{Imputation performance}{section*.93}% 98
-\BOOKMARK [1][-]{section.section.S3.5}{Functional loss and functional gain}{section*.93}% 99
-\BOOKMARK [1][-]{section.section.S3.6}{Diagnostic plots}{section*.93}% 100
-\BOOKMARK [1][-]{section.section.S3.7}{Model robustness}{section*.93}% 101
-\BOOKMARK [1][-]{section.section.S3.8}{Model robustness \205 time since land-use conversion}{section*.93}% 102
-\BOOKMARK [0][-]{section*.127}{Appendix 3: Supporting information for Chapter 4}{}% 103
-\BOOKMARK [1][-]{section.section.S4.1}{Compiling diet information}{section*.127}% 104
-\BOOKMARK [1][-]{section.section.S4.2}{Imputing missing trait values}{section*.127}% 105
+\BOOKMARK [1][-]{section.section.S3.3}{Degree of multicollinearity among traits}{section*.97}% 97
+\BOOKMARK [1][-]{section.section.S3.4}{Imputation performance}{section*.97}% 98
+\BOOKMARK [1][-]{section.section.S3.5}{Functional loss and functional gain}{section*.97}% 99
+\BOOKMARK [1][-]{section.section.S3.6}{Diagnostic plots}{section*.97}% 100
+\BOOKMARK [1][-]{section.section.S3.7}{Model robustness}{section*.97}% 101
+\BOOKMARK [1][-]{section.section.S3.8}{Model robustness \205 time since land-use conversion}{section*.97}% 102
+\BOOKMARK [0][-]{section*.131}{Appendix 3: Supporting information for Chapter 4}{}% 103
+\BOOKMARK [1][-]{section.section.S4.1}{Compiling diet information}{section*.131}% 104
+\BOOKMARK [1][-]{section.section.S4.2}{Imputing missing trait values}{section*.131}% 105
 \BOOKMARK [2][-]{subsection.section.S4.2.1}{Trait data coverage}{section.section.S4.2}% 106
 \BOOKMARK [2][-]{subsection.section.S4.2.2}{Phylogenetic signal in traits}{section.section.S4.2}% 107
 \BOOKMARK [2][-]{subsection.section.S4.2.3}{Implementation of missing value imputations}{section.section.S4.2}% 108
 \BOOKMARK [2][-]{subsection.section.S4.2.4}{Imputation error}{section.section.S4.2}% 109
-\BOOKMARK [1][-]{section.section.S4.3}{Land-use types in PREDICTS and sample sizes \(number of sampled sites across classes\)}{section*.127}% 110
-\BOOKMARK [1][-]{section.section.S4.4}{Land-use responses: multicollinearity checks among the models' explanatory variables}{section*.127}% 111
-\BOOKMARK [1][-]{section.section.S4.5}{Implementing Climate-niche Factor Analysis across terrestrial vertebrates}{section*.127}% 112
+\BOOKMARK [1][-]{section.section.S4.3}{Land-use types in PREDICTS and sample sizes \(number of sampled sites across classes\)}{section*.131}% 110
+\BOOKMARK [1][-]{section.section.S4.4}{Land-use responses: multicollinearity checks among the models' explanatory variables}{section*.131}% 111
+\BOOKMARK [1][-]{section.section.S4.5}{Implementing Climate-niche Factor Analysis across terrestrial vertebrates}{section*.131}% 112
 \BOOKMARK [2][-]{subsection.section.S4.5.1}{Historical climate data: groups of intercorrelated variables}{section.section.S4.5}% 113
 \BOOKMARK [2][-]{subsection.section.S4.5.2}{CENFA estimation and resolution}{section.section.S4.5}% 114
-\BOOKMARK [1][-]{section.section.S4.6}{Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{section*.127}% 115
-\BOOKMARK [1][-]{section.section.S4.7}{Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{section*.127}% 116
-\BOOKMARK [1][-]{section.section.S4.8}{Land-use responses: diagnostic plots for the full models}{section*.127}% 117
-\BOOKMARK [1][-]{section.section.S4.9}{Climate-change sensitivity: model summaries and diagnostic plots}{section*.127}% 118
+\BOOKMARK [1][-]{section.section.S4.6}{Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{section*.131}% 115
+\BOOKMARK [1][-]{section.section.S4.7}{Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{section*.131}% 116
+\BOOKMARK [1][-]{section.section.S4.8}{Land-use responses: diagnostic plots for the full models}{section*.131}% 117
+\BOOKMARK [1][-]{section.section.S4.9}{Climate-change sensitivity: model summaries and diagnostic plots}{section*.131}% 118
 \BOOKMARK [2][-]{subsection.section.S4.9.1}{Summaries \046 diagnostic plots for models fitted on species with range area >100 km2\)}{section.section.S4.9}% 119
 \BOOKMARK [2][-]{subsection.section.S4.9.2}{Robustness checks of the PGLS models}{section.section.S4.9}% 120
-\BOOKMARK [1][-]{section.section.S4.10}{Validations on complete trait data subsets}{section*.127}% 121
-\BOOKMARK [0][-]{section*.171}{Appendix 4: Supporting information for Chapter 5}{}% 122
+\BOOKMARK [1][-]{section.section.S4.10}{Validations on complete trait data subsets}{section*.131}% 121
+\BOOKMARK [0][-]{section*.175}{Appendix 4: Supporting information for Chapter 5}{}% 122
+\BOOKMARK [0][-]{section*.185}{Bibliography for the Appendices}{}% 123

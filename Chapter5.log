@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.22)  30 SEP 2022 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.22)  4 OCT 2022 13:53
 entering extended mode
 **./Chapter5.tex
 (Chapter5.tex
@@ -1530,22 +1530,27 @@ LaTeX Info: Redefining \nameref on input line 111.
 \openout6 = `Chapter5.out'.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 113.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 116.
 
-Overfull \hbox (15.28654pt too wide) in paragraph at lines 113--113
+Overfull \hbox (15.28654pt too wide) in paragraph at lines 116--116
 \T1/ptm/b/n/24.88 plain species per-sis-tence in dis-turbed land uses| 
  []
 
+LaTeX Font Info:    Try loading font information for T1+phv on input line 116.
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd
+"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 116.
-(Chapters/Chapter5.tex
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 119.
+ (Chapters/Chapter5.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
  [1
 
 
 {C:/Users/Adrienne/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
-<figures/Chapter5/Figure1_minorcorrections.pdf, id=161, 650.93929pt x 590.84pt>
+<figures/Chapter5/Figure1_minorcorrections.pdf, id=162, 650.93929pt x 590.84pt>
 
 File: figures/Chapter5/Figure1_minorcorrections.pdf Graphic file (type pdf)
 <use figures/Chapter5/Figure1_minorcorrections.pdf>
@@ -1563,7 +1568,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4] [5 <./figures/Chapter5/Figure1_minorcorrections.pdf>]
-<figures/Chapter5/Figure2_minorcorrections.pdf, id=206, 949.81914pt x 590.18625
+<figures/Chapter5/Figure2_minorcorrections.pdf, id=207, 949.81914pt x 590.18625
 pt>
 File: figures/Chapter5/Figure2_minorcorrections.pdf Graphic file (type pdf)
 <use figures/Chapter5/Figure2_minorcorrections.pdf>
@@ -1599,7 +1604,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 
 
 ] [8] [9] [10]
-<figures/Chapter5/Minor_corrections/tRMR_imputed.pdf, id=320, 650.43pt x 433.62
+<figures/Chapter5/Minor_corrections/tRMR_imputed.pdf, id=321, 650.43pt x 433.62
 pt>
 File: figures/Chapter5/Minor_corrections/tRMR_imputed.pdf Graphic file (type pd
 f)
@@ -1616,7 +1621,7 @@ Overfull \hbox (15.79007pt too wide) in paragraph at lines 112--113
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [11] [12 <./figures/Chapter5/Minor_corrections/tRMR_imputed.pdf>]
-<figures/Chapter5/Minor_corrections/Figure_predictions_slopes.pdf, id=346, 505.
+<figures/Chapter5/Minor_corrections/Figure_predictions_slopes.pdf, id=347, 505.
 89pt x 867.24pt>
 File: figures/Chapter5/Minor_corrections/Figure_predictions_slopes.pdf Graphic 
 file (type pdf)
@@ -1629,7 +1634,7 @@ slopes.pdf  used on input line 127.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13 <./figures/Chapter5/Minor_corrections/Figure_predictions_slopes.pdf>]
-<figures/Chapter5/Minor_corrections/Figure_Occurrence_probability.pdf, id=366, 
+<figures/Chapter5/Minor_corrections/Figure_Occurrence_probability.pdf, id=367, 
 578.16pt x 252.945pt>
 File: figures/Chapter5/Minor_corrections/Figure_Occurrence_probability.pdf Grap
 hic file (type pdf)
@@ -1647,7 +1652,7 @@ Overfull \hbox (38.55655pt too wide) in paragraph at lines 10--18
  [] 
  []
 
-<Supporting/Chapter5/Figures/Abundance_BM.pdf, id=434, 578.16pt x 433.62pt>
+<Supporting/Chapter5/Figures/Abundance_BM.pdf, id=435, 578.16pt x 433.62pt>
 File: Supporting/Chapter5/Figures/Abundance_BM.pdf Graphic file (type pdf)
 <use Supporting/Chapter5/Figures/Abundance_BM.pdf>
 Package pdftex.def Info: Supporting/Chapter5/Figures/Abundance_BM.pdf  used on 
@@ -1661,7 +1666,7 @@ Overfull \hbox (48.30795pt too wide) in paragraph at lines 41--42
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Supporting/Chapter5/Figures/DiagnosticplotstRMR.pdf, id=437, 728.7225pt x 382.
+<Supporting/Chapter5/Figures/DiagnosticplotstRMR.pdf, id=438, 728.7225pt x 382.
 42876pt>
 File: Supporting/Chapter5/Figures/DiagnosticplotstRMR.pdf Graphic file (type pd
 f)
@@ -1680,7 +1685,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Supporting/Chapter5/Figures/SI_Coefficients_Complete_against_Imputed.pdf, id=4
-40, 361.35pt x 505.89pt>
+41, 361.35pt x 505.89pt>
 File: Supporting/Chapter5/Figures/SI_Coefficients_Complete_against_Imputed.pdf 
 Graphic file (type pdf)
 <use Supporting/Chapter5/Figures/SI_Coefficients_Complete_against_Imputed.pdf>
@@ -1690,7 +1695,7 @@ gainst_Imputed.pdf  used on input line 57.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Supporting/Chapter5/Figures/CompVSImp.pdf, id=441, 650.43pt x 650.43pt>
+<Supporting/Chapter5/Figures/CompVSImp.pdf, id=442, 650.43pt x 650.43pt>
 File: Supporting/Chapter5/Figures/CompVSImp.pdf Graphic file (type pdf)
 <use Supporting/Chapter5/Figures/CompVSImp.pdf>
 Package pdftex.def Info: Supporting/Chapter5/Figures/CompVSImp.pdf  used on inp
@@ -1704,7 +1709,7 @@ Overfull \hbox (48.31346pt too wide) in paragraph at lines 65--66
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Supporting/Chapter5/Figures/Diagnostic_plot_occurrence.png, id=442, 726.3135pt
+<Supporting/Chapter5/Figures/Diagnostic_plot_occurrence.png, id=443, 726.3135pt
  x 430.0065pt>
 File: Supporting/Chapter5/Figures/Diagnostic_plot_occurrence.png Graphic file (
 type png)
@@ -1720,7 +1725,7 @@ Overfull \hbox (36.38475pt too wide) in paragraph at lines 74--75
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Supporting/Chapter5/Figures/SI_Coefficients_Bayesian_against_GLMER.pdf, id=446
+<Supporting/Chapter5/Figures/SI_Coefficients_Bayesian_against_GLMER.pdf, id=447
 , 578.16pt x 505.89pt>
 File: Supporting/Chapter5/Figures/SI_Coefficients_Bayesian_against_GLMER.pdf Gr
 aphic file (type pdf)
@@ -1744,7 +1749,7 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
 (biblatex)                Using 'family-given' now.
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 129.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 132.
 ("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd
 "
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -1752,18 +1757,18 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 
 ] [26] [27] [28] [29]
-Overfull \hbox (19.24718pt too wide) in paragraph at lines 129--129
+Overfull \hbox (19.24718pt too wide) in paragraph at lines 132--132
 [][]\T1/ptm/m/n/10.95 Santos, T. (2018). \T1/ptm/m/it/10.95 Pack-age ` PVR '. P
 hy-lo-ge-netic Eigen-vec-tors Re-gres-sion and Phy-lo-gen-tic Signal-Representa
 tion
  []
 
 [30] [31] [32]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
  (Chapter5.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
 Package rerunfilecheck Info: File `Chapter5.out' has not changed.
 (rerunfilecheck)             Checksum: E1F952AE3B8E26AB43A4D4E48C544732;1227.
 Package logreq Info: Writing requests to 'Chapter5.run.xml'.
@@ -1771,13 +1776,13 @@ Package logreq Info: Writing requests to 'Chapter5.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37196 strings out of 492946
- 718630 string characters out of 3124934
- 1158579 words of memory out of 3000000
- 40443 multiletter control sequences out of 15000+200000
- 581359 words of font info for 81 fonts, out of 3000000 for 9000
+ 37246 strings out of 492946
+ 719322 string characters out of 3124934
+ 1159873 words of memory out of 3000000
+ 40488 multiletter control sequences out of 15000+200000
+ 585893 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,14n,70p,2678b,1756s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,14n,70p,2678b,1762s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
 enc}<C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/
@@ -1789,13 +1794,15 @@ enne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 s/cm/cmsy10.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Adrienne/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Adrienne/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Adrienne/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Adrienn
-e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Chapter5.pdf (32 pages, 1732371 bytes).
+ms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Adrienne/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Adrienne/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Adri
+enne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Use
+rs/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on Chapter5.pdf (32 pages, 1742990 bytes).
 PDF statistics:
- 711 PDF objects out of 1000 (max. 8388607)
+ 727 PDF objects out of 1000 (max. 8388607)
  134 named destinations out of 1000 (max. 500000)
  164 words of extra memory for PDF output out of 10000 (max. 10000000)
 
