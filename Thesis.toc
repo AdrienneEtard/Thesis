@@ -1,297 +1,297 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{List of Tables}{14}{section*.9}% 
+\contentsline {chapter}{List of Tables}{14}{section*.9}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{List of Figures}{16}{section*.10}% 
+\contentsline {chapter}{List of Figures}{16}{section*.10}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {1}General introduction}{22}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}General introduction}{22}{chapter.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {1.1}Major drivers of global biodiversity change}{23}{section.1.1}% 
+\contentsline {section}{\numberline {1.1}Major drivers of global biodiversity change}{23}{section.1.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Land-use change}{23}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Land-use change}{23}{subsection.1.1.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Climate change}{24}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.2}Climate change}{24}{subsection.1.1.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.1.3}The future of biodiversity in the Anthropocene}{26}{subsection.1.1.3}% 
+\contentsline {subsection}{\numberline {1.1.3}The future of biodiversity in the Anthropocene}{26}{subsection.1.1.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {1.2}Ecological importance of terrestrial vertebrates and current threats}{26}{section.1.2}% 
+\contentsline {section}{\numberline {1.2}Ecological importance of terrestrial vertebrates and current threats}{26}{section.1.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {1.3}Using trait-based approaches to understand global biodiversity change}{27}{section.1.3}% 
+\contentsline {section}{\numberline {1.3}Using trait-based approaches to understand global biodiversity change}{27}{section.1.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.3.1}Traits as common currencies across species}{27}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.1}Traits as common currencies across species}{27}{subsection.1.3.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.3.2}Using ecological traits to assess which species are at most risk from human-driven changes}{28}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.2}Using ecological traits to assess which species are at most risk from human-driven changes}{28}{subsection.1.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.3.3}Using physiological traits to understand land-use impacts on biodiversity and ecosystem functioning}{30}{subsection.1.3.3}% 
+\contentsline {subsection}{\numberline {1.3.3}Using physiological traits to understand land-use impacts on biodiversity and ecosystem functioning}{30}{subsection.1.3.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {1.3.4}Thesis aims}{31}{subsection.1.3.4}% 
+\contentsline {subsection}{\numberline {1.3.4}Thesis aims}{31}{subsection.1.3.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {1.4}Detailed aims, hypotheses and outline of the following Chapters}{32}{section.1.4}% 
+\contentsline {section}{\numberline {1.4}Detailed aims, hypotheses and outline of the following Chapters}{32}{section.1.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {2}Global gaps and biases in trait data for terrestrial vertebrates}{35}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}Global gaps and biases in trait data for terrestrial vertebrates}{35}{chapter.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.1}Introduction}{36}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Introduction}{36}{section.2.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.2}Methods}{39}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Methods}{39}{section.2.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Trait data collection}{39}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Trait data collection}{39}{subsection.2.2.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Sources and taxonomic matching}{39}{subsubsection*.13}% 
+\contentsline {subsubsection}{Sources and taxonomic matching}{39}{subsubsection*.13}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Compilation methods}{40}{subsubsection*.16}% 
+\contentsline {subsubsection}{Compilation methods}{40}{subsubsection*.16}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Phylogenies}{44}{subsubsection*.18}% 
+\contentsline {subsubsection}{Phylogenies}{44}{subsubsection*.18}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Species distributions}{44}{subsubsection*.19}% 
+\contentsline {subsubsection}{Species distributions}{44}{subsubsection*.19}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Investigating gaps and biases in trait data}{45}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.2}Investigating gaps and biases in trait data}{45}{subsection.2.2.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Taxonomic biases}{46}{subsubsection*.21}% 
+\contentsline {subsubsection}{Taxonomic biases}{46}{subsubsection*.21}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Phylogenetic biases}{46}{subsubsection*.22}% 
+\contentsline {subsubsection}{Phylogenetic biases}{46}{subsubsection*.22}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Spatial biases}{46}{subsubsection*.23}% 
+\contentsline {subsubsection}{Spatial biases}{46}{subsubsection*.23}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.3}Results}{47}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Results}{47}{section.2.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Taxonomic biases in trait information}{47}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.1}Taxonomic biases in trait information}{47}{subsection.2.3.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Phylogenetic biases in trait completeness}{48}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.2}Phylogenetic biases in trait completeness}{48}{subsection.2.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {2.3.3}Spatial biases in trait completeness}{51}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.3}Spatial biases in trait completeness}{51}{subsection.2.3.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {2.4}Discussion}{53}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Discussion}{53}{section.2.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {3}Intensive human land uses negatively affect vertebrate functional diversity}{58}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Intensive human land uses negatively affect vertebrate functional diversity}{58}{chapter.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.1}Introduction}{58}{section.3.1}% 
+\contentsline {section}{\numberline {3.1}Introduction}{58}{section.3.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.2}Methods}{60}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Methods}{60}{section.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Vertebrate assemblages}{60}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.1}Vertebrate assemblages}{60}{subsection.3.2.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Functional traits and diversity metrics}{62}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.2}Functional traits and diversity metrics}{62}{subsection.3.2.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Effects of land use and land-use intensity on FRic and FDis (Hypothesis 1)}{63}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.3}Effects of land use and land-use intensity on FRic and FDis (Hypothesis 1)}{63}{subsection.3.2.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Investigating functional under-dispersion (Hypothesis 2)}{65}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.2.4}Investigating functional under-dispersion (Hypothesis 2)}{65}{subsection.3.2.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.2.5}Functional loss and functional gain (Hypothesis 3)}{65}{subsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.2.5}Functional loss and functional gain (Hypothesis 3)}{65}{subsection.3.2.5}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.3}Results}{66}{section.3.3}% 
+\contentsline {section}{\numberline {3.3}Results}{66}{section.3.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Effects of land use on FRic and FDis}{66}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.1}Effects of land use on FRic and FDis}{66}{subsection.3.3.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Changes in the probability of occurrence of functional under-dispersion}{69}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.2}Changes in the probability of occurrence of functional under-dispersion}{69}{subsection.3.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Functional loss and gain}{70}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.3}Functional loss and gain}{70}{subsection.3.3.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {3.4}Discussion}{72}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Discussion}{72}{section.3.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {4}Narrow-ranging natural habitat specialists most sensitive to both land-use and climate change in terrestrial vertebrates}{76}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Narrow-ranging natural habitat specialists most sensitive to both land-use and climate change in terrestrial vertebrates}{76}{chapter.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.1}Introduction}{77}{section.4.1}% 
+\contentsline {section}{\numberline {4.1}Introduction}{77}{section.4.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.2}Methods}{81}{section.4.2}% 
+\contentsline {section}{\numberline {4.2}Methods}{81}{section.4.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Ecological characteristics (Figure \ref {chap4_fig1}a)}{81}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.1}Ecological characteristics (Figure \ref {chap4_fig1}a)}{81}{subsection.4.2.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Traits}{81}{subsubsection*.36}% 
+\contentsline {subsubsection}{Traits}{81}{subsubsection*.36}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Geographical range area}{82}{subsubsection*.37}% 
+\contentsline {subsubsection}{Geographical range area}{82}{subsubsection*.37}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Phylogenies}{82}{subsubsection*.38}% 
+\contentsline {subsubsection}{Phylogenies}{82}{subsubsection*.38}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Imputations of missing trait values}{82}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.2}Imputations of missing trait values}{82}{subsection.4.2.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Characterizing the influence of traits on species' land-use responses (Figure \ref {chap4_fig1}b)}{83}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.3}Characterizing the influence of traits on species' land-use responses (Figure \ref {chap4_fig1}b)}{83}{subsection.4.2.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Vertebrate assemblage composition}{83}{subsubsection*.39}% 
+\contentsline {subsubsection}{Vertebrate assemblage composition}{83}{subsubsection*.39}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Full models (all-predictor models)}{84}{subsubsection*.40}% 
+\contentsline {subsubsection}{Full models (all-predictor models)}{84}{subsubsection*.40}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Partial models (single-predictor models)}{84}{subsubsection*.41}% 
+\contentsline {subsubsection}{Partial models (single-predictor models)}{84}{subsubsection*.41}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Effects of categorical ecological characteristics on species' occurrence probability (Figure \ref {chap4_fig2}a)}{85}{subsubsection*.42}% 
+\contentsline {subsubsection}{Effects of categorical ecological characteristics on species' occurrence probability (Figure \ref {chap4_fig2}a)}{85}{subsubsection*.42}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Effects of continuous ecological characteristics on species\IeC {\textquoteright } occurrence probability (Figure \ref {chap4_fig2}b)}{85}{subsubsection*.43}% 
+\contentsline {subsubsection}{Effects of continuous ecological characteristics on species’ occurrence probability (Figure \ref {chap4_fig2}b)}{85}{subsubsection*.43}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Validation on complete trait data subset (no imputed trait values)}{86}{subsubsection*.45}% 
+\contentsline {subsubsection}{Validation on complete trait data subset (no imputed trait values)}{86}{subsubsection*.45}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.2.4}Characterizing the influence of traits on species' sensitivity to climate change (Figure \ref {chap4_fig1}c)}{88}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.4}Characterizing the influence of traits on species' sensitivity to climate change (Figure \ref {chap4_fig1}c)}{88}{subsection.4.2.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Historical climate data}{88}{subsubsection*.46}% 
+\contentsline {subsubsection}{Historical climate data}{88}{subsubsection*.46}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Estimating climate-change sensitivity from CENFA}{88}{subsubsection*.47}% 
+\contentsline {subsubsection}{Estimating climate-change sensitivity from CENFA}{88}{subsubsection*.47}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Climate-change sensitivity models}{89}{subsubsection*.48}% 
+\contentsline {subsubsection}{Climate-change sensitivity models}{89}{subsubsection*.48}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Models' robustness checks}{89}{subsubsection*.49}% 
+\contentsline {subsubsection}{Models' robustness checks}{89}{subsubsection*.49}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Validations on complete trait data}{90}{subsubsection*.50}% 
+\contentsline {subsubsection}{Validations on complete trait data}{90}{subsubsection*.50}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.3}Results}{90}{section.4.3}% 
+\contentsline {section}{\numberline {4.3}Results}{90}{section.4.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Land-use responses}{90}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.1}Land-use responses}{90}{subsection.4.3.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{`Within land-use type' effects (Table \ref {chap4_table1}a)}{90}{subsubsection*.51}% 
+\contentsline {subsubsection}{`Within land-use type' effects (Table \ref {chap4_table1}a)}{90}{subsubsection*.51}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Effects of diet on species' occurrence probability (Figure \ref {chap4_fig3})}{93}{subsubsection*.53}% 
+\contentsline {subsubsection}{Effects of diet on species' occurrence probability (Figure \ref {chap4_fig3})}{93}{subsubsection*.53}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Explanatory power for the full models \& variance explained by each characteristic (Figure \ref {chap4_fig4})}{93}{subsubsection*.54}% 
+\contentsline {subsubsection}{Explanatory power for the full models \& variance explained by each characteristic (Figure \ref {chap4_fig4})}{93}{subsubsection*.54}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Climate-change sensitivity}{96}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.2}Climate-change sensitivity}{96}{subsection.4.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Robustness of the PGLS models}{98}{subsubsection*.59}% 
+\contentsline {subsubsection}{Robustness of the PGLS models}{98}{subsubsection*.59}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Validations on complete trait data}{101}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.3}Validations on complete trait data}{101}{subsection.4.3.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {4.4}Discussion}{101}{section.4.4}% 
+\contentsline {section}{\numberline {4.4}Discussion}{101}{section.4.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {5}Energetic constraints and trophic group explain species persistence in disturbed land uses}{105}{chapter.5}% 
+\contentsline {chapter}{\numberline {5}Energetic constraints and trophic group explain species persistence in disturbed land uses}{105}{chapter.5}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.1}Introduction}{106}{section.5.1}% 
+\contentsline {section}{\numberline {5.1}Introduction}{106}{section.5.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.2}Methods}{111}{section.5.2}% 
+\contentsline {section}{\numberline {5.2}Methods}{111}{section.5.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Vertebrate assemblage composition }{111}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.1}Vertebrate assemblage composition }{111}{subsection.5.2.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Energy availability by land-use type and land-use intensity}{111}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.2}Energy availability by land-use type and land-use intensity}{111}{subsection.5.2.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Resting Metabolic Rates (RMR)}{112}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.3}Resting Metabolic Rates (RMR)}{112}{subsection.5.2.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.4}Trophic group and body mass information}{112}{subsection.5.2.4}% 
+\contentsline {subsection}{\numberline {5.2.4}Trophic group and body mass information}{112}{subsection.5.2.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.5}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR (prediction 1; Figure \ref {chap5_fig2}a)}{113}{subsection.5.2.5}% 
+\contentsline {subsection}{\numberline {5.2.5}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR (prediction 1; Figure \ref {chap5_fig2}a)}{113}{subsection.5.2.5}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.2.6}Effects of land use, land-use intensity, trophic group and residual RMR on species occurrence probability (prediction 2; Figure \ref {chap5_fig2}b)}{114}{subsection.5.2.6}% 
+\contentsline {subsection}{\numberline {5.2.6}Effects of land use, land-use intensity, trophic group and residual RMR on species occurrence probability (prediction 2; Figure \ref {chap5_fig2}b)}{114}{subsection.5.2.6}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.3}Results}{115}{section.5.3}% 
+\contentsline {section}{\numberline {5.3}Results}{115}{section.5.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR}{115}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.1}Effects of land use, land-use intensity and trophic group on assemblage-level total RMR}{115}{subsection.5.3.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {5.3.2}Effects of land use, land-use intensity, trophic group and residual RMR on species' occurrence probability}{116}{subsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.3.2}Effects of land use, land-use intensity, trophic group and residual RMR on species' occurrence probability}{116}{subsection.5.3.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {5.4}Discussion}{119}{section.5.4}% 
+\contentsline {section}{\numberline {5.4}Discussion}{119}{section.5.4}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{\numberline {6}General discussion}{122}{chapter.6}% 
+\contentsline {chapter}{\numberline {6}General discussion}{122}{chapter.6}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {6.1}Key findings}{124}{section.6.1}% 
+\contentsline {section}{\numberline {6.1}Key findings}{124}{section.6.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {6.1.1}Gaps and biases in the knowledge of terrestrial vertebrates}{124}{subsection.6.1.1}% 
+\contentsline {subsection}{\numberline {6.1.1}Gaps and biases in the knowledge of terrestrial vertebrates}{124}{subsection.6.1.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {6.1.2}Functional reshaping of local vertebrate assemblages under land-use change}{125}{subsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.1.2}Functional reshaping of local vertebrate assemblages under land-use change}{125}{subsection.6.1.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Functional diversity and functional composition }{125}{subsubsection*.66}% 
+\contentsline {subsubsection}{Functional diversity and functional composition }{125}{subsubsection*.66}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Energetic requirements}{126}{subsubsection*.67}% 
+\contentsline {subsubsection}{Energetic requirements}{126}{subsubsection*.67}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {6.1.3}Uneven sensitivity of vertebrate species to land-use and climate change}{126}{subsection.6.1.3}% 
+\contentsline {subsection}{\numberline {6.1.3}Uneven sensitivity of vertebrate species to land-use and climate change}{126}{subsection.6.1.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Ecological characteristics}{127}{subsubsection*.68}% 
+\contentsline {subsubsection}{Ecological characteristics}{127}{subsubsection*.68}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsubsection}{Mass-independent energetic requirements}{127}{subsubsection*.69}% 
+\contentsline {subsubsection}{Mass-independent energetic requirements}{127}{subsubsection*.69}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {6.2}Implications \& relevance of the findings to conservation}{128}{section.6.2}% 
+\contentsline {section}{\numberline {6.2}Implications \& relevance of the findings to conservation}{128}{section.6.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Gaps and biases in trait data}{128}{subsection.6.2.1}% 
+\contentsline {subsection}{\numberline {6.2.1}Gaps and biases in trait data}{128}{subsection.6.2.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Functional reshaping of vertebrate communities under global change and uneven sensitivity to human pressures}{128}{subsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6.2.2}Functional reshaping of vertebrate communities under global change and uneven sensitivity to human pressures}{128}{subsection.6.2.2}%
 \defcounter {refsection}{1}\relax 
-\contentsline {subsection}{\numberline {6.2.3}Limitations and further developments}{129}{subsection.6.2.3}% 
+\contentsline {subsection}{\numberline {6.2.3}Limitations and further developments}{129}{subsection.6.2.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {6.3}Conclusion}{131}{section.6.3}% 
+\contentsline {section}{\numberline {6.3}Conclusion}{131}{section.6.3}%
 \defcounter {refsection}{1}\relax 
-\contentsline {chapter}{Bibliography}{132}{section*.70}% 
+\contentsline {chapter}{Bibliography}{132}{section*.70}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 1: Supporting information for Chapter 2}{160}{section*.72}% 
+\contentsline {chapter}{Appendix 1: Supporting information for Chapter 2}{160}{section*.72}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.4}Taxonomic corrections}{160}{section.section.S2.4}% 
+\contentsline {section}{\numberline {S2.4}Taxonomic corrections}{160}{section.section.S2.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS)}{160}{paragraph*.74}% 
+\contentsline {paragraph}{Extracting names from the IUCN Red List and the Integrated Taxonomic Information System (ITIS)}{160}{paragraph*.74}%
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Output.}{161}{paragraph*.75}% 
+\contentsline {paragraph}{Output.}{161}{paragraph*.75}%
 \defcounter {refsection}{2}\relax 
-\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{161}{paragraph*.76}% 
+\contentsline {paragraph}{Harmonising taxonomy in trait datasets.}{161}{paragraph*.76}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.5}Additional information for trait compilation}{163}{section.section.S2.5}% 
+\contentsline {section}{\numberline {S2.5}Additional information for trait compilation}{163}{section.section.S2.5}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.6}Cutting distribution maps by altitudinal limits}{164}{section.section.S2.6}% 
+\contentsline {section}{\numberline {S2.6}Cutting distribution maps by altitudinal limits}{164}{section.section.S2.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.7}Impact of taxonomic corrections on trait coverage}{165}{section.section.S2.7}% 
+\contentsline {section}{\numberline {S2.7}Impact of taxonomic corrections on trait coverage}{165}{section.section.S2.7}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.8}Assemblage-level median, mean and standard deviation of trait completeness (maps)}{166}{section.section.S2.8}% 
+\contentsline {section}{\numberline {S2.8}Assemblage-level median, mean and standard deviation of trait completeness (maps)}{166}{section.section.S2.8}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.9}Phylogenetic patterns in trait completeness}{171}{section.section.S2.9}% 
+\contentsline {section}{\numberline {S2.9}Phylogenetic patterns in trait completeness}{171}{section.section.S2.9}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.10}Poisson model summaries}{176}{section.section.S2.10}% 
+\contentsline {section}{\numberline {S2.10}Poisson model summaries}{176}{section.section.S2.10}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.11}Spatial model summaries}{177}{section.section.S2.11}% 
+\contentsline {section}{\numberline {S2.11}Spatial model summaries}{177}{section.section.S2.11}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S2.12}Trait coverage and taxonomic matching}{178}{section.section.S2.12}% 
+\contentsline {section}{\numberline {S2.12}Trait coverage and taxonomic matching}{178}{section.section.S2.12}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 2: Supporting information for Chapter 3}{179}{section*.97}% 
+\contentsline {chapter}{Appendix 2: Supporting information for Chapter 3}{179}{section*.97}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.1}Land-use categories in PREDICTS and sample sizes}{179}{section.section.S3.1}% 
+\contentsline {section}{\numberline {S3.1}Land-use categories in PREDICTS and sample sizes}{179}{section.section.S3.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.2}Trait data \& imputation of missing trait values}{182}{section.section.S3.2}% 
+\contentsline {section}{\numberline {S3.2}Trait data \& imputation of missing trait values}{182}{section.section.S3.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.1}Choice of imputation technique}{184}{subsection.section.S3.2.1}% 
+\contentsline {subsection}{\numberline {S3.2.1}Choice of imputation technique}{184}{subsection.section.S3.2.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.2}Phylogenetic signal in traits}{184}{subsection.section.S3.2.2}% 
+\contentsline {subsection}{\numberline {S3.2.2}Phylogenetic signal in traits}{184}{subsection.section.S3.2.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S3.2.3}Implementation of `missforest' imputations}{185}{subsection.section.S3.2.3}% 
+\contentsline {subsection}{\numberline {S3.2.3}Implementation of `missforest' imputations}{185}{subsection.section.S3.2.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.3}Degree of multicollinearity among traits}{186}{section.section.S3.3}% 
+\contentsline {section}{\numberline {S3.3}Degree of multicollinearity among traits}{186}{section.section.S3.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.4}Imputation performance}{187}{section.section.S3.4}% 
+\contentsline {section}{\numberline {S3.4}Imputation performance}{187}{section.section.S3.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.5}Functional loss and functional gain}{190}{section.section.S3.5}% 
+\contentsline {section}{\numberline {S3.5}Functional loss and functional gain}{190}{section.section.S3.5}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.6}Diagnostic plots}{193}{section.section.S3.6}% 
+\contentsline {section}{\numberline {S3.6}Diagnostic plots}{193}{section.section.S3.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.7}Model robustness}{202}{section.section.S3.7}% 
+\contentsline {section}{\numberline {S3.7}Model robustness}{202}{section.section.S3.7}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S3.8}Model robustness -- time since land-use conversion}{209}{section.section.S3.8}% 
+\contentsline {section}{\numberline {S3.8}Model robustness -- time since land-use conversion}{209}{section.section.S3.8}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 3: Supporting information for Chapter 4}{212}{section*.131}% 
+\contentsline {chapter}{Appendix 3: Supporting information for Chapter 4}{212}{section*.131}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.1}Compiling diet information}{212}{section.section.S4.1}% 
+\contentsline {section}{\numberline {S4.1}Compiling diet information}{212}{section.section.S4.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.2}Imputing missing trait values}{216}{section.section.S4.2}% 
+\contentsline {section}{\numberline {S4.2}Imputing missing trait values}{216}{section.section.S4.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.2.1}Trait data coverage}{216}{subsection.section.S4.2.1}% 
+\contentsline {subsection}{\numberline {S4.2.1}Trait data coverage}{216}{subsection.section.S4.2.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.2.2}Phylogenetic signal in traits}{216}{subsection.section.S4.2.2}% 
+\contentsline {subsection}{\numberline {S4.2.2}Phylogenetic signal in traits}{216}{subsection.section.S4.2.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.2.3}Implementation of missing value imputations}{217}{subsection.section.S4.2.3}% 
+\contentsline {subsection}{\numberline {S4.2.3}Implementation of missing value imputations}{217}{subsection.section.S4.2.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.2.4}Imputation error}{217}{subsection.section.S4.2.4}% 
+\contentsline {subsection}{\numberline {S4.2.4}Imputation error}{217}{subsection.section.S4.2.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.3}Land-use types in PREDICTS and sample sizes (number of sampled sites across classes)}{219}{section.section.S4.3}% 
+\contentsline {section}{\numberline {S4.3}Land-use types in PREDICTS and sample sizes (number of sampled sites across classes)}{219}{section.section.S4.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.4}Land-use responses: multicollinearity checks among the models' explanatory variables}{221}{section.section.S4.4}% 
+\contentsline {section}{\numberline {S4.4}Land-use responses: multicollinearity checks among the models' explanatory variables}{221}{section.section.S4.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.5}Implementing Climate-niche Factor Analysis across terrestrial vertebrates}{224}{section.section.S4.5}% 
+\contentsline {section}{\numberline {S4.5}Implementing Climate-niche Factor Analysis across terrestrial vertebrates}{224}{section.section.S4.5}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.5.1}Historical climate data: groups of intercorrelated variables}{224}{subsection.section.S4.5.1}% 
+\contentsline {subsection}{\numberline {S4.5.1}Historical climate data: groups of intercorrelated variables}{224}{subsection.section.S4.5.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.5.2}CENFA estimation and resolution}{224}{subsection.section.S4.5.2}% 
+\contentsline {subsection}{\numberline {S4.5.2}CENFA estimation and resolution}{224}{subsection.section.S4.5.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.6}Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{227}{section.section.S4.6}% 
+\contentsline {section}{\numberline {S4.6}Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{227}{section.section.S4.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.7}Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{229}{section.section.S4.7}% 
+\contentsline {section}{\numberline {S4.7}Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{229}{section.section.S4.7}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.8}Land-use responses: diagnostic plots for the full models}{231}{section.section.S4.8}% 
+\contentsline {section}{\numberline {S4.8}Land-use responses: diagnostic plots for the full models}{231}{section.section.S4.8}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.9}Climate-change sensitivity: model summaries and diagnostic plots}{234}{section.section.S4.9}% 
+\contentsline {section}{\numberline {S4.9}Climate-change sensitivity: model summaries and diagnostic plots}{234}{section.section.S4.9}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.9.1}Summaries \& diagnostic plots for models fitted on species with range area $>$100 km\textbf {$^2$})}{234}{subsection.section.S4.9.1}% 
+\contentsline {subsection}{\numberline {S4.9.1}Summaries \& diagnostic plots for models fitted on species with range area $>$100 km\textbf {$^2$})}{234}{subsection.section.S4.9.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {S4.9.2}Robustness checks of the PGLS models}{238}{subsection.section.S4.9.2}% 
+\contentsline {subsection}{\numberline {S4.9.2}Robustness checks of the PGLS models}{238}{subsection.section.S4.9.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {S4.10}Validations on complete trait data subsets}{245}{section.section.S4.10}% 
+\contentsline {section}{\numberline {S4.10}Validations on complete trait data subsets}{245}{section.section.S4.10}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Appendix 4: Supporting information for Chapter 5}{248}{section*.175}% 
+\contentsline {chapter}{Appendix 4: Supporting information for Chapter 5}{248}{section*.175}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{Bibliography for the Appendices}{255}{section*.185}% 
+\contentsline {chapter}{Bibliography for the Appendices}{255}{section*.185}%
