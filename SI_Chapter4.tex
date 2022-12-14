@@ -1,0 +1,119 @@
+%%%%%%%% TO COMPILE THE DOC, RUN BIBTEX ON EACH SEPARATE AUXILIARY FILE: (because two different reference sections in the document).
+
+%% From the console, run the lines:  
+
+%% bibtex Thesis1-blx.aux
+%% bibtex Thesis2-blx.aux
+%% pdflatex Thesis
+
+%%%%%%%% compile like this TWICE for correct compilation of references
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%% PhD word limit = 100,000 words
+
+%% WORD COUNT (APPROX.) with figure legends and headers
+
+% chapter 1 ~ 5089
+% chapter 2 ~ 7982
+% chapter 3 ~ 6852
+% chapter 5 ~ 5768
+% chapter 4 ~ 7547
+
+%% 33,238
+
+% chapter 6 ~ 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt]{report}
+% fancy colors
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{graphicx}
+%%\usepackage[left=1.5in, right=0.75in]{geometry} %% preivously 2.5cm (0,75 in = 2cm)
+\usepackage[margin=2.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{pdflscape}
+\usepackage{mdframed}
+
+% checkmarks
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+
+% fancy chapter headers
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+% captions
+\usepackage[labelfont=bf]{caption}
+\captionsetup{skip=7pt, font=footnotesize} %,font={stretch=1}
+
+% tables
+\usepackage{multirow}
+%\usepackage{longtable} 
+\usepackage{array}
+%\usepackage{verbatim} 
+\usepackage{csvsimple}
+
+% Bibliography
+\usepackage[backend=bibtex, natbib=true, url=false, doi=true, isbn=false, style=authoryear-comp, eprint=false, maxbibnames= 20, firstinits=true, maxcitenames=2]{biblatex}
+\addbibresource{LIBRARY.bib}
+\input{biblatex_options.tex}
+
+\setlength\bibitemsep{1.5\itemsep}
+% Numbering biblio
+\usepackage[numbib,nottoc]{tocbibind}
+
+% For tables from csv
+\usepackage{csvsimple}
+
+
+%Line numbering
+\usepackage{lineno}
+%\linenumbers
+
+\usepackage{moreverb} % for verbatim ouput
+
+% line spacing
+\renewcommand{\baselinestretch}{1.5}
+
+% spacing for contents (between number and caption)
+\usepackage{tocloft}
+\setlength{\cftfignumwidth}{3em} % change Xem to suit
+\setlength{\cfttabnumwidth}{3em} % change Xem to suit
+\setlength{\cftsecnumwidth}{3em}
+
+% clinkable links 
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=false, %set true if you want colored links
+    linktoc=all     %set to all if you want both sections and subsections linked
+    %linkcolor=blue,  %choose some color if you want links to stand out
+}
+
+%\usepackage{lmodern}
+\usepackage{times}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\setcounter{section}{0}
+\renewcommand{\thesection}{\arabic{section}}
+%\linenumbers
+
+\input{Supporting/Chapter4/SI_Chapter4}
+\printbibliography[title={Bibliography}]
+
+\end{document}

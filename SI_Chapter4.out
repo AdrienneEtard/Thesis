@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.0.1}{Compiling diet information}{}% 1
+\BOOKMARK [1][-]{section.0.2}{Imputing missing trait values}{}% 2
+\BOOKMARK [2][-]{subsection.0.2.1}{Trait data coverage}{section.0.2}% 3
+\BOOKMARK [2][-]{subsection.0.2.2}{Phylogenetic signal in traits}{section.0.2}% 4
+\BOOKMARK [2][-]{subsection.0.2.3}{Implementation of missing value imputations}{section.0.2}% 5
+\BOOKMARK [2][-]{subsection.0.2.4}{Imputation error}{section.0.2}% 6
+\BOOKMARK [1][-]{section.0.3}{Land-use types in PREDICTS and sample sizes \(number of sampled sites across classes\)}{}% 7
+\BOOKMARK [1][-]{section.0.4}{Land-use responses: multicollinearity checks among the models' explanatory variables}{}% 8
+\BOOKMARK [1][-]{section.0.5}{Implementing Climate-niche Factor Analysis across terrestrial vertebrates}{}% 9
+\BOOKMARK [2][-]{subsection.0.5.1}{Historical climate data: groups of intercorrelated variables}{section.0.5}% 10
+\BOOKMARK [2][-]{subsection.0.5.2}{CENFA estimation and resolution}{section.0.5}% 11
+\BOOKMARK [1][-]{section.0.6}{Climate-change sensitivity models: multicollinearity checks among models' explanatory variables}{}% 12
+\BOOKMARK [1][-]{section.0.7}{Land-use responses: occurrence probability predictions from the partial models for artificial habitat use and diel activity}{}% 13
+\BOOKMARK [1][-]{section.0.8}{Land-use responses: diagnostic plots for the full models}{}% 14
+\BOOKMARK [1][-]{section.0.9}{Climate-change sensitivity: model summaries and diagnostic plots}{}% 15
+\BOOKMARK [2][-]{subsection.0.9.1}{Summaries \046 diagnostic plots for models fitted on species with range area >100 km2\)}{section.0.9}% 16
+\BOOKMARK [2][-]{subsection.0.9.2}{Robustness checks of the PGLS models}{section.0.9}% 17
+\BOOKMARK [1][-]{section.0.10}{Validations on complete trait data subsets}{}% 18

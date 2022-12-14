@@ -1,0 +1,2160 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.22)  2 NOV 2022 10:40
+entering extended mode
+**./SI_Chapter4.tex
+(SI_Chapter4.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls
+"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo
+"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.s
+ty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsn
+am.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
+f.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvt
+ex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxet
+ex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.cfg"))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.st
+y"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspa
+ce.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlay
+er\tikz.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\
+pgf.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\p
+gfrcs.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen113
+\pgfutil@tempdimb=\dimen114
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfutil-common-lists.tex"))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfutil-latex.def"
+\pgfutil@abb=\box27
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty
+"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfrcs.code.tex"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revis
+ion.tex")
+Package: pgfrcs 2019/01/05 v3.1 (3.1)
+))
+Package: pgf 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\
+pgfcore.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer
+\pgfsys.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsys.code.tex"
+Package: pgfsys 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen115
+\pgf@y=\dimen116
+\pgf@xa=\dimen117
+\pgf@ya=\dimen118
+\pgf@xb=\dimen119
+\pgf@yb=\dimen120
+\pgf@xc=\dimen121
+\pgf@yc=\dimen122
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count92
+\c@pgf@countb=\count93
+\c@pgf@countc=\count94
+\c@pgf@countd=\count95
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count96
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgf.cfg"
+File: pgf.cfg 2019/01/05 v3.1 (3.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/01/05 v3.1 (3.1)
+)))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/01/05 v3.1 (3.1)
+\pgfsyssoftpath@smallbuffer@items=\count97
+\pgfsyssoftpath@bigbuffer@items=\count98
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlay
+er\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcore.code.tex"
+Package: pgfcore 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+ath.code.tex"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athcalc.code.tex"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athutil.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athparser.code.tex"
+\pgfmath@dimen=\dimen123
+\pgfmath@count=\count99
+\pgfmath@box=\box28
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.code.tex"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.basic.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.trigonometric.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.random.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.comparison.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.base.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.round.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.misc.code.tex")
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfunctions.integerarithmetics.code.tex")))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+athfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count100
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@picminx=\dimen124
+\pgf@picmaxx=\dimen125
+\pgf@picminy=\dimen126
+\pgf@picmaxy=\dimen127
+\pgf@pathminx=\dimen128
+\pgf@pathmaxx=\dimen129
+\pgf@pathminy=\dimen130
+\pgf@pathmaxy=\dimen131
+\pgf@xx=\dimen132
+\pgf@xy=\dimen133
+\pgf@yx=\dimen134
+\pgf@yy=\dimen135
+\pgf@zx=\dimen136
+\pgf@zy=\dimen137
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@path@lastx=\dimen138
+\pgf@path@lasty=\dimen139
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@shorten@end@additional=\dimen140
+\pgf@shorten@start@additional=\dimen141
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/01/05 v3.1 (3.1)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count101
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/01/05 v3.1 (3.1)
+\pgflinewidth=\dimen142
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@pt@x=\dimen143
+\pgf@pt@y=\dimen144
+\pgf@pt@temp=\dimen145
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/01/05 v3.1 (3.1)
+\pgfarrowsep=\dimen146
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@max=\dimen147
+\pgf@sys@shading@range@num=\count102
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/01/05 v3.1 (3.1)
+\pgfexternal@startupbox=\box32
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclaye
+r\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/01/05 v3.1 (3.1)
+)))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/01/05 v3.1 (3.1)
+\pgfnodeparttextbox=\box33
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/01/05 v3.1 (3.1)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibili
+ty\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/01/05 v3.1 (3.1)
+\pgf@nodesepstart=\dimen148
+\pgf@nodesepend=\dimen149
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibili
+ty\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/01/05 v3.1 (3.1)
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\p
+gffor.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\p
+gfkeys.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgfkeys.code.tex"))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmat
+h.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+ath.code.tex"))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities
+\pgffor.code.tex"
+Package: pgffor 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfm
+ath.code.tex")
+\pgffor@iter=\dimen150
+\pgffor@skip=\dimen151
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz\tikz.code.tex"
+Package: tikz 2019/01/05 v3.1 (3.1)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries
+\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@plot@mark@count=\count103
+\pgfplotmarksize=\dimen152
+)
+\tikz@lastx=\dimen153
+\tikz@lasty=\dimen154
+\tikz@lastxsaved=\dimen155
+\tikz@lastysaved=\dimen156
+\tikzleveldistance=\dimen157
+\tikzsiblingdistance=\dimen158
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count104
+\tikznumberofchildren=\count105
+\tikznumberofcurrentchild=\count106
+\tikz@fig@count=\count107
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\p
+gfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/01/05 v3.1 (3.1)
+\pgfmatrixcurrentrow=\count108
+\pgfmatrixcurrentcolumn=\count109
+\pgf@matrix@numberofcolumns=\count110
+)
+\tikz@expandcount=\count111
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendl
+ayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/01/05 v3.1 (3.1)
+)))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath
+.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext
+.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.
+sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen159
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.
+sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.
+sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count112
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count113
+\leftroot@=\count114
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count115
+\DOTSCASE@=\count116
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box38
+\strutbox@=\box39
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count117
+\c@MaxMatrixCols=\count118
+\dotsspace@=\muskip10
+\c@parentequation=\count119
+\dspbrk@lvl=\count120
+\tag@help=\toks29
+\row@=\count121
+\column@=\count122
+\maxfields@=\count123
+\andhelp@=\toks30
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks31
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.
+sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks33
+\verbatim@line=\toks34
+\verbatim@in@stream=\read2
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflsc
+ape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape
+.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdframed\mdfram
+ed.sty"
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
+ons.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxc
+mds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvse
+tkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infw
+arerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etex
+cmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
+atex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpar
+se\xparse.sty"
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.
+sty"
+Package: expl3 2019-05-09 L3 programming layer (loader) 
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-
+code.tex"
+Package: expl3 2019-05-09 L3 programming layer (code)
+\c_max_int=\count124
+\l_tmpa_int=\count125
+\l_tmpb_int=\count126
+\g_tmpa_int=\count127
+\g_tmpb_int=\count128
+\g__kernel_prg_map_int=\count129
+\c__ior_term_ior=\count130
+\c_log_iow=\count131
+\l_iow_line_count_int=\count132
+\l__iow_line_target_int=\count133
+\l__iow_one_indent_int=\count134
+\l__iow_indent_int=\count135
+\c_zero_dim=\dimen168
+\c_max_dim=\dimen169
+\l_tmpa_dim=\dimen170
+\l_tmpb_dim=\dimen171
+\g_tmpa_dim=\dimen172
+\g_tmpb_dim=\dimen173
+\c_zero_skip=\skip46
+\c_max_skip=\skip47
+\l_tmpa_skip=\skip48
+\l_tmpb_skip=\skip49
+\g_tmpa_skip=\skip50
+\g_tmpb_skip=\skip51
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count136
+\l__intarray_loop_int=\count137
+\c__intarray_sp_dim=\dimen174
+\g__intarray_font_int=\count138
+\c__fp_leading_shift_int=\count139
+\c__fp_middle_shift_int=\count140
+\c__fp_trailing_shift_int=\count141
+\c__fp_big_leading_shift_int=\count142
+\c__fp_big_middle_shift_int=\count143
+\c__fp_big_trailing_shift_int=\count144
+\c__fp_Bigg_leading_shift_int=\count145
+\c__fp_Bigg_middle_shift_int=\count146
+\c__fp_Bigg_trailing_shift_int=\count147
+\c__kernel_randint_max_int=\count148
+\g__fp_array_int=\count149
+\l__fp_array_loop_int=\count150
+\l__sort_length_int=\count151
+\l__sort_min_int=\count152
+\l__sort_top_int=\count153
+\l__sort_max_int=\count154
+\l__sort_true_max_int=\count155
+\l__sort_block_int=\count156
+\l__sort_begin_int=\count157
+\l__sort_end_int=\count158
+\l__sort_A_int=\count159
+\l__sort_B_int=\count160
+\l__sort_C_int=\count161
+\l__tl_analysis_normal_int=\count162
+\l__tl_analysis_index_int=\count163
+\l__tl_analysis_nesting_int=\count164
+\l__tl_analysis_type_int=\count165
+\l__regex_internal_a_int=\count166
+\l__regex_internal_b_int=\count167
+\l__regex_internal_c_int=\count168
+\l__regex_balance_int=\count169
+\l__regex_group_level_int=\count170
+\l__regex_mode_int=\count171
+\c__regex_cs_in_class_mode_int=\count172
+\c__regex_cs_mode_int=\count173
+\l__regex_catcodes_int=\count174
+\l__regex_default_catcodes_int=\count175
+\c__regex_catcode_D_int=\count176
+\c__regex_catcode_S_int=\count177
+\c__regex_catcode_L_int=\count178
+\c__regex_catcode_O_int=\count179
+\c__regex_catcode_A_int=\count180
+\c__regex_all_catcodes_int=\count181
+\l__regex_show_lines_int=\count182
+\l__regex_min_state_int=\count183
+\l__regex_max_state_int=\count184
+\l__regex_left_state_int=\count185
+\l__regex_right_state_int=\count186
+\l__regex_capturing_group_int=\count187
+\l__regex_min_pos_int=\count188
+\l__regex_max_pos_int=\count189
+\l__regex_curr_pos_int=\count190
+\l__regex_start_pos_int=\count191
+\l__regex_success_pos_int=\count192
+\l__regex_curr_char_int=\count193
+\l__regex_curr_catcode_int=\count194
+\l__regex_last_char_int=\count195
+\l__regex_case_changed_char_int=\count196
+\l__regex_curr_state_int=\count197
+\l__regex_step_int=\count198
+\l__regex_min_active_int=\count199
+\l__regex_max_active_int=\count266
+\l__regex_replacement_csnames_int=\count267
+\l__regex_match_count_int=\count268
+\l__regex_min_submatch_int=\count269
+\l__regex_submatch_int=\count270
+\l__regex_zeroth_submatch_int=\count271
+\g__regex_trace_regex_int=\count272
+\c_empty_box=\box40
+\l_tmpa_box=\box41
+\l_tmpb_box=\box42
+\g_tmpa_box=\box43
+\g_tmpb_box=\box44
+\l__box_top_dim=\dimen175
+\l__box_bottom_dim=\dimen176
+\l__box_left_dim=\dimen177
+\l__box_right_dim=\dimen178
+\l__box_top_new_dim=\dimen179
+\l__box_bottom_new_dim=\dimen180
+\l__box_left_new_dim=\dimen181
+\l__box_right_new_dim=\dimen182
+\l__box_internal_box=\box45
+\l__coffin_internal_box=\box46
+\l__coffin_internal_dim=\dimen183
+\l__coffin_offset_x_dim=\dimen184
+\l__coffin_offset_y_dim=\dimen185
+\l__coffin_x_dim=\dimen186
+\l__coffin_y_dim=\dimen187
+\l__coffin_x_prime_dim=\dimen188
+\l__coffin_y_prime_dim=\dimen189
+\c_empty_coffin=\box47
+\l__coffin_aligned_coffin=\box48
+\l__coffin_aligned_internal_coffin=\box49
+\l_tmpa_coffin=\box50
+\l_tmpb_coffin=\box51
+\g_tmpa_coffin=\box52
+\g_tmpb_coffin=\box53
+\l__coffin_bounding_shift_dim=\dimen190
+\l__coffin_left_corner_dim=\dimen191
+\l__coffin_right_corner_dim=\dimen192
+\l__coffin_bottom_corner_dim=\dimen193
+\l__coffin_top_corner_dim=\dimen194
+\l__coffin_scaled_total_height_dim=\dimen195
+\l__coffin_scaled_width_dim=\dimen196
+\c__coffin_empty_coffin=\box54
+\l__coffin_display_coffin=\box55
+\l__coffin_display_coord_coffin=\box56
+\l__coffin_display_pole_coffin=\box57
+\l__coffin_display_offset_dim=\dimen197
+\l__coffin_display_x_dim=\dimen198
+\l__coffin_display_y_dim=\dimen199
+\g__file_internal_ior=\read3
+\l__seq_internal_a_int=\count273
+\l__seq_internal_b_int=\count274
+\c__deprecation_minus_one=\count275
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfm
+ode.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box58
+\l__driver_color_stack_int=\count276
+))
+Package: xparse 2019-05-03 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count277
+\g__xparse_grabber_int=\count278
+\l__xparse_m_args_int=\count279
+\l__xparse_v_nesting_int=\count280
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolb
+ox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count281
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-a
+bspage.sty"
+Package: zref-abspage 2018/11/21 v2.27 Module abspage for zref (HO)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-b
+ase.sty"
+Package: zref-base 2018/11/21 v2.27 Module base for zref (HO)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvde
+finekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdft
+excmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhoo
+k.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbe
+gshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+\c@abspage=\count282
+Package zref Info: New property: abspage on input line 62.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/needspace\needs
+pace.sty"
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip52
+\c@mdf@globalstyle@cnt=\count283
+\mdf@skipabove@length=\skip53
+\mdf@skipbelow@length=\skip54
+\mdf@leftmargin@length=\skip55
+\mdf@rightmargin@length=\skip56
+\mdf@innerleftmargin@length=\skip57
+\mdf@innerrightmargin@length=\skip58
+\mdf@innertopmargin@length=\skip59
+\mdf@innerbottommargin@length=\skip60
+\mdf@splittopskip@length=\skip61
+\mdf@splitbottomskip@length=\skip62
+\mdf@outermargin@length=\skip63
+\mdf@innermargin@length=\skip64
+\mdf@linewidth@length=\skip65
+\mdf@innerlinewidth@length=\skip66
+\mdf@middlelinewidth@length=\skip67
+\mdf@outerlinewidth@length=\skip68
+\mdf@roundcorner@length=\skip69
+\mdf@footenotedistance@length=\skip70
+\mdf@userdefinedwidth@length=\skip71
+\mdf@needspace@length=\skip72
+\mdf@frametitleaboveskip@length=\skip73
+\mdf@frametitlebelowskip@length=\skip74
+\mdf@frametitlerulewidth@length=\skip75
+\mdf@frametitleleftmargin@length=\skip76
+\mdf@frametitlerightmargin@length=\skip77
+\mdf@shadowsize@length=\skip78
+\mdf@extratopheight@length=\skip79
+\mdf@subtitleabovelinewidth@length=\skip80
+\mdf@subtitlebelowlinewidth@length=\skip81
+\mdf@subtitleaboveskip@length=\skip82
+\mdf@subtitlebelowskip@length=\skip83
+\mdf@subtitleinneraboveskip@length=\skip84
+\mdf@subtitleinnerbelowskip@length=\skip85
+\mdf@subsubtitleabovelinewidth@length=\skip86
+\mdf@subsubtitlebelowlinewidth@length=\skip87
+\mdf@subsubtitleaboveskip@length=\skip88
+\mdf@subsubtitlebelowskip@length=\skip89
+\mdf@subsubtitleinneraboveskip@length=\skip90
+\mdf@subsubtitleinnerbelowskip@length=\skip91
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdframed\md-fra
+me-0.mdf"
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box59
+\mdf@footnotebox=\box60
+\mdf@splitbox@one=\box61
+\mdf@splitbox@two=\box62
+\mdf@splitbox@save=\box63
+\mdfsplitboxwidth=\skip92
+\mdfsplitboxtotalwidth=\skip93
+\mdfsplitboxheight=\skip94
+\mdfsplitboxdepth=\skip95
+\mdfsplitboxtotalheight=\skip96
+\mdfframetitleboxwidth=\skip97
+\mdfframetitleboxtotalwidth=\skip98
+\mdfframetitleboxheight=\skip99
+\mdfframetitleboxdepth=\skip100
+\mdfframetitleboxtotalheight=\skip101
+\mdffootnoteboxwidth=\skip102
+\mdffootnoteboxtotalwidth=\skip103
+\mdffootnoteboxheight=\skip104
+\mdffootnoteboxdepth=\skip105
+\mdffootnoteboxtotalheight=\skip106
+\mdftotallinewidth=\skip107
+\mdfboundingboxwidth=\skip108
+\mdfboundingboxtotalwidth=\skip109
+\mdfboundingboxheight=\skip110
+\mdfboundingboxdepth=\skip111
+\mdfboundingboxtotalheight=\skip112
+\mdf@freevspace@length=\skip113
+\mdf@horizontalwidthofbox@length=\skip114
+\mdf@verticalmarginwhole@length=\skip115
+\mdf@horizontalspaceofbox=\skip116
+\mdfsubtitleheight=\skip117
+\mdfsubsubtitleheight=\skip118
+\c@mdfcountframes=\count284
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count285
+\c@mdf@env@i=\count286
+\c@mdf@env@ii=\count287
+\c@mdf@zref@counter=\count288
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titles
+ec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box64
+\beforetitleunit=\skip119
+\aftertitleunit=\skip120
+\ttl@plus=\dimen256
+\ttl@minus=\dimen257
+\ttl@toksa=\toks35
+\titlewidth=\dimen258
+\titlewidthlast=\dimen259
+\titlewidthfirst=\dimen260
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blind
+text.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.st
+y"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count289
+\c@Blindtext=\count290
+\c@blind@countparstart=\count291
+\blind@countxx=\count292
+\blindtext@numBlindtext=\count293
+\blind@countyy=\count294
+\c@blindlist=\count295
+\c@blindlistlevel=\count296
+\c@blindlist@level=\count297
+\blind@listitem=\count298
+\c@blind@listcount=\count299
+\c@blind@levelcount=\count300
+\blind@mathformula=\count301
+\blind@Mathformula=\count302
+\c@blind@randomcount=\count303
+\c@blind@randommax=\count304
+\c@blind@pangramcount=\count305
+\c@blind@pangrammax=\count306
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption
+.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption
+3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen261
+\captionmargin@=\dimen262
+\captionwidth=\dimen263
+\caption@tempdima=\dimen264
+\caption@indent=\dimen265
+\caption@parindent=\dimen266
+\caption@hangindent=\dimen267
+)
+\c@caption@flags=\count307
+\c@ContinuedFloat=\count308
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multir
+ow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip121
+\multirow@cntb=\count309
+\multirow@dima=\skip122
+\bigstrutjot=\dimen268
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen269
+\ar@mcellbox=\box65
+\extrarowheight=\dimen270
+\NC@list=\toks36
+\extratabsurround=\skip123
+\backup@length=\skip124
+\ar@cellbox=\box66
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csvsimple\csvsi
+mple.sty"
+Package: csvsimple 2016/07/01 version 1.20 LaTeX CSV file processing
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.
+sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\csv@file=\read4
+\c@csvinputline=\count310
+\c@csvrow=\count311
+\c@csvcol=\count312
+\csv@out=\write4
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblat
+ex.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.s
+ty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count313
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.d
+ef"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count314
+\c@listtotal=\count315
+\c@listcount=\count316
+\c@liststart=\count317
+\c@liststop=\count318
+\c@citecount=\count319
+\c@citetotal=\count320
+\c@multicitecount=\count321
+\c@multicitetotal=\count322
+\c@instcount=\count323
+\c@maxnames=\count324
+\c@minnames=\count325
+\c@maxitems=\count326
+\c@minitems=\count327
+\c@citecounter=\count328
+\c@maxcitecounter=\count329
+\c@savedcitecounter=\count330
+\c@uniquelist=\count331
+\c@uniquename=\count332
+\c@refsection=\count333
+\c@refsegment=\count334
+\c@maxextratitle=\count335
+\c@maxextratitleyear=\count336
+\c@maxextraname=\count337
+\c@maxextradate=\count338
+\c@maxextraalpha=\count339
+\c@abbrvpenalty=\count340
+\c@highnamepenalty=\count341
+\c@lownamepenalty=\count342
+\c@maxparens=\count343
+\c@parenlevel=\count344
+\blx@tempcnta=\count345
+\blx@tempcntb=\count346
+\blx@tempcntc=\count347
+\blx@maxsection=\count348
+\blx@maxsegment@0=\count349
+\blx@notetype=\count350
+\blx@parenlevel@text=\count351
+\blx@parenlevel@foot=\count352
+\blx@sectionciteorder@0=\count353
+\blx@entrysetcounter=\count354
+\labelnumberwidth=\skip125
+\labelalphawidth=\skip126
+\biblabelsep=\skip127
+\bibitemsep=\skip128
+\bibnamesep=\skip129
+\bibinitsep=\skip130
+\bibparsep=\skip131
+\bibhang=\skip132
+\blx@bcfin=\read5
+\blx@bcfout=\write5
+\c@mincomprange=\count355
+\c@maxcomprange=\count356
+\c@mincompwidth=\count357
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm
+.def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count358
+\c@savedafterword=\count359
+\c@annotator=\count360
+\c@savedannotator=\count361
+\c@author=\count362
+\c@savedauthor=\count363
+\c@bookauthor=\count364
+\c@savedbookauthor=\count365
+\c@commentator=\count366
+\c@savedcommentator=\count367
+\c@editor=\count368
+\c@savededitor=\count369
+\c@editora=\count370
+\c@savededitora=\count371
+\c@editorb=\count372
+\c@savededitorb=\count373
+\c@editorc=\count374
+\c@savededitorc=\count375
+\c@foreword=\count376
+\c@savedforeword=\count377
+\c@holder=\count378
+\c@savedholder=\count379
+\c@introduction=\count380
+\c@savedintroduction=\count381
+\c@namea=\count382
+\c@savednamea=\count383
+\c@nameb=\count384
+\c@savednameb=\count385
+\c@namec=\count386
+\c@savednamec=\count387
+\c@translator=\count388
+\c@savedtranslator=\count389
+\c@shortauthor=\count390
+\c@savedshortauthor=\count391
+\c@shorteditor=\count392
+\c@savedshorteditor=\count393
+\c@labelname=\count394
+\c@savedlabelname=\count395
+\c@institution=\count396
+\c@savedinstitution=\count397
+\c@lista=\count398
+\c@savedlista=\count399
+\c@listb=\count400
+\c@savedlistb=\count401
+\c@listc=\count402
+\c@savedlistc=\count403
+\c@listd=\count404
+\c@savedlistd=\count405
+\c@liste=\count406
+\c@savedliste=\count407
+\c@listf=\count408
+\c@savedlistf=\count409
+\c@location=\count410
+\c@savedlocation=\count411
+\c@organization=\count412
+\c@savedorganization=\count413
+\c@origlocation=\count414
+\c@savedoriglocation=\count415
+\c@origpublisher=\count416
+\c@savedorigpublisher=\count417
+\c@publisher=\count418
+\c@savedpublisher=\count419
+\c@language=\count420
+\c@savedlanguage=\count421
+\c@origlanguage=\count422
+\c@savedoriglanguage=\count423
+\c@pageref=\count424
+\c@savedpageref=\count425
+\shorthandwidth=\skip133
+\shortjournalwidth=\skip134
+\shortserieswidth=\skip135
+\shorttitlewidth=\skip136
+\shortauthorwidth=\skip137
+\shorteditorwidth=\skip138
+\locallabelnumberwidth=\skip139
+\locallabelalphawidth=\skip140
+\localshorthandwidth=\skip141
+\localshortjournalwidth=\skip142
+\localshortserieswidth=\skip143
+\localshorttitlewidth=\skip144
+\localshortauthorwidth=\skip145
+\localshorteditorwidth=\skip146
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-co
+mpat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-bi
+btex.def"
+File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblat
+ex.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count426
+\c@textcitetotal=\count427
+\c@textcitemaxnames=\count428
+\c@biburlnumpenalty=\count429
+\c@biburlucpenalty=\count430
+\c@biburllcpenalty=\count431
+\c@smartand=\count432
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-na
+tbib.def"
+File: blx-natbib.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.bbx' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\au
+thoryear-comp.bbx"
+File: authoryear-comp.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\au
+thoryear.bbx"
+File: authoryear.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\st
+andard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count433
+\c@bbx:relatedtotal=\count434
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\au
+thoryear-comp.cbx"
+File: authoryear-comp.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblat
+ex.cfg"
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'firstinits' option is deprecated.
+(biblatex)                Please use 'giveninits' instead.
+
+) (biblatex_options.tex)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocbibind\tocbi
+bind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lineno\lineno.s
+ty"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count435
+\output=\toks37
+\linenoprevgraf=\count436
+\linenumbersep=\dimen271
+\linenumberwidth=\dimen272
+\c@linenumber=\count437
+\c@pagewiselinenumber=\count438
+\c@LN@truepage=\count439
+\c@internallinenumber=\count440
+\c@internallinenumbers=\count441
+\quotelinenumbersep=\dimen273
+\bframerule=\dimen274
+\bframesep=\dimen275
+\bframebox=\box67
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/moreverb\moreve
+rb.sty"
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+\tab@position=\count442
+\tab@size=\count443
+\listing@line=\count444
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft
+.sty"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip147
+\cftbeforetoctitleskip=\skip148
+\cftaftertoctitleskip=\skip149
+\cftbeforepartskip=\skip150
+\cftpartnumwidth=\skip151
+\cftpartindent=\skip152
+\cftbeforechapskip=\skip153
+\cftchapindent=\skip154
+\cftchapnumwidth=\skip155
+\cftbeforesecskip=\skip156
+\cftsecindent=\skip157
+\cftsecnumwidth=\skip158
+\cftbeforesubsecskip=\skip159
+\cftsubsecindent=\skip160
+\cftsubsecnumwidth=\skip161
+\cftbeforesubsubsecskip=\skip162
+\cftsubsubsecindent=\skip163
+\cftsubsubsecnumwidth=\skip164
+\cftbeforeparaskip=\skip165
+\cftparaindent=\skip166
+\cftparanumwidth=\skip167
+\cftbeforesubparaskip=\skip168
+\cftsubparaindent=\skip169
+\cftsubparanumwidth=\skip170
+\cftbeforeloftitleskip=\skip171
+\cftafterloftitleskip=\skip172
+\cftbeforefigskip=\skip173
+\cftfigindent=\skip174
+\cftfignumwidth=\skip175
+\c@lofdepth=\count445
+\c@lotdepth=\count446
+\cftbeforelottitleskip=\skip176
+\cftafterlottitleskip=\skip177
+\cftbeforetabskip=\skip178
+\cfttabindent=\skip179
+\cfttabnumwidth=\skip180
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperr
+ef.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobs
+ub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobs
+ub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+\@linkdim=\dimen276
+\Hy@linkcounter=\count447
+\Hy@pagecounter=\count448
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc
+.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count449
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperr
+ef.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count450
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen277
+\Fld@menulength=\count451
+\Field@Width=\dimen278
+\Fld@charsize=\dimen279
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count452
+\c@Item=\count453
+\c@Hfootnote=\count454
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdfte
+x.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\HyAnn@Count=\count455
+\Fld@listcount=\count456
+\c@bookmark@seq@number=\count457
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunf
+ilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip181
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 100.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.st
+y"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\en
+glish.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+\@quotelevel=\count458
+\@quotereset=\count459
+
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
+(biblatex)                Setting 'uniquename=init' on input line 111.
+
+No file SI_Chapter4.aux.
+\openout1 = `SI_Chapter4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 111.
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd
+"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf
+.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count460
+\scratchdimen=\dimen280
+\scratchbox=\box68
+\nofMPsegments=\count461
+\nofMParguments=\count462
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count463
+\MPscratchDim=\dimen281
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
+\everyMPtoPDFconversion=\toks39
+)
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
+df-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
+.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box69
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `SI_Chapter4-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'SI_Chapter4.bbl' not found.
+
+No file SI_Chapter4.bbl.
+Package biblatex Info: Reference section=0 on input line 111.
+Package biblatex Info: Reference segment=0 on input line 111.
+Package hyperref Info: Link coloring OFF on input line 111.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namere
+f.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gett
+itlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count466
+)
+LaTeX Info: Redefining \ref on input line 111.
+LaTeX Info: Redefining \pageref on input line 111.
+LaTeX Info: Redefining \nameref on input line 111.
+\@outlinefile=\write6
+\openout6 = `SI_Chapter4.out'.
+
+ (Supporting/Chapter4/SI_Chapter4.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+
+
+LaTeX Warning: Citation 'Wilman2014' on page 1 undefined on input line 4.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
+
+LaTeX Warning: Citation 'Oliveira2017' on page 1 undefined on input line 8.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 12.
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd
+"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (17.13655pt too wide) in paragraph at lines 11--14
+\T1/pcr/m/n/10.95 / / figshare . com / articles / Untitled _ Item / 12024312$[]
+ \T1/ptm/m/n/10.95 (DOI: 10.6084/m9.figshare.12024312.v4). 
+ []
+
+[1
+
+{C:/Users/Adrienne/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 18.
+
+("C:\Users\Adrienne\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.f
+d"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+
+Overfull \hbox (6.98271pt too wide) in paragraph at lines 22--23
+\T1/ptm/m/n/10.95 Gephy-ro-man-tis liber (Per-acca, 1893), with ob-ser-va-tions
+ on the lar-val de-vel-op-ment (Am-phibia, Ranidae).
+ []
+
+
+Overfull \hbox (31.01807pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 North-ern Ter-ri-tory. MSc the-sis. Dept of Zo-ol-ogy, Uni-ve
+r-sity of Ade-laide. https://hdl.handle.net/2440/110846. 
+ []
+
+[2] [3]
+Overfull \hbox (14.45209pt too wide) in paragraph at lines 49--50
+\T1/ptm/m/n/10.95 The 148 sources are listed in the dataset avail-able from []$
+\T1/pcr/m/n/10.95 https : / / figshare . com / articles / Reptile _
+ []
+
+[4]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 54.
+<Supporting/Chapter4/Figures/Coverage_all_species.pdf, id=35, 578.16pt x 289.08
+pt>
+File: Supporting/Chapter4/Figures/Coverage_all_species.pdf Graphic file (type p
+df)
+<use Supporting/Chapter4/Figures/Coverage_all_species.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Coverage_all_species.pdf  
+used on input line 58.
+(pdftex.def)             Requested size: 462.52863pt x 231.2643pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 59.
+
+Overfull \hbox (0.9045pt too wide) in paragraph at lines 74--83
+ [] 
+ []
+
+
+LaTeX Warning: Citation 'Stekhoven2012' on page 5 undefined on input line 97.
+
+
+LaTeX Warning: Citation 'Stekhoven2016' on page 5 undefined on input line 97.
+
+
+LaTeX Warning: Citation 'DinizFilho2012' on page 5 undefined on input line 97.
+
+
+LaTeX Warning: Citation 'Santos2018' on page 5 undefined on input line 97.
+
+[5 <./Supporting/Chapter4/Figures/Coverage_all_species.pdf>]
+
+LaTeX Warning: Citation 'Penone2014' on page 6 undefined on input line 99.
+
+
+LaTeX Warning: Reference `SI_4_Table1' on page 6 undefined on input line 99.
+
+<Supporting/Chapter4/Figures/Imputation_errors.pdf, id=54, 650.43pt x 505.89pt>
+
+File: Supporting/Chapter4/Figures/Imputation_errors.pdf Graphic file (type pdf)
+
+<use Supporting/Chapter4/Figures/Imputation_errors.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Imputation_errors.pdf  use
+d on input line 109.
+(pdftex.def)             Requested size: 455.2979pt x 354.12057pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6] [7 <./Supporting/Chapter4/Figures/Imputation_errors.pdf>]
+
+LaTeX Warning: Citation 'Hudson2014' on page 8 undefined on input line 140.
+
+
+LaTeX Warning: Citation 'Hudson2017' on page 8 undefined on input line 140.
+
+
+LaTeX Warning: Citation 'Hudson2014' on page 8 undefined on input line 140.
+
+
+LaTeX Warning: Citation 'Hudson2017' on page 8 undefined on input line 140.
+
+
+Overfull \hbox (4.51398pt too wide) in paragraph at lines 142--154
+ [] 
+ []
+
+<Supporting/Chapter4/Figures/Sample_size_figure.pdf, id=75, 650.43pt x 722.7pt>
+
+File: Supporting/Chapter4/Figures/Sample_size_figure.pdf Graphic file (type pdf
+)
+<use Supporting/Chapter4/Figures/Sample_size_figure.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Sample_size_figure.pdf  us
+ed on input line 162.
+(pdftex.def)             Requested size: 455.2979pt x 505.88655pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8
+
+] [9 <./Supporting/Chapter4/Figures/Sample_size_figure.pdf>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 175.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10
+
+]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+
+Overfull \vbox (1.61397pt too high) has occurred while \output is active []
+
+
+[11] [12]
+Overfull \hbox (0.85944pt too wide) in paragraph at lines 344--344
+|[]\T1/ptm/b/n/14.4 Implementing Climate-niche Fac-tor Anal-y-sis across ter-re
+s-trial ver-te-brates| 
+ []
+
+<Supporting/Chapter4/Figures/ClimVars_groups2.pdf, id=115, 447.6725pt x 469.755
+pt>
+File: Supporting/Chapter4/Figures/ClimVars_groups2.pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/ClimVars_groups2.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/ClimVars_groups2.pdf  used
+ on input line 350.
+(pdftex.def)             Requested size: 402.90152pt x 326.74846pt.
+
+LaTeX Warning: Citation 'virtualspecies' on page 13 undefined on input line 351
+.
+
+
+LaTeX Warning: Citation 'virtualspecies' on page 13 undefined on input line 351
+.
+
+
+LaTeX Warning: Reference `SI_4_Figure6' on page 13 undefined on input line 357.
+
+
+
+LaTeX Warning: Reference `SI_4_Figure6' on page 13 undefined on input line 357.
+
+
+[13
+
+ <./Supporting/Chapter4/Figures/ClimVars_groups2.pdf>]
+
+LaTeX Warning: Reference `SI_4_Figure7' on page 14 undefined on input line 359.
+
+
+
+LaTeX Warning: Reference `SI_4_Figure7' on page 14 undefined on input line 362.
+
+
+
+LaTeX Warning: Reference `SI_4_Figure7' on page 14 undefined on input line 362.
+
+
+<Supporting/Chapter4/Figures/ResolutionConcept.png, id=133, 567.3195pt x 436.02
+9pt>
+File: Supporting/Chapter4/Figures/ResolutionConcept.png Graphic file (type png)
+
+<use Supporting/Chapter4/Figures/ResolutionConcept.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/ResolutionConcept.png  use
+d on input line 367.
+(pdftex.def)             Requested size: 340.39432pt x 261.61942pt.
+[14 <./Supporting/Chapter4/Figures/ResolutionConcept.png>]
+<Supporting/Chapter4/Figures/CENFA_allres.png, id=143, 782.925pt x 680.5425pt>
+File: Supporting/Chapter4/Figures/CENFA_allres.png Graphic file (type png)
+<use Supporting/Chapter4/Figures/CENFA_allres.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/CENFA_allres.png  used on 
+input line 404.
+(pdftex.def)             Requested size: 469.75862pt x 408.32864pt.
+
+
+LaTeX Warning: Citation 'Rinnan2019' on page 15 undefined on input line 405.
+
+
+LaTeX Warning: Citation 'Rinnan2019' on page 15 undefined on input line 405.
+
+[15
+
+ <./Supporting/Chapter4/Figures/CENFA_allres.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16
+
+] [17]
+<Supporting/Chapter4/Figures/Partial_models_predictions/Specialisation.pdf, id=
+164, 722.7pt x 505.89pt>
+File: Supporting/Chapter4/Figures/Partial_models_predictions/Specialisation.pdf
+ Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Partial_models_predictions/Specialisation.pdf>
+
+Package pdftex.def Info: Supporting/Chapter4/Figures/Partial_models_predictions
+/Specialisation.pdf  used on input line 574.
+(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
+
+Overfull \hbox (33.85532pt too wide) in paragraph at lines 574--575
+ [][] 
+ []
+
+<Supporting/Chapter4/Figures/Partial_models_predictions/Diel_activity.pdf, id=1
+65, 722.7pt x 505.89pt>
+File: Supporting/Chapter4/Figures/Partial_models_predictions/Diel_activity.pdf 
+Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Partial_models_predictions/Diel_activity.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Partial_models_predictions
+/Diel_activity.pdf  used on input line 582.
+(pdftex.def)             Requested size: 505.88655pt x 354.12057pt.
+
+Overfull \hbox (33.85532pt too wide) in paragraph at lines 582--583
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18
+
+
+ <./Supporting/Chapter4/Figures/Partial_models_predictions/Specialisation.pdf>]
+ [19 <./Supporting/Chapter4/Figures/Partial_models_predictions/Diel_activity.pd
+f>]
+<Supporting/Chapter4/Figures/LU_Diag_amphibians.png, id=192, 813.79031pt x 560.
+0925pt>
+File: Supporting/Chapter4/Figures/LU_Diag_amphibians.png Graphic file (type png
+)
+<use Supporting/Chapter4/Figures/LU_Diag_amphibians.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/LU_Diag_amphibians.png  us
+ed on input line 594.
+(pdftex.def)             Requested size: 366.20226pt x 252.03929pt.
+
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 595.
+
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 595.
+
+<Supporting/Chapter4/Figures/LU_Diag_birds.png, id=193, 811.53188pt x 556.32843
+pt>
+File: Supporting/Chapter4/Figures/LU_Diag_birds.png Graphic file (type png)
+<use Supporting/Chapter4/Figures/LU_Diag_birds.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/LU_Diag_birds.png  used on
+ input line 601.
+(pdftex.def)             Requested size: 365.18597pt x 250.34547pt.
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 602.
+
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 602.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/LU_Diag_mammals.png, id=194, 809.27344pt x 551.811
+57pt>
+File: Supporting/Chapter4/Figures/LU_Diag_mammals.png Graphic file (type png)
+<use Supporting/Chapter4/Figures/LU_Diag_mammals.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/LU_Diag_mammals.png  used 
+on input line 608.
+(pdftex.def)             Requested size: 404.63573pt x 275.9051pt.
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 609.
+
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 609.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/LU_Diag_reptiles.png, id=195, 822.07124pt x 556.32
+843pt>
+File: Supporting/Chapter4/Figures/LU_Diag_reptiles.png Graphic file (type png)
+<use Supporting/Chapter4/Figures/LU_Diag_reptiles.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/LU_Diag_reptiles.png  used
+ on input line 615.
+(pdftex.def)             Requested size: 411.0346pt x 278.16353pt.
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 616.
+
+
+LaTeX Warning: Citation 'DHARMa' on page 20 undefined on input line 616.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20
+
+ <./Supporting/Chapter4/Figures/LU_Diag_amphibians.png>]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+[21 <./Supporting/Chapter4/Figures/LU_Diag_birds.png> <./Supporting/Chapter4/Fi
+gures/LU_Diag_mammals.png>] [22 <./Supporting/Chapter4/Figures/LU_Diag_reptiles
+.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 651.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 651.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 651.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 651.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 651.
+
+<Supporting/Chapter4/Figures/PGLS_diag_amphibians.pdf, id=217, 505.89pt x 433.6
+2pt>
+File: Supporting/Chapter4/Figures/PGLS_diag_amphibians.pdf Graphic file (type p
+df)
+<use Supporting/Chapter4/Figures/PGLS_diag_amphibians.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/PGLS_diag_amphibians.pdf  
+used on input line 695.
+(pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
+[23
+
+ <./Supporting/Chapter4/Figures/PGLS_diag_amphibians.pdf>]
+<Supporting/Chapter4/Figures/PGLS_diag_birds.pdf, id=236, 505.89pt x 433.62pt>
+File: Supporting/Chapter4/Figures/PGLS_diag_birds.pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/PGLS_diag_birds.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/PGLS_diag_birds.pdf  used 
+on input line 746.
+(pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
+ [24
+
+ <./Supporting/Chapter4/Figures/PGLS_diag_birds.pdf>]
+<Supporting/Chapter4/Figures/PGLS_diag_mammals.pdf, id=251, 505.89pt x 433.62pt
+>
+File: Supporting/Chapter4/Figures/PGLS_diag_mammals.pdf Graphic file (type pdf)
+
+<use Supporting/Chapter4/Figures/PGLS_diag_mammals.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/PGLS_diag_mammals.pdf  use
+d on input line 796.
+(pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/PGLS_diag_reptiles.pdf, id=253, 505.89pt x 433.62p
+t>
+File: Supporting/Chapter4/Figures/PGLS_diag_reptiles.pdf Graphic file (type pdf
+)
+<use Supporting/Chapter4/Figures/PGLS_diag_reptiles.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/PGLS_diag_reptiles.pdf  us
+ed on input line 845.
+(pdftex.def)             Requested size: 293.4164pt x 239.85623pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25
+
+ <./Supporting/Chapter4/Figures/PGLS_diag_mammals.pdf>]
+
+LaTeX Warning: Text page 26 contains only floats.
+
+[26 <./Supporting/Chapter4/Figures/PGLS_diag_reptiles.pdf>]
+<Supporting/Chapter4/Figures/ClimateChangeModelsEstimates.pdf, id=282, 433.62pt
+ x 578.16pt>
+File: Supporting/Chapter4/Figures/ClimateChangeModelsEstimates.pdf Graphic file
+ (type pdf)
+<use Supporting/Chapter4/Figures/ClimateChangeModelsEstimates.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/ClimateChangeModelsEstimat
+es.pdf  used on input line 1025.
+(pdftex.def)             Requested size: 235.5615pt x 491.43832pt.
+
+
+LaTeX Warning: Reference `SI_4_Figure7' on page 27 undefined on input line 1026
+.
+
+
+LaTeX Warning: Reference `SI_4_Figure7' on page 27 undefined on input line 1026
+.
+
+<Supporting/Chapter4/Figures/Migratory_species_excluded/coefficients.pdf, id=28
+4, 722.7pt x 361.35pt>
+File: Supporting/Chapter4/Figures/Migratory_species_excluded/coefficients.pdf G
+raphic file (type pdf)
+<use Supporting/Chapter4/Figures/Migratory_species_excluded/coefficients.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Migratory_species_excluded
+/coefficients.pdf  used on input line 1035.
+(pdftex.def)             Requested size: 505.88655pt x 252.94327pt.
+
+Overfull \hbox (33.85532pt too wide) in paragraph at lines 1035--1036
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_Figure
+Categorical.pdf, id=286, 542.025pt x 578.16pt>
+File: Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_F
+igureCategorical.pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_Fi
+gureCategorical.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Migratory_species_excluded
+/ExcludeMigratory_FigureCategorical.pdf  used on input line 1042.
+(pdftex.def)             Requested size: 433.62057pt x 462.52863pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_Figure
+Continuous.pdf, id=288, 650.43pt x 433.62pt>
+File: Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_F
+igureContinuous.pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_Fi
+gureContinuous.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Migratory_species_excluded
+/ExcludeMigratory_FigureContinuous.pdf  used on input line 1049.
+(pdftex.def)             Requested size: 520.3447pt x 346.89647pt.
+
+Overfull \hbox (48.31346pt too wide) in paragraph at lines 1049--1050
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/Minor_corrections_assembled_res/coefficients.pdf, 
+id=290, 505.89pt x 433.62pt>
+File: Supporting/Chapter4/Figures/Minor_corrections_assembled_res/coefficients.
+pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Minor_corrections_assembled_res/coefficients.p
+df>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Minor_corrections_assemble
+d_res/coefficients.pdf  used on input line 1059.
+(pdftex.def)             Requested size: 354.12057pt x 303.53192pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes_Categ
+orical.pdf, id=292, 578.16pt x 722.7pt>
+File: Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes_
+Categorical.pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes_C
+ategorical.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Minor_corrections_assemble
+d_res/AssembledRes_Categorical.pdf  used on input line 1066.
+(pdftex.def)             Requested size: 404.70924pt x 505.88655pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes_Conti
+nuous.pdf, id=294, 650.43pt x 433.62pt>
+File: Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes_
+Continuous.pdf Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes_C
+ontinuous.pdf>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Minor_corrections_assemble
+d_res/AssembledRes_Continuous.pdf  used on input line 1073.
+(pdftex.def)             Requested size: 455.2979pt x 303.53192pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27
+
+ <./Supporting/Chapter4/Figures/ClimateChangeModelsEstimates.pdf>] [28 <./Suppo
+rting/Chapter4/Figures/Migratory_species_excluded/coefficients.pdf>]
+[29 <./Supporting/Chapter4/Figures/Migratory_species_excluded/ExcludeMigratory_
+FigureCategorical.pdf>] [30 <./Supporting/Chapter4/Figures/Migratory_species_ex
+cluded/ExcludeMigratory_FigureContinuous.pdf>] [31 <./Supporting/Chapter4/Figur
+es/Minor_corrections_assembled_res/coefficients.pdf>] [32 <./Supporting/Chapter
+4/Figures/Minor_corrections_assembled_res/AssembledRes_Categorical.pdf>]
+[33 <./Supporting/Chapter4/Figures/Minor_corrections_assembled_res/AssembledRes
+_Continuous.pdf>] [34
+
+]
+<Supporting/Chapter4/Figures/SynthesisTableValidation2.png, id=391, 846.16125pt
+ x 336.65775pt>
+File: Supporting/Chapter4/Figures/SynthesisTableValidation2.png Graphic file (t
+ype png)
+<use Supporting/Chapter4/Figures/SynthesisTableValidation2.png>
+Package pdftex.def Info: Supporting/Chapter4/Figures/SynthesisTableValidation2.
+png  used on input line 1088.
+(pdftex.def)             Requested size: 676.92993pt x 269.32654pt.
+
+Overfull \hbox (24.22371pt too wide) in paragraph at lines 1088--1089
+ [][] 
+ []
+
+[35 <./Supporting/Chapter4/Figures/SynthesisTableValidation2.png>]
+<Supporting/Chapter4/Figures/Partial_models_predictions/Validations/Diet.pdf, i
+d=398, 686.565pt x 794.97pt>
+File: Supporting/Chapter4/Figures/Partial_models_predictions/Validations/Diet.p
+df Graphic file (type pdf)
+<use Supporting/Chapter4/Figures/Partial_models_predictions/Validations/Diet.pd
+f>
+Package pdftex.def Info: Supporting/Chapter4/Figures/Partial_models_predictions
+/Validations/Diet.pdf  used on input line 1105.
+(pdftex.def)             Requested size: 446.26196pt x 516.72438pt.
+ [36
+
+
+ <./Supporting/Chapter4/Figures/Partial_models_predictions/Validations/Diet.pdf
+>])
+
+LaTeX Warning: Empty bibliography on input line 117.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+(SI_Chapter4.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+
+
+Package rerunfilecheck Warning: File `SI_Chapter4.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `SI_Chapter4.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  8DC11A8BFA92C566318608C08C570831;1821.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                SI_Chapter4
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'SI_Chapter4.run.xml'.
+\openout1 = `SI_Chapter4.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 36703 strings out of 492946
+ 708159 string characters out of 3124934
+ 952117 words of memory out of 3000000
+ 39984 multiletter control sequences out of 15000+200000
+ 570519 words of font info for 80 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,14n,65p,1663b,1505s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.
+enc}<C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Adrienne/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Adrienne/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Adri
+enne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr9.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Adrienne/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Adr
+ienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/
+Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.p
+fb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/u
+tmbi8a.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/times/utmr8a.pfb><C:/Users/Adrienne/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on SI_Chapter4.pdf (36 pages, 5461055 bytes).
+PDF statistics:
+ 477 PDF objects out of 1000 (max. 8388607)
+ 97 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+
